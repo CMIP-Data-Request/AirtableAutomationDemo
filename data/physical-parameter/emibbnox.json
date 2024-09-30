@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/emibbnox",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.emibbnox"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-30T10:55:21.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "To understand sources of nitrogen\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "emibbnox",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "fiona.oconnor@metoffice.gov.uk",
+    "proposer-name": "Atmosphere",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "total emission rate of NOx from all biomass burning",
+    "uid": "",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

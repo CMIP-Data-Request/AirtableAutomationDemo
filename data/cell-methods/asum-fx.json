@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/asum-fx",
+    "@type": "dr:variable",
+    "brand-id": "x",
+    "brand-tag": "",
+    "cell-methods": "area: sum",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "asum-fx",
+    "title": "Fixed Area Sum",
+    "uid": "CellMethods::asum-fx"
+}

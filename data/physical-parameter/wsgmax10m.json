@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/wsgmax10m",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplev.wsgmax10m"
+        },
+        {
+            "@id": "dr:variables/e1hr.wsgmax10m"
+        },
+        {
+            "@id": "dr:variables/emon.wsgmax10m"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Wind speed gust maximum at 10m above surface\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "wsgmax10m",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "VIACSAB",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Maximum Wind Speed of Gust at 10m",
+    "uid": "dc801d88-34c6-11e7-8257-5404a60d96b5",
+    "units": "m s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

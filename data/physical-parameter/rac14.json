@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/rac14",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.rac14"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Flux of carbon-14 into the atmosphere due to plant respiration. Plant respiration is the sum of respiration by parts of plants both above and below the soil. It is assumed that all the respired carbon dioxide is emitted to the atmosphere. \n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rac14",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [PMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Carbon-14 Mass Flux into Atmosphere Due to Autotrophic (Plant) Respiration on Land [kgC m-2 s-1]",
+    "uid": "5914517c-9e49-11e5-803c-0d0b866b59f3",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

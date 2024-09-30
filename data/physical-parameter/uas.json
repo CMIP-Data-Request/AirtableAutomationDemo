@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/physical-parameter/uas",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.uas"
+        },
+        {
+            "@id": "dr:variables/6hrplev.uas"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.uas"
+        },
+        {
+            "@id": "dr:variables/amon.uas"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.uas"
+        },
+        {
+            "@id": "dr:variables/day.uas"
+        },
+        {
+            "@id": "dr:variables/e3hr.uas"
+        },
+        {
+            "@id": "dr:variables/e1hr.uas"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Eastward component of the near-surface (usually, 10 meters)  wind\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "uas",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CORDEX_6h,CORDEX_day,CORDEX_mon,CORDEX_sem",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Eastward Near-Surface Wind",
+    "uid": "e72b243a2a1c8691ab0168d8b62534c2",
+    "units": "m s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

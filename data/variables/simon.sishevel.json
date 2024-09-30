@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/simon.sishevel",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/maximum_over_coordinate_rotation_of_sea_ice_horizontal_shear_strain_rate"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_dynamics_advanced",
+    "compound-name": "SImon.sishevel",
+    "description": "Maximum shear of sea-ice velocity field (second shear strain invariant)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/monpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaicemon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SImon"
+    ],
+    "theme": "",
+    "title": "Maximum Shear of Sea-Ice Velocity Field",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "SIMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 653,
+        "rank-by-file-count": 1405,
+        "rank-by-submissions": 653,
+        "rank-by-volume": 1470
+    }
+}

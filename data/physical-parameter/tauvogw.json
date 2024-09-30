@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/tauvogw",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.tauvogw"
+        },
+        {
+            "@id": "dr:variables/edayz.tauvogw"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-05T10:17:09.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Gravity wave momentum fluxes are the key quantity within the gravity wave parameterization schemes. Their divergence results to the drag on the background flow. Also, they are much easier comparable to observations than the drags themselves.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "tauvogw",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "petr.sacha@matfyz.cuni.cz",
+    "proposer-name": "DynVarMIP",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "Northward Reynolds stress from orographic gravity wave parameterization",
+    "uid": "",
+    "units": "Pa",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

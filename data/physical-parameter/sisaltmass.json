@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/sisaltmass",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.sisaltmass"
+        },
+        {
+            "@id": "dr:variables/siday.sisaltmass"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Total mass of all salt in sea ice divided by grid-cell area\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "sisaltmass",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "si"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [SIMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Mass of Salt in Sea Ice per Area",
+    "uid": "590c7920-9e49-11e5-803c-0d0b866b59f3",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

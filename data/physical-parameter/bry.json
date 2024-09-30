@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/bry",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermonz.bry"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Total family (the sum of all appropriate species in the model) ; list the species in the netCDF header, e.g. Bry = Br + BrO + HOBr + HBr + BrONO2 + BrCl Definition: Total inorganic bromine (e.g., HBr and inorganic bromine oxides and radicals (e.g., BrO, atomic bromine (Br), bromine nitrate (BrONO2)) resulting from degradation of bromine-containing organic source gases (halons, methyl bromide, VSLS), and natural inorganic bromine sources (e.g., volcanoes, sea salt, and other aerosols) add comment attribute with detailed description about how the model calculates these fields\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "bry",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 Endorsement [AerChemMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Total Inorganic Bromine Volume Mixing Ratio",
+    "uid": "96a44ea6-b096-11e6-aab6-ac72891c3257",
+    "units": "mol mol-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

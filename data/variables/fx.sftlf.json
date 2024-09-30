@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/fx.sftlf",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/land_area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, hydrology, CFMIP_baseline",
+    "compound-name": "fx.sftlf",
+    "description": "Percentage of horizontal area occupied by land.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "For atmospheres with more than 1 mesh (e.g., staggered grids), report areas that apply to surface vertical fluxes of energy.\n",
+    "provenance": "fx ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "fx"
+    ],
+    "theme": "",
+    "title": "Percentage of the Grid Cell Occupied by Land (Including Lakes)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 69,
+        "rank-by-file-count": 123,
+        "rank-by-submissions": 69,
+        "rank-by-volume": 1655
+    }
+}

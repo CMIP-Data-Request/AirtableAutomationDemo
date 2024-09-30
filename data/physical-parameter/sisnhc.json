@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/sisnhc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.sisnhc"
+        },
+        {
+            "@id": "dr:variables/siday.sisnhc"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Heat-content of all snow in grid cell divided by total grid-cell area. Snow-water equivalent at 0 Celsius is assumed to have a heat content of 0 J.  Does not include heat content of sea ice.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "sisnhc",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "si"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [SIMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Snow Heat Content per Unit Area",
+    "uid": "5912f890-9e49-11e5-803c-0d0b866b59f3",
+    "units": "J m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

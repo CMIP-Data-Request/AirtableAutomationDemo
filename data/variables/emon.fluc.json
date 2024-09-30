@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/emon.fluc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_net_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_anthropogenic_land_use_change"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "FireMIP_monthly",
+    "compound-name": "Emon.fLuc",
+    "description": "Net Carbon Mass Flux into Atmosphere due to Land Use Change\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "LS3MIP [LCmon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Net Carbon Mass Flux into Atmosphere Due to Land-Use Change [kgC m-2 s-1]",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "LS3MIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 187,
+        "rank-by-file-count": 187,
+        "rank-by-submissions": 382,
+        "rank-by-volume": 1006
+    }
+}

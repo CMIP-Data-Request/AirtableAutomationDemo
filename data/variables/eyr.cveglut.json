@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eyr.cveglut",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/vegetation_carbon_content"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landuse",
+    "compound-name": "Eyr.cVegLut",
+    "description": "end of year values (not annual mean)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LUMIP [Lyr_Lut]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eyr"
+    ],
+    "theme": "",
+    "title": "Carbon in Vegetation on Land-Use Tiles",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LUMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 839,
+        "rank-by-file-count": 1114,
+        "rank-by-submissions": 839,
+        "rank-by-volume": 1680
+    }
+}

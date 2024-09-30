@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/sootsn",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/eday.sootsn"
+        },
+        {
+            "@id": "dr:variables/limon.sootsn"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "sootsn",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_LImon,PMIP3_LIclim,PMIP3_LImon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Snow Soot Content",
+    "uid": "d421b6923b396998106a8c1c66ea07f1",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

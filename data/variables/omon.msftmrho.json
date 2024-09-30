@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/omon.msftmrho",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/ocean_meridional_overturning_mass_streamfunction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "ocean_meridional_overturning_streamfunctions_yearly, DAMIP_monthly, paleo_ocean_transports, DCPP_Wider",
+    "compound-name": "Omon.msftmrho",
+    "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Function of latitude, rho, basin. For a model with a cartesian latxlon grid, this is the same as the \"Ocean Y Overturning Mass Streamfunction\" (msftyrho), which should in this case be omitted.  For other models, this transport should be approximated as the transport across zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Ocean Meridional Overturning Mass Streamfunction",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "DAMIP",
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 986,
+        "rank-by-file-count": 986,
+        "rank-by-submissions": 1159,
+        "rank-by-volume": 1351
+    }
+}

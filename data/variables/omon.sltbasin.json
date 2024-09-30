@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/omon.sltbasin",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/northward_ocean_salt_transport"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "paleo_ocean_transports",
+    "compound-name": "Omon.sltbasin",
+    "description": "This refers to the already available definitions of Omon.sltovgyre and Omon.sltovovrt, but should provide the total northward salt transport including all contributions (similar to heat transport, were a measure of the total transport exists via hfbasin); I believe that no cell measure apply and selected --Mod only since I was forced to select one of the options.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "Omon"
+    ],
+    "theme": [
+        "Ocean & sea-ice"
+    ],
+    "title": "northward ocean salt transport",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": "In progress"
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

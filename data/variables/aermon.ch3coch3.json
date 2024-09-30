@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/aermon.ch3coch3",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mole_fraction_of_acetone_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_3d_monthly",
+    "compound-name": "AERmon.ch3coch3",
+    "description": "Mole fraction is used in the construction \"mole\\_fraction\\_of\\_X\\_in\\_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox\\_expressed\\_as\\_nitrogen\". Acetone is an organic molecule with the chemical formula CH3CH3CO. The IUPAC name for acetone is propan-2-one. Acetone is a member of the group of organic compounds known as ketones. There are standard names for the ketone group as well as for some of the individual species.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "AERmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "AERmon"
+    ],
+    "theme": "",
+    "title": "CH3COCH3 Volume Mixing Ratio",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "AerChemMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 476,
+        "rank-by-file-count": 784,
+        "rank-by-submissions": 1159,
+        "rank-by-volume": 476
+    }
+}

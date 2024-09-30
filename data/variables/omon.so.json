@@ -1,0 +1,67 @@
+{
+    "@id": "dr:data/variables/omon.so",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_water_salinity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, surgemip_variables, paleodata_assimilation, marine_bgc, paleo_ocean_3D, DCPP_Wider, SO_BGC-cloud_ocean_monthly, fish_model_expand_mon, FireMIP_monthly",
+    "compound-name": "Omon.so",
+    "description": "Sea water salinity is the salt content of sea water, often on the Practical Salinity Scale of 1978. However, the unqualified term 'salinity' is generic and does not necessarily imply any particular method of calculation. The units of salinity are dimensionless and the units attribute should normally be given as 1e-3 or 0.001 i.e. parts per thousand. \n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Sea Water Salinity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "DAMIP",
+            "ISMIP6",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "DCPP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 14,
+        "rank-by-file-count": 46,
+        "rank-by-submissions": 35,
+        "rank-by-volume": 14
+    }
+}

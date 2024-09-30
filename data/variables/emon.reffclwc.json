@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/variables/emon.reffclwc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/effective_radius_of_convective_cloud_liquid_water_particles"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "clouds_basic_average, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",
+    "compound-name": "Emon.reffclwc",
+    "description": "Droplets are liquid.  The effective radius is defined as the ratio of the third moment over the second moment of the particle size distribution and the time-mean should be calculated, weighting the individual samples by the cloudy fraction of the grid cell.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "CFMIP [CFmon_3dstd_new]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Convective Cloud Liquid Droplet Effective Radius",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "CFMIP",
+            "GeoMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1287,
+        "rank-by-file-count": 1678,
+        "rank-by-submissions": 1463,
+        "rank-by-volume": 1287
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amnla-tmnsn",
+    "@type": "dr:variable",
+    "brand-id": "lnd",
+    "brand-tag": "",
+    "cell-methods": "area: mean where land time: mean (weighted by snow mass on land)",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amnla-tmnsn",
+    "title": "Snow Mass Weighted",
+    "uid": "CellMethods::amnla-tmnsn"
+}

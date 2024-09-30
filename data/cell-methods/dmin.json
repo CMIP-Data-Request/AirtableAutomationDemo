@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/dmin",
+    "@type": "dr:variable",
+    "brand-id": "x",
+    "brand-tag": "tstat",
+    "cell-methods": "area: mean time: minimum within days time: mean over days",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "dmin",
+    "title": "Daily Minimum",
+    "uid": "CellMethods::dmin"
+}

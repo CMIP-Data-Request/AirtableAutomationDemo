@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/physical-parameter/huss",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.huss"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.huss"
+        },
+        {
+            "@id": "dr:variables/amon.huss"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.huss"
+        },
+        {
+            "@id": "dr:variables/day.huss"
+        },
+        {
+            "@id": "dr:variables/esubhr.huss"
+        },
+        {
+            "@id": "dr:variables/6hrplev.huss"
+        },
+        {
+            "@id": "dr:variables/e1hr.huss"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Near-surface (usually, 2 meter) specific humidity.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "huss",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CORDEX_3h,CORDEX_day,CORDEX_mon,CORDEX_sem",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Near-Surface Specific Humidity",
+    "uid": "ebfefc2ab8716ef597b128171b275945",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

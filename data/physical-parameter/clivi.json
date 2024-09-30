@@ -1,0 +1,53 @@
+{
+    "@id": "dr:data/physical-parameter/clivi",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.clivi"
+        },
+        {
+            "@id": "dr:variables/cf3hr.clivi"
+        },
+        {
+            "@id": "dr:variables/cfday.clivi"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.clivi"
+        },
+        {
+            "@id": "dr:variables/e3hr.clivi"
+        }
+    ],
+    "comments": "Precipating hydrometeors",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating frozen hydrometeors ONLY if the precipitating hydrometeor affects the calculation of radiative transfer in model.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "clivi",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Ice Water Path",
+    "uid": "73c496f5669cc122cf1cddfe4df2a27a",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/lmon.c4pftfrac",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "AgLandUse",
+    "compound-name": "Lmon.c4PftFrac",
+    "description": "Percentage of entire grid cell  that is covered by C4 PFTs (including grass and crops).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Percentage Cover by C4 Plant Functional Type",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 290,
+        "rank-by-file-count": 542,
+        "rank-by-submissions": 290,
+        "rank-by-volume": 1240
+    }
+}

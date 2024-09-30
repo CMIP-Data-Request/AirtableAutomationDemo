@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/cfday.wap",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "cfmip_daily, CFMIP_daily_3D",
+    "compound-name": "CFday.wap",
+    "description": "commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "CFday ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "CFday"
+    ],
+    "theme": "",
+    "title": "Omega (=dp/dt)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 41,
+        "rank-by-file-count": 464,
+        "rank-by-submissions": 382,
+        "rank-by-volume": 41
+    }
+}

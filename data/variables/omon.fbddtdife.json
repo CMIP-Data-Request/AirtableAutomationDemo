@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/variables/omon.fbddtdife",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/tendency_of_ocean_mole_content_of_dissolved_inorganic_iron_due_to_biological_processes"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Omon.fbddtdife",
+    "description": "vertical integral of net biological terms in time rate of change of dissolved inorganic iron\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "integral over upper 100 m only.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Rate of Change of Dissolved Inorganic Iron Due to Biological Activity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "C4MIP",
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 549,
+        "rank-by-file-count": 549,
+        "rank-by-submissions": 727,
+        "rank-by-volume": 750
+    }
+}

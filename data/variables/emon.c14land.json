@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/variables/emon.c14land",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_content_of_14C_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
+    "compound-name": "Emon.c14Land",
+    "description": "Carbon-14 mass content per unit area in vegetation (any living plants e.g. trees, shrubs, grass), litter (dead plant material in or above the soil), soil, and forestry and agricultural products (e.g. paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "PMIP [PMIP-Lmon-02]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Mass of 14C in All Terrestrial Carbon Pools",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "C4MIP",
+            "PMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1458,
+        "rank-by-file-count": 1458,
+        "rank-by-submissions": 1463,
+        "rank-by-volume": 1515
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "@id": "dr:data/physical-parameter/tsnl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": "",
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Temperature in the snow pack present in the grid cell. 3D variable for multi-layer snow schemes.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tsnl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [LS3MIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Temperature Profile in the Snow",
+    "uid": "5914277e-9e49-11e5-803c-0d0b866b59f3",
+    "units": "K",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

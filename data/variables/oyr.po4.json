@@ -1,0 +1,65 @@
+{
+    "@id": "dr:data/variables/oyr.po4",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mole_concentration_of_dissolved_inorganic_phosphorus_in_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Oyr.po4",
+    "description": "Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole\\_concentration\\_of\\_X\\_in\\_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox\\_expressed\\_as\\_nitrogen\". \"Dissolved inorganic phosphorus\" means the sum of all inorganic phosphorus in solution (including phosphate, hydrogen phosphate, dihydrogen phosphate, and phosphoric acid).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Oyr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oyr"
+    ],
+    "theme": "",
+    "title": "Total Dissolved Inorganic Phosphorus Concentration",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CDRMIP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 451,
+        "rank-by-file-count": 475,
+        "rank-by-submissions": 593,
+        "rank-by-volume": 451
+    }
+}

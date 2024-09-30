@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/limnsw",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/iyrant.limnsw"
+        },
+        {
+            "@id": "dr:variables/iyrgre.limnsw"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The ice sheet mass is computed as the volume above flotation times density. Changes in land\\_ice\\_mass\\_not\\_displacing\\_sea\\_water will always result in a change in sea level, unlike changes in land\\_ice\\_mass which may not result in sea level change (such as melting of the floating ice shelves, or portion of ice that sits on bedrock below sea level)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "limnsw",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [ISMIP6]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Ice Sheet Mass That Does not Displace Sea Water",
+    "uid": "590f019a-9e49-11e5-803c-0d0b866b59f3",
+    "units": "kg",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

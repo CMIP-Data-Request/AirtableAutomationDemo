@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/epcalc1000",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.epcalc1000"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-12T21:56:14.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Better representation of the carbonate pump with the improved ability over fluxes at 100m (<https://bg.copernicus.org/articles/20/1195/2023/>)\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "epcalc1000",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "jamie.wilson@liverpool.ac.uk",
+    "proposer-name": "Jamie Wilson",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Earth system"
+    ],
+    "title": "Downward Flux of Calcite at 1000m",
+    "uid": "",
+    "units": "mol m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": "In progress"
+    }
+}

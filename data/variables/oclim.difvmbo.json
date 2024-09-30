@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/oclim.difvmbo",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/ocean_vertical_momentum_diffusivity_due_to_background"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Oclim.difvmbo",
+    "description": "Vertical/dianeutral diffusivity applied to momentum due to the background (i.e. caused by a time invariant imposed field which may be either constant over the globe or spatially varying, depending on the ocean model used).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/monc"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Oclim ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oclim"
+    ],
+    "theme": "",
+    "title": "Ocean Vertical Momentum Diffusivity Due to Background",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 9999,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

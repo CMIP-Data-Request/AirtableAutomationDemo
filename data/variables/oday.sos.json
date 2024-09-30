@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/oday.sos",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_surface_salinity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_daily, ocean_mesoscale, fish_model_day",
+    "compound-name": "Oday.sos",
+    "description": "Sea water salinity is the salt content of sea water, often on the Practical Salinity Scale of 1978. However, the unqualified term 'salinity' is generic and does not necessarily imply any particular method of calculation. The units of salinity are dimensionless and the units attribute should normally be given as 1e-3 or 0.001 i.e. parts per thousand. \n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on the ocean horizontal native grid.\n",
+    "provenance": "Oday ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oday"
+    ],
+    "theme": "",
+    "title": "Sea Surface Salinity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 167,
+        "rank-by-file-count": 461,
+        "rank-by-submissions": 196,
+        "rank-by-volume": 167
+    }
+}

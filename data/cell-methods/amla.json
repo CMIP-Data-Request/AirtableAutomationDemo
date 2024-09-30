@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amla",
+    "@type": "dr:variable",
+    "brand-id": "lnd",
+    "brand-tag": "",
+    "cell-methods": "area: mean where land",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amla",
+    "title": "Fixed Area Mean",
+    "uid": "CellMethods::amla"
+}

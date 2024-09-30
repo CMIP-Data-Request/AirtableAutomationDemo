@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/vtem",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/edayz.vtem"
+        },
+        {
+            "@id": "dr:variables/emonz.vtem"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Transformed Eulerian Mean Diagnostics v\\*, meridional component of the residual meridional circulation (v\\*, w\\*) derived from 6 hr or higher frequency data fields (use instantaneous daily fields or 12 hr fields if the 6 hr data are not available).\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "vtem",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CCMI1_daily,CCMI1_monthly",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Transformed Eulerian Mean Northward Wind",
+    "uid": "ba7be4134a9cf4838434bf204d80b903",
+    "units": "m s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

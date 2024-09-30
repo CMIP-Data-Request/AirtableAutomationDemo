@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/lmon.clitterbelow",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/subsurface_litter_mass_content_of_carbon"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Lmon.cLitterBelow",
+    "description": "\"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"subsurface litter\" means the part of the litter mixed within the soil below the surface. \"Content\" indicates a quantity per unit area. The sum of the quantities with standard names surface\\_litter\\_mass\\_content\\_of\\_carbon and subsurface\\_litter\\_mass\\_content\\_of\\_carbon has the standard name litter\\_mass\\_content\\_of\\_carbon.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Carbon Mass in Below-Ground Litter",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 426,
+        "rank-by-file-count": 426,
+        "rank-by-submissions": 727,
+        "rank-by-volume": 1195
+    }
+}

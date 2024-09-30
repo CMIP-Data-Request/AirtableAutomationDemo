@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/sconcdust",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.sconcdust"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "mass concentration of dust dry aerosol in air in model lowest layer\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "sconcdust",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_aero",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Concentration of Dust",
+    "uid": "1ca290c839426f31f70a0d2862e1c611",
+    "units": "kg m-3",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

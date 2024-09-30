@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/physical-parameter/rsdt",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.rsdt"
+        },
+        {
+            "@id": "dr:variables/cf3hr.rsdt"
+        },
+        {
+            "@id": "dr:variables/cfday.rsdt"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rsdt"
+        },
+        {
+            "@id": "dr:variables/e1hrclimmon.rsdt"
+        },
+        {
+            "@id": "dr:variables/e3hr.rsdt"
+        },
+        {
+            "@id": "dr:variables/esubhr.rsdt"
+        },
+        {
+            "@id": "dr:variables/day.rsdt"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Shortwave radiation incident at the top of the atmosphere\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rsdt",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFday,CMIP5_CFsubhr,CORDEX_6h,CORDEX_day,CORDEX_mon,CORDEX_sem,PMIP3_Aclim,PMIP3_Amon,SPECS_Amon,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "TOA Incident Shortwave Radiation",
+    "uid": "a21e250a10f96b1c1ad6d742206a157e",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

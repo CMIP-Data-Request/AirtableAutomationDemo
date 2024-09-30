@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/reffclis",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/cf3hr.reffclis"
+        },
+        {
+            "@id": "dr:variables/emon.reffclis"
+        },
+        {
+            "@id": "dr:variables/esubhr.reffclis"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "reffclis",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_CF3hr",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Hydrometeor Effective Radius of Stratiform Cloud Ice",
+    "uid": "c2270065bb39bfa4fbf0d13a78dfa8a1",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

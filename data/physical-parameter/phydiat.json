@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/phydiat",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.phydiat"
+        },
+        {
+            "@id": "dr:variables/oyr.phydiat"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "carbon from the diatom phytoplankton component concentration alone\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "phydiat",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5,C4MIP,HighResMIP,LS3MIP,PMIP",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Mole Concentration of Diatoms Expressed as Carbon in Sea Water",
+    "uid": "5880ab9386066d5d620774a46840cc25",
+    "units": "mol m-3",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

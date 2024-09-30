@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/wilt",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/efx.wilt"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Percentage water content of soil by volume at the wilting point. The wilting point of soil is the water content below which plants cannot extract sufficient water to balance their loss through transpiration. \n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "wilt",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 [LS3MIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Wilting Point",
+    "uid": "7124926c-c7b6-11e6-bb2a-ac72891c3257",
+    "units": "%",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

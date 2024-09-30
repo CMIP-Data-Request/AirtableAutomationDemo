@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/aclima",
+    "@type": "dr:variable",
+    "brand-id": "x",
+    "brand-tag": "tstat",
+    "cell-methods": "area: mean where air time: mean within years time: mean over years\n",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": "",
+    "label": "aclima",
+    "title": "Annual Climatology in Atmosphere",
+    "uid": "CellMethods::aclima"
+}

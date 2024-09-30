@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/emon.co23d",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_fraction_of_carbon_dioxide_tracer_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1",
+    "compound-name": "Emon.co23D",
+    "description": "requested for all Emissions-driven runs\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "C4MIP [C_Atm]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "3D-Field of Transported CO2",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "C4MIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 603,
+        "rank-by-file-count": 1278,
+        "rank-by-submissions": 1230,
+        "rank-by-volume": 603
+    }
+}

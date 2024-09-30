@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/efx.clayfrac",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/volume_fraction_of_clay_in_soil"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Efx.clayfrac",
+    "description": "Clay Fraction\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LS3MIP [fxLS3MIP]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Efx"
+    ],
+    "theme": "",
+    "title": "Clay Fraction",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LS3MIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1069,
+        "rank-by-file-count": 1497,
+        "rank-by-submissions": 1069,
+        "rank-by-volume": 1823
+    }
+}

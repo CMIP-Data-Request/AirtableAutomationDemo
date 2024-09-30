@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/simon.sifllattop",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_upward_latent_heat_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, DCPP_Wider",
+    "compound-name": "SImon.sifllattop",
+    "description": "the net latent heat flux over sea ice\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "SIMIP [seaicemon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SImon"
+    ],
+    "theme": "",
+    "title": "Net Latent Heat Flux over Sea Ice",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "SIMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "DCPP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 248,
+        "rank-by-file-count": 708,
+        "rank-by-submissions": 248,
+        "rank-by-volume": 812
+    }
+}

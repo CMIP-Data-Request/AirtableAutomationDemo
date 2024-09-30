@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/emon.necblut",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_all_land_processes"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landuse",
+    "compound-name": "Emon.necbLut",
+    "description": "Computed as npp minus heterotrophic respiration minus fire minus C leaching minus harvesting/clearing. Positive rate is into the land, negative rate is from the land.  Do not include fluxes from anthropogenic product pools to atmosphere\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "",
+    "provenance": "LUMIP [Lmon_Lut]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Net Carbon Mass Flux into Land-Use Tile [kgC m-2 s-1]",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LUMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 863,
+        "rank-by-file-count": 863,
+        "rank-by-submissions": 1069,
+        "rank-by-volume": 1314
+    }
+}

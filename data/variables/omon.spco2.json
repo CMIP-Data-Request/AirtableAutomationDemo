@@ -1,0 +1,63 @@
+{
+    "@id": "dr:data/variables/omon.spco2",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_partial_pressure_of_carbon_dioxide_in_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, DCPP_Wider, FireMIP_monthly",
+    "compound-name": "Omon.spco2",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium. The partial pressure of a gaseous constituent of air is the pressure which it alone would exert with unchanged temperature and number of moles per unit volume. The chemical formula for carbon dioxide is CO2.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Surface Aqueous Partial Pressure of CO2",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "DAMIP",
+            "DCPP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 247,
+        "rank-by-file-count": 247,
+        "rank-by-submissions": 332,
+        "rank-by-volume": 490
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "@id": "dr:data/physical-parameter/zg",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplevpt.zg7h"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.zg"
+        },
+        {
+            "@id": "dr:variables/aermon.zg"
+        },
+        {
+            "@id": "dr:variables/aermonz.zg"
+        },
+        {
+            "@id": "dr:variables/amon.zg"
+        },
+        {
+            "@id": "dr:variables/cfday.zg"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.zg"
+        },
+        {
+            "@id": "dr:variables/day.zg"
+        },
+        {
+            "@id": "dr:variables/e1hr.zg"
+        },
+        {
+            "@id": "dr:variables/eday.zg"
+        },
+        {
+            "@id": "dr:variables/edayz.zg"
+        },
+        {
+            "@id": "dr:variables/emon.zg"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "zg",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CFday,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_Amon,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Geopotential Height",
+    "uid": "28e774ec0ecd561a6a3d437e6c443a6b",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

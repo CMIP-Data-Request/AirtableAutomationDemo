@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/mrro",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.mrro"
+        },
+        {
+            "@id": "dr:variables/day.mrro"
+        },
+        {
+            "@id": "dr:variables/lmon.mrro"
+        },
+        {
+            "@id": "dr:variables/eday.mrro"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The total run-off (including drainage through the base of the soil model) per unit area leaving the land portion of the grid cell.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "mrro",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Lmon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Total Runoff",
+    "uid": "e0a0f457ec117b27ca8353b11bf9d4fa",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

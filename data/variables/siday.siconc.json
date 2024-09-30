@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/siday.siconc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_ice_area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_daily, seaice_state_daily_basic, cowclip_wind_wave_variables, DCPP_Wider, biodiv_marine_daily, CFMIP_baseline, cordex [test], seaice_gcos_ecv",
+    "compound-name": "SIday.siconc",
+    "description": "Percentage of grid cell covered by sea ice\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaiceday]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SIday"
+    ],
+    "theme": "",
+    "title": "Sea-Ice Area Percentage (Ocean Grid)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, LS3MIP, SIMIP, VolMIP",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "CORDEX",
+            "LS3MIP",
+            "SIMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "DCPP"
+        ],
+        "priority-3-(cmip6)": "DCPP, PAMIP"
+    },
+    "rank": {
+        "min-rank": 95,
+        "rank-by-file-count": 95,
+        "rank-by-submissions": 116,
+        "rank-by-volume": 132
+    }
+}

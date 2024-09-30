@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/albl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.albl"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-12T13:52:31.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "for the understanding of the response of the cryosphere in changing climates\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "albl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "Christian.Stepanek@awi.de",
+    "proposer-name": "Christian Stepanek",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Earth system",
+        "Land & land-ice"
+    ],
+    "title": "Surface Albedo of Land without ice cover",
+    "uid": "",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "In progress",
+        "atmosphere-team-review-status-copy-6": "In progress"
+    }
+}

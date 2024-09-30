@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/rtmt",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.rtmt"
+        },
+        {
+            "@id": "dr:variables/cf3hr.rtmt"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rtmt"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Net Downward Radiative Flux at Top of Model : I.e., at the top of that portion of the atmosphere where dynamics are explicitly treated by the model. This is reported only if it differs from the net downward radiative flux at the top of the atmosphere.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rtmt",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFsubhr,PMIP3_Aclim,PMIP3_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Net Downward Radiative Flux at Top of Model",
+    "uid": "26328c46dfcc65d454b6fd4c52ccb48f",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

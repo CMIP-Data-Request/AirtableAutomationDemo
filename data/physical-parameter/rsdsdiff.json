@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/rsdsdiff",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.rsdsdiff"
+        },
+        {
+            "@id": "dr:variables/eday.rsdsdiff"
+        },
+        {
+            "@id": "dr:variables/emon.rsdsdiff"
+        },
+        {
+            "@id": "dr:variables/e1hr.rsdsdiff"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Surface downwelling solar irradiance from diffuse radiation for UV calculations.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rsdsdiff",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_aero",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Diffuse Downwelling Shortwave Radiation",
+    "uid": "f27656eeae247192e82aa1032c911399",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

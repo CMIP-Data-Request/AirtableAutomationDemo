@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/zfullo",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/eyr.zfullo"
+        },
+        {
+            "@id": "dr:variables/oclim.zfullo"
+        },
+        {
+            "@id": "dr:variables/omon.zfullo"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Depth below geoid\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "zfullo",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP.Omon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Depth Below Geoid of Ocean Layer",
+    "uid": "44471dd9799293cef70ac63fcdd2476e",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

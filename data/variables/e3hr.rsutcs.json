@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/e3hr.rsutcs",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/toa_outgoing_shortwave_flux_assuming_clear_sky"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "clouds_basic_average",
+    "compound-name": "E3hr.rsutcs",
+    "description": "TOA outgoing clear sky shortwave\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "HighResMIP [3hr_cloud]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "E3hr"
+    ],
+    "theme": "",
+    "title": "TOA Outgoing Clear-Sky Shortwave Radiation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "RFMIP"
+        ],
+        "priority-2-(cmip6---old": [
+            "HighResMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 517,
+        "rank-by-file-count": 876,
+        "rank-by-submissions": 593,
+        "rank-by-volume": 517
+    }
+}

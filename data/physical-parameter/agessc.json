@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/agessc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/odec.agessc"
+        },
+        {
+            "@id": "dr:variables/omon.agessc"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Time elapsed since water was last in surface layer of the ocean.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "agessc",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP.Omon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Sea Water Age Since Surface Contact",
+    "uid": "1bb6dca6b08a4e887ded8a455ef04941",
+    "units": "yr",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

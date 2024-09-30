@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/cfmon.clmodis",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmip7-variable-groups": "radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",
+    "compound-name": "CFmon.clmodis",
+    "description": "Percentage of total cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the same used by the ISCCP instrument simulator. This is the equivalent MODIS version of the ISCCP _clisccp _variable.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "7 pressure levels x 7 optical depth levels (x latitude x longitude x time). NOTE: please disregard the _Coordinates_ input; it is only to ensure form can be submitted.\n",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "CFmon"
+    ],
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "MODIS Cloud Area Fraction",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "Accept",
+        "atmosphere-review-comment": "Atmosphere team happy to accept variables based on the fix below.\n\nThere was a typo in the initial submission of clmodis and cltmodis which had the metadata for the two variables swapped. MZ contacted submitter to confirm this. On confirmation, the variables have been corrected.",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

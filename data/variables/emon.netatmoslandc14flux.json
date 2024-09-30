@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/variables/emon.netatmoslandc14flux",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_14C_due_to_all_land_processes"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
+    "compound-name": "Emon.netAtmosLandC14Flux",
+    "description": "Flux of carbon-14 as carbon dioxide into the land. This flux should be reproducible by differencing the sum of all carbon pools (cVeg, cLitter, cSoil, and cProducts or equivalently cLand) from one time step to the next, except in the case of lateral transfer of carbon due to harvest, riverine transport of dissolved organic and/or inorganic carbon, or any other process (in which case the lateral\\_carbon\\_transfer\\_over\\_land term, see below, will be zero data).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "",
+    "provenance": "PMIP [PMIP-Lmon-02]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Net Mass Flux of 14C Between Atmosphere and Land (Positive into Land) as a Result of All Processes [kgC m-2 s-1]",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "C4MIP",
+            "PMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1463,
+        "rank-by-file-count": 1557,
+        "rank-by-submissions": 1463,
+        "rank-by-volume": 1670
+    }
+}

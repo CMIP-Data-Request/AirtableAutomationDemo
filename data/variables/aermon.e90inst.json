@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/aermon.e90inst",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mole_fraction_of_artificial_tracer_with_fixed_lifetime_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_3d_monthly",
+    "compound-name": "AERmon.e90inst",
+    "description": "This is the mole fraction of an artificial tracer with a 90-day lifetime (e90)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/monpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "AERmon"
+    ],
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "Artificial tracer with 90 day lifetime",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "In progress",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

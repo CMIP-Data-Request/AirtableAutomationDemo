@@ -1,0 +1,66 @@
+{
+    "@id": "dr:data/variables/simon.siconc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_ice_area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, seaice_budget_area_monthly, seaice_state_monthly_basic, DAMIP_monthly, CVDP_input, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_cryosphere, ref_ocean_and_seaice, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, cordex [test]",
+    "compound-name": "SImon.siconc",
+    "description": "Percentage of grid cell covered by sea ice\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaicemon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SImon"
+    ],
+    "theme": "",
+    "title": "Sea-Ice Area Percentage (Ocean Grid)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "C4MIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, FAFMIP, GMMIP, GeoMIP, HighResMIP, LS3MIP, PAMIP, PMIP, RFMIP, SIMIP, VIACSAB",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CORDEX",
+            "DCPP",
+            "PMIP",
+            "SIMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CDRMIP"
+        ],
+        "priority-2-(cmip6)": "CDRMIP",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 12,
+        "rank-by-file-count": 12,
+        "rank-by-submissions": 47,
+        "rank-by-volume": 214
+    }
+}

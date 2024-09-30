@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/aermon.mmraerh2o",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_fraction_of_water_in_ambient_aerosol_particles_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_3d_monthly",
+    "compound-name": "AERmon.mmraerh2o",
+    "description": "Mass fraction is used in the construction mass\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient\\_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "AERmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "AERmon"
+    ],
+    "theme": "",
+    "title": "Aerosol Water Mass Mixing Ratio",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "AerChemMIP",
+            "GeoMIP",
+            "RFMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 538,
+        "rank-by-file-count": 747,
+        "rank-by-submissions": 788,
+        "rank-by-volume": 538
+    }
+}

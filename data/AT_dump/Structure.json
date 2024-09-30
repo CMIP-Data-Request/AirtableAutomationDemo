@@ -1,0 +1,1770 @@
+[
+    {
+        "Title":"Temporal mean, Global field (at zero Centigrade soil isotherm) [XY-na] {:stempzero} [amunf-twm]",
+        "label":"str-h642",
+        "CMIP6 Title":"Temporal mean, Global field (at zero Centigrade soil isotherm) [XY-na] {:stempzero} [amunf-twm]",
+        "Coordinates":"stempzero",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Climatological mean, Global field on model atmosphere half-levels [XY-AH] [aclim]",
+        "label":"str-a090",
+        "CMIP6 Title":"Climatological mean, Global field on model atmosphere half-levels [XY-AH] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Model Configuration Field",
+        "label":"str-054",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global field (single level) [XY-na]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {landUse:} [amlu-twm]",
+        "label":"str-b436",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {landUse:} [amlu-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Mean Diurnal Cycle, Global field (single level) [XY-na]",
+        "label":"str-340",
+        "CMIP6 Title":"Mean Diurnal Cycle, Global field (single level) [XY-na]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field [XY-na] {effectRadLi tau:} [am-tm]",
+        "label":"str-d85",
+        "CMIP6 Title":"Temporal mean, Global field [XY-na] {effectRadLi tau:} [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on 40 altitude levels [XY-H40] {scatratio:} [tpt]",
+        "label":"str-337",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on 40 altitude levels [XY-H40] {scatratio:} [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field on model atmosphere levels [XY-A] {:lambda550nm} [am-tm]",
+        "label":"str-e19",
+        "CMIP6 Title":"Temporal mean, Global field on model atmosphere levels [XY-A] {:lambda550nm} [am-tm]",
+        "Coordinates":"lambda550nm",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous values, Global field (7 pressure levels) [XY-P7] {tau:} [tpt]",
+        "label":"str-e01",
+        "CMIP6 Title":"Instantaneous values, Global field (7 pressure levels) [XY-P7] {tau:} [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Synoptic Near-Surface Field (10m)",
+        "label":"str-072",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:height10m} [tpt]",
+        "Coordinates":"height10m",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:depth0m} [amse-tmn]",
+        "label":"str-a061",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:depth0m} [amse-tmn]",
+        "Coordinates":"depth0m",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Site (specific locations requested by CFMIP) [S-na] {:height2m} [apt-tpt]",
+        "label":"str-d63",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Site (specific locations requested by CFMIP) [S-na] {:height2m} [apt-tpt]",
+        "Coordinates":"height2m",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (7 pressure levels) [XY-P7] {tau:} [tmean]",
+        "label":"str-249",
+        "CMIP6 Title":"Temporal mean, Global field (7 pressure levels) [XY-P7] {tau:} [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amtr-twm]",
+        "label":"str-h064",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amtr-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [amngi-twmn]",
+        "label":"str-b183",
+        "CMIP6 Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [amngi-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on 40 altitude levels [XY-H40] [amn-tpt]",
+        "label":"str-318",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on 40 altitude levels [XY-H40] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typesever} [amnlax-tmn]",
+        "label":"str-h020",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typesever} [amnlax-tmn]",
+        "Coordinates":"typesever",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:sdepth10} [amnla-tmn]",
+        "label":"str-841",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:sdepth10} [amnla-tmn]",
+        "Coordinates":"sdepth10",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time invariant, Antarctic Polar Stereographic Grid, Grounded [XYA-na] [amngi-fx]",
+        "label":"str-b226",
+        "CMIP6 Title":"Time invariant, Antarctic Polar Stereographic Grid, Grounded [XYA-na] [amngi-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {landUse:height2m} [amlu-twm]",
+        "label":"str-h072",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {landUse:height2m} [amlu-twm]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global ocean field on model levels [XY-O] [tmean]",
+        "label":"str-a071",
+        "CMIP6 Title":"Temporal mean, Global ocean field on model levels [XY-O] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"--OPT",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Masked global mean - grounded ice shelves [amngi-twm]",
+        "label":"str-x185",
+        "CMIP6 Title":"Temporal mean, Masked global mean - grounded ice shelves [amngi-twm]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global ocean field on model levels [XY-O] [tmean]",
+        "label":"str-157",
+        "CMIP6 Title":"Temporal mean, Global ocean field on model levels [XY-O] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello volume: volcello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec4pastures} [amnlax-tmn]",
+        "label":"str-h065",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec4pastures} [amnlax-tmn]",
+        "Coordinates":"typec4pastures",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time and Area Mean on Single Level, Masked (Land)",
+        "label":"str-041",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amnla-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Atmospheric profiles at specified sites [S-A] [tpt]",
+        "label":"str-227",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Atmospheric profiles at specified sites [S-A] [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level, pastures) [XY-na] [amp-twm]",
+        "label":"str-h389",
+        "CMIP6 Title":"Temporal mean, Global field (single level, pastures) [XY-na] [amp-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {landUse:} [tsum]",
+        "label":"str-b181",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {landUse:} [tsum]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean and sum fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on 40 altitude levels [XY-H40] {dbze:} [tpt]",
+        "label":"str-321",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on 40 altitude levels [XY-H40] {dbze:} [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amncl-twm]",
+        "label":"str-a049",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amncl-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field, single level [XY-na] {effectRadIc tau:} [amn-tpt]",
+        "label":"str-d82",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field, single level [XY-na] {effectRadIc tau:} [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Model Configuration Field on Ocean-Model Levels, Area Mean",
+        "label":"str-d12",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global ocean field on model levels [XY-O] [amn-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello volume: volcello",
+        "description":""
+    },
+    {
+        "Title":"Time and Global Mean on a Single Level",
+        "label":"str-135",
+        "CMIP6 Title":"Temporal mean, Global mean\/constant [na-na] [amse-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Model Configuration Field, Area Sum (No Height Dependence)",
+        "label":"str-e001",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global field (single level, area sum) [XY-na]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Time-Mean Near-Surface Field (2m)",
+        "label":"str-116",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [tmean]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal Mean, Global field (7 pressure tropospheric levels) [XY-P7T] [am-tm]",
+        "label":"str-b311",
+        "CMIP6 Title":"Temporal Mean, Global field (7 pressure tropospheric levels) [XY-P7T] [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere half-levels [XY-AH] [amn-tpt]",
+        "label":"str-010",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere half-levels [XY-AH] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal Minimum, Global field (single level) [XY-na] {:height2m} [tminc]",
+        "label":"str-e189",
+        "CMIP6 Title":"Temporal Minimum, Global field (single level) [XY-na] {:height2m} [tminc]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typetreene} [amnlax-tmn]",
+        "label":"str-z104",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typetreene} [amnlax-tmn]",
+        "Coordinates":"typetreene",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field on 40 altitude levels [XY-H40] [tmean]",
+        "label":"str-078",
+        "CMIP6 Title":"Temporal mean, Global field on 40 altitude levels [XY-H40] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Model Configuration Field on Sea Floor, Area Mean, Masked (Sea)",
+        "label":"str-d39",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global field (single level) [XY-na] [amns-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Model Configuration Field on Ocean-Model Levels, Area Sum",
+        "label":"str-d13",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global ocean field on model levels [XY-O] [asum-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello volume: volcello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na]",
+        "label":"str-d67",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Climatological mean, Global mean\/constant [na-na] [aclim]",
+        "label":"str-a449",
+        "CMIP6 Title":"Climatological mean, Global mean\/constant [na-na] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global mean\/constant [na-na] {:height2m} [amni-twmn]",
+        "label":"str-d68",
+        "CMIP6 Title":"Temporal mean, Global mean\/constant [na-na] {:height2m} [amni-twmn]",
+        "Coordinates":"height2m",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {landUse:} [amlax-tpt]",
+        "label":"str-h062",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {landUse:} [amlax-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {landUse: typenwd} [amnlax-tmn]",
+        "label":"str-h054",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {landUse: typenwd} [amnlax-tmn]",
+        "Coordinates":"typenwd",
+        "Cell Measures":"area: areacella",
+        "description":"For use with an area type variable, describing the mean area of non-woody vegetation (not currently a valid CF area type)"
+    },
+    {
+        "Title":"Temporal mean, Ocean Basin Meridional Section (on density surfaces) [YB-R] [bzzsum]",
+        "label":"str-h004",
+        "CMIP6 Title":"Temporal mean, Ocean Basin Meridional Section (on density surfaces) [YB-R] [bzzsum]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (sum over depth) [XY-na] [amdss-tmn]",
+        "label":"str-d02",
+        "CMIP6 Title":"Temporal mean, Global field (sum over depth) [XY-na] [amdss-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Atmospheric profiles (half levels) at specified sites [S-AH] [tpt]",
+        "label":"str-174",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Atmospheric profiles (half levels) at specified sites [S-AH] [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {spectband:} [tpt]",
+        "label":"str-d31",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {spectband:} [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p10}",
+        "label":"str-d50",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p10}",
+        "Coordinates":"p10",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typebare} [amnlax-tmn]",
+        "label":"str-h033",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typebare} [amnlax-tmn]",
+        "Coordinates":"typebare",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global ocean field on model half levels [XY-OH] [tmean]",
+        "label":"str-x157",
+        "CMIP6 Title":"Temporal mean, Global ocean field on model half levels [XY-OH] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typesdec} [amnlax-tmn]",
+        "label":"str-h037",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typesdec} [amnlax-tmn]",
+        "Coordinates":"typesdec",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Atmospheric Zonal Mean (on 39 pressure levels) [Y-P39] [tmean]",
+        "label":"str-261",
+        "CMIP6 Title":"Temporal mean, Atmospheric Zonal Mean (on 39 pressure levels) [Y-P39] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (7 pressure tropospheric levels) [XY-P7T] [amn-tpt]",
+        "label":"str-311",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (7 pressure tropospheric levels) [XY-P7T] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:depth100m} [amse-tmn]",
+        "label":"str-a015",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:depth100m} [amse-tmn]",
+        "Coordinates":"depth100m",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amnla-tmnsn]",
+        "label":"str-a014",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amnla-tmnsn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field on soil levels [XY-S] [amnla-tmn]",
+        "label":"str-385",
+        "CMIP6 Title":"Temporal mean, Global field on soil levels [XY-S] [amnla-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal Maximum, Global field (single level) [XY-na] [tmax]",
+        "label":"str-147",
+        "CMIP6 Title":"Temporal Maximum, Global field (single level) [XY-na] [tmax]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [amnfi-twmn]",
+        "label":"str-b125",
+        "CMIP6 Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [amnfi-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field on 40 altitude levels [XY-H40] {dbze:} [tmean]",
+        "label":"str-038",
+        "CMIP6 Title":"Temporal mean, Global field on 40 altitude levels [XY-H40] {dbze:} [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typetreebd} [amnlax-tmn]",
+        "label":"str-h043",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typetreebd} [amnlax-tmn]",
+        "Coordinates":"typetreebd",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {iceband:} [amnsi-twm]",
+        "label":"str-b117",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {iceband:} [amnsi-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typeresidual} [amnlax-tmn]",
+        "label":"str-z103",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typeresidual} [amnlax-tmn]",
+        "Coordinates":"typeresidual",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p560} [tmean]",
+        "label":"str-063",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p560} [tmean]",
+        "Coordinates":"p560",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Zonal mean (on surface) [Y-na] {:p100} [zmean]",
+        "label":"str-d17",
+        "CMIP6 Title":"Temporal mean, Zonal mean (on surface) [Y-na] {:p100} [zmean]",
+        "Coordinates":"p100",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typetree} [amnlax-tmn]",
+        "label":"str-h022",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typetree} [amnlax-tmn]",
+        "Coordinates":"typetree",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {sza5:} [amse-tmn]",
+        "label":"str-b453",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {sza5:} [amse-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:depth300m} [tmean]",
+        "label":"str-d29",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:depth300m} [tmean]",
+        "Coordinates":"depth300m",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field on model atmosphere levels [XY-A]",
+        "label":"str-d49",
+        "CMIP6 Title":"Temporal mean, Global field on model atmosphere levels [XY-A]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amn-tpt]",
+        "label":"str-d11",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Hourly Maximum, Global field (single level) [XY-na] [tmean]",
+        "label":"str-x212",
+        "CMIP6 Title":"Hourly Maximum, Global field (single level) [XY-na] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (soil pools) [XY-na] {soilpools:} [amnla-tmn]",
+        "label":"str-h641",
+        "CMIP6 Title":"Temporal mean, Global field (soil pools) [XY-na] {soilpools:} [amnla-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Zonal mean (on surface) [Y-na] [tmean]",
+        "label":"str-a076",
+        "CMIP6 Title":"Temporal mean, Zonal mean (on surface) [Y-na] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Climatological mean, Global field (19 pressure levels) [XY-P19] [aclim]",
+        "label":"str-a063",
+        "CMIP6 Title":"Climatological mean, Global field (19 pressure levels) [XY-P19] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:p850}",
+        "label":"str-d51",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:p850}",
+        "Coordinates":"p850",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dminc]",
+        "label":"str-e082",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dminc]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal Minimum, Global field (single level) [XY-na] [tmin]",
+        "label":"str-a423",
+        "CMIP6 Title":"Temporal Minimum, Global field (single level) [XY-na] [tmin]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous, Global field (single level) [XY-na] {:p560} [amn-tpt]",
+        "label":"str-963",
+        "CMIP6 Title":"Instantaneous, Global field (single level) [XY-na] {:p560} [amn-tpt]",
+        "Coordinates":"p560",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time  mean, weighted by sea ice ridge area, Global field (single level) [XY-na] [amnsirdg-twm]",
+        "label":"str-z169",
+        "CMIP6 Title":"Time  mean, weighted by sea ice ridge area, Global field (single level) [XY-na] [amnsirdg-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dmaxc]",
+        "label":"str-e083",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dmaxc]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {landUse:} [amnlax-tmn]",
+        "label":"str-h056",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {landUse:} [amnlax-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:lambda550nm} [am-tm]",
+        "label":"str-913",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:lambda550nm} [am-tm]",
+        "Coordinates":"lambda550nm",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {landUse:}",
+        "label":"str-b201",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {landUse:}",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na]  [adm-tm]",
+        "label":"str-d27",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na]  [adm-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Masked global mean - floating ice shelves [amnfi-twm]",
+        "label":"str-x184",
+        "CMIP6 Title":"Temporal mean, Masked global mean - floating ice shelves [amnfi-twm]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [am-tm]",
+        "label":"str-b195",
+        "CMIP6 Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Climatological mean, Global field on model atmosphere levels [XY-A] [aclim]",
+        "label":"str-a468",
+        "CMIP6 Title":"Climatological mean, Global field on model atmosphere levels [XY-A] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Weighted Time-Mean on Single Level, Masked (Sea)",
+        "label":"str-z015",
+        "CMIP6 Title":"Temporal weighted mean, Global field (single level) [XY-na] {:typesi} [amse-tmn]",
+        "Coordinates":"typesi",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous, Global field (single level) [XY-na] {:p840} [amn-tpt]",
+        "label":"str-943",
+        "CMIP6 Title":"Instantaneous, Global field (single level) [XY-na] {:p840} [amn-tpt]",
+        "Coordinates":"p840",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p100}",
+        "label":"str-d53",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p100}",
+        "Coordinates":"p100",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (16 altitudes) [XY-H16] {tau:} [am-tm]",
+        "label":"str-d41",
+        "CMIP6 Title":"Temporal mean, Global field (16 altitudes) [XY-H16] {tau:} [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec3pastures} [amnlax-tmn]",
+        "label":"str-h061",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec3pastures} [amnlax-tmn]",
+        "Coordinates":"typec3pastures",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec4pft} [amnlax-tmn]",
+        "label":"str-h036",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec4pft} [amnlax-tmn]",
+        "Coordinates":"typec4pft",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amnla-tmn] {rivers}",
+        "label":"str-b401",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amnla-tmn] {rivers}",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellr",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Model Configuration Integer Field of Flag Values",
+        "label":"str-d66",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global field (with flags) [XY-na] [amn-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p850} [tmean]",
+        "label":"str-295",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p850} [tmean]",
+        "Coordinates":"p850",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec3natg} [amnlax-tmn]",
+        "label":"str-h068",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec3natg} [amnlax-tmn]",
+        "Coordinates":"typec3natg",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (16 altitudes) [XY-H16] {tau:} [amn-tpt]",
+        "label":"str-d46",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (16 altitudes) [XY-H16] {tau:} [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] {spectband:} [tpt]",
+        "label":"str-d47",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] {spectband:} [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Sea-ice ocean transect [TRS-na]",
+        "label":"str-b132",
+        "CMIP6 Title":"Temporal mean, Sea-ice ocean transect [TRS-na]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"height2m",
+        "label":"",
+        "CMIP6 Title":"",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typepever} [amnlax-tmn]",
+        "label":"str-h027",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typepever} [amnlax-tmn]",
+        "Coordinates":"typepever",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time and Area Mean on Single Level, Masked (Sea)",
+        "label":"str-a098",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amse-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:pl700} [tpt]",
+        "label":"str-d77",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:pl700} [tpt]",
+        "Coordinates":"pl700",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:sdepth1} [amnla-tpt]",
+        "label":"str-183",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:sdepth1} [amnla-tpt]",
+        "Coordinates":"sdepth1",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] {:lambda550nm} [amn-tpt]",
+        "label":"str-e18",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] {:lambda550nm} [amn-tpt]",
+        "Coordinates":"lambda550nm",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typetreend} [amnlax-tmn]",
+        "label":"str-h071",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typetreend} [amnlax-tmn]",
+        "Coordinates":"typetreend",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec3crop} [amnlax-tmn]",
+        "label":"str-z101",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec3crop} [amnlax-tmn]",
+        "Coordinates":"typec3crop",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal Maximum, Near-Surface Field (2m)",
+        "label":"str-130",
+        "CMIP6 Title":"Temporal Maximum, Global field (single level) [XY-na] {:height2m} [tmax]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Weighted Time-Mean on Single Level, Masked (Snow on Sea Ice)",
+        "label":"str-387",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amsnsi-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [amni-twmn]",
+        "label":"str-b136",
+        "CMIP6 Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [amni-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] [tpt]",
+        "label":"str-a046",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"--OPT",
+        "description":""
+    },
+    {
+        "Title":"Temporal Accumulation, Global field (single level) [XY-na] [am-tm]",
+        "label":"str-x13",
+        "CMIP6 Title":"Temporal Accumulation, Global field (single level) [XY-na] [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"It may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amni-twmn]",
+        "label":"str-b107",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amni-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [amnfi-twmn]",
+        "label":"str-b124",
+        "CMIP6 Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [amnfi-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Time invariant, Greenland Polar Stereographic Grid, Grounded [XYG-na] [amgi-fx] ",
+        "label":"str-b109",
+        "CMIP6 Title":"Time invariant, Greenland Polar Stereographic Grid, Grounded [XYG-na] [amgi-fx] ",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field [XY-na] {effectRadIc tau:} [am-tm]",
+        "label":"str-d87",
+        "CMIP6 Title":"Temporal mean, Global field [XY-na] {effectRadIc tau:} [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Fixed, Global field (single level) [XY-na] {:typeli} [amn-fx]",
+        "label":"str-z003",
+        "CMIP6 Title":"Fixed, Global field (single level) [XY-na] {:typeli} [amn-fx]",
+        "Coordinates":"typeli",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amc-twm]",
+        "label":"str-h042",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amc-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Weighted Time-Mean on Single Level, Masked (Sea)",
+        "label":"str-z005",
+        "CMIP6 Title":"Temporal weighted mean, Global field (single level) [XY-na] {:typesi} [amse-tmn]",
+        "Coordinates":"typesi",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global mean\/constant [na-na] [asm-tmn]",
+        "label":"str-032",
+        "CMIP6 Title":"Temporal mean, Global mean\/constant [na-na] [asm-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Model Configuration Surface Field, Area Mean, Masked (Land)",
+        "label":"str-d44",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global field (single level) [XY-na] [amla]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time  mean, weighted by sea ice area, Global field (single level) [XY-na] {on model mest points} [amnsi-twm]",
+        "label":"str-b169",
+        "CMIP6 Title":"Time  mean, weighted by sea ice area, Global field (single level) [XY-na] {on model mest points} [amnsi-twm]",
+        "Coordinates":"",
+        "Cell Measures":"--MODEL",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dmax]",
+        "label":"str-083",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dmax]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Ocean Basin Meridional Section (on density surfaces) [YB-R] [bgzmean]",
+        "label":"str-h006",
+        "CMIP6 Title":"Temporal mean, Ocean Basin Meridional Section (on density surfaces) [YB-R] [bgzmean]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p1000} [tmean]",
+        "label":"str-345",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p1000} [tmean]",
+        "Coordinates":"p1000",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [ams-twm]",
+        "label":"str-h044",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [ams-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Ocean Basin Meridional Section [YB-O] [bzzsum]",
+        "label":"str-h018",
+        "CMIP6 Title":"Temporal mean, Ocean Basin Meridional Section [YB-O] [bzzsum]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {sza5:} [amse-tpt]",
+        "label":"str-359",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {sza5:} [amse-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amsnla-twn]",
+        "label":"str-h387",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amsnla-twn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal Maximum, Global field (single level) [XY-na] [tmax]",
+        "label":"str-447",
+        "CMIP6 Title":"Temporal Maximum, Global field (single level) [XY-na] [tmax]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Model Configuration Surface Field, Area Mean",
+        "label":"str-x39",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Global field (single level) [XY-na] [amn-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Time-Mean on 19 Pressure Levels",
+        "label":"str-a023",
+        "CMIP6 Title":"Temporal mean, Global field (19 pressure levels) [XY-P19] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Ocean Basin Zonal Sum [YB-na] [bzzsum]",
+        "label":"str-a081",
+        "CMIP6 Title":"Temporal mean, Ocean Basin Zonal Sum [YB-na] [bzzsum]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:depth700m} [tmean]",
+        "label":"str-d32",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:depth700m} [tmean]",
+        "Coordinates":"depth700m",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Time-Mean Surface Field (Area Mean or Vertices)",
+        "label":"str-a096",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [tmean] (optionally on vertices)",
+        "Coordinates":"",
+        "Cell Measures":"--OPT",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec3pft} [amnlax-tmn]",
+        "label":"str-h031",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec3pft} [amnlax-tmn]",
+        "Coordinates":"typec3pft",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Ocean Basin Meridional Section [YB-O] [bgzmean]",
+        "label":"str-h009",
+        "CMIP6 Title":"Temporal mean, Ocean Basin Meridional Section [YB-O] [bgzmean]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global ocean field on model levels [XY-O] [asm-tmean]",
+        "label":"str-a073",
+        "CMIP6 Title":"Temporal mean, Global ocean field on model levels [XY-O] [asm-tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello volume: volcello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {landUse:sdepth1} [amlu-twm]",
+        "label":"str-z200",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {landUse:sdepth1} [amlu-twm]",
+        "Coordinates":"sdepth1",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous, Global field (single level) [XY-na] [amnlsi-tpt]",
+        "label":"str-z112",
+        "CMIP6 Title":"Instantaneous, Global field (single level) [XY-na] [amnlsi-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typemp} [amnsi-twm]",
+        "label":"str-d84",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typemp} [amnsi-twm]",
+        "Coordinates":"typemp",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p840} [tmean]",
+        "label":"str-043",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p840} [tmean]",
+        "Coordinates":"p840",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (27 pressure levels) [XY-P27] [amn-tpt]",
+        "label":"str-296",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (27 pressure levels) [XY-P27] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Ocean Transect [TR-na] [tmean]",
+        "label":"str-085",
+        "CMIP6 Title":"Temporal mean, Ocean Transect [TR-na] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Masked global sum - ice sheets (floating and grounded) [asmi-tmn]",
+        "label":"str-x188",
+        "CMIP6 Title":"Temporal mean, Masked global sum - ice sheets (floating and grounded) [asmi-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Time invariant, Greenland Polar Stereographic Grid, Ice Sheet [XYG-na] [ami-fx]",
+        "label":"str-c109",
+        "CMIP6 Title":"Time invariant, Greenland Polar Stereographic Grid, Ice Sheet [XYG-na] [ami-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (ice free sea) [XY-na] [amnifs-tmn]",
+        "label":"str-a043",
+        "CMIP6 Title":"Temporal mean, Global field (ice free sea) [XY-na] [amnifs-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Weighted Time-Mean on Single Level, Masked (Sea Ice)",
+        "label":"str-b220",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amnsi-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"Sea ice variables should be reported on the grid used for the relevant variable in the sea ice model, i.e. the ocean grid."
+    },
+    {
+        "Title":"Temporal Maximum, Global field (single level) [XY-na] {:height10m} [tmax]",
+        "label":"str-049",
+        "CMIP6 Title":"Temporal Maximum, Global field (single level) [XY-na] {:height10m} [tmax]",
+        "Coordinates":"height10m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typeshrub} [amnlax-tmn]",
+        "label":"str-h025",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typeshrub} [amnlax-tmn]",
+        "Coordinates":"typeshrub",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typetreebe} [amnlax-tmn]",
+        "label":"str-h060",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typetreebe} [amnlax-tmn]",
+        "Coordinates":"typetreebe",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typepasture} [amnlax-tmn]",
+        "label":"str-h032",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typepasture} [amnlax-tmn]",
+        "Coordinates":"typepasture",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal Minimum, Near-Surface Field (2m)",
+        "label":"str-189",
+        "CMIP6 Title":"Temporal Minimum, Global field (single level) [XY-na] {:height2m} [tmin]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amnsi-tpt]",
+        "label":"str-348",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amnsi-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Climatological mean, Global ocean field on model half levels [XY-OH] [aclim]",
+        "label":"str-x072",
+        "CMIP6 Title":"Climatological mean, Global ocean field on model half levels [XY-OH] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dmin]",
+        "label":"str-082",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height2m} [dmin]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typenatgr} [amnlax-tmn]",
+        "label":"str-h034",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typenatgr} [amnlax-tmn]",
+        "Coordinates":"typenatgr",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:height100m} [tmean]",
+        "label":"str-h053",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height100m} [tmean]",
+        "Coordinates":"height100m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:lambda550nm scatter180} [am-tm]",
+        "label":"str-914",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:lambda550nm scatter180} [am-tm]",
+        "Coordinates":"lambda550nm, scatter180",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amnlsi-tmn]",
+        "label":"str-z111",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amnlsi-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Time-Mean on Single Soil-Model Level, Masked (Land)",
+        "label":"str-218",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:sdepth1} [amnla-tmn]",
+        "Coordinates":"sdepth1",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field on model atmosphere half-levels [XY-AH] [tmean]",
+        "label":"str-245",
+        "CMIP6 Title":"Temporal mean, Global field on model atmosphere half-levels [XY-AH] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Global field (single level) [XY-na]  [fixed]",
+        "label":"str-x100",
+        "CMIP6 Title":"Global field (single level) [XY-na]  [fixed]",
+        "Coordinates":"",
+        "Cell Measures":"--UGRID",
+        "description":""
+    },
+    {
+        "Title":"Synoptic Near-Surface Field (2m)",
+        "label":"str-250",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:height2m} [tpt]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {vegtype:} [amnlax-tmn]",
+        "label":"str-h011",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {vegtype:} [amnlax-tmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:depth2000m} [tmean]",
+        "label":"str-d30",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:depth2000m} [tmean]",
+        "Coordinates":"depth2000m",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec4natg} [amnlax-tmn]",
+        "label":"str-h066",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec4natg} [amnlax-tmn]",
+        "Coordinates":"typec4natg",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time-Mean Near-Surface Field (10m)",
+        "label":"str-d78",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:height10m} [tmean]",
+        "Coordinates":"height10m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal Maximum, Global field (single level) [XY-na] {:height2m} [tmaxc]",
+        "label":"str-e130",
+        "CMIP6 Title":"Temporal Maximum, Global field (single level) [XY-na] {:height2m} [tmaxc]",
+        "Coordinates":"height2m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Time invariant, Antarctic Polar Stereographic Grid, Ice Sheet [XYA-na] [ami-fx]",
+        "label":"str-c226",
+        "CMIP6 Title":"Time invariant, Antarctic Polar Stereographic Grid, Ice Sheet [XYA-na] [ami-fx]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Site (121 specified sites) [S-na] [apt-tpt]",
+        "label":"str-d09",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Site (121 specified sites) [S-na] [apt-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:olayer100m} [amds-tmn]",
+        "label":"str-d06",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:olayer100m} [amds-tmn]",
+        "Coordinates":"olayer100m",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typewetla} [amnla-tmn]",
+        "label":"str-z110",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typewetla} [amnla-tmn]",
+        "Coordinates":"typewetla",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"No temporal dimensions ... fixed field, Site (121 specified sites) [S-na]",
+        "label":"str-156",
+        "CMIP6 Title":"No temporal dimensions ... fixed field, Site (121 specified sites) [S-na]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [amni-twmn]",
+        "label":"str-b159",
+        "CMIP6 Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [amni-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p500} [tmean]",
+        "label":"str-181",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p500} [tmean]",
+        "Coordinates":"p500",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amnsia-twm]",
+        "label":"str-b221",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amnsia-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"This data structure is for sea ice diagnostics requested on the atmospheric grid, i.e. surface radiative fluxes."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:p500}",
+        "label":"str-d37",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] {:p500}",
+        "Coordinates":"p500",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time-Mean on 8 Pressure Levels",
+        "label":"str-210",
+        "CMIP6 Title":"Temporal mean, Global field (8 pressure levels) [XY-P8] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amng-twm]",
+        "label":"str-h046",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amng-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Time Invariant Global Field on Soil Levels [XY-na] {sdepth:} [amla]",
+        "label":"str-b290",
+        "CMIP6 Title":"Time Invariant Global Field on Soil Levels [XY-na] {sdepth:} [amla]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous, Global field (single level) [XY-na] {:p220} [amn-tpt]",
+        "label":"str-922",
+        "CMIP6 Title":"Instantaneous, Global field (single level) [XY-na] {:p220} [amn-tpt]",
+        "Coordinates":"p220",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Atmospheric Zonal Mean (on 19 pressure levels) [Y-P19] [tmean]",
+        "label":"str-b233",
+        "CMIP6 Title":"Temporal mean, Atmospheric Zonal Mean (on 19 pressure levels) [Y-P19] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field on 40 altitude levels [XY-H40] {scatratio:} [tmean]",
+        "label":"str-136",
+        "CMIP6 Title":"Temporal mean, Global field on 40 altitude levels [XY-H40] {scatratio:} [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Fixed, Atmospheric profile (model half-levels) [na-A] {spectband:}",
+        "label":"str-b269",
+        "CMIP6 Title":"Fixed, Atmospheric profile (model half-levels) [na-A] {spectband:}",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amse-tpt]",
+        "label":"str-a062",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amse-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typeveg} [amnla-tmn]",
+        "label":"str-h030",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typeveg} [amnla-tmn]",
+        "Coordinates":"typeveg",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [amngi-twmn]",
+        "label":"str-b164",
+        "CMIP6 Title":"Temporal mean, Greenland Polar Stereographic Grid [XYG-na] [amngi-twmn]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typecrop} [amnlax-tmn]",
+        "label":"str-h038",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typecrop} [amnlax-tmn]",
+        "Coordinates":"typecrop",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (4 pressure levels) [XY-P4]",
+        "label":"str-b120",
+        "CMIP6 Title":"Temporal mean, Global field (4 pressure levels) [XY-P4]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field, single level [XY-na] {effectRadLi tau:} [amn-tpt]",
+        "label":"str-d80",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field, single level [XY-na] {effectRadLi tau:} [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Time and Area Mean on Single Level",
+        "label":"str-013",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (27 pressure levels) [XY-P27] [tmean]",
+        "label":"str-287",
+        "CMIP6 Title":"Temporal mean, Global field (27 pressure levels) [XY-P27] [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Climatological mean, Global field (single level) [XY-na] [aclim]",
+        "label":"str-a019",
+        "CMIP6 Title":"Climatological mean, Global field (single level) [XY-na] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p700} [tmean]",
+        "label":"str-209",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p700} [tmean]",
+        "Coordinates":"p700",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typeburnt} [amnlax-tmn]",
+        "label":"str-h028",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typeburnt} [amnlax-tmn]",
+        "Coordinates":"typeburnt",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal Maximum, Global field (single level) [XY-na] {:height100m} [tmax]",
+        "label":"str-h057",
+        "CMIP6 Title":"Temporal Maximum, Global field (single level) [XY-na] {:height100m} [tmax]",
+        "Coordinates":"height100m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [tmin]",
+        "label":"str-d04",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [tmin]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global mean\/constant [na-na]",
+        "label":"str-b193",
+        "CMIP6 Title":"Temporal mean, Global mean\/constant [na-na]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {on model mesh points} [tmean]",
+        "label":"str-b141",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {on model mesh points} [tmean]",
+        "Coordinates":"",
+        "Cell Measures":"--MODEL",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [am-tm]",
+        "label":"str-b123",
+        "CMIP6 Title":"Temporal mean, Antarctic Polar Stereographic Grid [XYA-na] [am-tm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacellg",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {iceband:} [amnsib-twm]",
+        "label":"str-d57",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {iceband:} [amnsib-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amnla-tpt]",
+        "label":"str-h041",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (single level) [XY-na] [amnla-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:p220} [tmean]",
+        "label":"str-122",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:p220} [tmean]",
+        "Coordinates":"p220",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typec4crop} [amnlax-tmn]",
+        "label":"str-z102",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typec4crop} [amnlax-tmn]",
+        "Coordinates":"typec4crop",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal weighted mean, Global field (single level) [XY-na] {:typesirdg} [amnsi-twm]",
+        "label":"str-z105",
+        "CMIP6 Title":"Temporal weighted mean, Global field (single level) [XY-na] {:typesirdg} [amnsi-twm]",
+        "Coordinates":"typesirdg",
+        "Cell Measures":"area: areacello",
+        "description":""
+    },
+    {
+        "Title":"Climatological mean, Global ocean field on model levels [XY-O] [aclim]",
+        "label":"str-a072",
+        "CMIP6 Title":"Climatological mean, Global ocean field on model levels [XY-O] [aclim]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacello volume: volcello",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] [amv-twm]",
+        "label":"str-h388",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] [amv-twm]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Synoptic Field on Three Pressure Levels, Cell Mean",
+        "label":"str-268",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field (3 pressure levels) [XY-P3] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Zonal mean (on model levels) [Y-A] [tpt]",
+        "label":"str-b128",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Zonal mean (on model levels) [Y-A] [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Site (specific locations requested by CFMIP) [S-na] {:height10m} [apt-tpt]",
+        "label":"str-d33",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Site (specific locations requested by CFMIP) [S-na] {:height10m} [apt-tpt]",
+        "Coordinates":"height10m",
+        "Cell Measures":"",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value),, Global field on soil levels [XY-S] [amn-tpt]",
+        "label":"str-x385",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value),, Global field on soil levels [XY-S] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Temporal mean, Global field (single level) [XY-na] {:typepdec} [amnlax-tmn]",
+        "label":"str-h035",
+        "CMIP6 Title":"Temporal mean, Global field (single level) [XY-na] {:typepdec} [amnlax-tmn]",
+        "Coordinates":"typepdec",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Mean Daily Maximum, Global field (single level) [XY-na] {:height10m} [dmax]",
+        "label":"str-549",
+        "CMIP6 Title":"Mean Daily Maximum, Global field (single level) [XY-na] {:height10m} [dmax]",
+        "Coordinates":"height10m",
+        "Cell Measures":"area: areacella",
+        "description":"For time mean fields, it may be useful to add information about the sampling interval in the cell_methods string. The syntax is to append, in brackets, 'interval: *amount* *units*', for example 'area: time: mean (interval: 1 hr)'. The units must be valid UDUNITS, e.g. day or hr."
+    },
+    {
+        "Title":"Global Field (model levels) [XY-A]",
+        "label":"str-x269",
+        "CMIP6 Title":"Global Field (model levels) [XY-A]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere half-levels [XY-AH] {spectband:} [tpt]",
+        "label":"str-e47",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere half-levels [XY-AH] {spectband:} [tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    },
+    {
+        "Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] [amn-tpt]",
+        "label":"str-018",
+        "CMIP6 Title":"Instantaneous value (i.e. synoptic or time-step value), Global field on model atmosphere levels [XY-A] [amn-tpt]",
+        "Coordinates":"",
+        "Cell Measures":"area: areacella",
+        "description":""
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/omon.wfcorr",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/water_flux_correction"
+    },
+    "cf-standard-name-exists": false,
+    "cmip7-variable-groups": "",
+    "compound-name": "Omon.wfcorr",
+    "description": "Computed as the water flux into the ocean due to flux correction divided by the area of the ocean portion of the grid cell.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "If this does not vary from one year to the next, report only a single year.  Most models now have zero water flux adjustment, in which case ignore or report zero. Report on native horizontal grid as well as mapped onto sphere.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Water Flux Correction",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "DAMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 676,
+        "rank-by-file-count": 676,
+        "rank-by-submissions": 1159,
+        "rank-by-volume": 1427
+    }
+}

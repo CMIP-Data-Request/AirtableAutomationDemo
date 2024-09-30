@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/aermon.photo1d",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/photolysis_rate_of_ozone_to_1D_oxygen_atom"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_3d_monthly",
+    "compound-name": "AERmon.photo1d",
+    "description": "proposed name: photolysis\\_rate\\_of\\_ozone\\_to\\_O1D\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "AERmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "AERmon"
+    ],
+    "theme": "",
+    "title": "Photolysis Rate of Ozone (O3) to Excited Atomic Oxygen (the Singlet D State, O1D)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "AerChemMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 436,
+        "rank-by-file-count": 1246,
+        "rank-by-submissions": 839,
+        "rank-by-volume": 436
+    }
+}

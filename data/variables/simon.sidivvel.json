@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/simon.sidivvel",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/divergence_of_sea_ice_velocity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_dynamics_advanced",
+    "compound-name": "SImon.sidivvel",
+    "description": "Divergence of sea-ice velocity field (first shear strain invariant)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/monpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaicemon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SImon"
+    ],
+    "theme": "",
+    "title": "Divergence of the Sea-Ice Velocity Field",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "SIMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 290,
+        "rank-by-file-count": 446,
+        "rank-by-submissions": 290,
+        "rank-by-volume": 1336
+    }
+}

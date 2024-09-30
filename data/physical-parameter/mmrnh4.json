@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/mmrnh4",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.mmrnh4"
+        },
+        {
+            "@id": "dr:variables/aerday.mmrnh4"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.mmrnh4"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Dry mass fraction of ammonium aerosol particles in air.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "mmrnh4",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "AerChemMIP endorsement (1)",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "NH4 Mass Mixing Ratio",
+    "uid": "fe6ccf42-a41f-11e5-9025-ac72891c3257",
+    "units": "kg kg-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

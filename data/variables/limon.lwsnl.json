@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/limon.lwsnl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/liquid_water_content_of_surface_snow"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "LImon.lwsnl",
+    "description": "where land over land: this is computed as the total mass of liquid water contained interstitially within the snow layer of the land portion of a grid cell divided by the area of the land portion of the cell.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/landice"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LImon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "LImon"
+    ],
+    "theme": "",
+    "title": "Liquid Water Content of Snow Layer",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 337,
+        "rank-by-file-count": 337,
+        "rank-by-submissions": 351,
+        "rank-by-volume": 1197
+    }
+}

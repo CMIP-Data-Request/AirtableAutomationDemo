@@ -1,0 +1,65 @@
+{
+    "@id": "dr:data/variables/lmon.burntfractionall",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",
+    "compound-name": "Lmon.burntFractionAll",
+    "description": "Percentage of grid cell burned due to all fires including natural and anthropogenic fires and those associated with anthropogenic land use change\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Percentage of Entire Grid Cell That Is Covered by Burnt Vegetation (All Classes)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "C4MIP",
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 332,
+        "rank-by-file-count": 332,
+        "rank-by-submissions": 839,
+        "rank-by-volume": 1069
+    }
+}

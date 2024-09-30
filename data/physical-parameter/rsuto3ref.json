@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/rsuto3ref",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.rsuto3ref"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-29T11:12:59.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "When combined with output from the prognostic call to the radiation scheme, it can be used to diagnose instantaneous radiative forcing from ozone\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "rsuto3ref",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "fiona.oconnor@metoffice.gov.uk",
+    "proposer-name": "Atmosphere",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "Top of atmosphere shortwave flux from diagnostic call to radiation scheme using a reference ozone field",
+    "uid": "",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

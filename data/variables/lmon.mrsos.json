@@ -1,0 +1,65 @@
+{
+    "@id": "dr:data/variables/lmon.mrsos",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_content_of_water_in_soil_layer"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, ref_land_and_landice, c4mip_land_benchmarking_and_landcover_variables_tier1, WaterResources_monthly, CFMIP_baseline",
+    "compound-name": "Lmon.mrsos",
+    "description": "the mass of water in all phases in a thin surface soil layer.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "integrate over uppermost 10 cm\n",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Moisture in Upper Portion of Soil Column",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "C4MIP",
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 65,
+        "rank-by-file-count": 65,
+        "rank-by-submissions": 76,
+        "rank-by-volume": 536
+    }
+}

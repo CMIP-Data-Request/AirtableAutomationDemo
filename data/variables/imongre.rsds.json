@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/imongre.rsds",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_downwelling_shortwave_flux_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landice_greenland_allfreq",
+    "compound-name": "ImonGre.rsds",
+    "description": "Surface solar irradiance for UV calculations.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/landice"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "",
+    "provenance": "ISMIP6 [ImonGre]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "ImonGre"
+    ],
+    "theme": "",
+    "title": "Surface Downwelling Shortwave Radiation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "ISMIP6"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 856,
+        "rank-by-file-count": 856,
+        "rank-by-submissions": 1463,
+        "rank-by-volume": 1064
+    }
+}

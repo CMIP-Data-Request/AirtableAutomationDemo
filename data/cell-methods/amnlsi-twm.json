@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amnlsi-twm",
+    "@type": "dr:variable",
+    "brand-id": "x",
+    "brand-tag": "",
+    "cell-methods": "area: time: mean (comment: over land and sea ice)",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amnlsi-twm",
+    "title": "Weighted TIme Mean Excluding Ice-free Ocean",
+    "uid": "CellMethods::amnlsi-twm"
+}

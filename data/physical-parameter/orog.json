@@ -1,0 +1,56 @@
+{
+    "@id": "dr:data/physical-parameter/orog",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.orog"
+        },
+        {
+            "@id": "dr:variables/fx.orog"
+        },
+        {
+            "@id": "dr:variables/imonant.orog"
+        },
+        {
+            "@id": "dr:variables/imongre.orog"
+        },
+        {
+            "@id": "dr:variables/iyrant.orog"
+        },
+        {
+            "@id": "dr:variables/iyrgre.orog"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "orog",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CCMI1_annual,CCMI1_daily,CCMI1_fixed,CCMI1_hourly,CCMI1_monthly,CMIP5_6hrLev,CMIP5_Amon,CMIP5_aero,CMIP5_CF3hr,CMIP5_CFday,CMIP5_CFmon,CMIP5_CFsubhr,CORDEX_fx,PMIP3_Aclim,PMIP3_Amon,SPECS_6hr,SPECS_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Altitude",
+    "uid": "00e77372e8b909d9a827a0790e991fd9",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

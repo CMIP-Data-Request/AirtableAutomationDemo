@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/oyr.pcalc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/tendency_of_mole_concentration_of_calcite_expressed_as_carbon_in_sea_water_due_to_biological_production"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Oyr.pcalc",
+    "description": "Production rate of Calcite, a mineral that is a polymorph of calcium carbonate. The chemical formula of calcite is CaCO3. \n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Oyr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oyr"
+    ],
+    "theme": "",
+    "title": "Calcite Production",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 647,
+        "rank-by-file-count": 879,
+        "rank-by-submissions": 898,
+        "rank-by-volume": 647
+    }
+}

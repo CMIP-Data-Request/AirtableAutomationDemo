@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/oday.tos",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_surface_temperature"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_daily, ocean_mesoscale, DCPP_Essential, paleo_ocean, fish_model_day, hydrology, biodiv_marine_daily, CFMIP_baseline, cordex [test]",
+    "compound-name": "Oday.tos",
+    "description": "This may differ from \"surface temperature\" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on the ocean horizontal native grid.\n",
+    "provenance": "Oday ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oday"
+    ],
+    "theme": "",
+    "title": "Sea Surface Temperature",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, VolMIP",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "CORDEX"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": "OMIP"
+    },
+    "rank": {
+        "min-rank": 26,
+        "rank-by-file-count": 70,
+        "rank-by-submissions": 105,
+        "rank-by-volume": 26
+    }
+}

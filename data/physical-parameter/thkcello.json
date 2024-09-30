@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/thkcello",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/odec.thkcello"
+        },
+        {
+            "@id": "dr:variables/ofx.thkcello"
+        },
+        {
+            "@id": "dr:variables/omon.thkcello"
+        }
+    ],
+    "comments": "Clearly labelling where there are choices between variables.",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "thkcello",
+    "name-validation": 1,
+    "processing-comment": "If constant, report as a fixed configuration field, otherwise report as time varying.",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP.Omon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Ocean Model Cell Thickness",
+    "uid": "5aea9677ebbb40076a0e0b3b11fdb46f",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

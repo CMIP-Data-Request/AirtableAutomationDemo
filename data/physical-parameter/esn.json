@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/esn",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/eday.esn"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Water here means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".) In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Unless indicated in the cell\\_methods attribute, a quantity is assumed to apply to the whole area of each horizontal grid box. Previously, the qualifier where\\_type was used to specify that the quantity applies only to the part of the grid box of the named type.  Names containing the where\\_type qualifier are deprecated and newly created data should use the cell\\_methods attribute to indicate the horizontal area to which the quantity applies.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "esn",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [LS3MIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Snow Evaporation",
+    "uid": "59152958-9e49-11e5-803c-0d0b866b59f3",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

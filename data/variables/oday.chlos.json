@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/oday.chlos",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_concentration_of_phytoplankton_expressed_as_chlorophyll_in_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "marine_bgc, DCPP_Wider",
+    "compound-name": "Oday.chlos",
+    "description": "sum of chlorophyll from all phytoplankton group concentrations at the sea surface.  In most models this is equal to chldiat+chlmisc, that is the sum of \"Diatom Chlorophyll Mass Concentration\" plus \"Other Phytoplankton Chlorophyll Mass Concentration\"\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Oday ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oday"
+    ],
+    "theme": "",
+    "title": "Surface Mass Concentration of Total Phytoplankton Expressed as Chlorophyll in Sea Water",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 257,
+        "rank-by-file-count": 1095,
+        "rank-by-submissions": 727,
+        "rank-by-volume": 257
+    }
+}

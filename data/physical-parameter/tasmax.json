@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/tasmax",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.tasmax"
+        },
+        {
+            "@id": "dr:variables/day.tasmax"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "maximum near-surface (usually, 2 meter) air temperature (add cell\\_method attribute \"time: max\")\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tasmax",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf",
+        "max"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CCMI1_daily",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Daily Maximum Near-Surface Air Temperature",
+    "uid": "2dd48e8c50b4b88a83ff07d308e4e642",
+    "units": "K",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

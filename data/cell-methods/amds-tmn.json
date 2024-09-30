@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amds-tmn",
+    "@type": "dr:variable",
+    "brand-id": "sea",
+    "brand-tag": "",
+    "cell-methods": "area: mean where sea depth: sum where sea (top 100m only) time: mean",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amds-tmn",
+    "title": "Sum over Upper 100m, Time Mean",
+    "uid": "CellMethods::amds-tmn"
+}

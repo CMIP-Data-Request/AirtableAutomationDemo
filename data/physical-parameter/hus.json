@@ -1,0 +1,86 @@
+{
+    "@id": "dr:data/physical-parameter/hus",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrlev.hus"
+        },
+        {
+            "@id": "dr:variables/6hrplev.hus"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.hus7h"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.hus"
+        },
+        {
+            "@id": "dr:variables/amon.hus"
+        },
+        {
+            "@id": "dr:variables/cfday.hus"
+        },
+        {
+            "@id": "dr:variables/cfmon.hus"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.hus"
+        },
+        {
+            "@id": "dr:variables/day.hus"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.hus"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.hus7h"
+        },
+        {
+            "@id": "dr:variables/eday.hus"
+        },
+        {
+            "@id": "dr:variables/edayz.hus"
+        },
+        {
+            "@id": "dr:variables/emon.hus"
+        },
+        {
+            "@id": "dr:variables/emon.hus27"
+        },
+        {
+            "@id": "dr:variables/esubhr.hus"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Specific humidity is the mass fraction of water vapor in (moist) air.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "hus",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_6hrLev,CMIP5_Amon,CMIP5_CFday,CMIP5_CFmon,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Specific Humidity",
+    "uid": "53f4724d228998d54191c73352532ce3",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

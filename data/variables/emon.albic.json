@@ -1,0 +1,63 @@
+{
+    "@id": "dr:data/variables/emon.albic",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_albedo"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "paleo_cryosphere",
+    "compound-name": "Emon.albic",
+    "description": "This describes the albedo of any surface covered by ice, land and ocean\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "Emon"
+    ],
+    "theme": [
+        "Land & land-ice",
+        "Ocean & sea-ice",
+        "Earth System"
+    ],
+    "title": "Surface Albedo of ice-covered Surface",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "In progress",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "In progress",
+        "ocean-&-sea-ice-author-team-review": "In progress"
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eday.rsdsdiff",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_diffuse_downwelling_shortwave_flux_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "AgAirPollution, CFMIP_baseline",
+    "compound-name": "Eday.rsdsdiff",
+    "description": "Surface downwelling solar irradiance from diffuse radiation for UV calculations.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "",
+    "provenance": "CFMIP [aeroDay_2d]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eday"
+    ],
+    "theme": "",
+    "title": "Surface Diffuse Downwelling Shortwave Radiation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 468,
+        "rank-by-file-count": 936,
+        "rank-by-submissions": 898,
+        "rank-by-volume": 468
+    }
+}

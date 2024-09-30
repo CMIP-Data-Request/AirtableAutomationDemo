@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/physical-parameter/vas",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.vas"
+        },
+        {
+            "@id": "dr:variables/6hrplev.vas"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.vas"
+        },
+        {
+            "@id": "dr:variables/amon.vas"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.vas"
+        },
+        {
+            "@id": "dr:variables/day.vas"
+        },
+        {
+            "@id": "dr:variables/e3hr.vas"
+        },
+        {
+            "@id": "dr:variables/e1hr.vas"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Northward component of the near surface wind\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "vas",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_6hr,SPECS_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Northward Near-Surface Wind",
+    "uid": "86b1cd51f370e346ecb20f1e80cb6ea4",
+    "units": "m s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

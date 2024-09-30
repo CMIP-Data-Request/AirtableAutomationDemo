@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/6hrplevpt.intuaw",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/eastward_atmosphere_water_transport_across_unit_distance"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "synoptic_systems_high_priority",
+    "compound-name": "6hrPlevPt.intuaw",
+    "description": "This is the same as intuaw but defined on 6hrPlevPt\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "I've selected 6hrPlevPt for the table as there didn't seem to be another option that was appropriate but I think it should just be 6hrPt.\n",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "6hrPlevPt"
+    ],
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "6 hourly instantaneous vertical integral of zonal water vapor flux",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "In progress",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

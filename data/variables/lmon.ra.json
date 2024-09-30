@@ -1,0 +1,67 @@
+{
+    "@id": "dr:data/variables/lmon.ra",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_plant_respiration"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, FireMIP_monthly",
+    "compound-name": "Lmon.ra",
+    "description": "Carbon mass flux per unit area into atmosphere due to autotrophic respiration on land (respiration by producers) [see rh for heterotrophic production]\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Carbon Mass Flux into Atmosphere Due to Autotrophic (Plant) Respiration on Land [kgC m-2 s-1]",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "C4MIP",
+            "CMIP",
+            "CMIP5",
+            "LS3MIP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CDRMIP",
+            "DCPP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 117,
+        "rank-by-file-count": 117,
+        "rank-by-submissions": 139,
+        "rank-by-volume": 691
+    }
+}

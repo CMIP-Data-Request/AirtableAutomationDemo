@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/h2loss",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.h2loss"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-29T15:27:00.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "To understand hydrogen budget\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "h2loss",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "fiona.oconnor@metoffice.gov.uk",
+    "proposer-name": "Atmosphere",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "Loss of H2 due to chemical destruction",
+    "uid": "",
+    "units": "mol m-3 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

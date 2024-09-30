@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/lmon.nppwood",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/net_primary_productivity_of_biomass_expressed_as_carbon_accumulated_in_wood"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Lmon.nppWood",
+    "description": "This is the rate of carbon uptake by wood due to NPP\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Net Primary Production Allocated to Wood as Carbon Mass Flux [kgC m-2 s-1]",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 564,
+        "rank-by-file-count": 885,
+        "rank-by-submissions": 564,
+        "rank-by-volume": 1329
+    }
+}

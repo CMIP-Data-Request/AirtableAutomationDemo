@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/emon.prsn18o",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/solid_precipitation_flux_containing_18O"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "paleodata_assimilation, paleo_stable_isotopes",
+    "compound-name": "Emon.prsn18O",
+    "description": "Precipitation mass flux of water molecules that contain the oxygen-18 isotope (H2 18O), including solid phase only.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "PMIP [PMIP-Amon-02]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Precipitation Flux of Snow and Ice Containing Oxygen-18 (H2 18O)",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 9999,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

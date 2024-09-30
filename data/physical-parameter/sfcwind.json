@@ -1,0 +1,67 @@
+{
+    "@id": "dr:data/physical-parameter/sfcwind",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplev.sfcwind"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.sfcwind"
+        },
+        {
+            "@id": "dr:variables/amon.sfcwind"
+        },
+        {
+            "@id": "dr:variables/cf3hr.sfcwind"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.sfcwind"
+        },
+        {
+            "@id": "dr:variables/day.sfcwind"
+        },
+        {
+            "@id": "dr:variables/e3hr.sfcwind"
+        },
+        {
+            "@id": "dr:variables/e1hr.sfcwind"
+        },
+        {
+            "@id": "dr:variables/e1hr.sfcwind_dup"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "near-surface (usually, 10 meters) wind speed.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "sfcWind",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CORDEX_3h,CORDEX_day,CORDEX_mon,CORDEX_sem",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Near-Surface Wind Speed",
+    "uid": "4b97609a32d53dff5b8e73729e4f258b",
+    "units": "m s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

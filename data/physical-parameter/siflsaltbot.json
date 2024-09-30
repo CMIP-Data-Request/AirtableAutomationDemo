@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/siflsaltbot",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.siflsaltbot"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-06T09:36:24.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "siflsaltbot represents the total flux of salt from water into sea ice divided by grid-cell area; salt flux is upward (negative) during ice growth when salt is embedded into the ice and downward (positive) during melt when salt from sea ice is again released to the ocean. This term is needed to close the freshwater balance when there is a prognostic sea ice salinity and actual simulated brine (and hence salt) rejection from sea ice.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "siflsaltbot",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "patricia.derepentigny@uclouvain.be",
+    "proposer-name": "Ocean & Sea Ice Author Team (SIMIP)",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Salt Flux from Sea Ice",
+    "uid": "",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

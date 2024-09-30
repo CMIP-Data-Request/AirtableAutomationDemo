@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/difmxybo",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/oclim.difmxybo"
+        },
+        {
+            "@id": "dr:variables/oclim.difmxybo2d"
+        },
+        {
+            "@id": "dr:variables/oyr.difmxybo"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Lateral biharmonic viscosity applied to the momentum equations.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "difmxybo",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP_Oyr",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Ocean Momentum XY Biharmonic Diffusivity",
+    "uid": "84115d24881654a3deceba63b22cba06",
+    "units": "m4 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eday.evspsbl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/water_evapotranspiration_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "temperature_variability_daily_highpriority, AgWaterCore, AgWaterExt, biodiv_freshwater_daily, impact_energy_hydropower, biodiv_land_daily",
+    "compound-name": "Eday.evspsbl",
+    "description": "Evaporation at surface (also known as evapotranspiration): flux of water into the atmosphere due to conversion of both liquid and solid phases to vapor (from underlying surface and vegetation)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LS3MIP [LWday]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eday"
+    ],
+    "theme": "",
+    "title": "Evaporation Including Sublimation and Transpiration",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LS3MIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 800,
+        "rank-by-file-count": 897,
+        "rank-by-submissions": 1230,
+        "rank-by-volume": 800
+    }
+}

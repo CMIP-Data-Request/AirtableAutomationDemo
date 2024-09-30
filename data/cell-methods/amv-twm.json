@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amv-twm",
+    "@type": "dr:variable",
+    "brand-id": "veg",
+    "brand-tag": "",
+    "cell-methods": "area: time: mean where vegetation (comment: mask=vegFrac)",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "vegFrac",
+    "regex": 1.0,
+    "label": "amv-twm",
+    "title": "Weighted Time Mean on Vegetation",
+    "uid": "CellMethods::amv-twm"
+}

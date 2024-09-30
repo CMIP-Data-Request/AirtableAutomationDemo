@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/simon.sidmassth",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/tendency_of_sea_ice_amount_due_to_sea_ice_thermodynamics"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_budget_mass_monthly",
+    "compound-name": "SImon.sidmassth",
+    "description": "Total change in sea-ice mass from thermodynamic processes divided by grid-cell area\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaicemon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SImon"
+    ],
+    "theme": "",
+    "title": "Sea-Ice Mass Change from Thermodynamics",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "SIMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 264,
+        "rank-by-file-count": 593,
+        "rank-by-submissions": 264,
+        "rank-by-volume": 826
+    }
+}

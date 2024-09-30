@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/co3satarag",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.co3satarag"
+        },
+        {
+            "@id": "dr:variables/oyr.co3satarag"
+        },
+        {
+            "@id": "dr:variables/oday.co3satarag"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Mole concentration (number of moles per unit volume: molarity) of the carbonate anion (CO3) for sea water in equilibrium with pure Aragonite. Aragonite  (CaCO3) is a mineral that is a polymorph of calcium carbonate.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "co3satarag",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP.Omon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Mole Concentration of Carbonate Ion in Equilibrium with Pure Aragonite in Sea Water",
+    "uid": "065edaa295c376f0e9bc1985bc3f491c",
+    "units": "mol m-3",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

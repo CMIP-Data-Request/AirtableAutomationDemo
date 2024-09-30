@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/imonant.prsn",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/snowfall_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landice_antarctica_allfreq",
+    "compound-name": "ImonAnt.prsn",
+    "description": "quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/landice"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "ISMIP6 [ImonAnt]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "ImonAnt"
+    ],
+    "theme": "",
+    "title": "Snowfall Flux",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "ISMIP6"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1517,
+        "rank-by-file-count": 1522,
+        "rank-by-submissions": 1765,
+        "rank-by-volume": 1517
+    }
+}

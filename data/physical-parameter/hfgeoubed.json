@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/hfgeoubed",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/ifxant.hfgeoubed"
+        },
+        {
+            "@id": "dr:variables/ifxgre.hfgeoubed"
+        },
+        {
+            "@id": "dr:variables/iyrant.hfgeoubed"
+        },
+        {
+            "@id": "dr:variables/iyrgre.hfgeoubed"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Upward geothermal heat flux per unit area into the base of grounded land ice. This is related to the geothermal heat flux out of the bedrock, but may be modified by horizontal transport due to run-off and by melting at the interface.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "hfgeoubed",
+    "name-validation": 1,
+    "processing-comment": "If this field is time-independent then save it as a fixed field, otherwise save a time dependent version.",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [ISMIP6]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Geothermal Heat Flux Beneath Land Ice",
+    "uid": "5914a1ea-9e49-11e5-803c-0d0b866b59f3",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

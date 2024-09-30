@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/mc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.mc"
+        },
+        {
+            "@id": "dr:variables/cfday.mc"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.mc"
+        },
+        {
+            "@id": "dr:variables/esubhr.mc"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The net mass flux should represent the difference between the updraft and downdraft components.  The flux is computed as the mass divided by the area of the grid cell.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "mc",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CFday,CMIP5_CFsubhr,PMIP3_Aclim,PMIP3_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Convective Mass Flux",
+    "uid": "6d790fe4caa7feff46a41ae7b3811e52",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

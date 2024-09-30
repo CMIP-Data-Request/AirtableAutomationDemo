@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/variables/omon.chlcalc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_concentration_of_calcareous_phytoplankton_expressed_as_chlorophyll_in_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_ocean_carbon_cycle_tier2",
+    "compound-name": "Omon.chlcalc",
+    "description": "chlorophyll concentration from the calcite-producing phytoplankton component alone\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  \"Tracer\"  concentations should be reported even if they are diagnosed rather than prognostically calculated.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Mass Concentration of Calcareous Phytoplankton Expressed as Chlorophyll in Sea Water",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "C4MIP",
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 824,
+        "rank-by-file-count": 1551,
+        "rank-by-submissions": 1681,
+        "rank-by-volume": 824
+    }
+}

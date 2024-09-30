@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amnlax-tmn",
+    "@type": "dr:variable",
+    "brand-id": "lnd",
+    "brand-tag": "",
+    "cell-methods": "area: mean where land over all_area_types time: mean",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amnlax-tmn",
+    "title": "Time Mean contribution from Land",
+    "uid": "CellMethods::amnlax-tmn"
+}

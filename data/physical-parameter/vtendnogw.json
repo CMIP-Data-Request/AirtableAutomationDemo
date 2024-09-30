@@ -1,0 +1,52 @@
+{
+    "@id": "dr:data/physical-parameter/vtendnogw",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/e1hr.vtendnogw"
+        },
+        {
+            "@id": "dr:variables/emon.vtendnogw"
+        },
+        {
+            "@id": "dr:variables/emonz.vtendnogw"
+        },
+        {
+            "@id": "dr:variables/eday.vtendnogw"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Tendency of the northward wind by parameterized nonorographic gravity waves.  (Note that CF name tables only have a general northward tendency for all gravity waves, and we need it separated by type.)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "vtendnogw",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "gw"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [DynVarMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Northward Acceleration Due to Non-Orographic Gravity Wave Drag",
+    "uid": "59170700-9e49-11e5-803c-0d0b866b59f3",
+    "units": "m s-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/ccn1",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.ccn1"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-29T16:15:37.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Addresses current gaps in ACI, nitrate aerosol budget, and climate responses\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "ccn1",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "fiona.oconnor@metoffice.gov.uk",
+    "proposer-name": "Atmosphere",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "CCN concentration at 1.0 percent supersaturation, based on aerosol chemical composition and size",
+    "uid": "",
+    "units": "m-3",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

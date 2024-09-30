@@ -1,0 +1,53 @@
+{
+    "@id": "dr:data/physical-parameter/clwvi",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.clwvi"
+        },
+        {
+            "@id": "dr:variables/cf3hr.clwvi"
+        },
+        {
+            "@id": "dr:variables/cfday.clwvi"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.clwvi"
+        },
+        {
+            "@id": "dr:variables/e3hr.clwvi"
+        }
+    ],
+    "comments": "Precipating hydrometeors",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Mass of condensed (liquid + ice) water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "clwvi",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Condensed Water Path",
+    "uid": "80a1dd605b563e9f09c718a5ba9cb9cc",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

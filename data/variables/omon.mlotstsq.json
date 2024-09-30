@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/omon.mlotstsq",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/square_of_ocean_mixed_layer_thickness_defined_by_sigma_t"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Omon.mlotstsq",
+    "description": "The phrase \"square\\_of\\_X\" means X\\*X. The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by \"temperature\", \"sigma\", \"sigma\\_theta\", \"sigma\\_t\" or vertical diffusivity is the level at which the quantity indicated differs from its surface value by a certain amount. A coordinate variable or scalar coordinate variable with standard name sea\\_water\\_sigma\\_t\\_difference can be used to specify the sigma\\_t criterion that determines the layer thickness. Sigma-t of sea water is the density of water at atmospheric pressure (i.e. the surface) having the same temperature and salinity, minus 1000 kg m-3. \"Thickness\" means the vertical extent of a layer.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on native horizontal grid.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Square of Ocean Mixed Layer Thickness Defined by Sigma T",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CMIP5"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 248,
+        "rank-by-file-count": 624,
+        "rank-by-submissions": 248,
+        "rank-by-volume": 721
+    }
+}

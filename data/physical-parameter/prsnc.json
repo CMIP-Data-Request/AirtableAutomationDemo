@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/prsnc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/cf3hr.prsnc"
+        },
+        {
+            "@id": "dr:variables/e3hr.prsnc"
+        },
+        {
+            "@id": "dr:variables/eday.prsnc"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "convective precipitation of all forms of water in the solid phase.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "prsnc",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_CF3hr",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Convective Snowfall Flux",
+    "uid": "27b742af91660071179e5440d83ddc37",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

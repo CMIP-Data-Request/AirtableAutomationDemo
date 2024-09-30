@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/litemptop",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/imonant.litemptop"
+        },
+        {
+            "@id": "dr:variables/imongre.litemptop"
+        },
+        {
+            "@id": "dr:variables/iyrant.litemptop"
+        },
+        {
+            "@id": "dr:variables/iyrgre.litemptop"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Upper boundary temperature that is used to force ice sheet models. It is the temperature at the base of the snowpack models, and does not vary with seasons. Report surface temperature of ice sheet where snow thickness is zero\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "litemptop",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 [ISMIP6]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Temperature at Top of Ice Sheet Model",
+    "uid": "14277100-b574-11e6-9ed4-5404a60d96b5",
+    "units": "K",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

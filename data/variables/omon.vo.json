@@ -1,0 +1,68 @@
+{
+    "@id": "dr:data/variables/omon.vo",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_water_y_velocity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, surgemip_variables, Bjerknes_Index_ENSO, Hadley_Walker_Circulations, aerchemmip_3d_monthly, marine_bgc, paleo_ocean_3D, DCPP_Wider, SO_BGC-cloud_ocean_monthly, fish_model_expand_mon",
+    "compound-name": "Omon.vo",
+    "description": "Prognostic y-ward velocity component resolved by the model.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Sea Water Y Velocity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "DAMIP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "DCPP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CDRMIP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 10,
+        "rank-by-file-count": 48,
+        "rank-by-submissions": 39,
+        "rank-by-volume": 10
+    }
+}

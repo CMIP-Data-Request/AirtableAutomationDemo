@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/mmrpm10",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.mmrpm10"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Mass fraction atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "mmrpm10",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CCMI1_monthly",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "PM10 Mass Mixing Ratio",
+    "uid": "6aee2e2f22bb5a7a9aee1f88926dfd92",
+    "units": "kg kg-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/fgco2abio",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.fgco2abio"
+        },
+        {
+            "@id": "dr:variables/oyr.fgco2abio"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Gas exchange flux of abiotic CO2 (positive into ocean)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "fgco2abio",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP_Omon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Downward Mass Flux of Carbon as Abiotic CO2 [kgC m-2 s-1]",
+    "uid": "042e575e61a271e122d317ca7b39dcb4",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

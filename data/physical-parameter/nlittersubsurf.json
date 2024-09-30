@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/nlittersubsurf",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.nlittersubsurf"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "\"Content\" indicates a quantity per unit area. \"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Subsurface litter\" means the part of the litter mixed within the soil below the surface. The sum of the quantities with standard names wood\\_debris\\_mass\\_content\\_of\\_nitrogen, surface\\_litter\\_mass\\_content\\_of\\_nitrogen and subsurface\\_litter\\_mass\\_content\\_of\\_nitrogen is the total nitrogen mass content of dead plant material.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "nLitterSubSurf",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 [C4MIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Nitrogen Mass in Below-Ground Litter (non CWD)",
+    "uid": "71c9768e-b8ab-11e6-97ab-ac72891c3257",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

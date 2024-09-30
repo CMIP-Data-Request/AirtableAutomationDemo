@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/fraclut",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.fraclut"
+        },
+        {
+            "@id": "dr:variables/eyr.fraclut"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "End of year values (not annual mean); note that percentage should be reported as percentage of land grid cell (example: frac\\_lnd = 0.5, frac\\_ocn = 0.5, frac\\_crop\\_lnd = 0.2 (of land portion of grid cell), then frac\\_lut(crop) = 0.5\\*0.2 = 0.1)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "fracLut",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [LUMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Percentage of Grid Cell for Each Land-Use Tile",
+    "uid": "591423aa-9e49-11e5-803c-0d0b866b59f3",
+    "units": "%",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/clcalipso2",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/e3hrpt.clcalipso2"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Clouds detected by CALIPSO but below the detectability threshold of CloudSat\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "clcalipso2",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_CF3hr,CMIP5_CFsubhrOff",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "CALIPSO Cloud Cover Percentage Undetected by CloudSat (as Percentage of Area Covered)",
+    "uid": "0245fef16f6eb29465d7fa55923fd12d",
+    "units": "%",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

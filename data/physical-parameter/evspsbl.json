@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/evspsbl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.evspsbl"
+        },
+        {
+            "@id": "dr:variables/cf3hr.evspsbl"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.evspsbl"
+        },
+        {
+            "@id": "dr:variables/eday.evspsbl"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Evaporation at surface (also known as evapotranspiration): flux of water into the atmosphere due to conversion of both liquid and solid phases to vapor (from underlying surface and vegetation)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "evspsbl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFsubhr,CORDEX_6h,CORDEX_day,CORDEX_mon,CORDEX_sem,PMIP3_Aclim,PMIP3_Amon,SPECS_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Evaporation Including Sublimation and Transpiration",
+    "uid": "089961a3af4d54d5fb045cf3750e760c",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

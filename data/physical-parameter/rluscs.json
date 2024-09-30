@@ -1,0 +1,39 @@
+{
+    "@id": "dr:data/physical-parameter/rluscs",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/1 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": "",
+    "comments": "",
+    "created": "2024-09-11T23:51:07.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "It was effectively assumed that the surface has an emissivity of 1.0 so people could use the all-sky upwelling flux. This is not the case for modern climate models which use emissivities < 1.0 which results in local differences of several W/m^2. This affects the ability to compute clear-sky surface budgets and cloud radiative effect.\n",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rluscs",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "carsten.abraham@ec.gc.ca",
+    "proposer-name": "Carsten Abraham",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "Surface Upwelling Longwave Radiation Clear Sky",
+    "uid": "",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "Variable naming matches existing clear sky terms. Should be accepted.",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

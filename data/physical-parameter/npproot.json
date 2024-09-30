@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/npproot",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/lmon.npproot"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "This is the rate of carbon uptake by roots due to NPP\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "nppRoot",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Lmon,PMIP3_Lclim,PMIP3_Lmon,SPECS_Lmon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Net Primary Production Allocated to Roots as Carbon Mass Flux [kgC m-2 s-1]",
+    "uid": "091b217c2450d012fb2e192dee04053f",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

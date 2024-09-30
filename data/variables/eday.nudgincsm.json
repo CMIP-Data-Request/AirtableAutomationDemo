@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eday.nudgincsm",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/nudging_increment_in_mass_content_of_water_in_soil"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Eday.nudgincsm",
+    "description": "nudging\\_increment\\_in\\_water\\_content\\_of\\_soil\\_layer\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LS3MIP [LWday]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eday"
+    ],
+    "theme": "",
+    "title": "Nudging Increment of Water in Soil Moisture",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LS3MIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1334,
+        "rank-by-file-count": 1699,
+        "rank-by-submissions": 1599,
+        "rank-by-volume": 1334
+    }
+}

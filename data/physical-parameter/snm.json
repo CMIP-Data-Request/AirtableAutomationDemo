@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/snm",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/eday.snm"
+        },
+        {
+            "@id": "dr:variables/imonant.snm"
+        },
+        {
+            "@id": "dr:variables/imongre.snm"
+        },
+        {
+            "@id": "dr:variables/limon.snm"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The total surface snow melt rate on the land portion of the grid cell divided by the land area in the grid cell; report as zero for snow-free land regions and missing where there is no land.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "snm",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CORDEX_6h,CORDEX_day,CORDEX_mon,CORDEX_sem",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Snow Melt",
+    "uid": "5652800cc64fd945cc990547aee633a1",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

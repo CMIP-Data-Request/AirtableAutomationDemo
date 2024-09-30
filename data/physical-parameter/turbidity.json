@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/turbidity",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/day.turbidity"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-14T09:58:09.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "turbidity of seawater and coastal runoff\n",
+    "last-modified-by": "Data Request co-leads",
+    "name": "turbidity",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "ioloi1128@gmail.com",
+    "proposer-name": "Wan-Ling Tseng",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Impacts & Adaptation"
+    ],
+    "title": "turbidity of coastal runoff",
+    "uid": "",
+    "units": "units",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "In progress",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

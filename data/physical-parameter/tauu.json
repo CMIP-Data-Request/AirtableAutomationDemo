@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/tauu",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.tauu"
+        },
+        {
+            "@id": "dr:variables/cf3hr.tauu"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.tauu"
+        },
+        {
+            "@id": "dr:variables/eday.tauu"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Downward eastward wind stress at the surface\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tauu",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFsubhr,CORDEX_6h,CORDEX_day,PMIP3_Aclim,PMIP3_Amon,SPECS_Amon,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Downward Eastward Wind Stress",
+    "uid": "3abb7c5b4c4650e9d17a8439004aebea",
+    "units": "Pa",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

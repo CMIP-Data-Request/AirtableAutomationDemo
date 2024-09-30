@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/tnhusscp",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/emon.tnhusscp"
+        },
+        {
+            "@id": "dr:variables/esubhr.tnhusscp"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The phrase \"tendency\\_of\\_X\" means derivative of X with respect to time. \"Specific\" means per unit mass. Specific humidity is the mass fraction of water vapor in (moist) air. The specification of a physical process by the phrase \"due\\_to\\_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. A variable with the standard name of tendency\\_of\\_specific\\_humidity\\_due\\_to\\_stratiform\\_cloud\\_and\\_precipitation should contain the effects of all processes which convert stratiform clouds and precipitation to or from water vapor. In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes).\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tnhusscp",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [CFMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Tendency of Specific Humidity Due to Stratiform Clouds and Precipitation",
+    "uid": "59135d8a-9e49-11e5-803c-0d0b866b59f3",
+    "units": "s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eyr.clitter",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/litter_mass_content_of_carbon"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Eyr.cLitter",
+    "description": "\"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Content\" indicates a quantity per unit area. The sum of the quantities with standard names surface\\_litter\\_mass\\_content\\_of\\_carbon and subsurface\\_litter\\_mass\\_content\\_of\\_carbon has the standard name litter\\_mass\\_content\\_of\\_carbon.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LUMIP [Lyr_Lut]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eyr"
+    ],
+    "theme": "",
+    "title": "Carbon Mass in Litter Pool",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LUMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 612,
+        "rank-by-file-count": 612,
+        "rank-by-submissions": 898,
+        "rank-by-volume": 1635
+    }
+}

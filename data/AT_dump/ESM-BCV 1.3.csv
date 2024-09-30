@@ -1,0 +1,170 @@
+,Name,MIP Variables (from CMOR Variables),CF Standard Name (from MIP Variables) 2 (from CMOR Variables),Title (from CMOR Variables),Structure Title (from CMOR Variables),Shortlist,V1.1,Version 1.2,Version 1.3,Summary,v1.3 (standard(,Modeling Realm (from CMOR Variables),Fixed,History,V1.3 (high)
+rec0CZW0KL6ahi2Mt,SImon.simass,simass,sea_ice_amount,Sea-Ice Mass per Area,"""Time and Area Mean on Single Level, Masked (Sea)""",SImon.simass,SImon.simass,True,True,Summary,SImon.simass,seaIce,,,
+rec0K6eI2lUAvIdTG,day.tasmin,tasmin,air_temperature,Daily Minimum Near-Surface Air Temperature,"""Temporal Minimum, Near-Surface Field (2m)""",day.tasmin,day.tasmin,True,True,Summary,day.tasmin,atmos,,,
+rec0OWDPmkNJy5EtU,Amon.rldscs,rldscs,surface_downwelling_longwave_flux_in_air_assuming_clear_sky,Surface Downwelling Clear-Sky Longwave Radiation,Time and Area Mean on Single Level,Amon.rldscs,Amon.rldscs,True,True,Summary,Amon.rldscs,atmos,,,
+rec0ZP1gOUKqmS5eO,Amon.rsdt,rsdt,toa_incoming_shortwave_flux,TOA Incident Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsdt,Amon.rsdt,True,True,Summary,Amon.rsdt,atmos,,,
+rec17npWMZ0Jeo6jB,Efx.slthick,slthick,cell_thickness,Thickness of Soil Layers,Time Invariant Global Field on Soil Levels [XY-na] {sdepth:} [amla],Efx.slthick,Efx.slthick,True,True,Summary,,land,True,,
+rec1IyeZAznBlbOSi,fx.sftgif,sftgif,land_ice_area_fraction,Land Ice Area Percentage,Model Configuration Field,fx.sftgif,fx.sftgif,True,True,Summary,,land,True,,
+rec1e4BlL10YGwkqn,SImon.siconc,siconc,sea_ice_area_fraction,Sea-Ice Area Percentage (Ocean Grid),"""Weighted Time-Mean on Single Level, Masked (Sea)""",SImon.siconc,SImon.siconc,True,True,Summary,SImon.siconc,seaIce,,,
+rec2PswE32kAHR8Kf,Oyr.o2,o2,mole_concentration_of_dissolved_molecular_oxygen_in_sea_water,Dissolved Oxygen Concentration,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Oyr.o2,Oyr.o2,True,,Summary,,ocnBgchem,,"Removed following review of corrected ESGF download stats.
+",
+rec2ahyEdw0Tw0svl,Amon.wap,wap,lagrangian_tendency_of_air_pressure,Omega (=dp/dt),Time-Mean on 19 Pressure Levels,Amon.wap,Amon.wap,True,True,Summary,Amon.wap,atmos,,,
+rec3QcO2HTAqe9HvS,Amon.pr,pr,precipitation_flux,Precipitation,Time and Area Mean on Single Level,Amon.pr,Amon.pr,True,True,Summary,Amon.pr,atmos,,,
+rec3ppJ9RimRu0vxL,6hrLev.hus,,,,,6hrLev.hus,,,,Summary,,,,,
+rec3rbERyRfP18Rtc,Efx.siltfrac,siltfrac,volume_fraction_of_silt_in_soil,Silt Fraction,Time Invariant Global Field on Soil Levels [XY-na] {sdepth:} [amla],Efx.siltfrac,Efx.siltfrac,True,,Summary,,atmos,True,Removed following review of corrected ESGF download stats.,
+rec3t4vuYE4MUKHhD,Amon.rsuscs,rsuscs,surface_upwelling_shortwave_flux_in_air_assuming_clear_sky,Surface Upwelling Clear-Sky Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsuscs,Amon.rsuscs,True,True,Summary,Amon.rsuscs,atmos,,,
+rec49ui5wqCvEmfnW,Amon.ta,ta,air_temperature,Air Temperature,Time-Mean on 19 Pressure Levels,Amon.ta,Amon.ta,True,True,Summary,Amon.ta,atmos,,,
+rec4FBxoHTFjEYd9I,CFday.cl,,,,,CFday.cl,,,,Summary,,,,,
+rec5EWtHWkpO53lMG,CFday.zg,,,,,CFday.zg,,,,Summary,,,,,
+rec5z4sjMBh2x8QqM,6hrPlevPt.va,va,northward_wind,Northward Wind,"""Synoptic Field on Three Pressure Levels, Cell Mean""",6hrPlevPt.va,6hrPlevPt.va,True,True,Summary,,atmos,,,6hrPlevPt.va
+rec71syvnecQ9ObNC,6hrLev.va,,,,,6hrLev.va,,,,Summary,,,,,
+rec73v7je4CkiTMEy,fx.areacella,areacella,cell_area,Grid-Cell Area for Atmospheric Grid Variables,"""Model Configuration Field, Area Sum (No Height Dependence)""",fx.areacella,fx.areacella,True,True,Summary,,"atmos, land",True,,
+rec8MlEt8m6ZFpJ3N,Efx.rsd,,,,,Efx.rsd,,,,Summary,,,,,
+rec8khg0WHgAa5oWG,day.hur,hur,relative_humidity,Relative Humidity,Time-Mean on 8 Pressure Levels,day.hur,day.hur,True,True,Summary,,atmos,,,day.hur
+rec92ErjowVBd055J,Eday.hus,hus,specific_humidity,Specific Humidity,Time-Mean on 19 Pressure Levels,Eday.hus,Eday.hus,True,True,Summary,,atmos,,,Eday.hus
+rec9H05mt6lWBsugL,CFday.hur,,,,,CFday.hur,,,,Summary,,,,,
+rec9RkqRCygX7IGS9,day.rlds,rlds,surface_downwelling_longwave_flux_in_air,Surface Downwelling Longwave Radiation,Time and Area Mean on Single Level,day.rlds,day.rlds,True,,Summary,,atmos,,Removed following review of corrected ESGF download stats.,
+rec9Y3AZWz0uz6y4L,Omon.wo,wo,upward_sea_water_velocity,Sea Water Vertical Velocity,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.wo,Omon.wo,True,True,Summary,,ocean,,,Omon.wo
+rec9ajjAdi3wZGP1t,Amon.rlus,rlus,surface_upwelling_longwave_flux_in_air,Surface Upwelling Longwave Radiation,Time and Area Mean on Single Level,Amon.rlus,Amon.rlus,True,True,Summary,Amon.rlus,atmos,,,
+recA21maLUJ2qUzvT,Lmon.lai,lai,leaf_area_index,Leaf Area Index,"""Time and Area Mean on Single Level, Masked (Land)""",Lmon.lai,Lmon.lai,True,True,Summary,Lmon.lai,land,,,
+recAb8HL5T0RMkCGm,Omon.thkcello,thkcello,cell_thickness,Ocean Model Cell Thickness,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",,Omon.thkcello,True,True,Summary,,ocean,,,Omon.thkcello
+recCG7qp0zu6ejfqZ,fx.areacellr,areacellr,cell_area,Grid-Cell Area for River Model Variables,"""Model Configuration Field, Area Sum (No Height Dependence)""",fx.areacellr,fx.areacellr,True,,Summary,,land,True,"Removed following June 2024 decision on publication threshold.
+",
+recCSuTM8qZlrshGk,day.clt,clt,cloud_area_fraction,Total Cloud Cover Percentage,Time and Area Mean on Single Level,day.clt,day.clt,True,True,Summary,day.clt,atmos,,,
+recCoJvUBgHI58dkx,Oday.sos,sos,sea_surface_salinity,Sea Surface Salinity,"""Time and Area Mean on Single Level, Masked (Sea)""",,Oday.sos,True,True,Summary,Oday.sos,ocean,,,
+recDE4gYbqbK7Plmr,LImon.snw,snw,surface_snow_amount,Surface Snow Amount,"""Time and Area Mean on Single Level, Masked (Land)""",LImon.snw,,,True,Summary,LImon.snw,"landIce, land",,Added following review of corrected ESGF download stats.,
+recDEto82Mo6wOfBn,Lmon.mrso,mrso,mass_content_of_water_in_soil,Total Soil Moisture Content,"""Time and Area Mean on Single Level, Masked (Land)""",Lmon.mrso,Lmon.mrso,True,True,Summary,Lmon.mrso,land,,,
+recDQZX2q4Yu6HyFv,Lmon.mrsos,mrsos,mass_content_of_water_in_soil_layer,Moisture in Upper Portion of Soil Column,"""Time-Mean on Single Soil-Model Level, Masked (Land)""",Lmon.mrsos,Lmon.mrsos,True,True,Summary,Lmon.mrsos,land,,,
+recDji4tlCxfpRuvN,day.ua,ua,eastward_wind,Eastward Wind,Time-Mean on 8 Pressure Levels,day.ua,day.ua,True,True,Summary,,atmos,,,day.ua
+recDyunrQGzoHMVo4,Omon.tos,tos,sea_surface_temperature,Sea Surface Temperature,"""Time and Area Mean on Single Level, Masked (Sea)""",Omon.tos,Omon.tos,True,True,Summary,Omon.tos,ocean,,,
+recEImBPNVyjWbJdC,Amon.clwvi,clwvi,atmosphere_mass_content_of_cloud_condensed_water,Condensed Water Path,Time and Area Mean on Single Level,Amon.clwvi,Amon.clwvi,True,True,Summary,Amon.clwvi,atmos,,,
+recEKmH2BxnRRLwwn,Omon.so,so,sea_water_salinity,Sea Water Salinity,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.so,Omon.so,True,True,Summary,,ocean,,,Omon.so
+recETi81ICwnj8yro,Amon.sfcWind,sfcWind,wind_speed,Near-Surface Wind Speed,Time-Mean Near-Surface Field (10m),Amon.sfcWind,Amon.sfcWind,True,True,Summary,Amon.sfcWind,atmos,,,
+recEjY1TNri8XDxdB,6hrLev.ta,,,,,6hrLev.ta,,,,Summary,,,,,
+recFjfF7wQIGlINvK,day.vas,vas,northward_wind,Northward Near-Surface Wind,Time-Mean Near-Surface Field (10m),day.vas,day.vas,True,True,Summary,day.vas,atmos,,,
+recFpBqodKev9y3eX,Eday.va,va,northward_wind,Northward Wind,Time-Mean on 19 Pressure Levels,Eday.va,Eday.va,True,True,Summary,,atmos,,,Eday.va
+recG0uM5eu2FCuQis,6hrPlevPt.ta,ta,air_temperature,Air Temperature,"""Synoptic Field on Three Pressure Levels, Cell Mean""",6hrPlevPt.ta,6hrPlevPt.ta,True,True,Summary,,atmos,,,6hrPlevPt.ta
+recG1fy4boX4q3z9j,day.psl,psl,air_pressure_at_mean_sea_level,Sea Level Pressure,Time and Area Mean on Single Level,day.psl,day.psl,True,True,Summary,day.psl,atmos,,,
+recGQM0o3TeHQQ7OM,Eday.ua,ua,eastward_wind,Eastward Wind,Time-Mean on 19 Pressure Levels,Eday.ua,Eday.ua,True,True,Summary,,atmos,,,Eday.ua
+recHCiyUgbC8mY80W,Omon.sos,sos,sea_surface_salinity,Sea Surface Salinity,"""Time and Area Mean on Single Level, Masked (Sea)""",Omon.sos,Omon.sos,True,True,Summary,Omon.sos,ocean,,,
+recHZlHJqHvGkDfQW,Omon.uo,uo,sea_water_x_velocity,Sea Water X Velocity,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.uo,Omon.uo,True,True,Summary,,ocean,,,Omon.uo
+recIE25D7hQJaOuXU,Lmon.mrros,mrros,surface_runoff_flux,Surface Runoff,"""Time and Area Mean on Single Level, Masked (Land)""",Lmon.mrros,Lmon.mrros,True,True,Summary,Lmon.mrros,land,,,
+recJ1htkGEnJEMy8s,Amon.clw,clw,mass_fraction_of_cloud_liquid_water_in_air,Mass Fraction of Cloud Liquid Water,"""Temporal mean, Global field on model atmosphere levels [XY-A]""",Amon.clw,Amon.clw,True,True,Summary,,atmos,,,Amon.clw
+recJXjp8nAzANKmHu,Omon.zos,zos,sea_surface_height_above_geoid,Sea Surface Height Above Geoid,"""Time and Area Mean on Single Level, Masked (Sea)""",Omon.zos,Omon.zos,True,True,Summary,Omon.zos,ocean,,,
+recJZMKbbTpzfHB05,Omon.umo,umo,ocean_mass_x_transport,Ocean Mass X Transport,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.umo,Omon.umo,True,True,Summary,,ocean,,,Omon.umo
+recKg2mFqWeUzSPI2,Ofx.basin,basin,region,Region Selection Index,Model Configuration Integer Field of Flag Values,Ofx.basin,Ofx.basin,True,True,Summary,,ocean,True,,
+recKu7r2k1t76BIzy,Amon.cl,cl,cloud_area_fraction_in_atmosphere_layer,Percentage Cloud Cover,"""Temporal mean, Global field on model atmosphere levels [XY-A]""",Amon.cl,Amon.cl,True,True,Summary,,atmos,,,Amon.cl
+recLFnAgHDr6Px7rk,day.sfcWind,sfcWind,wind_speed,Daily-Mean Near-Surface Wind Speed,Time-Mean Near-Surface Field (10m),day.sfcWind,day.sfcWind,True,True,Summary,day.sfcWind,atmos,,,
+recLal7zdsKfOeg3D,SImon.sitimefrac,sitimefrac,fraction_of_time_with_sea_ice_area_fraction_above_threshold,Fraction of Time Steps with Sea Ice,"""Time and Area Mean on Single Level, Masked (Sea)""",,,,True,Summary,SImon.sitimefrac,seaIce,,Added following review of corrected ESGF download stats.,
+recMUEukca7Ffp3ek,Omon.volcello,volcello,ocean_volume,Ocean Grid-Cell Volume,"""Temporal mean, Global ocean field on model levels [XY-O] [asm-tmean]""",,Omon.volcello,,,Summary,,ocean,,Added in version 1.1 and removed at version 1.2,
+recMt5ambOSPVHUUe,Amon.huss,huss,specific_humidity,Near-Surface Specific Humidity,Time-Mean Near-Surface Field (2m),Amon.huss,Amon.huss,True,True,Summary,Amon.huss,atmos,,,
+recN6qmjqlDHgEtQK,E1hr.pr,pr,precipitation_flux,Precipitation,Time and Area Mean on Single Level,E1hr.pr,E1hr.pr,True,True,Summary,,atmos,,,E1hr.pr
+recNKip9fniiw1Zkn,Omon.tauvo,tauvo,downward_y_stress_at_sea_water_surface,Sea Water Surface Downward Y Stress,Time-Mean Surface Field (Area Mean or Vertices),Omon.tauvo,Omon.tauvo,True,True,Summary,Omon.tauvo,ocean,,,
+recNfxSGMow8awxoZ,SIday.siconca,,,,,,SIday.siconca,True,,Summary,,,,,
+recO3w4WO3SLuSRmI,Amon.hfss,hfss,surface_upward_sensible_heat_flux,Surface Upward Sensible Heat Flux,Time and Area Mean on Single Level,Amon.hfss,Amon.hfss,True,True,Summary,Amon.hfss,atmos,,,
+recO6bhrtuxHWhF5A,Ofx.areacello,areacello,cell_area,Grid-Cell Area for Ocean Variables,"""Model Configuration Field, Area Sum (No Height Dependence)""",Ofx.areacello,Ofx.areacello,True,True,Summary,,ocean,True,,
+recOHC4BXtwlq1hO7,Amon.clivi,clivi,atmosphere_mass_content_of_cloud_ice,Ice Water Path,Time and Area Mean on Single Level,Amon.clivi,Amon.clivi,True,True,Summary,Amon.clivi,atmos,,,
+recP0ize56x0xHBuW,Amon.rlds,rlds,surface_downwelling_longwave_flux_in_air,Surface Downwelling Longwave Radiation,Time and Area Mean on Single Level,Amon.rlds,Amon.rlds,True,True,Summary,Amon.rlds,atmos,,,
+recP0maRuLa5A4wX9,day.rlut,rlut,toa_outgoing_longwave_flux,TOA Outgoing Longwave Radiation,Time and Area Mean on Single Level,day.rlut,day.rlut,True,,Summary,,atmos,,Removed following review of corrected ESGF download stats.,
+recP80Hr5jazM7KHY,day.hfls,hfls,surface_upward_latent_heat_flux,Surface Upward Latent Heat Flux,Time and Area Mean on Single Level,,day.hfls,True,,Summary,,atmos,,,
+recPKydYXys6AinrA,Ofx.volcello,,,,,Ofx.volcello,Ofx.volcello,,,Summary,,,,,
+recRntr5rhdEMdWSB,Amon.ps,ps,surface_air_pressure,Surface Air Pressure,Time and Area Mean on Single Level,Amon.ps,Amon.ps,True,True,Summary,Amon.ps,atmos,,,
+recRozST9DW3Oa1wF,day.rlus,rlus,surface_upwelling_longwave_flux_in_air,Surface Upwelling Longwave Radiation,Time and Area Mean on Single Level,,day.rlus,True,,Summary,,atmos,,,
+recRsL01U3m3RRZbu,Amon.clt,clt,cloud_area_fraction,Total Cloud Cover Percentage,Time and Area Mean on Single Level,Amon.clt,Amon.clt,True,True,Summary,Amon.clt,atmos,,,
+recSgv06ZC7vkyuHb,SImon.siu,siu,sea_ice_x_velocity,X-Component of Sea-Ice Velocity,"""Time  mean, weighted by sea ice area, Global field (single level) [XY-na] {on model mest points} [amnsi-twm]""",SImon.siu,SImon.siu,True,True,Summary,SImon.siu,seaIce,,,
+recTW7tcpGAvLU1yv,CFday.ps,ps,surface_air_pressure,Surface Air Pressure,Time and Area Mean on Single Level,,CFday.ps,True,True,Summary,CFday.ps,atmos,,,
+recTXyTVi2sd4kulA,fx.orog,orog,surface_altitude,Surface Altitude,Model Configuration Field,fx.orog,fx.orog,True,True,Summary,,land,True,,
+recTqdj7nqvVAuW2o,E3hr.sfcWind,sfcWind,wind_speed,Near-Surface Wind Speed,Time-Mean Near-Surface Field (10m),E3hr.sfcWind,E3hr.sfcWind,True,,Summary,,atmos,,"Removed following review of corrected ESGF download stats.
+",
+recUNK77N4wf3WdYC,Amon.rsdscs,rsdscs,surface_downwelling_shortwave_flux_in_air_assuming_clear_sky,Surface Downwelling Clear-Sky Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsdscs,Amon.rsdscs,True,True,Summary,Amon.rsdscs,atmos,,,
+recVFlmqPfcfbm1Yv,fx.sftlf,sftlf,land_area_fraction,Percentage of the Grid Cell Occupied by Land (Including Lakes),Model Configuration Field,fx.sftlf,fx.sftlf,True,True,Summary,,atmos,True,,
+recVJ0ev9JrodTUwJ,Efx.rlu,,,,,Efx.rlu,,,,Summary,,,,,
+recVg9cdJPAwrD47i,Amon.tasmin,tasmin,air_temperature,Daily Minimum Near-Surface Air Temperature,"""Temporal mean, Global field (single level) [XY-na] {:height2m} [dmin]""",Amon.tasmin,Amon.tasmin,True,True,Summary,Amon.tasmin,atmos,,,
+recVyuhP1p6271Ngo,Omon.zostoga,zostoga,global_average_thermosteric_sea_level_change,Global Average Thermosteric Sea Level Change,Time and Global Mean on a Single Level,,,,True,Summary,Omon.zostoga,ocean,,Added following review of corrected ESGF download stats.,
+recVzgKZNimluHQVd,Ofx.sftof,sftof,sea_area_fraction,Sea Area Percentage,Global field (single level) [XY-na]  [fixed],Ofx.sftof,Ofx.sftof,True,True,Summary,,ocean,True,,
+recWu0rWGbTETy4vp,Oday.tos,tos,sea_surface_temperature,Sea Surface Temperature,"""Time and Area Mean on Single Level, Masked (Sea)""",,Oday.tos,True,True,Summary,Oday.tos,ocean,,,
+recX5o5Y1HSRKNIlc,Efx.rsu,,,,,Efx.rsu,,,,Summary,,,,,
+recXnnLC1Lra8jVir,day.rsds,rsds,surface_downwelling_shortwave_flux_in_air,Surface Downwelling Shortwave Radiation,Time and Area Mean on Single Level,day.rsds,day.rsds,True,True,Summary,day.rsds,atmos,,,
+recXtlj2fvYnHsOTY,Amon.vas,vas,northward_wind,Northward Near-Surface Wind,Time-Mean Near-Surface Field (10m),Amon.vas,Amon.vas,True,True,Summary,Amon.vas,atmos,,,
+recYA2nbU3MrmZBnd,SImon.sitemptop,sitemptop,sea_ice_surface_temperature,Surface Temperature of Sea Ice,"""Weighted Time-Mean on Single Level, Masked (Sea Ice)""",SImon.sitemptop,SImon.sitemptop,True,True,Summary,SImon.sitemptop,seaIce,,,
+recYPeOMDqp57DiWN,CFday.wap,,,,,CFday.wap,,,,Summary,,,,,
+recZHNeTV67brAugR,SImon.sisnthick,sisnthick,surface_snow_thickness,Snow Thickness,"""Weighted Time-Mean on Single Level, Masked (Snow on Sea Ice)""",SImon.sisnthick,SImon.sisnthick,True,True,Summary,SImon.sisnthick,seaIce,,,
+recZKqZhtrTHaZt00,6hrPlevPt.ua,ua,eastward_wind,Eastward Wind,"""Synoptic Field on Three Pressure Levels, Cell Mean""",6hrPlevPt.ua,6hrPlevPt.ua,True,True,Summary,,atmos,,,6hrPlevPt.ua
+recZuFiCPJReCjTSJ,day.uas,uas,eastward_wind,Eastward Near-Surface Wind,Time-Mean Near-Surface Field (10m),day.uas,day.uas,True,True,Summary,day.uas,atmos,,,
+recaSiv7bewlJsRKu,3hr.huss,huss,specific_humidity,Near-Surface Specific Humidity,Synoptic Near-Surface Field (2m),3hr.huss,3hr.huss,True,True,Summary,,atmos,,,3hr.huss
+recagMGqhiU3hI9tR,Omon.tauuo,tauuo,downward_x_stress_at_sea_water_surface,Sea Water Surface Downward X Stress,Time-Mean Surface Field (Area Mean or Vertices),Omon.tauuo,Omon.tauuo,True,True,Summary,Omon.tauuo,ocean,,,
+recakUDCw8JNhCPxV,day.ta,ta,air_temperature,Air Temperature,Time-Mean on 8 Pressure Levels,day.ta,day.ta,True,True,Summary,,atmos,,,day.ta
+recbCYjPJeRghQ9Px,Amon.rsutcs,rsutcs,toa_outgoing_shortwave_flux_assuming_clear_sky,TOA Outgoing Clear-Sky Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsutcs,Amon.rsutcs,True,True,Summary,Amon.rsutcs,atmos,,,
+recbgQwaXeqHUj64X,CFday.ua,,,,,CFday.ua,,,,Summary,,,,,
+recca9rMaIQ1SEZKI,Lmon.mrro,mrro,runoff_flux,Total Runoff,"""Time and Area Mean on Single Level, Masked (Land)""",Lmon.mrro,Lmon.mrro,True,True,Summary,Lmon.mrro,land,,,
+reccy1GvQ3kO5JYYe,Lmon.evspsblveg,evspsblveg,water_evaporation_flux_from_canopy,Evaporation from Canopy,"""Time and Area Mean on Single Level, Masked (Land)""",,,,True,Summary,Lmon.evspsblveg,land,,Added following review of corrected ESGF download stats.,
+recd0LPykkPs6ZcgQ,Amon.ua,ua,eastward_wind,Eastward Wind,Time-Mean on 19 Pressure Levels,Amon.ua,Amon.ua,True,True,Summary,Amon.ua,atmos,,,
+recd25FtSM6lL78dL,Omon.thetao,thetao,sea_water_potential_temperature,Sea Water Potential Temperature,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.thetao,Omon.thetao,True,True,Summary,,ocean,,,Omon.thetao
+recd44lPjUXJM0VQM,day.tas,tas,air_temperature,Near-Surface Air Temperature,Time-Mean Near-Surface Field (2m),day.tas,day.tas,True,True,Summary,day.tas,atmos,,,
+recdWd9mHzQgCoxlX,6hrLev.ua,,,,,6hrLev.ua,,,,Summary,,,,,
+receFaPHOD8sMd3W5,Amon.prc,prc,convective_precipitation_flux,Convective Precipitation,Time and Area Mean on Single Level,Amon.prc,Amon.prc,True,True,Summary,Amon.prc,atmos,,,
+receKaOZ606stPkkL,Ofx.thkcello,thkcello,cell_thickness,Ocean Model Cell Thickness,"""Model Configuration Field on Ocean-Model Levels, Area Mean""",,Ofx.thkcello,True,True,Summary,,ocean,True,,
+recePRNYereyefbBi,Ofx.deptho,deptho,sea_floor_depth_below_geoid,Sea Floor Depth Below Geoid,"""Model Configuration Field on Sea Floor, Area Mean, Masked (Sea)""",Ofx.deptho,Ofx.deptho,True,True,Summary,,ocean,True,,
+receT0uz7TEaNpaoa,day.tasmax,tasmax,air_temperature,Daily Maximum Near-Surface Air Temperature,"""Temporal Maximum, Near-Surface Field (2m)""",day.tasmax,day.tasmax,True,True,Summary,day.tasmax,atmos,,,
+recesrzHJxIC3KTlw,Amon.hfls,hfls,surface_upward_latent_heat_flux,Surface Upward Latent Heat Flux,Time and Area Mean on Single Level,Amon.hfls,Amon.hfls,True,True,Summary,Amon.hfls,atmos,,,
+recf1GPLSbii5prQT,Omon.wmo,wmo,upward_ocean_mass_transport,Upward Ocean Mass Transport,"""Temporal mean, Global ocean field on model levels [XY-O] [asm-tmean]""",Omon.wmo,Omon.wmo,True,True,Summary,,ocean,,,Omon.wmo
+recfuuLj2oH2RV8w1,Amon.rsds,rsds,surface_downwelling_shortwave_flux_in_air,Surface Downwelling Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsds,Amon.rsds,True,True,Summary,Amon.rsds,atmos,,,
+recg54sa75Uin1n2v,3hr.pr,pr,precipitation_flux,Precipitation,Time and Area Mean on Single Level,3hr.pr,3hr.pr,True,True,Summary,,atmos,,,3hr.pr
+recg8yQ8tmdlc1dZs,Amon.va,va,northward_wind,Northward Wind,Time-Mean on 19 Pressure Levels,Amon.va,Amon.va,True,True,Summary,Amon.va,atmos,,,
+recgLRLuwPIbHQB2L,3hr.uas,uas,eastward_wind,Eastward Near-Surface Wind,Synoptic Near-Surface Field (10m),3hr.uas,3hr.uas,True,True,Summary,,atmos,,,3hr.uas
+recgZ4uvQDxkHAM87,Amon.hurs,hurs,relative_humidity,Near-Surface Relative Humidity,Time-Mean Near-Surface Field (2m),Amon.hurs,Amon.hurs,True,True,Summary,Amon.hurs,atmos,,,
+rechCMxObSbqwVwLQ,Amon.prsn,prsn,snowfall_flux,Snowfall Flux,Time and Area Mean on Single Level,Amon.prsn,Amon.prsn,True,True,Summary,Amon.prsn,atmos,,,
+reciCbMtlJZW9cIxZ,Omon.vmo,vmo,ocean_mass_y_transport,Ocean Mass Y Transport,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.vmo,Omon.vmo,True,True,Summary,,ocean,,,Omon.vmo
+recibFFonIhW9Buu0,Amon.psl,psl,air_pressure_at_mean_sea_level,Sea Level Pressure,Time and Area Mean on Single Level,Amon.psl,Amon.psl,True,True,Summary,Amon.psl,atmos,,,
+recitslXonyYoTdQr,Amon.tauu,tauu,surface_downward_eastward_stress,Surface Downward Eastward Wind Stress,Time and Area Mean on Single Level,Amon.tauu,Amon.tauu,True,True,Summary,Amon.tauu,atmos,,,
+recjaQjPni75Fa6Fr,Efx.rld,,,,,Efx.rld,,,,Summary,,,,,
+recjbI5k4n2izs8hm,Amon.evspsbl,evspsbl,water_evapotranspiration_flux,Evaporation Including Sublimation and Transpiration,Time and Area Mean on Single Level,Amon.evspsbl,Amon.evspsbl,True,True,Summary,Amon.evspsbl,atmos,,,
+recjqoAP8QnIXW9vZ,6hrPlev.hurs,hurs,relative_humidity,Near-Surface Relative Humidity,Time-Mean Near-Surface Field (2m),6hrPlev.hurs,6hrPlev.hurs,True,True,Summary,,atmos,,,6hrPlev.hurs
+recjsQhE5xBtrEpt6,Lmon.mrfso,mrfso,soil_frozen_water_content,Soil Frozen Water Content,"""Time and Area Mean on Single Level, Masked (Land)""",Lmon.mrfso,Lmon.mrfso,True,True,Summary,Lmon.mrfso,"land, landIce",,,
+reck4kXynqkXLLjqg,fx.rootd,rootd,root_depth,Maximum Root Depth,Model Configuration Field,fx.rootd,fx.rootd,True,True,Summary,,land,True,,
+reckQkpOYlUjgT5eq,Amon.rlutcs,rlutcs,toa_outgoing_longwave_flux_assuming_clear_sky,TOA Outgoing Clear-Sky Longwave Radiation,Time and Area Mean on Single Level,Amon.rlutcs,Amon.rlutcs,True,True,Summary,Amon.rlutcs,atmos,,,
+reckpphvPwdZh6ODh,fx.zfull,zfull,height_above_reference_ellipsoid,Altitude of Model Full-Levels,"""Instantaneous value (i.e. synoptic or time-step value),, Global field on soil levels [XY-S] [amn-tpt]""",fx.zfull,fx.zfull,True,,Summary,,atmos,True,Removed following review of corrected ESGF download stats.,
+reckqpj3lNeYmp6aB,Amon.prw,prw,atmosphere_mass_content_of_water_vapor,Water Vapor Path,Time and Area Mean on Single Level,Amon.prw,Amon.prw,True,True,Summary,Amon.prw,atmos,,,
+recl0JHH1qqVMDhHw,Omon.hfds,hfds,surface_downward_heat_flux_in_sea_water,Downward Heat Flux at Sea Water Surface,"""Time and Area Mean on Single Level, Masked (Sea)""",Omon.hfds,Omon.hfds,True,True,Summary,Omon.hfds,ocean,,,
+reclm8ICFDP1BtlfM,day.va,va,northward_wind,Northward Wind,Time-Mean on 8 Pressure Levels,day.va,day.va,True,True,Summary,,atmos,,,day.va
+recm3T6NWczoliIvl,3hr.vas,vas,northward_wind,Northward Near-Surface Wind,Synoptic Near-Surface Field (10m),3hr.vas,3hr.vas,True,True,Summary,,atmos,,,3hr.vas
+recmWQMS9iUr0x9sa,fx.mrsofc,mrsofc,soil_moisture_content_at_field_capacity,Capacity of Soil to Store Water (Field Capacity),"""Model Configuration Surface Field, Area Mean, Masked (Land)""",fx.mrsofc,fx.mrsofc,True,True,Summary,,land,True,,
+recmdqlRYeC6s32WN,day.huss,huss,specific_humidity,Near-Surface Specific Humidity,Time-Mean Near-Surface Field (2m),day.huss,day.huss,True,True,Summary,day.huss,atmos,,,
+recmjCFivsFoaOmmL,Amon.ts,ts,surface_temperature,Surface Temperature,Time and Area Mean on Single Level,Amon.ts,Amon.ts,True,True,Summary,Amon.ts,atmos,,,
+recnHv05iskDcuHfB,CFday.ta,,,,,CFday.ta,,,,Summary,,,,,
+recnQonzVQfwjc2Mi,Amon.zg,zg,geopotential_height,Geopotential Height,Time-Mean on 19 Pressure Levels,Amon.zg,Amon.zg,True,True,Summary,Amon.zg,atmos,,,
+recnRD3hd13SmVubR,Efx.fldcapacity,fldcapacity,volume_fraction_of_condensed_water_in_soil_at_field_capacity,Field Capacity,Time Invariant Global Field on Soil Levels [XY-na] {sdepth:} [amla],Efx.fldcapacity,Efx.fldcapacity,True,,Summary,,land,True,"Removed following review of corrected ESGF download stats.
+",
+reco0tpjcwkVUHkbu,Omon.masscello,masscello,sea_water_mass_per_unit_area,Ocean Grid-Cell Mass per Area,"""Temporal mean, Global ocean field on model levels [XY-O] [asm-tmean]""",,Omon.masscello,True,True,Summary,,ocean,,,Omon.masscello
+recoTMqWs6pN2cdim,Amon.tasmax,tasmax,air_temperature,Daily Maximum Near-Surface Air Temperature,"""Temporal mean, Global field (single level) [XY-na] {:height2m} [dmax]""",Amon.tasmax,Amon.tasmax,True,True,Summary,Amon.tasmax,atmos,,,
+recosRfyDRCNCvoMZ,Lmon.evspsblsoi,evspsblsoi,water_evaporation_flux_from_soil,Water Evaporation from Soil,"""Time and Area Mean on Single Level, Masked (Land)""",Lmon.evspsblsoi,Lmon.evspsblsoi,True,True,Summary,Lmon.evspsblsoi,land,,,
+recpNACL0MpD4Got7,3hr.tas,tas,air_temperature,Near-Surface Air Temperature,Synoptic Near-Surface Field (2m),3hr.tas,3hr.tas,True,True,Summary,,atmos,,,3hr.tas
+recpeI3XooNhg0Qi0,Amon.hus,hus,specific_humidity,Specific Humidity,Time-Mean on 19 Pressure Levels,Amon.hus,Amon.hus,True,True,Summary,Amon.hus,atmos,,,
+recqLPwbJWDlyXyXt,Eday.zg,zg,geopotential_height,Geopotential Height,Time-Mean on 19 Pressure Levels,Eday.zg,Eday.zg,True,True,Summary,,atmos,,,Eday.zg
+recqtXbM6d5qMYG4X,day.wap,wap,lagrangian_tendency_of_air_pressure,Omega (=dp/dt),Time-Mean on 8 Pressure Levels,day.wap,day.wap,True,True,Summary,,atmos,,,day.wap
+recqwRA0hPJoAAmj1,Amon.tauv,tauv,surface_downward_northward_stress,Surface Downward Northward Wind Stress,Time and Area Mean on Single Level,Amon.tauv,Amon.tauv,True,True,Summary,Amon.tauv,atmos,,,
+recrFv8X15VdU6saN,LImon.snc,snc,surface_snow_area_fraction,Snow Area Percentage,Time and Area Mean on Single Level,,,,True,Summary,LImon.snc,"landIce, land",,Added following review of corrected ESGF download stats.,
+recrJkKhmgJIxioZz,Ofx.hfgeou,hfgeou,upward_geothermal_heat_flux_at_sea_floor,Upward Geothermal Heat Flux at Sea Floor,"""Model Configuration Field on Sea Floor, Area Mean, Masked (Sea)""",Ofx.hfgeou,Ofx.hfgeou,True,True,Summary,,ocean,True,,
+recrV1iP4tCe56Ial,day.hurs,hurs,relative_humidity,Near-Surface Relative Humidity,Time-Mean Near-Surface Field (2m),day.hurs,day.hurs,True,True,Summary,day.hurs,atmos,,,
+recsCSYJVx9LecHZy,CFday.va,,,,,CFday.va,,,,Summary,,,,,
+recsKdEASEpcwCR9Y,Amon.cli,cli,mass_fraction_of_cloud_ice_in_air,Mass Fraction of Cloud Ice,"""Temporal mean, Global field on model atmosphere levels [XY-A]""",Amon.cli,Amon.cli,True,True,Summary,,atmos,,,Amon.cli
+recsXNzivOCuh0AGX,Omon.vo,vo,sea_water_y_velocity,Sea Water Y Velocity,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",Omon.vo,Omon.vo,True,True,Summary,,ocean,,,Omon.vo
+recsdtY6wHRtjRN1Z,SImon.sithick,sithick,sea_ice_thickness,Sea Ice Thickness,"""Weighted Time-Mean on Single Level, Masked (Sea Ice)""",SImon.sithick,SImon.sithick,True,True,Summary,SImon.sithick,"seaIce, ocean",,,
+recspO9Kvb9EC2Pyx,SImon.siv,siv,sea_ice_y_velocity,Y-Component of Sea-Ice Velocity,"""Time  mean, weighted by sea ice area, Global field (single level) [XY-na] {on model mest points} [amnsi-twm]""",SImon.siv,SImon.siv,True,True,Summary,SImon.siv,seaIce,,,
+rect9dfjpNWmuo8OZ,day.hfss,hfss,surface_upward_sensible_heat_flux,Surface Upward Sensible Heat Flux,Time and Area Mean on Single Level,,day.hfss,True,,Summary,,atmos,,,
+recuMPKQ48N3dxEyB,Omon.bigthetao,bigthetao,sea_water_conservative_temperature,Sea Water Conservative Temperature,"""Temporal mean, Global ocean field on model levels [XY-O] [tmean]""",,Omon.bigthetao,True,True,Summary,,ocean,,,Omon.bigthetao
+recuU2Rhj6DpZ1zi0,Amon.hur,hur,relative_humidity,Relative Humidity,Time-Mean on 19 Pressure Levels,Amon.hur,Amon.hur,True,True,Summary,Amon.hur,atmos,,,
+recuVNi2xVJrqdhBZ,CFday.hus,,,,,CFday.hus,,,,Summary,,,,,
+recuVSPZYzO7Ve0td,day.hus,hus,specific_humidity,Specific Humidity,Time-Mean on 8 Pressure Levels,day.hus,day.hus,True,True,Summary,,atmos,,,day.hus
+recudRiujDwzeRMr4,Omon.mlotst,mlotst,ocean_mixed_layer_thickness_defined_by_sigma_t,Ocean Mixed Layer Thickness Defined by Sigma T,"""Time and Area Mean on Single Level, Masked (Sea)""",Omon.mlotst,Omon.mlotst,True,True,Summary,Omon.mlotst,ocean,,,
+recuuMDU1lEX1lzEr,Amon.rsus,rsus,surface_upwelling_shortwave_flux_in_air,Surface Upwelling Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsus,Amon.rsus,True,True,Summary,Amon.rsus,atmos,,,
+recw3E4LQb1Icqa8O,Amon.uas,uas,eastward_wind,Eastward Near-Surface Wind,Time-Mean Near-Surface Field (10m),Amon.uas,Amon.uas,True,True,Summary,Amon.uas,atmos,,,
+recwOdysKWIzgsMRD,Amon.rsut,rsut,toa_outgoing_shortwave_flux,TOA Outgoing Shortwave Radiation,Time and Area Mean on Single Level,Amon.rsut,Amon.rsut,True,True,Summary,Amon.rsut,atmos,,,
+recxAVyfLnEa5TnMM,SIday.siconc,siconc,sea_ice_area_fraction,Sea-Ice Area Percentage (Ocean Grid),"""Weighted Time-Mean on Single Level, Masked (Sea)""",,SIday.siconc,True,True,Summary,SIday.siconc,seaIce,,,
+recxXpi61CwG6U4UF,Ofx.masscello,masscello,sea_water_mass_per_unit_area,Ocean Grid-Cell Mass per Area,"""Model Configuration Field on Ocean-Model Levels, Area Sum""",Ofx.masscello,Ofx.masscello,True,True,Summary,,ocean,True,,
+recxpvsVBdgigifVs,day.pr,pr,precipitation_flux,Precipitation,Time and Area Mean on Single Level,day.pr,day.pr,True,True,Summary,day.pr,atmos,,,
+recxyMMg0CvReSi4P,Amon.tas,tas,air_temperature,Near-Surface Air Temperature,Time-Mean Near-Surface Field (2m),Amon.tas,Amon.tas,True,True,Summary,Amon.tas,atmos,,,
+recz1TlY4KzwRRTtl,Amon.rlut,rlut,toa_outgoing_longwave_flux,TOA Outgoing Longwave Radiation,Time and Area Mean on Single Level,Amon.rlut,Amon.rlut,True,True,Summary,Amon.rlut,atmos,,,
+recz42ysF23rf1ag8,LImon.snd,,,,,LImon.snd,,,,Summary,,,,,
+reczDADl7sD3XJ2es,Efx.wilt,wilt,volume_fraction_of_condensed_water_in_soil_at_wilting_point,Wilting Point,Time Invariant Global Field on Soil Levels [XY-na] {sdepth:} [amla],Efx.wilt,Efx.wilt,True,,Summary,,land,True,"Removed following review of corrected ESGF download stats.
+",

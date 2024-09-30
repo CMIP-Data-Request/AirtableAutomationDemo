@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/fstrans",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/oday.fstrans"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-05T10:12:28.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Important for climate and correlates with the AMOC on decadal timescales, but consideration of the variability is lacking in contemporary studies.  This is a region with excellent observational record.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "fstrans",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "jmecki@noc.ac.uk",
+    "proposer-name": "Climate and Uncertainty - National Oceanography Centre",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Volume Transport Through Florida Strait",
+    "uid": "",
+    "units": "m3 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

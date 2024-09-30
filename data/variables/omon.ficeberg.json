@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/omon.ficeberg",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/water_flux_into_sea_water_from_icebergs"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Omon.ficeberg",
+    "description": "computed as the iceberg melt water  flux into the ocean divided by the area of the ocean portion of the grid cell.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. \n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Water Flux into Sea Water from Icebergs",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5",
+            "ISMIP6"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 440,
+        "rank-by-file-count": 467,
+        "rank-by-submissions": 440,
+        "rank-by-volume": 667
+    }
+}

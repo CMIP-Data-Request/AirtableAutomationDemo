@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amnifs-tmn",
+    "@type": "dr:variable",
+    "brand-id": "ifs",
+    "brand-tag": "",
+    "cell-methods": "area: mean where ice_free_sea over sea time: mean",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amnifs-tmn",
+    "title": "Partial Mean over Ice-Free sea",
+    "uid": "CellMethods::amnifs-tmn"
+}

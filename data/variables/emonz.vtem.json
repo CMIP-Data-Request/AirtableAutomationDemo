@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/emonz.vtem",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/northward_transformed_eulerian_mean_air_velocity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "dynvar_basic, DCPP_Wider",
+    "compound-name": "EmonZ.vtem",
+    "description": "Transformed Eulerian Mean Diagnostics v\\*, meridional component of the residual meridional circulation (v\\*, w\\*) derived from 6 hr or higher frequency data fields (use instantaneous daily fields or 12 hr fields if the 6 hr data are not available).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "HighResMIP [Amon_sparc]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "EmonZ"
+    ],
+    "theme": "",
+    "title": "Transformed Eulerian Mean Northward Wind",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "DAMIP",
+            "DynVarMIP",
+            "PAMIP"
+        ],
+        "priority-2-(cmip6---old": [
+            "HighResMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "DCPP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 440,
+        "rank-by-file-count": 824,
+        "rank-by-submissions": 440,
+        "rank-by-volume": 1502
+    }
+}

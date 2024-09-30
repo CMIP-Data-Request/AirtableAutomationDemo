@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/imongre.mrroli",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/land_ice_runoff_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landice_greenland_allfreq",
+    "compound-name": "ImonGre.mrroLi",
+    "description": "Runoff flux over land ice is the difference between any available liquid water in the snowpack less any refreezing. Computed as the sum of rainfall and melt of snow or ice less any refreezing or water retained in the snowpack\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/landice"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "ISMIP6 [ImonGre]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "ImonGre"
+    ],
+    "theme": "",
+    "title": "Land Ice Runoff Flux",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "ISMIP6"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1381,
+        "rank-by-file-count": 1381,
+        "rank-by-submissions": 1463,
+        "rank-by-volume": 1564
+    }
+}

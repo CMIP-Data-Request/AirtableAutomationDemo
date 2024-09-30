@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/sisndmasssubl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.sisndmasssubl"
+        }
+    ],
+    "comments": "\"Change names of snow-on-sea-ice terms to start with \"\"sisn\"\"\"",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "the rate of change of snow mass through sublimation and evaporation divided by sea-ice area\n",
+    "edited-by-author-teams": true,
+    "justification-for-inclusion": "",
+    "last-modified-by": "Automations",
+    "name": "sisndmasssubl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [SIMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Snow Mass Rate of Change Through Evaporation or Sublimation",
+    "uid": "590de2ce-9e49-11e5-803c-0d0b866b59f3",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

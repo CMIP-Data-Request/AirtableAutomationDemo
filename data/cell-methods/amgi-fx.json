@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amgi-fx",
+    "@type": "dr:variable",
+    "brand-id": "gis",
+    "brand-tag": "",
+    "cell-methods": "area: mean where grounded_ice_sheet",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amgi-fx",
+    "title": "Fixed Area Mean over Grounded Ice Sheets",
+    "uid": "CellMethods::amgi-fx"
+}

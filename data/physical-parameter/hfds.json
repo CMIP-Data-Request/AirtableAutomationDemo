@@ -1,0 +1,50 @@
+{
+    "@id": "dr:data/physical-parameter/hfds",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/odec.hfds"
+        },
+        {
+            "@id": "dr:variables/omon.hfds"
+        },
+        {
+            "@id": "dr:variables/oday.hfds"
+        },
+        {
+            "@id": "dr:variables/3hr.hfds"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "This is the net flux of heat entering the liquid water column through its upper surface (excluding any \"flux adjustment\") .\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "hfds",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5,C4MIP,DCPP,HighResMIP,ISMIP6,LS3MIP,PMIP",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Downward Heat Flux at Sea Water Surface",
+    "uid": "db14915fa8f71225f7775d0d922197ec",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

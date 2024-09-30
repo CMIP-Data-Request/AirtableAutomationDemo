@@ -1,0 +1,53 @@
+{
+    "@id": "dr:data/physical-parameter/rsdscs",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.rsdscs"
+        },
+        {
+            "@id": "dr:variables/amon.rsdscs"
+        },
+        {
+            "@id": "dr:variables/cf3hr.rsdscs"
+        },
+        {
+            "@id": "dr:variables/cfday.rsdscs"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rsdscs"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Surface solar irradiance clear sky for UV calculations\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rsdscs",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFday,CMIP5_CFsubhr,PMIP3_Aclim,PMIP3_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Downwelling Clear-Sky Shortwave Radiation",
+    "uid": "d0a35d5c99a0aa93ad4069cfe83bf748",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

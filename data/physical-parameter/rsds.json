@@ -1,0 +1,65 @@
+{
+    "@id": "dr:data/physical-parameter/rsds",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.rsds"
+        },
+        {
+            "@id": "dr:variables/amon.rsds"
+        },
+        {
+            "@id": "dr:variables/cf3hr.rsds"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rsds"
+        },
+        {
+            "@id": "dr:variables/day.rsds"
+        },
+        {
+            "@id": "dr:variables/imonant.rsds"
+        },
+        {
+            "@id": "dr:variables/imongre.rsds"
+        },
+        {
+            "@id": "dr:variables/6hrplev.rsds"
+        },
+        {
+            "@id": "dr:variables/e1hr.rsds"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Surface solar irradiance for UV calculations.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rsds",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_3hr",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Downwelling Shortwave Radiation",
+    "uid": "6e7b9f984d3bba15daccaaa18039a85d",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "@id": "dr:data/physical-parameter/ps",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.ps"
+        },
+        {
+            "@id": "dr:variables/6hrlev.ps"
+        },
+        {
+            "@id": "dr:variables/aerhr.ps"
+        },
+        {
+            "@id": "dr:variables/aermon.ps"
+        },
+        {
+            "@id": "dr:variables/amon.ps"
+        },
+        {
+            "@id": "dr:variables/cf3hr.ps"
+        },
+        {
+            "@id": "dr:variables/cfday.ps"
+        },
+        {
+            "@id": "dr:variables/cfmon.ps"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.ps"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.ps"
+        },
+        {
+            "@id": "dr:variables/efx.ps"
+        },
+        {
+            "@id": "dr:variables/emon.ps"
+        },
+        {
+            "@id": "dr:variables/esubhr.ps"
+        },
+        {
+            "@id": "dr:variables/6hrplev.ps"
+        },
+        {
+            "@id": "dr:variables/e1hr.ps"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "surface pressure (not mean sea-level pressure), 2-D field to calculate the 3-D pressure field from hybrid coordinates\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "ps",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_6hrLev",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Air Pressure",
+    "uid": "8c9504d28596e05586c8e193082ac617",
+    "units": "Pa",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

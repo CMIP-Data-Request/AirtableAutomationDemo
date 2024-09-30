@@ -1,0 +1,92 @@
+{
+    "@id": "dr:data/physical-parameter/ta",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrlev.ta"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.ta"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.ta7h"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.ta27"
+        },
+        {
+            "@id": "dr:variables/aermonz.ta"
+        },
+        {
+            "@id": "dr:variables/amon.ta"
+        },
+        {
+            "@id": "dr:variables/cf3hr.ta"
+        },
+        {
+            "@id": "dr:variables/cfday.ta"
+        },
+        {
+            "@id": "dr:variables/cfmon.ta"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.ta"
+        },
+        {
+            "@id": "dr:variables/day.ta"
+        },
+        {
+            "@id": "dr:variables/e1hr.ta"
+        },
+        {
+            "@id": "dr:variables/e1hr.ta27"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.ta"
+        },
+        {
+            "@id": "dr:variables/eday.ta"
+        },
+        {
+            "@id": "dr:variables/edayz.ta"
+        },
+        {
+            "@id": "dr:variables/emon.ta"
+        },
+        {
+            "@id": "dr:variables/esubhr.ta"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Air Temperature\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "ta",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_6hrLev,CMIP5_6hrPlev,CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFday,CMIP5_CFmon,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_Amon,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Air Temperature",
+    "uid": "b9c3eb96337c69c1c4a5aab1317f5563",
+    "units": "K",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

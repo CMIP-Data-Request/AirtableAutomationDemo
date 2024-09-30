@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amn-tdnl",
+    "@type": "dr:variable",
+    "brand-id": "x",
+    "brand-tag": "",
+    "cell-methods": "area: mean time: mean within days time: mean over days",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amn-tdnl",
+    "title": "Mean Diurnal Cycle",
+    "uid": "CellMethods::amn-tdnl"
+}

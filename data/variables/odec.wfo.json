@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/odec.wfo",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/water_flux_into_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Odec.wfo",
+    "description": "Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum \\*wfonocorr\\* and \\*wfcorr\\*.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/dec"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "net flux of water into seawater, including any flux correction. Report on native horizontal grid as well as mapped onto sphere.\n",
+    "provenance": "Odec ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Odec"
+    ],
+    "theme": "",
+    "title": "Water Flux into Sea Water",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1463,
+        "rank-by-file-count": 1591,
+        "rank-by-submissions": 1463,
+        "rank-by-volume": 1509
+    }
+}

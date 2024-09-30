@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/odec.tauuo",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/downward_x_stress_at_sea_water_surface"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Odec.tauuo",
+    "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/dec"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "Report on native horizontal grid.\n",
+    "provenance": "Odec ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Odec"
+    ],
+    "theme": "",
+    "title": "Sea Water Surface Downward X Stress",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1295,
+        "rank-by-file-count": 1575,
+        "rank-by-submissions": 1295,
+        "rank-by-volume": 1542
+    }
+}

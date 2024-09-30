@@ -1,0 +1,39 @@
+{
+    "@id": "dr:data/physical-parameter/therssl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": "",
+    "comments": "",
+    "created": "2024-09-06T01:10:25.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Beth Dingley",
+    "name": "therssl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "jcy@lasg.iap.ac.cn",
+    "proposer-name": "Chenyang Jin",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "regional sterodynamic sea level",
+    "uid": "",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

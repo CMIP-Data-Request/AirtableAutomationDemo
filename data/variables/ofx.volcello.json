@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/ofx.volcello",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/ocean_volume"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "ocean_coordinates, marine_bgc",
+    "compound-name": "Ofx.volcello",
+    "description": "For oceans with more than 1 mesh (e.g. staggered grids), report areas that apply to surface vertical fluxes of energy. If this field is time-dependent then save it instead as one of your Omon and Odec fields\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "a 3-d field: For oceans with more than 1 mesh, report on grid that applies to temperature\n",
+    "provenance": "fx ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Ofx"
+    ],
+    "theme": "",
+    "title": "Ocean Grid-Cell Volume",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 230,
+        "rank-by-file-count": 329,
+        "rank-by-submissions": 230,
+        "rank-by-volume": 1018
+    }
+}

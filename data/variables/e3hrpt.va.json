@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/e3hrpt.va",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/northward_wind"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "E3hrPt.va",
+    "description": "Northward wind on pressure levels\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "HighResMIP [3hrPlev]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "E3hrPt"
+    ],
+    "theme": "",
+    "title": "Northward Wind",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "HighResMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 9999,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

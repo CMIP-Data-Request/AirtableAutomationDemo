@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/siitdthick",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.siitdthick"
+        },
+        {
+            "@id": "dr:variables/siday.siitdthick"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Actual (floe) thickness of sea ice in each  category (NOT volume divided by grid area),  (vector with one entry for each thickness category starting from the thinnest category, netcdf file should use thickness bounds of categories as third coordinate axis)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "siitdthick",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "si"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [SIMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Sea-Ice Thickness in Thickness Categories",
+    "uid": "59133288-9e49-11e5-803c-0d0b866b59f3",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

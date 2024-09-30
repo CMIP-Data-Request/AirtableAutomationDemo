@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/aermonz.o3",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mole_fraction_of_ozone_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_3d_daily, aerchemmip_2dZ_monthly",
+    "compound-name": "AERmonZ.o3",
+    "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "AERmonZ ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "AERmonZ"
+    ],
+    "theme": "",
+    "title": "Mole Fraction of O3",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 339,
+        "rank-by-file-count": 339,
+        "rank-by-submissions": 593,
+        "rank-by-volume": 1217
+    }
+}

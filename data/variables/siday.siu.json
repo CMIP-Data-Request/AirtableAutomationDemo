@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/variables/siday.siu",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_ice_x_velocity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_dynamics_basic, surgemip_variables, CFMIP_baseline, seaice_gcos_ecv",
+    "compound-name": "SIday.siu",
+    "description": "The x-velocity of ice on native model grid\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaiceday]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SIday"
+    ],
+    "theme": "",
+    "title": "X-Component of Sea-Ice Velocity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5",
+            "SIMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 161,
+        "rank-by-file-count": 215,
+        "rank-by-submissions": 161,
+        "rank-by-volume": 298
+    }
+}

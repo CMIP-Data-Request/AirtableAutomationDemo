@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/amon.n2oglobal",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mole_fraction_of_nitrous_oxide_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "CFMIP_baseline",
+    "compound-name": "Amon.n2oglobal",
+    "description": "Global mean Nitrous Oxide (N2O)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If N2O is spatially nonuniform, omit this field, but report Mole Fraction of N2O (see the table entry before the previous one).   Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
+    "provenance": "Amon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Amon"
+    ],
+    "theme": "",
+    "title": "Global Mean Mole Fraction of N2O",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 461,
+        "rank-by-file-count": 769,
+        "rank-by-submissions": 461,
+        "rank-by-volume": 1751
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "@id": "dr:data/variables/amon.rsut",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/toa_outgoing_shortwave_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, DAMIP_monthly, poleward_heat_transports, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere, ref_earth_system",
+    "compound-name": "Amon.rsut",
+    "description": "at the top of the atmosphere\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "Amon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Amon"
+    ],
+    "theme": "",
+    "title": "TOA Outgoing Shortwave Radiation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "DCPP",
+            "ISMIP6",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "CDRMIP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 4,
+        "rank-by-file-count": 28,
+        "rank-by-submissions": 4,
+        "rank-by-volume": 226
+    }
+}

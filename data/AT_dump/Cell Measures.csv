@@ -1,0 +1,13 @@
+,Name,Notes,Title
+rec3qGuyWgqjggQ8X,--UGRID,,
+rec5XdFZJqmV9cmq8,--MODEL,"indicates that the data should
+be provided at the cell locations used for that variable
+in the model code",
+rec8ykaAPjEhV6ukO,--OPT,"the data
+may be provided either on the cell centres or on the cell
+boundaries",
+recFDsYPuBGlCkbXO,area: areacellg,,Cell Area of Ice Grid
+recQUAec9Wk1HPC86,area: areacellr,,Cell Area of Grid used for River Model
+recb1V00ayWZnmm79,area: areacella,,Cell Area of Atmosphere Grid
+recdWlLVgWuRs0LGa,area: areacello,,Cell Area of Ocean Grid
+recxdGFHrfcEVyUXq,area: areacello volume: volcello,,

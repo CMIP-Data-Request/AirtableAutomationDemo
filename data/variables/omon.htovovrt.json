@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/omon.htovovrt",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/northward_ocean_heat_transport_due_to_overturning"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_ocean_salt_and_heat_transport_variables_monthly, paleo_ocean_transports",
+    "compound-name": "Omon.htovovrt",
+    "description": "From all advective mass transport processes, resolved and parameterized.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "For models which do not have a Cartesian lat-long grid, this transport can be approximated as thetransport across zig-zag paths corresponding to latitudes with spacing between latitudes appropriate tothe model's resolution, as is done for the ocean meridional overturning mass streamfunction.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Northward Ocean Heat Transport Due to Overturning",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 235,
+        "rank-by-file-count": 235,
+        "rank-by-submissions": 481,
+        "rank-by-volume": 1628
+    }
+}

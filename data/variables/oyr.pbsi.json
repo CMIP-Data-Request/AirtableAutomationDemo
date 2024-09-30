@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/oyr.pbsi",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/tendency_of_mole_concentration_of_silicon_in_sea_water_due_to_biological_production"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Oyr.pbsi",
+    "description": "'Mole concentration' means number of moles per unit volume, also called \"molarity\", and is used in the construction mole\\_concentration\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.  A chemical or biological species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox\\_expressed\\_as\\_nitrogen'. The specification of a physical process by the phrase due\\_to\\_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \"tendency\\_of\\_X\" means derivative of X with respect to time.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Oyr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oyr"
+    ],
+    "theme": "",
+    "title": "Biogenic Silicon Production",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 678,
+        "rank-by-file-count": 917,
+        "rank-by-submissions": 956,
+        "rank-by-volume": 678
+    }
+}

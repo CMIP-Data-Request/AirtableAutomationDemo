@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/6hrplev.hurs",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/relative_humidity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_subdaily",
+    "compound-name": "6hrPlev.hurs",
+    "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/6hr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "VIACSAB [viacsabExtra]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "6hrPlev"
+    ],
+    "theme": "",
+    "title": "Near-Surface Relative Humidity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 415,
+        "rank-by-file-count": 688,
+        "rank-by-submissions": 653,
+        "rank-by-volume": 415
+    }
+}

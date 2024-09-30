@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/cltcalipso",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/cfday.cltcalipso"
+        },
+        {
+            "@id": "dr:variables/cfmon.cltcalipso"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.cltcalipso"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Total cloud area fraction (reported as a percentage) for the whole atmospheric column, as seen by the  Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO) instrument. Includes both large-scale and convective cloud.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "cltcalipso",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_CF3hr,CMIP5_CFday,CMIP5_CFmon,CMIP5_CFsubhrOff",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "CALIPSO Total Cloud Cover Percentage",
+    "uid": "ce9ab9b945fcc86013ad10431d8f252e",
+    "units": "%",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

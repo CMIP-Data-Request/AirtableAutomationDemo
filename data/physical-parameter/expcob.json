@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/expcob",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.expcob"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-26T13:50:16.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "The sinking flux of particulate organic carbon reaching the ocean bottom is an essential quantity determining the function and fluxes of the sediments.\n",
+    "last-modified-by": "Anonymous",
+    "name": "expcob",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "jessica.luo@noaa.gov",
+    "proposer-name": "Jessica Luo",
+    "provenance": "",
+    "status": "New",
+    "tagged-author-team": [
+        "Earth system"
+    ],
+    "title": "Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom",
+    "uid": "",
+    "units": "mol m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

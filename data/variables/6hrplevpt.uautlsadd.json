@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/6hrplevpt.uautlsadd",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/northward_wind"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aviation_impacts_additional",
+    "compound-name": "6hrPlevPt.uaUTLSadd",
+    "description": "6 hourly instantaneous northward wind at 2 additional pressure levels in the UTLS region (175 and 225 hPa)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "subset of 27 pressure levels to cover the UTLS region\n",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "6hrPlevPt"
+    ],
+    "theme": [
+        "Impacts & adaptation"
+    ],
+    "title": "6 hourly instantaneous northward wind in additional levels within the UTLS region",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "In progress",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

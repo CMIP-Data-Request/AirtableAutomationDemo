@@ -1,0 +1,65 @@
+{
+    "@id": "dr:data/variables/omon.intpp",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_phytoplankton"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, OceanPP, DCPP_Essential, marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, fishmip_marine_monthly",
+    "compound-name": "Omon.intpp",
+    "description": "Vertically integrated total primary (organic carbon) production by phytoplankton.  This should equal the sum of intpdiat+intpphymisc, but those individual components may be unavailable in some models.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Primary Organic Carbon Production by All Types of Phytoplankton",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CDRMIP",
+            "DAMIP",
+            "DCPP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 210,
+        "rank-by-file-count": 210,
+        "rank-by-submissions": 366,
+        "rank-by-volume": 427
+    }
+}

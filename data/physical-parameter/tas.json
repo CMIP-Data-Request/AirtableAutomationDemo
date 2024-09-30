@@ -1,0 +1,76 @@
+{
+    "@id": "dr:data/physical-parameter/tas",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.tas"
+        },
+        {
+            "@id": "dr:variables/6hrplev.tas"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.tas"
+        },
+        {
+            "@id": "dr:variables/aerhr.tas"
+        },
+        {
+            "@id": "dr:variables/amon.tas"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.tas"
+        },
+        {
+            "@id": "dr:variables/day.tas"
+        },
+        {
+            "@id": "dr:variables/esubhr.tas"
+        },
+        {
+            "@id": "dr:variables/imonant.tas"
+        },
+        {
+            "@id": "dr:variables/imongre.tas"
+        },
+        {
+            "@id": "dr:variables/lmon.tas"
+        },
+        {
+            "@id": "dr:variables/e1hr.tas"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "near-surface (usually, 2 meter) air temperature\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tas",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "nsrf"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Near-Surface Air Temperature",
+    "uid": "5c4978e802ba55d5a298cf1b3bdc2b3a",
+    "units": "K",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/ficeberg",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.ficeberg"
+        },
+        {
+            "@id": "dr:variables/omon.ficeberg2d"
+        },
+        {
+            "@id": "dr:variables/3hr.ficeberg"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "computed as the iceberg melt water  flux into the ocean divided by the area of the ocean portion of the grid cell.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "ficeberg",
+    "name-validation": 1,
+    "processing-comment": "If only the vertically integrated melt water flux is available, report as this 2-d field; otherwise as 3-d.",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP.Omon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Water Flux into Sea Water from Icebergs",
+    "uid": "0638f32ebcc32d63faad121d5a83e3be",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

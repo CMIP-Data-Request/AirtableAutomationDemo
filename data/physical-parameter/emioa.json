@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/emioa",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.emioa"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "This is the sum of total emission of primary organic aerosol (POA) and total production of secondary organic aerosol (SOA) (emipoa+chepsoa). Here, mass refers to the mass of organic matter, not mass of organic carbon alone. We recommend a scale factor of POM=1.4\\*OC, unless your model has more detailed info available.  Integrate 3D chemical production and emission field vertically to 2d field.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "emioa",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CCMI1_monthly",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Primary Emission and Chemical Production of Dry Aerosol Organic Matter",
+    "uid": "523886b41b608ce9215833b0406b9c27",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

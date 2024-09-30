@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/dfe",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.dfe"
+        },
+        {
+            "@id": "dr:variables/oyr.dfe"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Dissolved iron in sea water,  including both Fe2+ and Fe3+ ions (but not particulate detrital iron)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "dfe",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5,C4MIP,HighResMIP,LS3MIP,PMIP",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Dissolved Iron Concentration",
+    "uid": "5250c73892803497448e18ba0310c423",
+    "units": "mol m-3",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

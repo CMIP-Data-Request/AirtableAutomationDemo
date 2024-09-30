@@ -1,0 +1,63 @@
+{
+    "@id": "dr:data/variables/siday.sithick",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_ice_thickness"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_state_daily_basic, surgemip_variables, DCPP_Wider, CFMIP_baseline, seaice_gcos_ecv",
+    "compound-name": "SIday.sithick",
+    "description": "Actual (floe) thickness of sea ice (NOT volume divided by grid area as was done in CMIP5)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaiceday]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SIday"
+    ],
+    "theme": "",
+    "title": "Sea Ice Thickness",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5",
+            "LS3MIP",
+            "SIMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 154,
+        "rank-by-file-count": 204,
+        "rank-by-submissions": 154,
+        "rank-by-volume": 266
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eday.aod550volso4",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/stratosphere_optical_thickness_due_to_volcanic_ambient_aerosol_particles"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Eday.aod550volso4",
+    "description": "aerosol optical thickness at 550 nm due to stratospheric volcanic aerosols\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "VolMIP [VIRF]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eday"
+    ],
+    "theme": "",
+    "title": "Aerosol Optical Depth at 550nm Due to Stratospheric Volcanic Aerosols",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "VolMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1097,
+        "rank-by-file-count": 1147,
+        "rank-by-submissions": 1681,
+        "rank-by-volume": 1097
+    }
+}

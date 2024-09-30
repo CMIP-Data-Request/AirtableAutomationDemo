@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/abs550so4",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.abs550so4"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-29T11:34:38.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "To unravel reason for model spread in direct aerosol effect\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "abs550so4",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "fiona.oconnor@metoffice.gov.uk",
+    "proposer-name": "Atmosphere",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "Ambient Sulfate Aerosol Absorption Optical Thickness at 550nm",
+    "uid": "",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

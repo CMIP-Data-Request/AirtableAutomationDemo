@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/e3hr.prrc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/convective_rainfall_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "E3hr.prrc",
+    "description": "Convective Rainfall rate\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LS3MIP [L3hr]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "E3hr"
+    ],
+    "theme": "",
+    "title": "Convective Rainfall Rate",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LS3MIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 464,
+        "rank-by-file-count": 1322,
+        "rank-by-submissions": 956,
+        "rank-by-volume": 464
+    }
+}

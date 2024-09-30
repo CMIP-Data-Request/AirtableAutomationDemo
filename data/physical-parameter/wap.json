@@ -1,0 +1,71 @@
+{
+    "@id": "dr:data/physical-parameter/wap",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplev.wap"
+        },
+        {
+            "@id": "dr:variables/amon.wap"
+        },
+        {
+            "@id": "dr:variables/cfday.wap"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.wap"
+        },
+        {
+            "@id": "dr:variables/day.wap"
+        },
+        {
+            "@id": "dr:variables/e1hr.wap"
+        },
+        {
+            "@id": "dr:variables/e1hr.wap27"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.wap"
+        },
+        {
+            "@id": "dr:variables/eday.wap"
+        },
+        {
+            "@id": "dr:variables/emon.wap"
+        },
+        {
+            "@id": "dr:variables/esubhr.wap"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Omega (vertical velocity in pressure coordinates, positive downwards)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "wap",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CFday,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Omega (=dp/dt)",
+    "uid": "51fb29dd55442361fa9c5dbe23aca9c6",
+    "units": "Pa s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

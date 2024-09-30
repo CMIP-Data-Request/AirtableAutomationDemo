@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/agesno",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/eday.agesno"
+        },
+        {
+            "@id": "dr:variables/limon.agesno"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Age of Snow (when computing the time-mean here, the time samples, weighted by the mass of snow on the land portion of the grid cell, are accumulated and then divided by the sum of the weights.  Reported as missing data in regions free of snow on land.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "agesno",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "wm"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_LImon,PMIP3_LIclim,PMIP3_LImon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Mean Age of Snow",
+    "uid": "51e0588121783d77407236e0d2eb5d14",
+    "units": "day",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

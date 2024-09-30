@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/cfday.clw",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_fraction_of_cloud_liquid_water_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "cfmip_daily, clouds_basic_average, CFMIP_daily_3D",
+    "compound-name": "CFday.clw",
+    "description": "Calculated as the mass of  cloud liquid water in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "CFday ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "CFday"
+    ],
+    "theme": "",
+    "title": "Mass Fraction of Cloud Liquid Water",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 73,
+        "rank-by-file-count": 469,
+        "rank-by-submissions": 290,
+        "rank-by-volume": 73
+    }
+}

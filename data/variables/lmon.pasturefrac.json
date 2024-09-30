@@ -1,0 +1,66 @@
+{
+    "@id": "dr:data/variables/lmon.pasturefrac",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, AgLandUse, CFMIP_baseline",
+    "compound-name": "Lmon.pastureFrac",
+    "description": "fraction of entire grid cell  that is covered by anthropogenic pasture.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "add scalar coordinate typepasture and add \"pasture\" to the CF area type table. Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Percentage of Land Which Is Anthropogenic Pasture",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "C4MIP",
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "LS3MIP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 183,
+        "rank-by-file-count": 183,
+        "rank-by-submissions": 839,
+        "rank-by-volume": 1234
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/noaahi2mmax",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/day.noaahi2mmax"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-15T15:30:05.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Important to estimate the heat stress impact on human health\n",
+    "last-modified-by": "Data Request co-leads",
+    "name": "noaahi2mmax",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "ulas@envs.au.dk",
+    "proposer-name": "Impacts and Adaptation",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Impacts & Adaptation",
+        "Atmosphere"
+    ],
+    "title": "max 2m daily NOAA heat index",
+    "uid": "",
+    "units": "degC",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "Can this use the existing CF Standard Name heat_index_of_air_temperature? I think this is the same quantity, but have not found direct confirmation.",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "In progress",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

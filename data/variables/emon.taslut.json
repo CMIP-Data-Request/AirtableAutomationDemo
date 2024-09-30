@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/emon.taslut",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/air_temperature"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landuse",
+    "compound-name": "Emon.tasLut",
+    "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LUMIP [Lmon_Lut]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Emon"
+    ],
+    "theme": "",
+    "title": "Near-Surface Air Temperature on Land Use Tile",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LUMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1069,
+        "rank-by-file-count": 1143,
+        "rank-by-submissions": 1069,
+        "rank-by-volume": 1242
+    }
+}

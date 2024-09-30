@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/tsum",
+    "@type": "dr:variable",
+    "brand-id": "lnd",
+    "brand-tag": "tsum",
+    "cell-methods": "area: mean where land over all_area_types time: sum",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "tsum",
+    "title": "Temporal Sum",
+    "uid": "CellMethods::tsum"
+}

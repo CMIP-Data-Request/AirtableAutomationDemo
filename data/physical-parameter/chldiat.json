@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/chldiat",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.chldiat"
+        },
+        {
+            "@id": "dr:variables/oyr.chldiat"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Chlorophyll from diatom phytoplankton component concentration alone\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "chldiat",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Mass Concentration of Diatoms Expressed as Chlorophyll in Sea Water",
+    "uid": "c947141b54f1ab48dba4a84cec99c5d3",
+    "units": "kg m-3",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/expcalcob",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.expcalcob"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-26T13:55:26.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Calcite is the dominant form of calcium carbonate in marine sediments, and as such, the sinking flux of calcite reaching the ocean bottom is essential for understanding the ocean sediment response to climate change and ocean acidification.\n",
+    "last-modified-by": "Anonymous",
+    "name": "expcalcob",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "Jessica.luo@noaa.gov",
+    "proposer-name": "Jessica Luo",
+    "provenance": "",
+    "status": "New",
+    "tagged-author-team": [
+        "Earth system"
+    ],
+    "title": "Sinking Flux of Calcite Reaching the Ocean Bottom",
+    "uid": "",
+    "units": "mol m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

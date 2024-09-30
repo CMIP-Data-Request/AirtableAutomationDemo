@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/aermon.ttop",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/air_temperature_at_cloud_top"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "aerchemmip_2d_monthly",
+    "compound-name": "AERmon.ttop",
+    "description": "cloud\\_top refers to the top of the highest cloud. Air temperature is the bulk temperature of the air, not the surface (skin) temperature.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "AERmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "AERmon"
+    ],
+    "theme": "",
+    "title": "Air Temperature at Cloud Top",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "AerChemMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 956,
+        "rank-by-file-count": 1173,
+        "rank-by-submissions": 956,
+        "rank-by-volume": 1256
+    }
+}

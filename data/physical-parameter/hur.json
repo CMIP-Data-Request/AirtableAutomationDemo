@@ -1,0 +1,56 @@
+{
+    "@id": "dr:data/physical-parameter/hur",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.hur"
+        },
+        {
+            "@id": "dr:variables/cfday.hur"
+        },
+        {
+            "@id": "dr:variables/cfmon.hur"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.hur"
+        },
+        {
+            "@id": "dr:variables/day.hur"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.hur"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "hur",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CFday,CMIP5_CFmon,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Relative Humidity",
+    "uid": "3cc6766c2d001a58d18dfe7f60fd5e66",
+    "units": "%",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

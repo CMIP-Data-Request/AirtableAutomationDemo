@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/fharvest",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/lmon.fharvest"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Carbon mass flux per unit area due to crop harvesting\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "fHarvest",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Lmon,PMIP3_Lclim,PMIP3_Lmon,SPECS_Lmon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Carbon Mass Flux into Atmosphere Due to Crop Harvesting [kgC m-2 s-1]",
+    "uid": "f126552ec807a8280d6d43ed084f2fc9",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

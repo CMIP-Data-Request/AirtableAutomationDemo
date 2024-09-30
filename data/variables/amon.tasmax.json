@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/amon.tasmax",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/air_temperature"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, ref_atmosphere, ref_impacts_and_adaptation",
+    "compound-name": "Amon.tasmax",
+    "description": "monthly mean of the daily-maximum near-surface air temperature.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "normally, this should be reported at the 2 meter height.\n",
+    "provenance": "Amon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Amon"
+    ],
+    "theme": "",
+    "title": "Daily Maximum Near-Surface Air Temperature",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "DCPP",
+            "ISMIP6",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 15,
+        "rank-by-file-count": 15,
+        "rank-by-submissions": 69,
+        "rank-by-volume": 242
+    }
+}

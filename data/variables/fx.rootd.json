@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/fx.rootd",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/root_depth"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_fixed",
+    "compound-name": "fx.rootd",
+    "description": "report the maximum soil depth reachable by plant roots (if defined in model), i.e., the maximum soil depth from which they can extract moisture; report as \"missing\" where the land fraction is 0.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "fx ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "fx"
+    ],
+    "theme": "",
+    "title": "Maximum Root Depth",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "LS3MIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 508,
+        "rank-by-file-count": 545,
+        "rank-by-submissions": 508,
+        "rank-by-volume": 1787
+    }
+}

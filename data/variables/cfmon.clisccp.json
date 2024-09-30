@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/cfmon.clisccp",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/cloud_area_fraction_in_atmosphere_layer"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "cfmip_monthly, radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, cosp_output",
+    "compound-name": "CFmon.clisccp",
+    "description": "Percentage cloud cover in optical depth categories.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "7 levels x 7 tau\n",
+    "provenance": "CFmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "CFmon"
+    ],
+    "theme": "",
+    "title": "ISCCP Cloud Area Percentage",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5",
+            "PMIP",
+            "RFMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 247,
+        "rank-by-file-count": 799,
+        "rank-by-submissions": 332,
+        "rank-by-volume": 247
+    }
+}

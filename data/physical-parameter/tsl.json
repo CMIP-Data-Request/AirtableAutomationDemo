@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/tsl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplevpt.tsl"
+        },
+        {
+            "@id": "dr:variables/eday.tsl"
+        },
+        {
+            "@id": "dr:variables/lmon.tsl"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Temperature of soil. Reported as missing for grid cells with no land.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tsl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Lmon,PMIP3_Lclim,PMIP3_Lmon,SPECS_Lmon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Temperature of Soil",
+    "uid": "3fd3cb4e2d6dd15b7dd73def96fea129",
+    "units": "K",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "@id": "dr:data/variables/amon.co2mass",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/atmosphere_mass_of_carbon_dioxide"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1, biodiv_land_monthly, CFMIP_baseline, ref_earth_system",
+    "compound-name": "Amon.co2mass",
+    "description": "Total atmospheric mass of Carbon Dioxide\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If CO2 is spatially nonuniform, omit this field, but report Mole Fraction of CO2 (see the table entry before the previous one).\n",
+    "provenance": "Amon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Amon"
+    ],
+    "theme": "",
+    "title": "Total Atmospheric Mass of CO2",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "C4MIP",
+            "CDRMIP",
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 256,
+        "rank-by-file-count": 256,
+        "rank-by-submissions": 290,
+        "rank-by-volume": 1730
+    }
+}

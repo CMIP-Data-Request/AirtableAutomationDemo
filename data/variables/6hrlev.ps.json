@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/6hrlev.ps",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_air_pressure"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "6hrLev.ps",
+    "description": "surface pressure, not mean sea level pressure\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "6hrLev ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "6hrLev"
+    ],
+    "theme": "",
+    "title": "Surface Air Pressure",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "CMIP, CORDEX, PMIP, VIACSAB, VolMIP",
+        "priority-1-(cmip6)----old": [
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "VIACSAB"
+        ],
+        "priority-3-(cmip6)": "VIACSAB"
+    },
+    "rank": {
+        "min-rank": 170,
+        "rank-by-file-count": 284,
+        "rank-by-submissions": 190,
+        "rank-by-volume": 170
+    }
+}

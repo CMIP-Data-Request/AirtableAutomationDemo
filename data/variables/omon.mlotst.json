@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/omon.mlotst",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/ocean_mixed_layer_thickness_defined_by_sigma_t"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Essential, marine_bgc, SO_BGC-cloud_ocean_monthly, fish_model_core_mon, FireMIP_monthly, paleo_ocean",
+    "compound-name": "Omon.mlotst",
+    "description": "Sigma T is potential density referenced to ocean surface.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Ocean Mixed Layer Thickness Defined by Sigma T",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "DCPP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 44,
+        "rank-by-file-count": 44,
+        "rank-by-submissions": 62,
+        "rank-by-volume": 202
+    }
+}

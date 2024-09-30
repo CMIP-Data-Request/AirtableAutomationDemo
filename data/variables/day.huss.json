@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/day.huss",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/specific_humidity"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",
+    "compound-name": "day.huss",
+    "description": "Near-surface (usually, 2 meter) specific humidity.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "normally, report this at 2 meters above the surface\n",
+    "provenance": "day ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "day"
+    ],
+    "theme": "",
+    "title": "Near-Surface Specific Humidity",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, RFMIP, VIACSAB, VolMIP",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "CORDEX",
+            "RFMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "VIACSAB",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 63,
+        "rank-by-file-count": 63,
+        "rank-by-submissions": 89,
+        "rank-by-volume": 64
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/dminc",
+    "@type": "dr:variable",
+    "brand-id": "crp",
+    "brand-tag": "tstat",
+    "cell-methods": "area: mean where crops time: minimum within days time: mean over days",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "dminc",
+    "title": "Daily Minimum over Crops",
+    "uid": "CellMethods::dminc"
+}

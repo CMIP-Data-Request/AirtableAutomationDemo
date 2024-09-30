@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/siflfwdrain",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.siflfwdrain"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Total flux of fresh water from sea-ice surface into underlying ocean. This combines both surface melt water that drains directly into the ocean and the drainage of surface melt pond. By definition, this flux is always positive.\n",
+    "edited-by-author-teams": true,
+    "justification-for-inclusion": "",
+    "last-modified-by": "Automations",
+    "name": "siflfwdrain",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": [
+        "si"
+    ],
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [SIMIP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Freshwater Flux from Sea-Ice Surface",
+    "uid": "0353bea4-dca0-11e5-81c9-5404a60d96b5",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

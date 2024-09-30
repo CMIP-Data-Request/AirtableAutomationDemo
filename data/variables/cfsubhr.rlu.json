@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/cfsubhr.rlu",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/upwelling_longwave_flux_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
+    "compound-name": "CFsubhr.rlu",
+    "description": "Upwelling longwave radiation (includes the fluxes at the surface and TOA)\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "Report on model half-levels (i.e., interfaces between model layers).\n",
+    "provenance": "CFsubhr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "CFsubhr"
+    ],
+    "theme": "",
+    "title": "Upwelling Longwave Radiation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 405,
+        "rank-by-file-count": 1306,
+        "rank-by-submissions": 956,
+        "rank-by-volume": 405
+    }
+}

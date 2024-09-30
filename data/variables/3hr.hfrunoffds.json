@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/3hr.hfrunoffds",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/temperature_flux_due_to_runoff_expressed_as_heat_flux_into_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr",
+    "compound-name": "3hr.hfrunoffds",
+    "description": "Heat flux associated with liquid water which drains from land. It is calculated relative to the heat that would be transported by runoff water entering the sea at zero degrees Celsius.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "In general this should be reported as a function of depth, (i.e., it will be a function of the generic \"XYZ\" dimensions). Include enough depth levels to represent the non-zero values of this field everywhere on the globe. Report on native horizontal grid. If a function of depth, perform online remapping to depth or pressure, if not native vertical grid.\n",
+    "provenance": "",
+    "status": "New",
+    "table": [
+        "3hr"
+    ],
+    "theme": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Temperature Flux Due to Runoff Expressed as Heat Flux into Sea Water",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/ec550aer",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/1 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrlev.ec550aer"
+        },
+        {
+            "@id": "dr:variables/emon.ec550aer"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Aerosol volume extinction coefficient at 550nm wavelength.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "ec550aer",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_aero",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Aerosol Extinction Coefficient",
+    "uid": "be9cffbb781e32b0bc311b22fa5c0322",
+    "units": "m-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

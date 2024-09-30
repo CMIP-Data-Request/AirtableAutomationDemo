@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/iyrgre.sftgif",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/land_ice_area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landice_greenland_allfreq",
+    "compound-name": "IyrGre.sftgif",
+    "description": "This is needed in case the ice sheet area changes in time\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "ISMIP6 [IyrGre]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "IyrGre"
+    ],
+    "theme": "",
+    "title": "Land Ice Area Percentage",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "ISMIP6"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1765,
+        "rank-by-file-count": 1791,
+        "rank-by-submissions": 1765,
+        "rank-by-volume": 1833
+    }
+}

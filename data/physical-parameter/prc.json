@@ -1,0 +1,59 @@
+{
+    "@id": "dr:data/physical-parameter/prc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.prc"
+        },
+        {
+            "@id": "dr:variables/amon.prc"
+        },
+        {
+            "@id": "dr:variables/cf3hr.prc"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.prc"
+        },
+        {
+            "@id": "dr:variables/day.prc"
+        },
+        {
+            "@id": "dr:variables/e1hr.prc"
+        },
+        {
+            "@id": "dr:variables/esubhr.prc"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Convective precipitation at surface; includes both liquid and solid phases.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "prc",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFsubhr,CMIP5_day,CORDEX_3h,CORDEX_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_Amon,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Convective Precipitation",
+    "uid": "aa2bea81f238ad8f2c35a7e16ad97801",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

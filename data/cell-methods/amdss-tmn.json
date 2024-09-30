@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amdss-tmn",
+    "@type": "dr:variable",
+    "brand-id": "sea",
+    "brand-tag": "",
+    "cell-methods": "area: mean where sea depth: sum where sea time: mean",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amdss-tmn",
+    "title": "Sum over Depth, Time Mean",
+    "uid": "CellMethods::amdss-tmn"
+}

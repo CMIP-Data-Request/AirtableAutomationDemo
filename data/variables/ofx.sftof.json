@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/ofx.sftof",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_area_fraction"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_fixed, paleo_fx, seaice_budget_mass_monthly, seaice_budget_area_monthly, seaice_budget_energy_monthly, seaice_state_monthly_basic, seaice_dynamics_basic, seaice_dynamics_advanced, seaice_budget_freshwater_monthly, seaice_state_monthly_advanced, seaice_state_daily_basic, seaice_bgc_monthly, seaice_bgc_daily, seaice_budget_energy_daily, seaice_state_daily_advanced",
+    "compound-name": "Ofx.sftof",
+    "description": "This is the area fraction at the ocean surface.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Should this be recorded as a function of depth?  Report on the same grid that ocean fields are reported (i.e., the ocean native grid, or the grid that ocean data has been provided to CMIP.  For completeness, provide this even if the ocean grid is the same as the atmospheric grid.\n",
+    "provenance": "Ofx ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Ofx"
+    ],
+    "theme": "",
+    "title": "Sea Area Percentage",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 188,
+        "rank-by-file-count": 421,
+        "rank-by-submissions": 188,
+        "rank-by-volume": 1433
+    }
+}

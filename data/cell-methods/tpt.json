@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/tpt",
+    "@type": "dr:variable",
+    "brand-id": "x",
+    "brand-tag": "",
+    "cell-methods": "time: point",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "tpt",
+    "title": "Instantaneous",
+    "uid": "CellMethods::tpt"
+}

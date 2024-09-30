@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/simon.sicompstren",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/compressive_strength_of_sea_ice"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "seaice_dynamics_advanced",
+    "compound-name": "SImon.sicompstren",
+    "description": "Computed strength of the ice pack, defined as the energy (J m-2) dissipated per unit area removed from the ice pack under compression, and assumed proportional to the change in potential energy caused by ridging. For Hibler-type models, this is P (= P\\*h exp(-C(1-A)) where P\\* is compressive strength, h ice thickness, A compactness and C strength reduction constant).\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "SIMIP [seaicemon]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "SImon"
+    ],
+    "theme": "",
+    "title": "Compressive Sea Ice Strength",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "SIMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 248,
+        "rank-by-file-count": 402,
+        "rank-by-submissions": 248,
+        "rank-by-volume": 1058
+    }
+}

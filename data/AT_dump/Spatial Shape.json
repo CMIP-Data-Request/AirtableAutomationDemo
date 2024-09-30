@@ -1,0 +1,240 @@
+[
+    {
+        "Title":"Global field (single level)",
+        "Name":"XY-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Atmospheric zonal mean (on 39 pressure levels)",
+        "Name":"Y-P39",
+        "Number of Levels":39,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field on soil levels",
+        "Name":"XY-S",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Global field on 40 altitude levels",
+        "Name":"XY-H40",
+        "Number of Levels":40,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Site (specific locations requested by CFMIP)",
+        "Name":"S-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global ocean field on model half levels",
+        "Name":"XY-OH",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (19 pressure levels)",
+        "Name":"XY-P19",
+        "Number of Levels":19,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (27 pressure levels)",
+        "Name":"XY-P27",
+        "Number of Levels":27,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (7 pressure levels)",
+        "Name":"XY-P7",
+        "Number of Levels":7,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (3 pressure levels, UTLS)",
+        "Name":"XY-P3u",
+        "Number of Levels":3,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Ocean transect",
+        "Name":"TR-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Ocean basin meridional section (on model grid)",
+        "Name":"GYB-O",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":"This shape is intended for meridional transport diagnostics which should be approximated as the transport along zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution\n"
+    },
+    {
+        "Title":"Global ocean field on model levels",
+        "Name":"XY-O",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (8 pressure levels)",
+        "Name":"XY-P8",
+        "Number of Levels":8,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Zonal mean (on surface)",
+        "Name":"Y-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (4 pressure levels)",
+        "Name":"XY-P4",
+        "Number of Levels":4,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (16 altitudes)",
+        "Name":"XY-H16",
+        "Number of Levels":16,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field on model atmosphere levels",
+        "Name":"XY-A",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Ocean basin meridional section",
+        "Name":"YB-O",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Polar stereographic grid (Greenland)",
+        "Name":"XYG-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field on model atmosphere half-levels",
+        "Name":"XY-AH",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Atmospheric profiles at specified sites",
+        "Name":"S-A",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Atmospheric profile (model half-levels)",
+        "Name":"na-AH",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Ocean basin meridional section (on model grid and density surfaces)",
+        "Name":"GYB-R",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":"This shape is intended for meridional transport diagnostics which should be approximated as the transport along zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution\n"
+    },
+    {
+        "Title":"Ocean transect for sea-ice fluxes",
+        "Name":"TRS-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global mean or constant",
+        "Name":"na-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Ocean basin zonal mean",
+        "Name":"YB-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Atmospheric zonal mean (on 19 pressure levels)",
+        "Name":"Y-P19",
+        "Number of Levels":19,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Ocean basin meridional section (on density surfaces)",
+        "Name":"YB-R",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Polar stereographic grid (Antarctic)",
+        "Name":"XYA-na",
+        "Number of Levels":1,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Atmospheric profiles (half levels) at specified sites",
+        "Name":"S-AH",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (3 pressure levels)",
+        "Name":"XY-P3",
+        "Number of Levels":3,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Global field (7 pressure tropospheric levels)",
+        "Name":"XY-P7T",
+        "Number of Levels":7,
+        "Level Flag":"True",
+        "Comments":""
+    },
+    {
+        "Title":"Zonal mean (on model levels)",
+        "Name":"Y-A",
+        "Number of Levels":0,
+        "Level Flag":"False",
+        "Comments":""
+    }
+]

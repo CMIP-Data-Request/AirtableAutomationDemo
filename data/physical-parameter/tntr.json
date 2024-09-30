@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/tntr",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/cfmon.tntr"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.tntr"
+        },
+        {
+            "@id": "dr:variables/e1hr.tntr"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Tendency of Air Temperature due to Radiative Heating\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "tntr",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_CFmon,CMIP5_CFsubhr",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Tendency of Air Temperature Due to Radiative Heating",
+    "uid": "93a0ba1f23bfc41b720ea68951d28144",
+    "units": "K s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

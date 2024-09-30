@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amse-tmn",
+    "@type": "dr:variable",
+    "brand-id": "sea",
+    "brand-tag": "",
+    "cell-methods": "area: mean where sea time: mean",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amse-tmn",
+    "title": "Time Mean over Sea",
+    "uid": "CellMethods::amse-tmn"
+}

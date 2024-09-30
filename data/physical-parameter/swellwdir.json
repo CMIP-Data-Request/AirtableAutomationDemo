@@ -1,0 +1,37 @@
+{
+    "@id": "dr:data/physical-parameter/swellwdir",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": "",
+    "comments": "",
+    "created": "2024-09-16T15:34:13.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Inclusion of the wave model's output\n",
+    "last-modified-by": "Data Request co-leads",
+    "name": "swellwdir",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "andre.lanfer@inpe.br",
+    "proposer-name": "Andr\u00e9 Lanfer ",
+    "provenance": "",
+    "status": "New",
+    "tagged-author-team": "",
+    "title": "Swell waves Direction",
+    "uid": "",
+    "units": "degree",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/sisnmassn",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.sisnmassn"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-30T21:11:52.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "We propose to add this new physical parameter for the total mass of snow on sea ice over the Northern Hemisphere to compliment the other sea ice integrated total hemispheric diagnostics (siarean, siareas, siextentn, siextents, sivoln, and sivols) and allow for a complete high-level analysis of the total mass of the cryosphere in the Earth system.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "sisnmassn",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "patricia.derepentigny@uclouvain.be",
+    "proposer-name": "Ocean & Sea Ice Author Team (SIMIP)",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Ocean & sea-ice",
+        "Earth system"
+    ],
+    "title": "Snow Mass on Sea-Ice North",
+    "uid": "",
+    "units": "kg",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": "In progress"
+    }
+}

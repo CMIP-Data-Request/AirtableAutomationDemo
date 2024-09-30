@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/fx.depthl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/depth"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "paleo_fx, hydrology",
+    "compound-name": "fx.depthl",
+    "description": "depth of a lake; this relates to variable fx.sftlkf and shall provide additional information of the vertical extent of a lake which will influence the heat capacity among other things. This variable shall identify differences in details of the treatment of lakes in climate models.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "fx"
+    ],
+    "theme": [
+        "Land & land-ice",
+        "Earth System",
+        "Ocean & sea-ice"
+    ],
+    "title": "lake depth",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "In progress",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "In progress",
+        "ocean-&-sea-ice-author-team-review": "In progress"
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

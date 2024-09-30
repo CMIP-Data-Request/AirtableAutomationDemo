@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/dyto",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/ofx.dyto"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-08T20:28:40.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": true,
+    "justification-for-inclusion": "To be able to do accurate calculations for the ocean model the width of the gridboxes in both the east/west and north/south direction is essential. This is particularly true if ocean transects are being investigated. Furthermore, attempting to estimate these parameters using the longitudes and latitudes from the t,u and v grid points often leads to incorrect values due to some models artificially narrowing channels (e.g. Strait of Gibraltar and between various islands in the Indonesian Through flow region.\n",
+    "last-modified-by": "Automations",
+    "name": "dyto",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "jmecki@noc.ac.uk",
+    "proposer-name": "Jenny Mecking \u2013 Ocean and Sea Ice Author Team \u2013 National Oceanography Centre \u2013 Climate and Uncertainty group",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Northward gridbox width on t points",
+    "uid": "",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

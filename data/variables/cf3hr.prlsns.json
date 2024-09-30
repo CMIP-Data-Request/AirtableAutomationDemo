@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/cf3hr.prlsns",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/stratiform_snowfall_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "cfmip_3hr",
+    "compound-name": "CF3hr.prlsns",
+    "description": "large-scale precipitation of all forms of water in the solid phase.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "report on model half-levels\n",
+    "provenance": "CF3hr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "CF3hr"
+    ],
+    "theme": "",
+    "title": "Stratiform Snowfall Flux",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "CFMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 352,
+        "rank-by-file-count": 1293,
+        "rank-by-submissions": 1295,
+        "rank-by-volume": 352
+    }
+}

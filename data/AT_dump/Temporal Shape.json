@@ -1,0 +1,22 @@
+[
+    {
+        "Name":"time-point",
+        "Title":"Instantaneous value (i.e. synoptic or time-step value)"
+    },
+    {
+        "Name":"time-mean",
+        "Title":"Temporal mean"
+    },
+    {
+        "Name":"climatology",
+        "Title":"Climatological mean"
+    },
+    {
+        "Name":"None",
+        "Title":"No temporal dimensions ... fixed field"
+    },
+    {
+        "Name":"diurnal-cycle",
+        "Title":"Mean Diurnal Cycle"
+    }
+]

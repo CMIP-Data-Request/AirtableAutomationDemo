@@ -1,0 +1,44 @@
+{
+    "@id": "dr:data/physical-parameter/rv850",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/1 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplev.rv850"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.rv850"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Relative vorticity is the upward component of the vorticity vector i.e. the component which arises from horizontal velocity.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rv850",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP6 endorsement [DCPP]",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Relative Vorticity at 850hPa",
+    "uid": "590ece46-9e49-11e5-803c-0d0b866b59f3",
+    "units": "s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/tminc",
+    "@type": "dr:variable",
+    "brand-id": "crp",
+    "brand-tag": "tstat",
+    "cell-methods": "area: mean where crops time: minimum",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "tminc",
+    "title": "Temporal Minimum over Crops",
+    "uid": "CellMethods::tminc"
+}

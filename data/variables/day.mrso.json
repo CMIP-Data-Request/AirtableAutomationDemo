@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/day.mrso",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mass_content_of_water_in_soil"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "DCPP_Wider, AgWaterExt, HealthFloodingDaily, biodiv_freshwater_daily, biodiv_land_daily, impact_energy_building_demand, WaterResources_daily, CFMIP_baseline",
+    "compound-name": "day.mrso",
+    "description": "the mass per unit area  (summed over all soil layers) of water in all phases.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "day ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "day"
+    ],
+    "theme": "",
+    "title": "Total Soil Moisture Content",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "DCPP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 114,
+        "rank-by-file-count": 114,
+        "rank-by-submissions": 175,
+        "rank-by-volume": 194
+    }
+}

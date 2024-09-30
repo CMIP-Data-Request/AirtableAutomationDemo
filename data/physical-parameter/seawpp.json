@@ -1,0 +1,39 @@
+{
+    "@id": "dr:data/physical-parameter/seawpp",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": "",
+    "comments": "",
+    "created": "2024-09-16T15:46:51.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Inclusion of the wave model's output\n",
+    "last-modified-by": "Anonymous",
+    "name": "seawpp",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "andre.lanfer@inpe.br",
+    "proposer-name": "Andr\u00e9 Lanfer",
+    "provenance": "",
+    "status": "New",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Sea Wave Peak Period",
+    "uid": "",
+    "units": "s",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "@id": "dr:data/variables/day.mrro",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/runoff_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "temperature_variability_daily_lowpriority, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline",
+    "compound-name": "day.mrro",
+    "description": "computed as the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell divided by the land area in the grid cell.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "day ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "day"
+    ],
+    "theme": "",
+    "title": "Total Runoff",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5",
+            "LS3MIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 119,
+        "rank-by-file-count": 134,
+        "rank-by-submissions": 119,
+        "rank-by-volume": 213
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amnsi-tpt",
+    "@type": "dr:variable",
+    "brand-id": "si",
+    "brand-tag": "",
+    "cell-methods": "area: mean where sea_ice (comment: mask=siconc) time: point",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "siconc",
+    "regex": 1.0,
+    "label": "amnsi-tpt",
+    "title": "Instantaneous over Sea-Ice",
+    "uid": "CellMethods::amnsi-tpt"
+}

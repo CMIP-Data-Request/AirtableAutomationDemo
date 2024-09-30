@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/omon.hfgeou",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/upward_geothermal_heat_flux_at_sea_floor"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "landice_global_allfreq",
+    "compound-name": "Omon.hfgeou",
+    "description": "Upward geothermal heat flux per unit area on the sea floor\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "If this field is time-invariant, then save it instead as one of your \"fixed\" fields (see the fx table). Report on native horizontal grid.\n",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Upward Geothermal Heat Flux at Sea Floor",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5",
+            "ISMIP6",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 384,
+        "rank-by-file-count": 384,
+        "rank-by-submissions": 956,
+        "rank-by-volume": 1084
+    }
+}

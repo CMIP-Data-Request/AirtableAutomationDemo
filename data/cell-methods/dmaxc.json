@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/dmaxc",
+    "@type": "dr:variable",
+    "brand-id": "crp",
+    "brand-tag": "tstat",
+    "cell-methods": "area: mean where crops time: maximum within days time: mean over days",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "dmaxc",
+    "title": "Daily Maximum over Crops",
+    "uid": "CellMethods::dmaxc"
+}

@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/oyr.dissi14cabio",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/mole_concentration_of_dissolved_inorganic_14C_in_sea_water"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Oyr.dissi14cabio",
+    "description": "Abiotic Dissolved inorganic 14carbon (CO3+HCO3+H2CO3) concentration\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Oyr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Oyr"
+    ],
+    "theme": "",
+    "title": "Abiotic Dissolved Inorganic Carbon-14 Concentration",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 795,
+        "rank-by-file-count": 1345,
+        "rank-by-submissions": 1599,
+        "rank-by-volume": 795
+    }
+}

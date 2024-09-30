@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amsnsi-tmn",
+    "@type": "dr:variable",
+    "brand-id": "sn",
+    "brand-tag": "",
+    "cell-methods": "area: mean where snow over sea_ice area: time: mean where sea_ice",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amsnsi-tmn",
+    "title": "Weighted Time Mean over Area of Snow on Sea-Ice",
+    "uid": "CellMethods::amsnsi-tmn"
+}

@@ -1,0 +1,89 @@
+{
+    "@id": "dr:data/physical-parameter/ua",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrlev.ua"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.ua"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.ua7h"
+        },
+        {
+            "@id": "dr:variables/aermon.ua"
+        },
+        {
+            "@id": "dr:variables/aermonz.ua"
+        },
+        {
+            "@id": "dr:variables/amon.ua"
+        },
+        {
+            "@id": "dr:variables/cfday.ua"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.ua"
+        },
+        {
+            "@id": "dr:variables/day.ua"
+        },
+        {
+            "@id": "dr:variables/e1hr.ua"
+        },
+        {
+            "@id": "dr:variables/e1hr.ua27"
+        },
+        {
+            "@id": "dr:variables/e3hrpt.ua"
+        },
+        {
+            "@id": "dr:variables/eday.ua"
+        },
+        {
+            "@id": "dr:variables/edayz.ua"
+        },
+        {
+            "@id": "dr:variables/emon.ua"
+        },
+        {
+            "@id": "dr:variables/emon.ua27"
+        },
+        {
+            "@id": "dr:variables/esubhr.ua"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Zonal wind (positive in a eastward direction).\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "ua",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_6hrLev,CMIP5_6hrPlev,CMIP5_Amon,CMIP5_CFday,CMIP5_CFsubhr,CMIP5_day,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_Amon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Eastward Wind",
+    "uid": "21db90c0a12448299f855fdab60930d4",
+    "units": "m s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

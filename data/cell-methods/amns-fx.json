@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amns-fx",
+    "@type": "dr:variable",
+    "brand-id": "sea",
+    "brand-tag": "",
+    "cell-methods": "area: mean where sea",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amns-fx",
+    "title": "Area Mean over Sea",
+    "uid": "CellMethods::amns-fx"
+}

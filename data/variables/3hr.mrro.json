@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/3hr.mrro",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/runoff_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "WaterResources_subdaily",
+    "compound-name": "3hr.mrro",
+    "description": "the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell divided by the land area in the grid cell, averaged over the 3-hour interval.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "3hr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "3hr"
+    ],
+    "theme": "",
+    "title": "Total Runoff",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 172,
+        "rank-by-file-count": 440,
+        "rank-by-submissions": 172,
+        "rank-by-volume": 303
+    }
+}

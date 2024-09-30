@@ -1,0 +1,41 @@
+{
+    "@id": "dr:data/physical-parameter/dryoa",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/aermon.dryoa"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Tendency of atmosphere mass content of organic dry aerosol due to dry deposition: This is the sum of dry deposition of primary organic aerosol (POA) and dry deposition of secondary organic aerosol (SOA). Here, mass refers to the mass of organic matter, not mass of organic carbon alone.  We recommend a scale factor of POM=1.4\\*OC, unless your model has more detailed info available. Was called dry\\_pom in old ACCMIP Excel table. Dry deposition includes gravitational settling and turbulent deposition.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "dryoa",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_aero",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Dry Deposition Rate of Dry Aerosol Total Organic Matter",
+    "uid": "6f095163598ce89d463f74ae2a096270",
+    "units": "kg m-2 s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

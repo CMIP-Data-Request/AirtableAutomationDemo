@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/aermon.rlutaf",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/toa_outgoing_longwave_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "radiativeforcing_monthly, aerchemmip_2d_monthly",
+    "compound-name": "AERmon.rlutaf",
+    "description": "Flux corresponding to rlut resulting fom aerosol-free call to radiation\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "AERmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "AERmon"
+    ],
+    "theme": "",
+    "title": "TOA Outgoing Aerosol-Free Longwave Radiation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "AerChemMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 433,
+        "rank-by-file-count": 433,
+        "rank-by-submissions": 653,
+        "rank-by-volume": 988
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/emonz.epfz",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/upward_eliassen_palm_flux_in_air"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "dynvar_basic, DCPP_Wider",
+    "compound-name": "EmonZ.epfz",
+    "description": "zonal mean; hence YZT\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "DynVarMIP [DYVR_monthly_c]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "EmonZ"
+    ],
+    "theme": "",
+    "title": "Upward Component of the Eliassen-Palm Flux",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "DAMIP",
+            "DynVarMIP",
+            "PAMIP"
+        ],
+        "priority-2-(cmip6---old": [
+            "HighResMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": [
+            "DCPP"
+        ],
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 402,
+        "rank-by-file-count": 755,
+        "rank-by-submissions": 402,
+        "rank-by-volume": 1481
+    }
+}

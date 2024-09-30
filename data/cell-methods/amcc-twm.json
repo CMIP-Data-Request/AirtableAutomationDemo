@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amcc-twm",
+    "@type": "dr:variable",
+    "brand-id": "ccl",
+    "brand-tag": "",
+    "cell-methods": "area: time: mean where convective_cloud (weighted by total convective cloud area)\n",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": "",
+    "label": "amcc-twm",
+    "title": "Weighted Time Mean on Convective Cloud",
+    "uid": "CellMethods::amcc-twm"
+}

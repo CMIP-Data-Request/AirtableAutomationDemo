@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/mrso5",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/eday.mrso5"
+        }
+    ],
+    "comments": "",
+    "created": "2024-08-21T00:02:41.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Based on the recent scientific need to consider soil moisture at different layers, I'd like to propose standard names for soil moisture at the depths of 5cm, 10cm, 20cm, 50cm, and 100cm. The naming of these physical parameters follows the existing \"mrso\", whose CF Standard Name is\u00a0_mass\\_content\\_of\\_water\\_in\\_soil_. The number of corresponding depths has been added to the end of the term.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "mrso5",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "yli@geog.ucla.edu",
+    "proposer-name": "Land & Land Ice",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Land & land-ice"
+    ],
+    "title": "Mean soil water content at a depth of 5 cm",
+    "uid": "",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "In progress",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

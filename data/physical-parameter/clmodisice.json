@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/clmodisice",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/cfmon.clmodisice"
+        },
+        {
+            "@id": "dr:variables/cfmon.clmodisice_dup"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-31T20:44:08.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Same as clmodisliquid, but this parameter can be used to estimate the SW ERFaci from ice clouds. This would be most useful in GCMs that capture at least some of the\u00a0_aerosol effects on ice clouds,\u00a0_and might also prove useful to\u00a0understand how different degrees of ice-aerosol representations in models lead to differences in aerosol forcing_.\u00a0_This parameter could also be used in a similar fashion to\u00a0_clmodis_\u00a0as a test on how well models simulate ice cloud\u00a0_amount_\u00a0as well as ice cloud\u00a0_distribution_\u00a0(in CTP-COT or r\\_e-IWP space).\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "clmodisice",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "bmduran@ucsd.edu",
+    "proposer-name": "Brandon Duran",
+    "provenance": "",
+    "status": "Accepted",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "MODIS Ice-Topped Cloud Area Fraction",
+    "uid": "",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "Atmosphere team are happy with the technical description of the parameters and confirmed there is precedent for the modis naming convention. The IPO has reached out to the proposer to inform that an accepted physical parameter does not indicate inclusion into the Data Request - the physical parameter must be assigned to a Variable, which in turn must be assigned a variable group and opportunity to ensure inclusion.",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "Accepted",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

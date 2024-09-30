@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amna-tpt",
+    "@type": "dr:variable",
+    "brand-id": "",
+    "brand-tag": "",
+    "cell-methods": "area: mean where air time: point",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": "",
+    "label": "amna-tpt",
+    "title": "Instantaneous Value on Levels above Ground",
+    "uid": "CellMethods::amna-tpt"
+}

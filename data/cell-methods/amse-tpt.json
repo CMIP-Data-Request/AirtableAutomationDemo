@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amse-tpt",
+    "@type": "dr:variable",
+    "brand-id": "sea",
+    "brand-tag": "",
+    "cell-methods": "area: mean where sea time: point",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amse-tpt",
+    "title": "Instantaneous over Sea",
+    "uid": "CellMethods::amse-tpt"
+}

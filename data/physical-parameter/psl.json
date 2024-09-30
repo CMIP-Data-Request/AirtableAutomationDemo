@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/physical-parameter/psl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/6hrplev.psl"
+        },
+        {
+            "@id": "dr:variables/6hrplevpt.psl"
+        },
+        {
+            "@id": "dr:variables/amon.psl"
+        },
+        {
+            "@id": "dr:variables/cf3hr.psl"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.psl"
+        },
+        {
+            "@id": "dr:variables/day.psl"
+        },
+        {
+            "@id": "dr:variables/e1hr.psl"
+        },
+        {
+            "@id": "dr:variables/e3hr.psl"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Sea Level Pressure\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "psl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_6hrPlev,CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFsubhr,CMIP5_day,CORDEX_3h,CORDEX_day,CORDEX_mon,CORDEX_sem,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_6hr,SPECS_Amon,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Sea Level Pressure",
+    "uid": "3d23c359f44d6a153c4dcab9e07d7cb6",
+    "units": "Pa",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

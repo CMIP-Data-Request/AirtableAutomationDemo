@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/rld",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/cfmon.rld"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rld"
+        },
+        {
+            "@id": "dr:variables/efx.rld"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Downwelling Longwave Radiation (includes the fluxes at the surface and TOA)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rld",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_CFmon",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Downwelling Longwave Radiation",
+    "uid": "c432bfbfc0e7f4403f91af39736ff61c",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/physical-parameter/rsus",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/3hr.rsus"
+        },
+        {
+            "@id": "dr:variables/amon.rsus"
+        },
+        {
+            "@id": "dr:variables/cf3hr.rsus"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rsus"
+        },
+        {
+            "@id": "dr:variables/day.rsus"
+        },
+        {
+            "@id": "dr:variables/imonant.rsus"
+        },
+        {
+            "@id": "dr:variables/imongre.rsus"
+        },
+        {
+            "@id": "dr:variables/e1hr.rsus"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"shortwave\" means shortwave radiation. Upwelling radiation is radiation from below. It does not mean \"net upward\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rsus",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_Amon,CMIP5_CF3hr,CMIP5_CFday,CMIP5_CFsubhr,CMIP5_day,CORDEX_3h,CORDEX_day,CORDEX_mon,CORDEX_sem,PMIP3_Aclim,PMIP3_Amon,PMIP3_day,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Surface Upwelling Shortwave Radiation",
+    "uid": "70bf79db957daa3b82413da949233ac7",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

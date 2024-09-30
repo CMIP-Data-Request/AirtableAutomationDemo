@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/eyr.csoil",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/soil_mass_content_of_carbon"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Eyr.cSoil",
+    "description": "Carbon mass in the full depth of the soil model.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/yrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "LUMIP [Lyr_Lut]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Eyr"
+    ],
+    "theme": "",
+    "title": "Carbon Mass in Model Soil Pool",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "LUMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 563,
+        "rank-by-file-count": 563,
+        "rank-by-submissions": 839,
+        "rank-by-volume": 1598
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/ofx.hfgeou",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/upward_geothermal_heat_flux_at_sea_floor"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_fixed",
+    "compound-name": "Ofx.hfgeou",
+    "description": "Upward geothermal heat flux per unit area on the sea floor\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/fx"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "up",
+    "processing-note": "If this field is time-dependent then save it instead as one of your Omon fields (see the Omon table)\n",
+    "provenance": "Ofx ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Ofx"
+    ],
+    "theme": "",
+    "title": "Upward Geothermal Heat Flux at Sea Floor",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 533,
+        "rank-by-file-count": 668,
+        "rank-by-submissions": 533,
+        "rank-by-volume": 1523
+    }
+}

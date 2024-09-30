@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/cfsubhr.prc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/convective_precipitation_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
+    "compound-name": "CFsubhr.prc",
+    "description": "at surface; includes both liquid and solid phases.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
+    "provenance": "CFsubhr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "CFsubhr"
+    ],
+    "theme": "",
+    "title": "Convective Precipitation",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 956,
+        "rank-by-file-count": 1595,
+        "rank-by-submissions": 956,
+        "rank-by-volume": 1292
+    }
+}

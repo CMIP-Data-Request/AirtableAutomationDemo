@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/physical-parameter/rlut",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/amon.rlut"
+        },
+        {
+            "@id": "dr:variables/cf3hr.rlut"
+        },
+        {
+            "@id": "dr:variables/cfsubhr.rlut"
+        },
+        {
+            "@id": "dr:variables/day.rlut"
+        },
+        {
+            "@id": "dr:variables/e1hr.rlut"
+        },
+        {
+            "@id": "dr:variables/e1hrclimmon.rlut"
+        },
+        {
+            "@id": "dr:variables/e3hr.rlut"
+        },
+        {
+            "@id": "dr:variables/esubhr.rlut"
+        }
+    ],
+    "comments": "",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "at the top of the atmosphere (to be compared with satellite measurements)\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "rlut",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "CMIP5_day,CORDEX_6h,CORDEX_day,CORDEX_mon,CORDEX_sem,PMIP3_day,SPECS_day",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "TOA Outgoing Longwave Radiation",
+    "uid": "63345d9732c72b97ca395f24ce2d6642",
+    "units": "W m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

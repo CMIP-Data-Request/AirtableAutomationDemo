@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/omon.intppdiat",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_diatoms"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, c4mip_ocean_carbon_cycle_tier2, fishmip_marine_monthly",
+    "compound-name": "Omon.intppdiat",
+    "description": "Vertically integrated primary (organic carbon) production by the diatom phytoplankton component alone\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Omon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Omon"
+    ],
+    "theme": "",
+    "title": "Net Primary Organic Carbon Production by Diatoms",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "C4MIP",
+            "CMIP5"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 503,
+        "rank-by-file-count": 503,
+        "rank-by-submissions": 692,
+        "rank-by-volume": 676
+    }
+}

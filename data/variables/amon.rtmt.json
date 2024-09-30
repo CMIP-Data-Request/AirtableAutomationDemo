@@ -1,0 +1,63 @@
+{
+    "@id": "dr:data/variables/amon.rtmt",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/net_downward_radiative_flux_at_top_of_atmosphere_model"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "DAMIP_monthly, CFMIP_baseline, ref_earth_system, FireMIP_monthly",
+    "compound-name": "Amon.rtmt",
+    "description": "i.e., at the top of that portion of the atmosphere where dynamics are explicitly treated by the model. This is reported only if it differs from the net downward radiative flux at the top of the atmosphere.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "",
+    "provenance": "Amon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Amon"
+    ],
+    "theme": "",
+    "title": "Net Downward Radiative Flux at Top of Model",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CDRMIP",
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "ISMIP6",
+            "PMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 86,
+        "rank-by-file-count": 86,
+        "rank-by-submissions": 102,
+        "rank-by-volume": 453
+    }
+}

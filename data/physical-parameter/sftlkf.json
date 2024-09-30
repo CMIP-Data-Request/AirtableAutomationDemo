@@ -1,0 +1,45 @@
+{
+    "@id": "dr:data/physical-parameter/sftlkf",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/fx.sftlkf"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-12T13:18:15.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "The quantification of lake fraction on a grid cell is important for some PMIP experiments. There does not yet seem to be a respective parameter available.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "sftlkf",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "Christian.Stepanek@awi.de",
+    "proposer-name": "Christian Stepanek",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Land & land-ice",
+        "Earth system",
+        "Ocean & sea-ice"
+    ],
+    "title": "Fraction of Land Grid Cell covered by Lake",
+    "uid": "",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "In progress",
+        "atmosphere-team-review-status-copy-6": "In progress"
+    }
+}

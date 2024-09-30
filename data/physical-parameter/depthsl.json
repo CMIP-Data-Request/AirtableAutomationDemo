@@ -1,0 +1,45 @@
+{
+    "@id": "dr:data/physical-parameter/depthsl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/fx.depthsl"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-12T13:34:26.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "different models treat soils differently, with the number of soil layers, and their thickness, varying. To get the information about the total thickness of soils in a model this variable is proposed.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "depthsl",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "Christian.Stepanek@awi.de",
+    "proposer-name": "Christian Stepanek",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Land & land-ice",
+        "Earth system",
+        "Ocean & sea-ice"
+    ],
+    "title": "depth of soil across all soil layers",
+    "uid": "",
+    "units": "m",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "In progress",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "In progress",
+        "atmosphere-team-review-status-copy-6": "In progress"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amlax-tpt",
+    "@type": "dr:variable",
+    "brand-id": "lnd",
+    "brand-tag": "",
+    "cell-methods": "area: mean where land over all_area_types time: point",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "",
+    "regex": 1.0,
+    "label": "amlax-tpt",
+    "title": "Contribution from Land (Instantaneous)",
+    "uid": "CellMethods::amlax-tpt"
+}

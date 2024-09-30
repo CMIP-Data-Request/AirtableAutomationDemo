@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/odec.sfdsi",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/downward_sea_ice_basal_salt_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Odec.sfdsi",
+    "description": "This field is physical, and it arises since sea ice has a nonzero salt content, so it exchanges salt with the liquid ocean upon melting and freezing.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/dec"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        }
+    ],
+    "positive-direction": "down",
+    "processing-note": "Report on native horizontal grid as well as mapped onto sphere.\n",
+    "provenance": "Odec ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Odec"
+    ],
+    "theme": "",
+    "title": "Downward Sea Ice Basal Salt Flux",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CMIP5"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1717,
+        "rank-by-file-count": 1717,
+        "rank-by-submissions": 1765,
+        "rank-by-volume": 1813
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/esubhr.tntpbl",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/tendency_of_air_temperature_due_to_boundary_layer_mixing"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "CFMIP_cfSites",
+    "compound-name": "Esubhr.tntpbl",
+    "description": "alevel site time1\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "CFMIP [CFsubhr_new]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Esubhr"
+    ],
+    "theme": "",
+    "title": "Tendency of Air Temperature Due to Boundary Layer Mixing",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 664,
+        "rank-by-file-count": 1632,
+        "rank-by-submissions": 1295,
+        "rank-by-volume": 664
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "@id": "dr:data/physical-parameter/sialb",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/siday.sialb"
+        }
+    ],
+    "comments": "",
+    "created": "2024-09-25T13:56:14.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Surface albedo is a GCOS variable for which comparison is useful. It cannot be retrieved with currently available monthly fields on the sea ice grid.\n",
+    "last-modified-by": "Anonymous",
+    "name": "sialb",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "martin.vancoppenolle@locean.ipsl.fr",
+    "proposer-name": "Martin Vancoppenolle",
+    "provenance": "",
+    "status": "New",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Albedo of sea-ice covered surface",
+    "uid": "",
+    "units": "1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/amc-twm",
+    "@type": "dr:variable",
+    "brand-id": "crp",
+    "brand-tag": "",
+    "cell-methods": "area: time: mean where crops (comment: mask=cropFrac)",
+    "cell-methods-rollup-(from-comments)": "",
+    "mask": "cropFrac",
+    "regex": 1.0,
+    "label": "amc-twm",
+    "title": "Weighted Time Mean on Crops",
+    "uid": "CellMethods::amc-twm"
+}

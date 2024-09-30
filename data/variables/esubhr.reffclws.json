@@ -1,0 +1,58 @@
+{
+    "@id": "dr:data/variables/esubhr.reffclws",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/effective_radius_of_stratiform_cloud_liquid_water_particles"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "CFMIP_cfSites",
+    "compound-name": "Esubhr.reffclws",
+    "description": "alevel site time1\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "CFMIP [CFsubhr_new]",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Esubhr"
+    ],
+    "theme": "",
+    "title": "Stratiform Cloud Liquid Droplet Effective Radius",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": [
+            "CFMIP"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 1563,
+        "rank-by-file-count": 1818,
+        "rank-by-submissions": 1681,
+        "rank-by-volume": 1563
+    }
+}

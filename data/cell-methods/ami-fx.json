@@ -1,0 +1,13 @@
+{
+    "@id": "dr:data/cell-methods/ami-fx",
+    "@type": "dr:variable",
+    "brand-id": "is",
+    "brand-tag": "",
+    "cell-methods": "area: mean where ice_sheet",
+    "cell-methods-rollup-(from-comments)": "Ice Sheet cell methods error",
+    "mask": "",
+    "regex": 1.0,
+    "label": "ami-fx",
+    "title": "Fixed Area Mean over Ice Sheets",
+    "uid": "CellMethods::ami-fx"
+}

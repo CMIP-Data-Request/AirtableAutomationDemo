@@ -1,0 +1,47 @@
+{
+    "@id": "dr:data/physical-parameter/masscello",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/odec.masscello"
+        },
+        {
+            "@id": "dr:variables/ofx.masscello"
+        },
+        {
+            "@id": "dr:variables/omon.masscello"
+        }
+    ],
+    "comments": "Clearly labelling where there are choices between variables.",
+    "created": "2024-07-12T09:06:25.000Z",
+    "data-protection-consent": "",
+    "description": "Tracer grid-cell mass per unit area used for computing tracer budgets. For Boussinesq models with static ocean grid cell thickness, masscello = rhozero\\*thickcello, where thickcello is static cell thickness and rhozero is constant Boussinesq reference density. More generally, masscello is time dependent and reported as part of Omon.\n",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "",
+    "last-modified-by": "Data Request co-leads",
+    "name": "masscello",
+    "name-validation": 1,
+    "processing-comment": "If constant, report as a fixed configuration field, otherwise report as time varying.",
+    "processing-note": "",
+    "proposer-email": "",
+    "proposer-name": "",
+    "provenance": "OMIP.fx",
+    "status": "Existing physical parameter",
+    "tagged-author-team": "",
+    "title": "Ocean Grid-Cell Mass per Area",
+    "uid": "9122e7b627c429163fd0857dc366e14e",
+    "units": "kg m-2",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

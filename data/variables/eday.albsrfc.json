@@ -1,0 +1,73 @@
+{
+    "@id": "dr:data/variables/eday.albsrfc",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_albedo"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "paleo_land_atmosphere_surface",
+    "compound-name": "Eday.albsrfc",
+    "description": "This follows the requested definition of Emon.alb, but we request data at daily resolution\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/seaice"
+        },
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/landice"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "This follows the requested definition of Emon.alb, but we request data at daily resolution\n",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "Eday"
+    ],
+    "theme": [
+        "Atmosphere",
+        "Earth System",
+        "Land & land-ice",
+        "Ocean & sea-ice"
+    ],
+    "title": "Albedo of the surface",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "In progress",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "In progress",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "In progress",
+        "ocean-&-sea-ice-author-team-review": "In progress"
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

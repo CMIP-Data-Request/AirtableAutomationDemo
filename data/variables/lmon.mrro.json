@@ -1,0 +1,66 @@
+{
+    "@id": "dr:data/variables/lmon.mrro",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/runoff_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Essential, FireMIP_monthly, WaterResources_monthly, CFMIP_baseline, ref_land_and_landice",
+    "compound-name": "Lmon.mrro",
+    "description": "the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "Lmon ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "Lmon"
+    ],
+    "theme": "",
+    "title": "Total Runoff",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "C4MIP",
+            "CFMIP",
+            "CMIP",
+            "CMIP5",
+            "DCPP",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 35,
+        "rank-by-file-count": 42,
+        "rank-by-submissions": 35,
+        "rank-by-volume": 491
+    }
+}

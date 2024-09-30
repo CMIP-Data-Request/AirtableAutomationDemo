@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/eday.mrro",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/runoff_flux"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "paleo_land_atmosphere_surface, HealthFloodingDaily",
+    "compound-name": "Eday.mrro",
+    "description": "This follows Emon.mrro, but at daily resolution where this variable does not yet exist\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "Not sure whether Lday may be an alternative place for this.\n",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "Eday"
+    ],
+    "theme": [
+        "Land & land-ice",
+        "Atmosphere",
+        "Ocean & sea-ice",
+        "Earth System"
+    ],
+    "title": "Total runoff over land",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "In progress",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "In progress",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "In progress",
+        "ocean-&-sea-ice-author-team-review": "In progress"
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

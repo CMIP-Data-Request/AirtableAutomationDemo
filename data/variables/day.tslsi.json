@@ -1,0 +1,62 @@
+{
+    "@id": "dr:data/variables/day.tslsi",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_temperature"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "CFMIP_baseline, cordex [test]",
+    "compound-name": "day.tslsi",
+    "description": "Surface temperature of all surfaces except open ocean.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/land"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "day ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "day"
+    ],
+    "theme": "",
+    "title": "Surface Temperature Where Land or Sea Ice",
+    "type": "real",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, PMIP, VIACSAB, VolMIP",
+        "priority-1-(cmip6)----old": [
+            "CMIP",
+            "CMIP5",
+            "CORDEX",
+            "PMIP",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 209,
+        "rank-by-file-count": 251,
+        "rank-by-submissions": 209,
+        "rank-by-volume": 345
+    }
+}
