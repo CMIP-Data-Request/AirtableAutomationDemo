@@ -22,7 +22,7 @@ rec0DQ5ondumwI3du,CF3hr.sci,shallow_convection_time_fraction,Fraction of Time Sh
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,cfmip_3hr,1463,"For models with a distinct shallow convection scheme only.
 ",CFMIP (CMIP5),,['CFMIP'],1835,1828,1463,,,,,,,,,,,,,
 rec0DzzViZwPS0qW7,SIday.sitempsnic,sea_ice_surface_temperature,Temperature at Snow-Ice Interface ,"Report surface temperature of ice where snow thickness is zero
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec0E9Qound6OeWU8,Eday.lwsnl,liquid_water_content_of_surface_snow,Liquid Water Content of Snow Layer,"liquid\_water\_content\_of\_snow\_layer
 ",real,"['landIce', 'land']",['Eday'],['day'],CMIP6 CMOR variable,,,,1295,,LS3MIP [LWday],['LS3MIP'],,1398,1405,1295,,,,,,,,,,,,,
 rec0EOo5i2kn17rLE,ImonGre.icem,land_ice_surface_melt_flux,Surface Ice Melt Flux,"Loss of ice mass resulting from surface melting. Computed as the total surface melt water on the land ice portion of the grid cell divided by land ice area in the grid cell.
@@ -326,7 +326,7 @@ rec3YH3djWgI2nO9r,Amon.phalf,air_pressure,Pressure on Model Half-Levels,"Air pre
 rec3c0vRZoCspEXml,ImonAnt.tas,air_temperature,Near-Surface Air Temperature,"quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods
 ",real,"['landIce', 'land']",['ImonAnt'],['mon'],CMIP6 CMOR variable,,,landice_antarctica_allfreq,999,,ISMIP6 [ImonAnt],,['ISMIP6'],999,1364,1765,,,,,,,,,,,,,
 rec3fXkPmZnXpxMqP,SIday.sifllattop,surface_upward_latent_heat_flux,daily Net Latent Heat Flux over Sea Ice ,"the net latent heat flux over sea ice
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,up,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 rec3grja0dkK1AHZb,Oclim.diftrxylo2d,ocean_tracer_xy_laplacian_diffusivity,Ocean Tracer XY Laplacian Diffusivity,"Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum.  The diffusivity may be very different in the vertical and horizontal directions. ""xy diffusivity"" means the lateral along\_coordinate component of diffusivity due to motion which is not resolved on the grid scale of the model.  xy diffusivities are used in some ocean models to counteract the numerical instabilities inherent in certain implementations of rotated neutral diffusion. ""laplacian diffusivity"" means diffusivity for use with a Laplacian diffusion operator.
 ",real,['ocean'],['Oclim'],['monC'],CMIP6 CMOR variable,,,,9999,"2-d time dependent field
 ",Oclim ((isd.003)),,,,,,,,['CMIP5'],,,,,,,,,,
@@ -489,8 +489,8 @@ rec5R97jlKxRNskiT,Omon.limirrpico,growth_limitation_of_picophytoplankton_due_to_
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,,969,,Omon ((isd.003)),"['C4MIP', 'PMIP']",['CMIP'],1141,969,1463,,,['CMIP5'],,,,,,,,,,
 rec5Sap5SDqQcYeG2,SIday.siage,age_of_sea_ice,Age of Sea Ice ,"Age of Sea Ice
 
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"seaice_state_daily_advanced, seaice_gcos_ecv",,"I would imagine that this is just a repeat of the monthly field but I'm adding it for consistency with the proposed variable group
-",,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,"seaice_state_daily_advanced, seaice_gcos_ecv",,"I would imagine that this is just a repeat of the monthly field but I'm adding it for consistency with the proposed variable group
+",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec5T7I9oQYtvanDh,AERmonZ.ta,air_temperature,Air Temperature,"Air Temperature
 ",real,['aerosol'],['AERmonZ'],['mon'],CMIP6 CMOR variable,,,"dynvar_basic, DAMIP_monthly, aerchemmip_2dZ_monthly, DCPP_Wider",200,,AERmonZ ((isd.003)),,"['CMIP5', 'DynVarMIP']",200,1099,264,,,"['DCPP', 'PAMIP']",,,,,,,,,,
 rec5XHR8cjU8fcUhN,Emon.c14Land,mass_content_of_14C_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products,Mass of 14C in All Terrestrial Carbon Pools,"Carbon-14 mass content per unit area in vegetation (any living plants e.g. trees, shrubs, grass), litter (dead plant material in or above the soil), soil, and forestry and agricultural products (e.g. paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock).
@@ -522,7 +522,7 @@ rec5nLjHK4nZ2PnJC,Oyr.sf6,mole_concentration_of_sulfur_hexafluoride_in_sea_water
 ",real,['ocean'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,898,"Report on native horizontal grid as well as on a spherical latitude/longitude grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.
 ",Oyr ((isd.003)),['CMIP5'],,1105,933,898,,,,,,,,,,,,,
 rec5tcJy8sQ8kZsvt,SIday.siflcondbot,basal_downward_heat_flux_in_sea_ice,daily Net Conductive Heat Fluxes in Ice at the Bottom ,"the net heat conduction flux at the ice base
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,down,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 rec5xunRwDJM54afn,Oyr.no3,mole_concentration_of_nitrate_in_sea_water,Dissolved Nitrate Concentration,"Mole concentration means moles (amount of substance) per unit volume and is used in the construction mole\_concentration\_of\_X\_in\_Y, where X is a material constituent of Y.
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,331,,Oyr ((isd.003)),,"['CMIP', 'CMIP5', 'PMIP']",331,339,440,,,['CDRMIP'],,,,,,,,,,
 rec62jO81p2JiS08M,AERmon.drynoy,minus_tendency_of_atmosphere_mass_content_of_noy_expressed_as_nitrogen_due_to_dry_deposition,Dry Deposition Rate of NOy,,real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2d_monthly,795,,AERmon ((isd.003)),,['AerChemMIP'],795,1385,956,,,,,,,,,,,,,
@@ -550,14 +550,14 @@ rec6OYaYghQ5ncCvU,Omon.tauucorr,downward_x_stress_correction_at_sea_water_surfac
 rec6OssvBXLCBGydw,Eday.tauupbl,surface_downward_eastward_stress_due_to_boundary_layer_mixing,Eastward Surface Stress from Planetary Boundary Layer Scheme,"surface
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,dynvar_advanced,509,,DynVarMIP [DYVR_daily_c],,['DynVarMIP'],918,509,1230,,,,,,,,,,,,,
 rec6OwkPKtAiThn8E,SIday.siitdconc,sea_ice_area_fraction,Sea-Ice Area Percentages in Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec6Q5MM6yA2ATwPv,Emon.cSoilGrass,soil_mass_content_of_carbon,Carbon Mass in Soil on Grass Tiles,"""Content"" indicates a quantity per unit area. The ""soil content"" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content\_of\_soil\_layer are used.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,,871,,C4MIP [C_LandT2],['C4MIP'],,871,1378,1230,,,,,,,,,,,,,
 rec6Rw9NoMqyd8rst,SImon.sisnmasss,,Sea-Ice Snow Mass South,"Total mass of snow on sea ice of all Southern-Hemisphere grid cells
 ",real,['seaIce'],['SImon'],['mon'],New,['Ocean & sea-ice'],,seaice_global_monthly_basic,,,,,,,,,,,,,In progress,,,,,,,,
 rec6UNVRZIvwSIBiL,SIday.siflsenstop,surface_upward_sensible_heat_flux,Daily Net Upward Sensible Heat Flux over Sea Ice ,"the net sensible heat flux over sea ice
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,"the net sensible heat flux over sea ice
-",,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,"the net sensible heat flux over sea ice
+",,,,,,,up,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 rec6UQPigMcdCRbJq,CFsubhr.hurs,relative_humidity,Near-Surface Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",1069,"This table includes the 2-D variables listed in the ""Amon"" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.
 ",CFsubhr ((isd.003)),,['CMIP5'],1654,1252,1069,,,,,,,,,,,,,
@@ -726,7 +726,7 @@ rec8GjzbxAwNQZAUh,EmonZ.epfy,northward_eliassen_palm_flux_in_air,Northward Compo
 rec8GxSsqgMgZmGpj,AERmon.lwp,atmosphere_mass_content_of_cloud_liquid_water,Liquid Water Path,"The total mass of liquid water in cloud per unit area.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, FireMIP_monthly",228,,AERmon ((isd.003)),,"['AerChemMIP', 'PMIP']",343,828,228,,,,,,,,,,,,,
 rec8KoFVM1ifg5Op8,SIday.sitempbot,sea_ice_basal_temperature,Temperature at Ice-Ocean Interface ,"Report temperature at interface, NOT temperature within lowermost model layer
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Report temperature at interface, NOT temperature within lowermost model layer
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Report temperature at interface, NOT temperature within lowermost model layer
 ",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec8LuLdqTPVuSBGq,EmonZ.oxprod,tendency_of_mole_concentration_of_ox_in_air_due_to_chemical_and_photolytic_production,Total Odd Oxygen (Ox) Production Rate,"zonal mean; hence YZT
 ",real,['atmosChem'],['EmonZ'],['mon'],CMIP6 CMOR variable,,,,1492,,DAMIP [DAMIP_Amon_new],,['DAMIP'],1492,1658,1599,,,,,,,,,,,,,
@@ -979,7 +979,7 @@ recB1NW34hivEEEoj,6hrPlevPt.va,northward_wind,Northward Wind,"Meridional wind (p
 ",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority",19,"on the following pressure levels: 850, 500, 250 hPa
 ",6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'HighResMIP']",118,19,125,,,,1 checked out of 1,,,,,,,,,
 recB1kFzDSiLk2X7s,SIday.siitdsnconc,surface_snow_area_fraction,Snow Area Percentages in Ice Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recB30KYFp4iS3lpW,AERmon.ztp,tropopause_altitude,Tropopause Altitude Above Geoid,"2D monthly mean thermal tropopause calculated using WMO tropopause definition on 3d temperature
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, CFMIP_baseline",382,,AERmon ((isd.003)),,['AerChemMIP'],495,959,382,,,,,,,,,,,,,
 recB45Mfod2py9H4i,Emon.treeFracNdlEvg,area_fraction,Needleleaf Evergreen Tree Area Percentage,"This is the percentage of the entire grid cell that is covered by needleleaf evergreen trees.
@@ -1276,11 +1276,11 @@ recEsSolMJzrz0mpy,Omon.tauuo,downward_x_stress_at_sea_water_surface,Sea Water Su
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, paleo_ocean, DCPP_Wider",62,"Report on native horizontal grid.
 ",Omon ((isd.003)),['VIACSAB'],"['CMIP5', 'VIACSAB']",103,287,62,down,,,1 checked out of 1,,,,,,,,,
 recEufE0MIrH7RzWV,SIday.siitdsnthick,surface_snow_thickness,Snow Thickness in Ice Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recEvEtVGwg8e4kjq,SImon.siflswdtop,surface_downwelling_shortwave_flux_in_air,Downwelling Shortwave Flux over Sea Ice,"The downwelling shortwave flux over sea ice (always positive by sign convention)
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,seaice_budget_energy_monthly,209,,SIMIP [seaicemon],['SIMIP'],"['CMIP', 'PMIP', 'VIACSAB']",214,953,209,down,,,,,,,,,,,,
 recExVLFH4zBXrYLE,SIday.siflswutop,surface_upwelling_shortwave_flux_in_air,Daily Upwelling Shortwave Flux over Sea Ice,"The upwelling shortwave flux over sea ice (always negative)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,up,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recExe5lHt2GZNOlU,SImon.sistrydtop,surface_downward_y_stress,Y-Component of Atmospheric Stress on Sea Ice,"Y-component of atmospheric stress on sea ice
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, DCPP_Wider",131,,SIMIP [seaicemon],['SIMIP'],['CMIP'],371,874,131,down,,['DCPP'],,,,,,,,,,
 recEz3zIal5FFqq37,LImon.prsnIs,snowfall_flux,Ice Sheet Snowfall Flux,"quantity averaged over ice\_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
@@ -1621,7 +1621,7 @@ recIPIiXDZQC45PMJ,AERmon.rluto3ref,toa_outgoing_longwave_flux_assuming_reference
 recIPpjjvidZZHD5v,Oday.co3os,mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water,Surface Carbonate Ion Concentration,"Near surface mole concentration (number of moles per unit volume: molarity) of the carbonate anion (CO3).
 ",real,['ocnBgchem'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,DCPP_Wider,,,,,,,,,,,,,In progress,,,,,,,,
 recIPuAehMabgvZMP,SIday.sirdgconc,area_fraction,Percentage Cover of Sea Ice by Ridging ,"Fraction of sea ice, by area, which is covered by sea ice ridges, giving equal weight to every square metre of sea ice .
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Fraction of sea ice, by area, which is covered by sea ice ridges, giving equal weight to every square metre of sea ice .
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Fraction of sea ice, by area, which is covered by sea ice ridges, giving equal weight to every square metre of sea ice .
 ",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recIVQJRP476FuV12,E3hrPt.clmisr,cloud_area_fraction_in_atmosphere_layer,Percentage Cloud Cover as Calculated by the MISR Simulator (Including Error Flag),"MISR optical thickness - height histogram
 ",real,['atmos'],['E3hrPt'],['3hrPt'],CMIP6 CMOR variable,,,,1230,,CFMIP [CF3hr_sim_new],,['CFMIP'],1757,1441,1230,,,,,,,,,,,,,
@@ -2059,7 +2059,7 @@ recN9AJlqzCzsjwlo,Emon.swsrfasdust,surface_net_downward_shortwave_dust_ambient_a
 recNDLVlOWmo8ajYi,6hrPlevPt.tas,air_temperature,Near-Surface Air Temperature,"near-surface (usually, 2 meter) air temperature
 ",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,,226,,HighResMIP [6hrPlev_intense],,,226,244,564,,,['HighResMIP'],,,,,,,,,,
 recNIAbrsahqFqyV4,SIday.sifb,sea_ice_freeboard,Sea-Ice Freeboard ,"Mean height of sea-ice surface (=snow-ice interface when snow covered) above sea level
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recNIVGwXVnUJdGXk,IyrGre.iareagr,grounded_ice_sheet_area,Area Covered by Grounded Ice Sheet,"Greenland
 ",real,['landIce'],['IyrGre'],['yr'],CMIP6 CMOR variable,,,landice_greenland_allfreq,1765,,ISMIP6 [IyrGre],,,1792,1845,1765,,,['ISMIP6'],,,,,,,,,,
 recNJWnTY7WfwaJUA,AERday.mmrss,mass_fraction_of_sea_salt_dry_aerosol_particles_in_air,Daily mean surface Sea Salt ,"This is the daily mean Sea Salt mass mixing ratio in lowest model layer
@@ -2124,7 +2124,7 @@ recNzByMo0MTDBe1b,CF3hr.zhalf,height_above_reference_ellipsoid,Altitude of Model
 recNzKT0H7rPnIbLr,E3hrPt.cfadLidarsr532,histogram_of_backscattering_ratio_in_air_over_height_above_reference_ellipsoid,CALIPSO Scattering Ratio CFAD,"CALIPSO Scattering Ratio CFAD
 ",real,['atmos'],['E3hrPt'],['3hrPt'],CMIP6 CMOR variable,,,,1081,,CFMIP [CF3hr_sim_new],,['CFMIP'],1718,1081,1230,,,,,,,,,,,,,
 recO0TjGRNzVLgBBo,SIday.siflcondtop,surface_downward_heat_flux_in_sea_ice,Daily Net Conductive Heat Flux in Ice at the Surface ,"the net heat conduction flux at the ice surface
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,down,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recO0mPAHLbPhjVjF,Eday.mrtws,land_water_amount,Terrestrial Water Storage,"canopy\_and\_surface\_and\_subsurface\_water\_amount
 ",real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,"hydrology, biodiv_freshwater_daily",1122,,LS3MIP [LWday],,['LS3MIP'],1543,1122,1295,,,,,,,,,,,,,
 recO0rkfuS8Y7K3Ln,Odec.thetaoga,sea_water_potential_temperature,Global Average Sea Water Potential Temperature,"Diagnostic should be contributed even for models using conservative temperature as prognostic field
@@ -2181,7 +2181,7 @@ recOiZTVCx0YO5kzI,Emon.cSoilPools,soil_mass_content_of_carbon,Carbon Mass in Eac
 recOjBuw0X4nr0SDo,Oyr.pbfe,tendency_of_mole_concentration_of_iron_in_sea_water_due_to_biological_production,Biogenic Iron Production,"'Mole concentration' means number of moles per unit volume, also called ""molarity"", and is used in the construction mole\_concentration\_of\_X\_in\_Y, where X is a material constituent of Y.  A chemical or biological species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox\_expressed\_as\_nitrogen'. The specification of a physical process by the phrase due\_to\_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  ""tendency\_of\_X"" means derivative of X with respect to time.
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,698,,Oyr ((isd.003)),"['CMIP5', 'VIACSAB']",['VIACSAB'],896,698,898,,,,,,,,,,,,,
 recOmcQtOWnW6KhE4,SIday.sifllwutop,surface_upwelling_longwave_flux_in_air,Daily Upwelling Longwave Flux over Sea Ice ,"the upwelling longwave flux over sea ice (always negative)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,up,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recOoKW6e46VP1EWh,AERmon.od550ss,atmosphere_optical_thickness_due_to_sea_salt_ambient_aerosol_particles,Sea-Salt Aerosol Optical Depth at 550nm,"Total aerosol AOD due to sea salt aerosol at a wavelength of 550 nanometres.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2d_monthly,312,,AERmon ((isd.003)),,"['AerChemMIP', 'RFMIP']",466,917,312,,,,,,,,,,,,,
 recOpudU75I0ICAnI,Omon.phypicoos,mole_concentration_of_picophytoplankton_expressed_as_carbon_in_sea_water,Surface Mole Concentration of Picophytoplankton Expressed as Carbon in Sea Water,"carbon concentration from the picophytoplankton (<2 um) component alone
@@ -2483,7 +2483,7 @@ recRlSLPL4rkn0zwt,fx.depthl,depth,lake depth,"depth of a lake; this relates to v
 recRlqlxjDVitQBoh,Eday.scldncl,number_concentration_of_stratiform_cloud_liquid_water_particles_at_stratiform_liquid_water_cloud_top,Cloud Droplet Number Concentration of Stratiform Cloud Tops,"Droplets are liquid only.  Report concentration ""as seen from space"" over stratiform liquid cloudy portion of grid cell.  This is the value from uppermost model layer with liquid cloud or, if available, it is better to sum over all liquid cloud tops, no matter where they occur, as long as they are seen from the top of the atmosphere. Weight by total liquid cloud top fraction of  (as seen from TOA) each time sample when computing monthly mean.
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,595,,CFMIP [aeroDay_2d],,['CFMIP'],982,595,1230,,,,,,,,,,,,,
 recRmAXfTYhFnae0Q,SIday.siitdthick,sea_ice_thickness,Sea-Ice Thickness in Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recRn3dbAL7zbGWn5,CFmon.edt,atmosphere_heat_diffusivity,Eddy Diffusivity Coefficient for Temperature,"Vertical diffusion coefficient for temperature due to parametrised eddies
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",526,,CFmon ((isd.003)),,['CMIP5'],1357,526,653,,,,,,,,,,,,,
 recRqPcMwJ7JQL6KY,AERday.zg500,geopotential_height,Geopotential Height at 500hPa,"geopotential height on the 500 hPa surface
@@ -2776,7 +2776,7 @@ recV4HfpYc34yVdbJ,Eday.mrso5,,mrso5,"Soil moisture in the top 5 cm of the soil c
 ",real,['land'],['Eday'],['day'],Under review,['Impacts & adaptation'],,HealthFloodingDaily,,"only provided for land locations
 ",,,,,,,,In progress,,,,,,,,,,,
 recV5Dr8ifn4cWTop,SIday.simprefrozen,thickness_of_ice_on_sea_ice_melt_pond,Thickness of Refrozen Ice on Melt Pond ,"Volume of refrozen ice on melt ponds divided by meltpond covered area
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recV7xbGh4Zxs9A2X,CFsubhr.rsutcs,toa_outgoing_shortwave_flux_assuming_clear_sky,TOA Outgoing Clear-Sky Shortwave Radiation,"Calculated in the absence of clouds.
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",956,"This table includes the 2-D variables listed in the ""Amon"" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.
 ",CFsubhr ((isd.003)),,['CMIP5'],1476,1114,956,up,,,,,,,,,,,,
@@ -3114,7 +3114,7 @@ recZ6ovNNdpxDgP74,SImon.siarean,sea_ice_area,Sea-Ice Area North,"total area of s
 recZ76DdvK4m289A4,Emon.snowmxrat,mass_fraction_of_snow_in_air,Mass Fraction of Snow in Air,"Snow mixing ratio
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,9999,,HighResMIP [Amon_diag],['HighResMIP'],,,,,,,,,,,,,,,,,
 recZA9FW3dMEuKcHz,SIday.sisnhc,thermal_energy_content_of_surface_snow,Daily Snow Heat Content per Unit Area ,"Heat-content of all snow in grid cell divided by total grid-cell area. Snow-water equivalent at 0 Celsius is assumed to have a heat content of 0 J.  Does not include heat content of sea ice.
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recZBGtTHX5HVNHt8,Eday.dslw,change_over_time_in_mass_content_of_water_in_soil,Change in Soil Moisture,,real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,biodiv_freshwater_daily,1093,,LS3MIP [LWday],,['LS3MIP'],1651,1093,1599,,,,,,,,,,,,,
 recZBhpUg1IUeQxqZ,Omon.dissic,mole_concentration_of_dissolved_inorganic_carbon_in_sea_water,Dissolved Inorganic Carbon Concentration,"Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly",62,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
@@ -3354,7 +3354,7 @@ recbHUVOwtBhmpgjU,Eyr.cSoil,soil_mass_content_of_carbon,Carbon Mass in Model Soi
 recbHUkmhBVQssRG0,Emon.cLitterCwd,wood_debris_mass_content_of_carbon,Carbon Mass in Coarse Woody Debris,"""Content"" indicates a quantity per unit area. ""Wood debris"" means dead organic matter composed of coarse wood. It is distinct from fine litter. The precise distinction between ""fine"" and ""coarse"" is model dependent.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,662,,C4MIP [C_LandT2],['C4MIP'],,662,1332,1295,,,,,,,,,,,,,
 recbKWW7PA81rhiy0,SIday.simpconc,area_fraction,Percentage Cover of Sea Ice by Meltpond ,"Percentage of sea ice, by area, which is covered by melt ponds, giving equal weight to every square metre of sea ice .
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recbMDsE3U8EaeWGs,Emon.fLitterFire,surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_litter_in_fires,"Carbon Mass Flux from Litter, CWD or any non-Living Pool into Atmosphere Due to CO2 Emission from All Fire [kgC m-2 s-1]","Required for unambiguous separation of vegetation and soil + litter turnover times, since total fire flux draws from both sources
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,1446,,C4MIP [C_LandT2],['C4MIP'],,1446,1827,1681,,,,,,,,,,,,,
 recbRRsrRUOcRGWEj,Amon.ch4globalClim,mole_fraction_of_methane_in_air,Global Mean Mole Fraction of CH4,"Global Mean Mole Fraction of CH4
@@ -3505,7 +3505,7 @@ recd9tsWMC8flR02D,Emon.albic,surface_albedo,Surface Albedo of ice-covered Surfac
 recdAkIIapwqKn9hk,Emon.pathetao,sea_water_added_potential_temperature,Sea Water Additional Potential Temperature,"The quantity with standard name sea\_water\_added\_potential\_temperature is a passive tracer in an ocean model whose surface flux does not come from the atmosphere but is imposed externally upon the simulated climate system. The surface flux is expressed as a heat flux and converted to a passive tracer increment as if it were a heat flux being added to potential temperature. The passive tracer is transported within the ocean as if it were potential temperature. The passive tracer is zero in the control climate of the model. The passive tracer records added heat, as described for the CMIP6 FAFMIP experiment (doi:10.5194/gmd-9-3993-2016), following earlier ideas. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure.
 ",real,['ocean'],['Emon'],['mon'],CMIP6 CMOR variable,,,,858,,FAFMIP [fafOmonB],,['FAFMIP'],1541,858,1230,,,,,,,,,,,,,
 recdBHUVjfBeAyRBR,SIday.simpmass,sea_ice_melt_pond_thickness,Meltpond Mass per Unit Area (as Depth) ,"Meltpond Depth
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recdBrbgf049ACrqF,LImon.sootsn,soot_content_of_surface_snow,Snow Soot Content,"the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.
 ",real,"['landIce', 'land']",['LImon'],['mon'],CMIP6 CMOR variable,,,FireMIP_monthly,1069,,LImon ((isd.003)),"['CMIP5', 'VIACSAB']","['CMIP', 'VIACSAB']",1140,1424,1069,,,,,,,,,,,,,
 recdE45T8PI1IwCwL,SIday.sisi,,Dissolved Silicon Amount in Sea Ice,"Mole amount means moles of substance per unit area
@@ -3569,7 +3569,7 @@ recdw4tckInbaEB2R,EmonZ.tntnogw,tendency_of_air_temperature_due_to_dissipation_o
 recdxCyyvB27bJ9sS,ImonGre.snicem,surface_snow_and_ice_melt_flux,Surface Snow and Ice Melt Flux,"Loss of snow and ice mass resulting from surface melting. Computed as the total surface melt on the land ice portion of the grid cell divided by land ice area in the grid cell.
 ",real,['landIce'],['ImonGre'],['mon'],CMIP6 CMOR variable,,,landice_greenland_allfreq,1394,,ISMIP6 [ImonGre],['ISMIP6'],,1394,1734,1463,,,,,,,,,,,,,
 recdz0FNMlfXwZA4z,SIday.sihc,sea_ice_temperature_expressed_as_heat_content,sea_ice_temperature_expressed_as_heat_content_daily,"Sea-Ice Heat Content per Unit Area at daily mean
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,"Time and Area Mean on Single Level, Masked (Sea), daily
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,"Time and Area Mean on Single Level, Masked (Sea), daily
 ",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recdzTlBDdZi2ORdG,Ofx.basin,region,Region Selection Index,"A variable with the standard name of region contains strings which indicate geographical regions. These strings must be chosen from the standard region list.
 ",integer,['ocean'],['Ofx'],['fx'],CMIP6 CMOR variable,,,"baseline_fixed, paleo_fx, CFMIP_baseline",240,"Report on the same grid as the temperature field. flag\_values=0,1,2,3,4,5,6,7,8,9,10 corresponding to flag\_meanings=global\_land, southern\_ocean, atlantic\_ocean, pacific\_ocean, arctic\_ocean, indian\_ocean, mediterranean\_sea, black\_sea, hudson\_bay, baltic\_sea, red\_sea.
@@ -3833,7 +3833,7 @@ rechNYXNINIQ4GoZ7,Eyr.cLitterLut,litter_mass_content_of_carbon,Carbon  in Above 
 rechOWPXw5tuqwTqY,Amon.hus,specific_humidity,Specific Humidity,"Specific humidity is the mass fraction of water vapor in (moist) air.
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, radiativeforcing_monthly, paleo_atmosphere, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",15,,Amon ((isd.003)),['DCPP'],"['CFMIP', 'CMIP', 'CMIP5', 'DynVarMIP', 'PMIP', 'VIACSAB']",23,37,15,,,['CDRMIP'],1 checked out of 1,,,,,,,,,
 rechOuHtAACyJO1FD,SIday.sisali,sea_ice_salinity,Sea Ice Salinity ,"Mean sea-ice salinity of all sea ice in grid cell
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rechPiVROsH0915Ro,AERmon.mmroa,mass_fraction_of_particulate_organic_matter_dry_aerosol_particles_in_air,Total Organic Aerosol Mass Mixing Ratio,"We recommend a scale factor of POM=1.4\*OC, unless your model has more detailed info available.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline",188,,AERmon ((isd.003)),,"['AerChemMIP', 'CFMIP', 'RFMIP']",379,188,440,,,,,,,,,,,,,
 rechR6uAxyBl1XuY1,Amon.sfcWind,wind_speed,Near-Surface Wind Speed,"This is the mean of the speed, not the speed computed from the mean u and v components of wind
@@ -3859,7 +3859,7 @@ rechbeOxmu8aOkJsk,Eday.hfls,surface_upward_latent_heat_flux,Surface Upward Laten
 rechfHvDUoIv0TVOL,Oyr.pppico,tendency_of_mole_concentration_of_particulate_organic_matter_expressed_as_carbon_in_sea_water_due_to_net_primary_production_by_picophytoplankton,Net Primary Mole Productivity of Carbon by Picophytoplankton,"Primary (organic carbon) production by picophytoplankton components alone
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,9999,,Oyr ((isd.003)),,,,,,,,['CMIP5'],,,,,,,,,,
 rechfxGbSR1PhhEbk,SIday.siflswdtop,surface_downwelling_shortwave_flux_in_air,Daily Downwelling Shortwave Flux over Sea Ice ,"The downwelling shortwave flux over sea ice (always positive by sign convention)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,up,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,down,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 rechgP0ELMoQi6mMw,Amon.tauu,surface_downward_eastward_stress,Surface Downward Eastward Wind Stress,"Downward eastward wind stress at the surface
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, DAMIP_monthly, Bjerknes_Index_ENSO, paleo_land_atmosphere_surface, DCPP_Wider, FireMIP_monthly, CFMIP_baseline",28,,Amon ((isd.003)),"['DCPP', 'VIACSAB']","['CFMIP', 'CMIP', 'CMIP5', 'PMIP', 'VIACSAB']",66,365,28,down,,,1 checked out of 1,,,,,,,,,
 rechmpty4UbMpOo0Y,Odec.uo,sea_water_x_velocity,Sea Water X Velocity,"Prognostic x-ward velocity component resolved by the model.
@@ -3927,7 +3927,7 @@ recihh8oOf07rakur,SImon.sistressave,sea_ice_average_normal_horizontal_stress,Ave
 reciiWa8ognmfCd6u,AERmon.rsuto3ref,toa_outgoing_shortwave_flux_assuming_reference_mole_fraction_of_ozone_in_air,TOA shortwave flux assuming reference ozone field,"This is top-of-atmosphere shortwave flux for all-sky conditions from a diagnostic call to the radiation scheme, using a reference ozone field
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,aerchemmip_2d_monthly,,,,,,,,,,,,,,,,,,,,,
 recil6ApkuFyXAQF6,SIday.sifllwdtop,surface_downwelling_longwave_flux_in_air,Daily Downwelling Longwave Flux over Sea Ice,"the downwelling longwave flux over sea ice (always positive)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,down,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recinjCQ1cGslFkTT,Amon.co2mass,atmosphere_mass_of_carbon_dioxide,Total Atmospheric Mass of CO2,"Total atmospheric mass of Carbon Dioxide
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"c4mip_atmosphere_carbon_cycle_tier1, biodiv_land_monthly, CFMIP_baseline, ref_earth_system",256,"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If CO2 is spatially nonuniform, omit this field, but report Mole Fraction of CO2 (see the table entry before the previous one).
 ",Amon ((isd.003)),,"['C4MIP', 'CDRMIP', 'CFMIP', 'CMIP', 'CMIP5', 'PMIP']",256,1730,290,,,,,,,,,,,,,
@@ -3951,7 +3951,7 @@ reciufAI4YmaJMi9K,Emon.fracLut,area_fraction,Percentage of Grid Cell for Each La
 recixR7wQF1w3TxnR,CFday.zg,geopotential_height,Geopotential Height,"Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.
 ",real,['atmos'],['CFday'],['day'],CMIP6 CMOR variable,,,"cfmip_daily, CFMIP_daily_3D",38,,CFday ((isd.003)),,['CMIP5'],404,38,402,,,,,,,,,,,,,
 recj08iK3sVtSYRZd,SIday.siflsensupbot,upward_sea_ice_basal_heat_flux,Daily Net Upward Sensible Heat Flux Under Sea Ice ,"the net sensible heat flux under sea ice from the ocean
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,up,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recj0y7MLZ6V9XDQt,CFmon.rsu4co2,upwelling_shortwave_flux_in_air,Upwelling Shortwave Radiation 4XCO2 Atmosphere,"Upwelling Shortwave Radiation calculated using carbon dioxide concentrations increased fourfold
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, radiativeforcing_monthly",306,,CFmon ((isd.003)),,['CMIP5'],908,306,727,up,,,,,,,,,,,,
 recj27ZyJWxGVfq8q,Omon.intpbp,tendency_of_ocean_mole_content_of_phosphorus_due_to_biological_production,Phosphorus Production,"Vertically integrated biogenic phosphorus production
@@ -4710,7 +4710,7 @@ recsRP3O42wpAwAjd,IyrGre.limnsw,land_ice_mass_not_displacing_sea_water,Ice Sheet
 recsRfL84kFSDfuJa,Emon.hfssLut,surface_upward_sensible_heat_flux,Sensible Heat Flux on Land-Use Tile,"Upward sensible heat flux on land use tiles. The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,landuse,956,,LUMIP [Lmon_Lut],,['LUMIP'],1204,1239,956,up,,,,,,,,,,,,
 recsTbZGS29Nv2R9b,SIday.sirdgthick,sea_ice_thickness,Ridged Ice Thickness ,"Sea Ice Ridge Height (representing mean height over the ridged area)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recsUz7TPC1aEnGAT,Omon.uboluso,bolus_eastward_sea_water_velocity,Bolus ocean velocity in the eastward direction,"The bolus (also referred to as parameterised) ocean velocity in the eastward direction.
 ",real,['ocean'],['Omon'],['mon'],Under review,['Ocean & sea-ice'],,,,,,,,,,,,,,,In progress,,,,,,,,
 recsV7qxQM1M9t87e,CF3hr.reffclic,effective_radius_of_convective_cloud_ice_particles,Hydrometeor Effective Radius of Convective Cloud Ice,"This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).
@@ -4834,7 +4834,7 @@ rectpphyt4FP0MFvk,Omon.dissoc,mole_concentration_of_dissolved_organic_carbon_in_
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",89,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
 ",Omon ((isd.003)),"['C4MIP', 'DCPP', 'OMIP']",['CMIP'],413,89,564,,,['CMIP5'],,,,,,,,,,
 rectu1VswBJ0D9utC,SIday.sisaltmass,sea_ice_mass_content_of_salt,Mass of Salt in Sea Ice per Area ,"Total mass of all salt in sea ice divided by grid-cell area
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Total mass of all salt in sea ice divided by grid-cell area
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Total mass of all salt in sea ice divided by grid-cell area
 ",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rectvyv669X4OYG5q,Emon.grassFracC3,area_fraction,C3 Natural Grass Area Percentage,"Percentage of entire grid cell covered by C3 natural grass.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_benchmarking_and_landcover_variables_tier2,259,,C4MIP [C_LandT2],,"['C4MIP', 'CMIP', 'PMIP']",259,1102,366,,,,,,,,,,,,,
@@ -5092,8 +5092,8 @@ recwnGcwMybR1ievy,AERmon.emioa,tendency_of_atmosphere_mass_content_of_particulat
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2d_monthly,564,,AERmon ((isd.003)),,['AerChemMIP'],595,1089,564,,,,,,,,,,,,,
 recwqBkZNRnLDfcYF,Eday.nudgincsm,nudging_increment_in_mass_content_of_water_in_soil,Nudging Increment of Water in Soil Moisture,"nudging\_increment\_in\_water\_content\_of\_soil\_layer
 ",real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,,1334,,LS3MIP [LWday],,['LS3MIP'],1699,1334,1599,,,,,,,,,,,,,
-recwr35VS9tmAqRYx,SIday.siflswdbot,downwelling_shortwave_flux_in_sea_water_at_sea_ice_base,daily Downwelling Shortwave Flux Under Sea Ice ,"The downwelling shortwave flux underneath sea ice (always positive)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,,,,,In progress,,,,,,,,
+recwr35VS9tmAqRYx,SIday.siflswdbot,downwelling_shortwave_flux_in_sea_water_at_sea_ice_base,Daily Downwelling Shortwave Flux under Sea Ice,"The downwelling shortwave flux underneath sea ice (always positive)
+",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,,,,,,,,,down,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recwuZ2B7PYD4bsQV,Emon.ocontemppsmadvect,tendency_of_sea_water_conservative_temperature_expressed_as_heat_content_due_to_parameterized_submesoscale_eddy_advection,Tendency of Sea Water Conservative Temperature Expressed as Heat Content Due to Parameterized Submesoscale Advection,"Tendency of heat content for a grid cell from parameterized submesoscale eddy advection. Reported only for models that use conservative temperature as prognostic field.
 ",real,['ocean'],['Emon'],['mon'],CMIP6 CMOR variable,,,,1595,,FAFMIP [fafOmonB],['FAFMIP'],,1720,1595,1681,,,,,,,,,,,,,
 recwv1ZYmAyL974MS,Oyr.expfe,sinking_mole_flux_of_particulate_iron_in_sea_water,Sinking Particulate Iron Flux,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.   'Sinking' is the gravitational settling of particulate matter suspended in a liquid. A sinking flux is positive downwards and is calculated relative to the movement of the surrounding fluid.

@@ -18,24 +18,24 @@
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
         }
     ],
-    "positive-direction": "",
+    "positive-direction": "down",
     "processing-note": "",
     "provenance": "",
-    "status": "Under review",
+    "status": "Accepted",
     "table": [
         "SIday"
     ],
     "theme": [
         "Ocean & sea-ice"
     ],
-    "title": "daily Downwelling Shortwave Flux Under Sea Ice ",
+    "title": "Daily Downwelling Shortwave Flux under Sea Ice",
     "type": "real",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
         "atmosphere-review-comment": "",
-        "cross-thematic-group-review-comment": "",
-        "cross-thematic-team-review": "",
+        "cross-thematic-group-review-comment": "MJ: \"positive direction\" adjusted to match standard name,",
+        "cross-thematic-team-review": "Accept",
         "earth-system-author-team-review": "",
         "impacts-&-adaptation-author-team-review": "",
         "land-&-land-ice-author-team-review": "",

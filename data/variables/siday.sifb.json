@@ -21,7 +21,7 @@
     "positive-direction": "",
     "processing-note": "",
     "provenance": "",
-    "status": "Under review",
+    "status": "Accepted",
     "table": [
         "SIday"
     ],
@@ -34,8 +34,8 @@
     "review": {
         "atmosphere-author-team-review": "",
         "atmosphere-review-comment": "",
-        "cross-thematic-group-review-comment": "",
-        "cross-thematic-team-review": "",
+        "cross-thematic-group-review-comment": "MJ: simple change from existing monthly variable to daily.",
+        "cross-thematic-team-review": "Accept",
         "earth-system-author-team-review": "",
         "impacts-&-adaptation-author-team-review": "",
         "land-&-land-ice-author-team-review": "",

@@ -423,7 +423,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -6366,7 +6366,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -6380,13 +6380,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"up",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -9530,7 +9530,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -9549,8 +9549,8 @@
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: simple change from existing monthly variable to daily.",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -10188,7 +10188,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -10202,13 +10202,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"down",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -10765,7 +10765,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -10894,7 +10894,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -10908,13 +10908,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"up",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -14358,7 +14358,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -19195,7 +19195,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -25214,7 +25214,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -25304,7 +25304,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -25318,13 +25318,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"up",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -32119,7 +32119,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -40835,7 +40835,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -40854,8 +40854,8 @@
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: simple change from existing monthly variable to daily.",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -42129,7 +42129,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -42143,13 +42143,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"down",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -43265,7 +43265,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -43279,13 +43279,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"up",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -49135,7 +49135,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -54899,7 +54899,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -61757,7 +61757,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -66438,7 +66438,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -69513,7 +69513,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -70835,7 +70835,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -76165,7 +76165,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -76699,7 +76699,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -76713,13 +76713,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"up",
+        "Positive Direction":"down",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -78033,7 +78033,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -78047,13 +78047,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"down",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -78521,7 +78521,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -78535,13 +78535,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"up",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
@@ -93906,7 +93906,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -96363,7 +96363,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -101513,7 +101513,7 @@
     {
         "Compound Name":"SIday.siflswdbot",
         "CF Standard Name (from MIP Variables)":"downwelling_shortwave_flux_in_sea_water_at_sea_ice_base",
-        "Title":"daily Downwelling Shortwave Flux Under Sea Ice ",
+        "Title":"Daily Downwelling Shortwave Flux under Sea Ice",
         "Description":"The downwelling shortwave flux underneath sea ice (always positive)\n",
         "Type":"real",
         "Modeling Realm":[
@@ -101525,7 +101525,7 @@
         "Frequency":[
             "day"
         ],
-        "Status":"Under review",
+        "Status":"Accepted",
         "Theme":[
             "Ocean & sea-ice"
         ],
@@ -101539,13 +101539,13 @@
         "Rank by File Count":"",
         "Rank by Volume":"",
         "Rank by Submissions":"",
-        "Positive Direction":"",
+        "Positive Direction":"down",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
-        "Cross-thematic team review":"",
-        "Cross-thematic group review comment":"",
+        "Cross-thematic team review":"Accept",
+        "Cross-thematic group review comment":"MJ: \"positive direction\" adjusted to match standard name,",
         "Land & land-ice author team review":"",
         "Priority 2 (CMIP6)":"",
         "Priority 1 (CMIP6)":"",
