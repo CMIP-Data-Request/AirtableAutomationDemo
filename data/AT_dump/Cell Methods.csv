@@ -40,6 +40,7 @@ recUULmxT4GgUTTN7,area: mean where grounded_ice_sheet,amgi-fx,Fixed Area Mean ov
 recZq8CuyJVB6yy1g,area: time: mean where ice_sheet,amni-twmn,Weighted Time Mean on Ice Sheet,CellMethods::amni-twmn,is,1.0,,,
 reccNOqdapoGyM78X,area: mean (comment: over land and sea ice) time: point,amnlsi-tpt,Area Mean Excluding Ice-free Ocean,CellMethods::amnlsi-tpt,x,1.0,,,
 reccjdDTJ6cVs6To7,longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean,bzzsum,Basin Zig-Zag Zonal Sum,CellMethods::bzzsum,x,1.0,,,
+reccn8RUyCIT0DtYs,fixed,fixed,Fixed Field,CellMethods::fixed,x,1.0,,,
 recfYDayRm62sFUsp,area: mean where land,amla,Fixed Area Mean,CellMethods::amla,lnd,1.0,,,
 recfq9CqTb6R2U1l5,area: mean time: sum,am-ts,Area Mean and Time Sum,CellMethods::am-ts,x,1.0,,tsum,
 recgyKgOmMbUgk4Ce,area: mean where air time: point,amna-tpt,Instantaneous Value on Levels above Ground,CellMethods::amna-tpt,,,,,
@@ -70,4 +71,3 @@ recwuB1SPBkasIB7D,area: mean where crops time: minimum,tminc,Temporal Minimum ov
 reczgcunQcEc3Pcy7,area: time: mean where shrubs (comment: mask=shrubFrac),ams-twm,Weighted Time Mean on Shrubs,CellMethods::ams-twm,shb,1.0,shrubFrac,,
 reczwvHFZ7bGsEmCM,area: mean where crops time: maximum within days time: mean over days,dmaxc,Daily Maximum over Crops,CellMethods::dmaxc,crp,1.0,,tstat,
 reczxK3SCSq1vFJiH,time: mean,tmean,Time Mean,CellMethods::tmean,x,1.0,,,
-reccn8RUyCIT0DtYs,,fixed,Fixed Field,CellMethods::fixed,x,1.0,,,

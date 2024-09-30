@@ -429,6 +429,17 @@
         "Cell Methods Rollup (from Comments)":""
     },
     {
+        "Cell Methods":"fixed",
+        "label":"fixed",
+        "title":"Fixed Field",
+        "uid":"CellMethods::fixed",
+        "Brand ID":"x",
+        "Regex":1.0,
+        "Mask":"",
+        "Brand tag":"",
+        "Cell Methods Rollup (from Comments)":""
+    },
+    {
         "Cell Methods":"area: mean where land",
         "label":"amla",
         "title":"Fixed Area Mean",
@@ -752,17 +763,6 @@
         "label":"tmean",
         "title":"Time Mean",
         "uid":"CellMethods::tmean",
-        "Brand ID":"x",
-        "Regex":1.0,
-        "Mask":"",
-        "Brand tag":"",
-        "Cell Methods Rollup (from Comments)":""
-    },
-    {
-        "Cell Methods":"",
-        "label":"fixed",
-        "title":"Fixed Field",
-        "uid":"CellMethods::fixed",
         "Brand ID":"x",
         "Regex":1.0,
         "Mask":"",

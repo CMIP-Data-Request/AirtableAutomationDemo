@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/soil_mass_content_of_carbon"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2",
+    "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2, paleo_permafrost",
     "compound-name": "Emon.cSoilLevels",
     "description": "for models with vertically discretised soil carbon, report total soil carbon for each level\n",
     "frequency": [

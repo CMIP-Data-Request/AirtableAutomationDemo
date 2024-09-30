@@ -3,7 +3,7 @@
     "@type": "dr:variable",
     "brand-id": "x",
     "brand-tag": "",
-    "cell-methods": "",
+    "cell-methods": "fixed",
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,

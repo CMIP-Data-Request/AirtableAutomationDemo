@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_fraction_of_carbon_dioxide_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DCPP_Wider, AgImpactsMisc",
+    "cmip7-variable-groups": "DCPP_Wider, AgImpactsMisc, paleo_permafrost",
     "compound-name": "Emon.co2s",
     "description": "As co2, but only at the surface\n",
     "frequency": [

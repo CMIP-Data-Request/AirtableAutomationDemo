@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_downwelling_shortwave_flux_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, seaice_budget_energy_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, AgModelCoreDaily, AgModelExpandedDaily, AgAirPollution, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, seaice_budget_energy_daily, ISIMIPMinimalAtmos, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_daily, seaice_budget_energy_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, AgModelCoreDaily, AgModelExpandedDaily, AgAirPollution, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, seaice_budget_energy_daily, ISIMIPMinimalAtmos, CFMIP_baseline, paleo_permafrost",
     "compound-name": "day.rsds",
     "description": "Surface solar irradiance for UV calculations.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/frozen_water_content_of_soil_layer"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, paleo_permafrost",
     "compound-name": "Emon.mrsfl",
     "description": "in each soil layer, the mass of water in ice phase.  Reported as \"missing\" for grid cells occupied entirely by \"sea\"\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/rainfall_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "biodiv_freshwater_daily",
+    "cmip7-variable-groups": "biodiv_freshwater_daily, paleo_permafrost",
     "compound-name": "Eday.prra",
     "description": "rainfall\\_flux\n",
     "frequency": [
