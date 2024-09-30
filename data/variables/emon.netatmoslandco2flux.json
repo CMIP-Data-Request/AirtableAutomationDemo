@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_all_land_processes"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1",
+    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, co2_emissions_concentration_mapping",
     "compound-name": "Emon.netAtmosLandCO2Flux",
     "description": "Flux of carbon as carbon dioxide into the land. This flux should be reproducible by differencing the sum of all carbon pools (cVeg, cLitter, cSoil, and cProducts or equivalently cLand) from one time step to the next, except in the case of lateral transfer of carbon due to harvest, riverine transport of dissolved organic and/or inorganic carbon, or any other process (in which case the lateral\\_carbon\\_transfer\\_over\\_land term, see below, will be zero data).\n",
     "frequency": [
