@@ -239,7 +239,7 @@
     {
         "Title":"Variables tasmax and tasmin should use a climatology time axis",
         "Comment":"Variables tasmax and tasmin should use a climatology time axis but were assigned the time mean axis: see https:\/\/github.com\/cmip6dr\/cmip7\\_forward\\_look\/issues\/48\n",
-        "Status":"In progress",
+        "Status":"Done",
         "Author teams to alert":"",
         "Data Request Actions":"co-leads MJ : reassign temporal shape in variables records and update linked structures. \n",
         "Coordinates and Dimensions":"",

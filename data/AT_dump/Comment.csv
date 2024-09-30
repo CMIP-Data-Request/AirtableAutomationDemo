@@ -42,7 +42,7 @@ recONbhbzjml2jK6H,Ice Sheet cell methods error,"The ""area: mean where ice\_shee
 ",Done,['Land & Land-Ice'],"Removed 'grounded' from string. [MJ, 17 July]
 ",,,,,
 recSUbe58BCOEY10o,Variables tasmax and tasmin should use a climatology time axis,"Variables tasmax and tasmin should use a climatology time axis but were assigned the time mean axis: see https://github.com/cmip6dr/cmip7\_forward\_look/issues/48
-",In progress,,"co-leads MJ : reassign temporal shape in variables records and update linked structures. 
+",Done,,"co-leads MJ : reassign temporal shape in variables records and update linked structures. 
 ",,https://github.com/cmip6dr/cmip7_forward_look/issues/48,,,
 recSaF6cpro9TfZs7,Additional information required as part of data request for C4H10,"For mole fractions of different VOCs (e.g., C4H10), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this request for information be captured in the data request?
 ",In progress,['Atmosphere'],,,,,,
