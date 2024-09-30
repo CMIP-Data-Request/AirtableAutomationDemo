@@ -1,0 +1,13 @@
+pyairtable
+pandas
+p_tqdm
+dill
+pyjq
+
+
+
+# !pip install pyairtable
+# !brew install autoconf automake libtool
+# !pip install pyjq
+# !pip install pandas
+# !pip install p_tqdm

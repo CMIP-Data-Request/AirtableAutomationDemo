@@ -1,0 +1,77 @@
+name: Check for updates
+
+on:
+  push:
+    branches:
+      - '*'
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+
+jobs:
+  update_versioning:
+    runs-on: ubuntu-latest
+    env:
+      ATKEY: ${{ secrets.ATKEY }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      id-token: write
+      packages: write
+      pages: write
+      pull-requests: write
+      repository-projects: write
+      statuses: write
+    steps:
+      - name: Install CMIP-LD
+        id: install-cmipld
+        uses: WCRP-CMIP/CMIP-LD/actions/cmipld@main
+
+      - name: Cache Python dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('./requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+
+      - name: Install additional requirements
+        id: install-pypi-pkg
+        run: |
+          pip install pyairtable
+          pip install pyjq
+          pip install pandas
+          pip install p_tqdm
+        shell: bash
+
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # Fetch the complete commit history
+
+      - name: Set up Git
+        run: |
+          git config user.email "daniel.ellis@ext.esa.int"
+          git config user.name "Daniel Ellis"
+          git config credential.helper store
+          git config --global user.email "daniel.ellis@ext.esa.int"
+          git config --global user.name "Daniel Ellis"
+          git config --global push.default current
+          echo "GH_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Content update
+        id: run-python-script
+        run: python -m scripts
+        shell: bash
+
+      - name: Commit changes
+        id: commit-changes
+        run: |
+          git add .
+          git commit -m "Update from Airtable - $(date +"%Y-%m-%d %H:%M:%S")"
+          git push
+        shell: bash
