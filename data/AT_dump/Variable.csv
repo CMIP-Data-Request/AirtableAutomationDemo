@@ -1,4 +1,4 @@
-,Compound Name,CF Standard Name (from MIP Variables),Title,Description,Type,Modeling Realm,Table,Frequency,Status,Theme,Atmosphere author team review,CMIP7 Variable Groups,Min Rank,Processing Note,Provenance,Priority 2 (CMIP6 - OLD,Priority 1 (CMIP6) -- OLD,Rank by File Count,Rank by Volume,Rank by Submissions,Positive Direction,Impacts & adaptation author team review,Priority 3 (CMIP6 - OLD),Variable is included in ESM-BCV v1.3,Ocean & sea-ice author team review,Land & land-ice author team review,Priority 2 (CMIP6),Priority 1 (CMIP6),Atmosphere review comment,Cross-thematic group review comment,Cross-thematic team review,Priority 3 (CMIP6),Earth system author team review
+,Compound Name,CF Standard Name (from MIP Variables),Title,Description,Type,Modeling Realm,Table,Frequency,Status,Theme,Atmosphere author team review,CMIP7 Variable Groups,Min Rank,Processing Note,Provenance,Priority 2 (CMIP6 - OLD,Priority 1 (CMIP6) -- OLD,Rank by File Count,Rank by Volume,Rank by Submissions,Positive Direction,Impacts & adaptation author team review,Priority 3 (CMIP6 - OLD),Variable is included in ESM-BCV v1.3,Ocean & sea-ice author team review,Cross-thematic team review,Cross-thematic group review comment,Land & land-ice author team review,Priority 2 (CMIP6),Priority 1 (CMIP6),Atmosphere review comment,Priority 3 (CMIP6),Earth system author team review
 rec01Ws52088KuxbI,AERmon.abs550so4,atmosphere_absorption_optical_thickness_due_to_sulfate_ambient_aerosol_particles,sulfate aaod@550nm,"This is the sulphate aerosol optical depth at 550nm due to absorption
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,"DAMIP_monthly, aerchemmip_2d_monthly",,,,,,,,,,,,,,,,,,,,,
 rec05vvBboMjh9cRo,Omon.friver,water_flux_into_sea_water_from_rivers,Water Flux into Sea Water from Rivers,"computed as the river flux of water into the ocean divided by the area of the ocean portion of the grid cell.
@@ -22,7 +22,7 @@ rec0DQ5ondumwI3du,CF3hr.sci,shallow_convection_time_fraction,Fraction of Time Sh
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,cfmip_3hr,1463,"For models with a distinct shallow convection scheme only.
 ",CFMIP (CMIP5),,['CFMIP'],1835,1828,1463,,,,,,,,,,,,,
 rec0DzzViZwPS0qW7,SIday.sitempsnic,sea_ice_surface_temperature,Temperature at Snow-Ice Interface ,"Report surface temperature of ice where snow thickness is zero
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec0E9Qound6OeWU8,Eday.lwsnl,liquid_water_content_of_surface_snow,Liquid Water Content of Snow Layer,"liquid\_water\_content\_of\_snow\_layer
 ",real,"['landIce', 'land']",['Eday'],['day'],CMIP6 CMOR variable,,,,1295,,LS3MIP [LWday],['LS3MIP'],,1398,1405,1295,,,,,,,,,,,,,
 rec0EOo5i2kn17rLE,ImonGre.icem,land_ice_surface_melt_flux,Surface Ice Melt Flux,"Loss of ice mass resulting from surface melting. Computed as the total surface melt water on the land ice portion of the grid cell divided by land ice area in the grid cell.
@@ -111,7 +111,7 @@ rec1EmFpitg9WnLwR,day.rsds,surface_downwelling_shortwave_flux_in_air,Surface Dow
 rec1Kl25eAKiOtavf,Oyr.ppdiaz,tendency_of_mole_concentration_of_particulate_organic_matter_expressed_as_carbon_in_sea_water_due_to_net_primary_production_by_diazotrophic_phytoplankton,Net Primary Mole Productivity of Carbon by Diazotrophs,"Primary (organic carbon) production by diazotroph components alone
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,1125,,Oyr ((isd.003)),,,1125,1210,1599,,,['CMIP5'],,,,,,,,,,
 rec1LH5VP02Wyd4EH,Eday.rhVgt,surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_heterotrophic_respiration,Heterotrophic Respiration on Vegetation type as Carbon Mass Flux [kgC m-2 s-1],"Carbon mass flux per unit area into atmosphere due to heterotrophic respiration on land (respiration by consumers), calculated on vegetation type.
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,,,In progress,,,,,
 rec1NWFgAm5tY1Al5,6hrPlevPt.ta27,air_temperature,Air Temperature,"Air Temperature
 ",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,,9999,,HighResMIP [6hrPlev_intense],,,,,,,,['HighResMIP'],,,,,,,,,,
 rec1OunpuV6vRGVph,SImon.sitempbot,sea_ice_basal_temperature,Temperature at Ice-Ocean Interface,"Report temperature at interface, NOT temperature within lowermost model layer
@@ -163,14 +163,14 @@ rec20tSZmP5F1uc4a,day.mrso,mass_content_of_water_in_soil,Total Soil Moisture Con
 ",real,['land'],['day'],['day'],CMIP6 CMOR variable,,,"DCPP_Wider, AgWaterExt, HealthFloodingDaily, biodiv_freshwater_daily, biodiv_land_daily, impact_energy_building_demand, WaterResources_daily, CFMIP_baseline",114,,day ((isd.003)),,"['CMIP', 'CMIP5']",114,194,175,,,['DCPP'],,,,,,,,,,
 rec22KKVIbGmpZDBF,day.uas,eastward_wind,Eastward Near-Surface Wind,"Eastward component of the near-surface (usually, 10 meters)  wind
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, dynvar_basic, aerchemmip_2d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test]",51,"normally, report this at 10 meters above the surface
-",day ((isd.003)),['DCPP'],"['CMIP', 'CMIP5', 'CORDEX', 'DynVarMIP', 'GeoMIP', 'VIACSAB']",51,55,94,,,,1 checked out of 1,,,"DCPP, PAMIP","AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DynVarMIP, GeoMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['DCPP'],"['CMIP', 'CMIP5', 'CORDEX', 'DynVarMIP', 'GeoMIP', 'VIACSAB']",51,55,94,,,,1 checked out of 1,,,,,"DCPP, PAMIP","AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DynVarMIP, GeoMIP, HighResMIP, VIACSAB, VolMIP",,,
 rec23nIGqHtjmcxbw,Ofx.dxvo,,Eastward gridbox length at v points,"The width of the ocean model gridbox in at the v-point (dx)
 ",real,['ocean'],['Ofx'],['fx'],Under review,['Ocean & sea-ice'],,ocean_grid,,,,,,,,,,,,,In progress,,,,,,,,
 rec24JIv3mjKkj6Ax,day.rlds,surface_downwelling_longwave_flux_in_air,Surface Downwelling Longwave Radiation,"The surface called ""surface"" means the lower boundary of the atmosphere. ""longwave"" means longwave radiation. Downwelling radiation is radiation from above. It does not mean ""net downward"". When thought of as being incident on a surface, a radiative flux is sometimes called ""irradiance"". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called ""vector irradiance"". In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"seaice_budget_energy_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Wider, AgModelExpandedDaily, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, seaice_budget_energy_daily, ISIMIPMinimalAtmos, CFMIP_baseline",54,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'LS3MIP', 'VIACSAB']",82,78,54,down,,['DCPP'],0 checked out of 1,,,,,,,,,
 rec27mlUppUui2nab,day.tasmax,air_temperature,Daily Maximum Near-Surface Air Temperature,"maximum near-surface (usually, 2 meter) air temperature (add cell\_method attribute ""time: max"")
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_highpriority, synoptic_systems_high_priority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, AgModelCoreDaily, AgModelExpandedDaily, transport_impacts_essential, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",8,"normally report this at 2 meters above the surface
-",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'GeoMIP', 'LS3MIP', 'LUMIP', 'PMIP', 'RFMIP', 'VIACSAB']",8,17,51,,,,1 checked out of 1,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, GMMIP, GeoMIP, HighResMIP, LS3MIP, LUMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'GeoMIP', 'LS3MIP', 'LUMIP', 'PMIP', 'RFMIP', 'VIACSAB']",8,17,51,,,,1 checked out of 1,,,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, GMMIP, GeoMIP, HighResMIP, LS3MIP, LUMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,
 rec27qf381iJ8AuY8,Lmon.treeFrac,area_fraction,Tree Cover Percentage,"fraction of entire grid cell  that is covered by trees.
 ",real,['land'],['Lmon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",119,"add scalar coordinate typetree and add ""tree"" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).
 ",Lmon ((isd.003)),['VIACSAB'],"['C4MIP', 'CFMIP', 'CMIP', 'CMIP5', 'LS3MIP', 'PMIP', 'VIACSAB']",119,774,209,,,,,,,,,,,,,
@@ -178,7 +178,7 @@ rec28NM6cd5ONb9MT,Amon.tas,air_temperature,Near-Surface Air Temperature,"near-su
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, clouds_basic_average, radiativeforcing_monthly, dynvar_basic, DAMIP_monthly, CVDP_input, paleodata_assimilation, DCPP_Essential, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, ref_atmosphere, ref_earth_system, ref_impacts_and_adaptation, ref_ocean_and_seaice",1,"normally, the temperature should be reported at the 2 meter height
 ",Amon ((isd.003)),,"['CDRMIP', 'CFMIP', 'CMIP', 'CMIP5', 'DCPP', 'DynVarMIP', 'ISMIP6', 'PMIP', 'VIACSAB']",1,88,1,,,,1 checked out of 1,,,,,,,,,
 rec2AlbdDQwzIIxqw,6hrPlev.prsn,snowfall_flux,Snowfall Rate,"at surface. Includes precipitation of all forms water in the solid phase.
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,,,In progress,,,,,
 rec2AzAO95A6jzJah,IyrAnt.yvelbase,land_ice_basal_y_velocity,Y-Component of Land Ice Basal Velocity,"A velocity is a vector quantity. ""y"" indicates a vector component along the grid y-axis, positive with increasing y. ""Land ice"" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. ""basal"" means the lower boundary of the land ice.
 ",real,['landIce'],['IyrAnt'],['yr'],CMIP6 CMOR variable,,,landice_antarctica_allfreq,9999,,ISMIP6 [IyrAnt],['ISMIP6'],,,,,,,,,,,,,,,,,
 rec2GLxWygmH7p5w5,AERmon.mmrpm1,mass_fraction_of_pm1_dry_aerosol_particles_in_air,PM1.0 Mass Mixing Ratio,"Mass fraction atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 1 micrometers
@@ -283,7 +283,7 @@ rec2xmKGZToE25Uts,CFsubhr.rlutcs,toa_outgoing_longwave_flux_assuming_clear_sky,T
 rec2yDTywOhZ4rd02,Lmon.tas,air_temperature,Near-surface air temperature over land,"For models with fractional land areas (SFTLF) we are not currently able to diagnose near-surface air temperatures over just the land part of coastal gridboxes, with the current CMIP diagnostic set. The TAS diagnostic will be a weighted mean of the air temperatures over land and sea. If the diagnostic (lets call it LTAS) is available, we can then diagnose the air temperatures just over land, and in conjunction with TAS and SFTLF diagnose the air temperatures just over sea/sea-ice in coastal gridboxes. This will enable consistent comparisons with observational datasets (e.g. CRUTEM5 which is just air temperature over land) over regional areas with large coastal areas. 
 Reference: Jones, GS, 2020,  ""Apples and oranges"": on comparing near surface temperatures from climate models with observations, QJRMS, 146, Issue 733, 3747-3771, https://doi.org/10.1002/qj.3871.
 ",real,['atmos'],['Lmon'],['mon'],Under review,['Atmosphere'],Accept,,,"The diagnostic is used within models that have fractional land areas to calculate coastal gridbox mean TAS, i.e., the mean of air temperatures over sea and air temperatures over land (weighted by the land/ocean areas) in models with fractional land areas. So it shouldn't be too difficult to produce the diagnostic for CMIP.
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept, but are contacting proposer to encourage them to attach to a variable group/opportunity","This should be Lmon.tas (because it is masked by land). It does not need extra coordinates -- these are implied by spatial and temporal shape. I've made these changes, and also changed the cell methods to include ""time: mean"" [Martin]",,,
+",,,,,,,,,,,,,"This should be Lmon.tas (because it is masked by land). It does not need extra coordinates -- these are implied by spatial and temporal shape. I've made these changes, and also changed the cell methods to include ""time: mean"" [Martin]",,,,"Atmosphere team happy to accept, but are contacting proposer to encourage them to attach to a variable group/opportunity",,
 rec2zRL39YppI8TFY,Omon.thkcello,cell_thickness,Ocean Model Cell Thickness,"""Thickness"" means the vertical extent of a layer. ""Cell"" refers to a model grid-cell.
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, ocean_coordinates, ocean_grid",76,"Report on native horizontal grid as well as on a spherical latitude/longitude grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.
 ",Omon ((isd.003)),,"['CFMIP', 'CMIP', 'DAMIP', 'ISMIP6', 'PMIP', 'VIACSAB']",170,76,230,,,['CMIP5'],1 checked out of 1,,,,,,,,,
@@ -443,10 +443,10 @@ rec4zzgK0qIePTJLz,Amon.prw,atmosphere_mass_content_of_water_vapor,Water Vapor Pa
 rec50QJxsfVrzwHia,3hr.prc,convective_precipitation_flux,Convective Precipitation,"at surface.  This is a 3-hour mean convective precipitation flux.
 ",real,['atmos'],['3hr'],['3hr'],CMIP6 CMOR variable,,,,161,,3hr ((isd.003)),,"['CMIP5', 'GeoMIP', 'VIACSAB']",390,204,161,,,,,,,,,,,,,
 rec52oWQEMRAriSfI,E1hr.ts,surface_temperature,Surface Temperature,"Surface temperature (skin for open ocean)
-",real,['atmos'],['E1hr'],['1hr'],Under review,"['Atmosphere', 'Impacts & adaptation', 'Land & land-ice', 'Ocean & sea-ice']",In progress,impacts_climserv_hourly_expanded,,,,,,,,,,In progress,,,In progress,In progress,,,,,,,
+",real,['atmos'],['E1hr'],['1hr'],Under review,"['Atmosphere', 'Impacts & adaptation', 'Land & land-ice', 'Ocean & sea-ice']",In progress,impacts_climserv_hourly_expanded,,,,,,,,,,In progress,,,In progress,,,In progress,,,,,
 rec52xYkgnKdy5SRh,Omon.exparagob,sinking_mole_flux_of_aragonite_expressed_as_carbon_in_sea_water,Sinking Flux of Aragonite Reaching the Ocean Bottom,"Downward sinking flux of aragonite at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 rec55DahACm6zF3rc,Omon.fbddtdife,tendency_of_ocean_mole_content_of_dissolved_inorganic_iron_due_to_biological_processes,Rate of Change of Dissolved Inorganic Iron Due to Biological Activity,"vertical integral of net biological terms in time rate of change of dissolved inorganic iron
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,,549,"integral over upper 100 m only.
 ",Omon ((isd.003)),,,549,750,727,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
@@ -550,7 +550,7 @@ rec6OYaYghQ5ncCvU,Omon.tauucorr,downward_x_stress_correction_at_sea_water_surfac
 rec6OssvBXLCBGydw,Eday.tauupbl,surface_downward_eastward_stress_due_to_boundary_layer_mixing,Eastward Surface Stress from Planetary Boundary Layer Scheme,"surface
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,dynvar_advanced,509,,DynVarMIP [DYVR_daily_c],,['DynVarMIP'],918,509,1230,,,,,,,,,,,,,
 rec6OwkPKtAiThn8E,SIday.siitdconc,sea_ice_area_fraction,Sea-Ice Area Percentages in Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec6Q5MM6yA2ATwPv,Emon.cSoilGrass,soil_mass_content_of_carbon,Carbon Mass in Soil on Grass Tiles,"""Content"" indicates a quantity per unit area. The ""soil content"" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content\_of\_soil\_layer are used.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,,871,,C4MIP [C_LandT2],['C4MIP'],,871,1378,1230,,,,,,,,,,,,,
 rec6Rw9NoMqyd8rst,SImon.sisnmasss,,Sea-Ice Snow Mass South,"Total mass of snow on sea ice of all Southern-Hemisphere grid cells
@@ -696,7 +696,7 @@ rec7oT2NKdmqrliNY,E3hrPt.rsucsbnd,upwelling_shortwave_flux_in_air_assuming_clear
 rec7rSzs73Rrh3Bpa,Eday.loadsoa,atmosphere_mass_content_of_secondary_particulate_organic_matter_dry_aerosol_particles,Load of Dry Aerosol Secondary Organic Matter,"The total dry mass of secondary particulate organic aerosol particles per unit area.
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,565,,CFMIP [aeroDay_2d],,['CFMIP'],975,565,1463,,,,,,,,,,,,,
 rec7sL4nwHF7SrSqt,day.psl,air_pressure_at_mean_sea_level,Sea Level Pressure,"Sea Level Pressure
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, CFMIP_baseline, cordex [test]",37,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DAMIP', 'DCPP', 'DynVarMIP', 'RFMIP', 'VIACSAB']",37,42,54,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, DCPP, DynVarMIP, GMMIP, HighResMIP, PAMIP, RFMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, CFMIP_baseline, cordex [test]",37,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DAMIP', 'DCPP', 'DynVarMIP', 'RFMIP', 'VIACSAB']",37,42,54,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, DCPP, DynVarMIP, GMMIP, HighResMIP, PAMIP, RFMIP, VIACSAB, VolMIP",,,
 rec7sLcb8Y6dipKx7,Emon.jpdftaureicemodis,cloud_area_fraction_in_atmosphere_layer,"MODIS Joint Distribution of Optical Thickness and Particle Size, Ice","MODIS Optical Thickness-Particle Size joint distribution, ice
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,CFMIP_cosp_extra,1230,,CFMIP [CFmonExtra],,['CFMIP'],1716,1530,1230,,,,,,,,,,,,,
 rec7uHPHNYWyu4FWf,Emon.pr2h,precipitation_flux_containing_single_2H,Precipitation Flux of Water Containing Deuterium (1H 2H O),"Precipitation mass flux of water molecules that contain one atom of the hydrogen-2 isotope (1H 2H O), including solid and liquid phases.
@@ -710,10 +710,10 @@ rec84GWS0I2kANnEq,EmonZ.sltbasin,northward_ocean_salt_transport,Northward Ocean 
 rec854hRfIi55a9XF,Eyr.fracLut,area_fraction,Percentage of Grid Cell for Each Land-Use Tile,"End of year values (not annual mean); note that percentage should be reported as percentage of land grid cell (example: frac\_lnd = 0.5, frac\_ocn = 0.5, frac\_crop\_lnd = 0.2 (of land portion of grid cell), then frac\_lut(crop) = 0.5\*0.2 = 0.1)
 ",real,['land'],['Eyr'],['yrPt'],CMIP6 CMOR variable,,,landuse,593,,LUMIP [Lyr_Lut],,"['CMIP', 'LUMIP']",935,1601,593,,,,,,,,,,,,,
 rec85d28PslMIPhVN,day.clt,cloud_area_fraction,Total Cloud Cover Percentage,"for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Includes both large-scale and convective cloud.
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, paleo_land_atmosphere_surface, DCPP_Wider, transport_impacts_essential, CFMIP_baseline, cordex [test]",62,,day ((isd.003)),"['DCPP', 'VIACSAB']","['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",110,121,62,,,,1 checked out of 1,,,"DCPP, PAMIP, VIACSAB","CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, paleo_land_atmosphere_surface, DCPP_Wider, transport_impacts_essential, CFMIP_baseline, cordex [test]",62,,day ((isd.003)),"['DCPP', 'VIACSAB']","['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",110,121,62,,,,1 checked out of 1,,,,,"DCPP, PAMIP, VIACSAB","CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,
 rec86MINjMabmhEEd,day.vas,northward_wind,Northward Near-Surface Wind,"Northward component of the near surface wind
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, dynvar_basic, aerchemmip_2d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test]",53,"normally, report this at 10 meters above the surface
-",day ((isd.003)),['DCPP'],"['CMIP', 'CMIP5', 'CORDEX', 'DynVarMIP', 'GeoMIP', 'VIACSAB']",53,56,94,,,,1 checked out of 1,,,"DCPP, PAMIP","AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DynVarMIP, GeoMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['DCPP'],"['CMIP', 'CMIP5', 'CORDEX', 'DynVarMIP', 'GeoMIP', 'VIACSAB']",53,56,94,,,,1 checked out of 1,,,,,"DCPP, PAMIP","AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DynVarMIP, GeoMIP, HighResMIP, VIACSAB, VolMIP",,,
 rec86fjOzOLCuOWrP,Omon.phycos,mole_concentration_of_phytoplankton_expressed_as_carbon_in_sea_water,Sea Surface Phytoplankton Carbon Concentration,"sum of phytoplankton carbon component concentrations.  In most (all?) cases this is the sum of phycdiat and phycmisc (i.e., ""Diatom Carbon Concentration"" and ""Non-Diatom Phytoplankton Carbon Concentration""
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"SO_BGC-cloud_BGC_monthly, DCPP_Wider",481,,Omon ((isd.003)),"['CMIP5', 'DCPP', 'VIACSAB']",['CMIP'],614,654,481,,,,,,,,,,,,,
 rec88FK9qpx8dvxMI,Omon.dpco2nat,surface_carbon_dioxide_natural_analogue_partial_pressure_difference_between_sea_water_and_air,Natural Delta CO2 Partial Pressure ,"Difference in partial pressure of natural-analogue carbon dioxide between sea water and air.  The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium.  A natural analogue is used to simulate the effect on a modelled variable of imposing preindustrial atmospheric carbon dioxide concentrations, even when the model as a whole may be subjected to varying forcings. 
@@ -727,7 +727,7 @@ rec8GxSsqgMgZmGpj,AERmon.lwp,atmosphere_mass_content_of_cloud_liquid_water,Liqui
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, FireMIP_monthly",228,,AERmon ((isd.003)),,"['AerChemMIP', 'PMIP']",343,828,228,,,,,,,,,,,,,
 rec8KoFVM1ifg5Op8,SIday.sitempbot,sea_ice_basal_temperature,Temperature at Ice-Ocean Interface ,"Report temperature at interface, NOT temperature within lowermost model layer
 ",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Report temperature at interface, NOT temperature within lowermost model layer
-",,,,,,,,,,,In progress,,,,,,,,
+",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rec8LuLdqTPVuSBGq,EmonZ.oxprod,tendency_of_mole_concentration_of_ox_in_air_due_to_chemical_and_photolytic_production,Total Odd Oxygen (Ox) Production Rate,"zonal mean; hence YZT
 ",real,['atmosChem'],['EmonZ'],['mon'],CMIP6 CMOR variable,,,,1492,,DAMIP [DAMIP_Amon_new],,['DAMIP'],1492,1658,1599,,,,,,,,,,,,,
 rec8N9KxCkAkuk0LD,Omon.intdoc,ocean_mass_content_of_dissolved_organic_carbon,Dissolved Organic Carbon Content,"Vertically integrated DOC (explicit pools only)
@@ -750,11 +750,11 @@ rec8THiAmhXyPayrl,CFmon.clmodisliquid_dup,,MODIS Liquid Topped Cloud Area Fracti
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],In progress,CFMIP_cosp_extra,,"7 LWP levels x 6 effective radius levels. NOTE: ""p1000"" is chosen as a coordinate to enable form submission and should be ignored.  An extra dimension of LWP should also be added to this request (although it is not an option in the form).
 
 [BD removed the p1000 coordinate on 4/9/24]
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
+",,,,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
 
 Moved back to in progress, as it has been noted that there are duplicate compound names. Could suggest to the author to submit new physical parameters to avoid this.
 
-NOTE need to add extra dimension 'LWP'",,,,
+NOTE need to add extra dimension 'LWP'",,
 rec8V8n31wU67eqWn,AERhr.sfno2,mole_fraction_of_nitrogen_dioxide_in_air,NO2 Volume Mixing Ratio in Lowest Model Layer,"Mole fraction is used in the construction mole\_fraction\_of\_X\_in\_Y, where X is a material constituent of Y.
 ",real,['aerosol'],['AERhr'],['1hr'],CMIP6 CMOR variable,,,"aerchemmip_2d_subdaily, HealthPollutionhourly",754,,AERhr ((isd.003)),,['AerChemMIP'],1527,754,1159,,,,,,,,,,,,,
 rec8VBu9lgpgLs5Eb,CFmon.tntr,tendency_of_air_temperature_due_to_radiative_heating,Tendency of Air Temperature Due to Radiative Heating,"Tendency of Air Temperature due to Radiative Heating
@@ -833,7 +833,7 @@ rec9GuIB90n59NG6T,IyrAnt.tendlicalvf,tendency_of_land_ice_mass_due_to_calving,To
 rec9Gyda9izruVuK9,CFmon.clmcalipso,cloud_area_fraction_in_atmosphere_layer,CALIPSO Mid Level Cloud Cover Percentage,"Percentage cloud cover in layer centred on 560hPa
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, aerchemmip_2d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",312,,CFmon ((isd.003)),,"['CMIP5', 'RFMIP']",809,1130,312,,,,,,,,,,,,,
 rec9HDatwqWpgNCU1,6hrPlevPt.va7h,northward_wind,Northward Wind,"Meridional wind (positive in a northward direction).
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,cordex [test],9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,"CORDEX, HighResMIP",,,,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,cordex [test],9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 rec9IBT65A0quV2bX,Oclim.diftrbbo,ocean_tracer_biharmonic_diffusivity_due_to_parameterized_mesoscale_eddy_advection,Ocean Tracer Bolus Biharmonic Diffusivity,"Parameterized mesoscale eddy advection occurs on a spatial scale of many tens of kilometres and an evolutionary time of weeks(sometimes called bolus advection). Reference: James C. McWilliams 2016, Submesoscale currents in the ocean, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, volume 472, issue 2189. DOI: 10.1098/rspa.2016.0117. 
 ",real,['ocean'],['Oclim'],['monC'],CMIP6 CMOR variable,,,,9999,"
 ",Oclim ((isd.003)),,,,,,,,['CMIP5'],,,,,,,,,,
@@ -892,9 +892,9 @@ rec9o88HGvrY5V81Z,CFmon.hus,specific_humidity,Specific Humidity,"Specific humidi
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, clouds_basic_average, aerchemmip_3d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",91,,CFmon ((isd.003)),,['CMIP5'],220,91,196,,,,,,,,,,,,,
 rec9pLukeZSqZu4a5,Omon.expcob,sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water,Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom,"Downward sinking flux of particulate organic carbon at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 rec9xcJP57IfD9LVl,Eday.laiVgt,leaf_area_index,Leaf Area Index on Vegetation type,"A ratio obtained by dividing the total upper leaf surface area of vegetation by the (horizontal) surface area of the land on which it grows.
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,,,In progress,,,,,
 rec9xstCcdQ84444u,SImon.sisnconc,surface_snow_area_fraction,Snow Area Percentage,"Percentage of sea ice, by area, which is covered by snow, giving equal weight to every square metre of sea ice . Exclude snow that lies on land or land ice.
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_state_monthly_basic, paleo_cryosphere, CFMIP_baseline",240,,SIMIP [seaicemon],['CFMIP'],"['CMIP', 'PMIP', 'SIMIP', 'VIACSAB']",459,741,240,,,,,,,,,,,,,
 rec9zY9fuQqtD2hoz,Amon.clivi,atmosphere_mass_content_of_cloud_ice,Ice Water Path,"mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating frozen hydrometeors ONLY if the precipitating hydrometeor affects the calculation of radiative transfer in model.
@@ -956,7 +956,7 @@ recAjTdauHcI4fnSF,AERmon.emilnox,tendency_of_atmosphere_moles_of_nox_expressed_a
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_3d_monthly,558,,AERmon ((isd.003)),,['AerChemMIP'],597,558,839,,,,,,,,,,,,,
 recAjwA6fBYKmBMUy,Omon.expcalcob,sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water,Sinking Flux of Calcite Reaching the Ocean Bottom,"Downward sinking flux of calcite at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 recAjzVu5hoMhKcrb,Emon.u2,square_of_eastward_wind,Mean-Squared Eastward Wind Speed,"u\*u
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,511,,HighResMIP [Amon_sparc],['HighResMIP'],,1443,511,898,,,,,,,,,,,,,
 recAlCmtULLSB51Ff,ImonGre.snc,surface_snow_area_fraction,Snow Area Percentage,"quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
@@ -979,7 +979,7 @@ recB1NW34hivEEEoj,6hrPlevPt.va,northward_wind,Northward Wind,"Meridional wind (p
 ",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority",19,"on the following pressure levels: 850, 500, 250 hPa
 ",6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'HighResMIP']",118,19,125,,,,1 checked out of 1,,,,,,,,,
 recB1kFzDSiLk2X7s,SIday.siitdsnconc,surface_snow_area_fraction,Snow Area Percentages in Ice Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recB30KYFp4iS3lpW,AERmon.ztp,tropopause_altitude,Tropopause Altitude Above Geoid,"2D monthly mean thermal tropopause calculated using WMO tropopause definition on 3d temperature
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, CFMIP_baseline",382,,AERmon ((isd.003)),,['AerChemMIP'],495,959,382,,,,,,,,,,,,,
 recB45Mfod2py9H4i,Emon.treeFracNdlEvg,area_fraction,Needleleaf Evergreen Tree Area Percentage,"This is the percentage of the entire grid cell that is covered by needleleaf evergreen trees.
@@ -1007,9 +1007,9 @@ recBNXHxu0B9C6HBg,Oyr.pbsi,tendency_of_mole_concentration_of_silicon_in_sea_wate
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,678,,Oyr ((isd.003)),"['CMIP5', 'VIACSAB']",['VIACSAB'],917,678,956,,,,,,,,,,,,,
 recBNv1LRmJn4Xjjh,CFmon.clmodis,,MODIS Cloud Area Fraction,"Percentage of total cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the same used by the ISCCP instrument simulator. This is the equivalent MODIS version of the ISCCP _clisccp _variable.
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],Accept,"radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",,"7 pressure levels x 7 optical depth levels (x latitude x longitude x time). NOTE: please disregard the _Coordinates_ input; it is only to ensure form can be submitted.
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept variables based on the fix below.
+",,,,,,,,,,,,,,,,,"Atmosphere team happy to accept variables based on the fix below.
 
-There was a typo in the initial submission of clmodis and cltmodis which had the metadata for the two variables swapped. MZ contacted submitter to confirm this. On confirmation, the variables have been corrected.",,,,
+There was a typo in the initial submission of clmodis and cltmodis which had the metadata for the two variables swapped. MZ contacted submitter to confirm this. On confirmation, the variables have been corrected.",,
 recBOauO21RY9g2HK,Oyr.opottempmint,integral_wrt_depth_of_product_of_potential_temperature_and_sea_water_density,Integral with Respect to Depth of Product of Sea Water Density and Potential Temperature,"Full column sum of density\*cell thickness\*potential temperature. If the model is Boussinesq, then use Boussinesq reference density for the density factor.
 ",real,['ocean'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,653,"Report on native horizontal grid.
 ",Oyr ((isd.003)),,,968,1401,653,,,['CMIP5'],,,,,,,,,,
@@ -1188,13 +1188,13 @@ recDrlkPPaBsCMHw8,E3hrPt.co2,mole_fraction_of_carbon_dioxide_in_air,Mole Fractio
 recDtKoWLwceOYDK9,Emon.nppTree,net_primary_productivity_of_biomass_expressed_as_carbon,Net Primary Production on Tree Tiles as Carbon Mass Flux [kgC m-2 s-1],"Total NPP of trees in the grid cell
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,748,,C4MIP [C_LandT2],['C4MIP'],,748,1226,788,,,,,,,,,,,,,
 recDtQPamk8mHhG0M,6hrPlev.ts,surface_temperature,Surface temperature ,"Surface temperature (skin for open ocean)
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,,,,,,,,In progress,,,,,
 recDuYHpj85NhbBxA,Omon.dmso,mole_concentration_of_dimethyl_sulfide_in_sea_water,Mole Concentration of Dimethyl Sulphide in Sea Water,"Mole concentration of dimethyl sulphide in water
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,c4mip_ocean_carbon_cycle_tier2,301,,Omon ((isd.003)),,['CMIP'],1226,301,1765,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
 recDuzqbJjZ5VdTNQ,Emon.utendnogw,tendency_of_eastward_wind_due_to_nonorographic_gravity_wave_drag,Eastward Acceleration Due to Non-Orographic Gravity Wave Drag,"Tendency of the eastward wind by parameterized nonorographic gravity waves.
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,dynvar_advanced,522,,DAMIP [DAMIP-Emon],,"['DAMIP', 'DynVarMIP']",1266,522,956,,,,,,,,,,,,,
 recDv8gIL76nDrhG4,6hrPlevPt.ta7h,air_temperature,Air Temperature,"Extra levels - 925, 700, 600, 300, 50
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,cordex [test],9999,,HighResMIP [6hrPlev_extr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,"CORDEX, HighResMIP",,,,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,cordex [test],9999,,HighResMIP [6hrPlev_extr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 recDx042VYGW6Xe80,day.prc,convective_precipitation_flux,Convective Precipitation,"at surface; includes both liquid and solid phases.
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"biodiv_land_daily, CFMIP_baseline",88,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'GeoMIP', 'VIACSAB']",88,119,92,,,,,,,,,,,,,
 recDxnWMxVKV6GEGc,Omon.phycalc,mole_concentration_of_calcareous_phytoplankton_expressed_as_carbon_in_sea_water,Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water,"carbon concentration from calcareous (calcite-producing) phytoplankton component alone
@@ -1276,7 +1276,7 @@ recEsSolMJzrz0mpy,Omon.tauuo,downward_x_stress_at_sea_water_surface,Sea Water Su
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, paleo_ocean, DCPP_Wider",62,"Report on native horizontal grid.
 ",Omon ((isd.003)),['VIACSAB'],"['CMIP5', 'VIACSAB']",103,287,62,down,,,1 checked out of 1,,,,,,,,,
 recEufE0MIrH7RzWV,SIday.siitdsnthick,surface_snow_thickness,Snow Thickness in Ice Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recEvEtVGwg8e4kjq,SImon.siflswdtop,surface_downwelling_shortwave_flux_in_air,Downwelling Shortwave Flux over Sea Ice,"The downwelling shortwave flux over sea ice (always positive by sign convention)
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,seaice_budget_energy_monthly,209,,SIMIP [seaicemon],['SIMIP'],"['CMIP', 'PMIP', 'VIACSAB']",214,953,209,down,,,,,,,,,,,,
 recExVLFH4zBXrYLE,SIday.siflswutop,surface_upwelling_shortwave_flux_in_air,Daily Upwelling Shortwave Flux over Sea Ice,"The upwelling shortwave flux over sea ice (always negative)
@@ -1391,7 +1391,7 @@ recG59gUI1mAidfRA,Lmon.shrubFrac,area_fraction,Percentage Cover by Shrub,"fracti
 ",real,['land'],['Lmon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",242,"add scalar coordinate typeshrub and add ""shrub"" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).
 ",Lmon ((isd.003)),['VIACSAB'],"['C4MIP', 'CFMIP', 'CMIP', 'CMIP5', 'LS3MIP', 'PMIP', 'VIACSAB']",242,1158,402,,,,,,,,,,,,,
 recG9wr5dt75gRpGa,6hrPlev.rsds,surface_downwelling_shortwave_flux_in_air,Surface Downwelling Shortwave Radiation,"Surface solar irradiance for UV calculations.
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,,,In progress,,,,,
 recG9z9mgjD2d6y2b,Emon.fVegLitterMortality,mass_flux_of_carbon_into_litter_from_vegetation_due_to_mortality,Total Carbon Mass Flux from Vegetation to Litter as a Result of Mortality,"needed to separate changing vegetation C turnover times resulting from changing allocation versus changing mortality
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,1237,,C4MIP [C_LandT2],['C4MIP'],,1237,1455,1295,,,,,,,,,,,,,
 recGBgzISLzyLCemx,IyrGre.snc,surface_snow_area_fraction,Snow Area Percentage,"quantity averaged over ice sheet  only, to avoid contamination from other surfaces (eg: permafrost)
@@ -1411,7 +1411,7 @@ recGJC6jCiv6FoWJQ,Omon.intppnano,,Net Primary Organic Carbon Production by Nanop
 
 ",real,['ocnBgchem'],['Omon'],['mon'],New,"['Earth System', 'Ocean & sea-ice']",,fishmip_marine_monthly,,,,,,,,,,,,,,,,,,,,,
 recGK6XqcMN4Sjr38,6hrLev.ps,surface_air_pressure,Surface Air Pressure,"surface pressure, not mean sea level pressure
-",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,170,,6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",284,170,190,,,['VIACSAB'],,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,,,VIACSAB,
+",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,170,,6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",284,170,190,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
 recGL29p2xcQUId4D,CFsubhr.clw,mass_fraction_of_cloud_liquid_water_in_air,Mass Fraction of Cloud Liquid Water,"Includes both large-scale and convective cloud.  This is the mass of  cloud liquid water in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",518,,CFsubhr ((isd.003)),,['CMIP5'],1340,518,956,,,,,,,,,,,,,
 recGL2nVigjCx873I,day.hfss,surface_upward_sensible_heat_flux,Surface Upward Sensible Heat Flux,"The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.
@@ -1451,7 +1451,7 @@ recGiRj4RpESimQd6,Omon.chldiaz,mass_concentration_of_diazotrophic_phytoplankton_
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,c4mip_ocean_carbon_cycle_tier2,283,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
 ",Omon ((isd.003)),,,788,283,1069,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
 recGmT31zJOW28Yv3,fx.lithk,land_ice_thickness,Ice sheet thickness,"This variable (named fx.ice?) shall identify the thickness of a prescribed ice sheet. This information is relevant to better understand how different models treat ice. For models where an ice sheet is just orography + an ice sheet mask, I believe the value should be set to zero. For models that explicitly resolve an ice sheet thickness, the thickness of the ice sheet should be provided.
-",real,"['land', 'landIce']",['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System']",,paleo_fx,,,,,,,,,,,,,,In progress,,,,,,,In progress
+",real,"['land', 'landIce']",['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System']",,paleo_fx,,,,,,,,,,,,,,,,In progress,,,,,In progress
 recGnHMuvdwOO2OwD,Omon.sfdsi,downward_sea_ice_basal_salt_flux,Downward Sea Ice Basal Salt Flux,"This field is physical, and it arises since sea ice has a nonzero salt content, so it exchanges salt with the liquid ocean upon melting and freezing.
 ",real,"['ocean', 'seaIce']",['Omon'],['mon'],CMIP6 CMOR variable,,,,197,"Report on native horizontal grid as well as mapped onto sphere.
 ",Omon ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'DAMIP', 'PMIP', 'VIACSAB']",197,873,278,down,,,,,,,,,,,,
@@ -1490,7 +1490,7 @@ recH4xcXPAmAtc5Jp,Esubhr.huss,specific_humidity,Near-Surface Specific Humidity,"
 recH6dF8C5adYFu5r,Oday.hfx,ocean_heat_x_transport,daily ocean_heat_x_transport,"Contains all contributions to ""x-ward"" heat transport from resolved and parameterized processes.  Use Celsius for temperature scale.
 ",real,['ocean'],['Oday'],['day'],New,['Ocean & sea-ice'],,,,,,,,,,,,,,,,,,,,,,,
 recH6fA42tA48S26x,day.pr,precipitation_flux,Precipitation,"at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, temperature_variability_daily_lowpriority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, AgModelCoreDaily, AgModelExpandedDaily, AgWaterCore, AgWaterExt, transport_impacts_essential, HealthFloodingDaily, biodiv_freshwater_daily, CHELSA_land_daily, impact_energy_hydropower, biodiv_land_daily, WaterResources_daily, hydro_modelling_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",5,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'DynVarMIP', 'GeoMIP', 'LS3MIP', 'LUMIP', 'PMIP', 'RFMIP', 'VIACSAB']",5,9,42,,,,1 checked out of 1,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, DynVarMIP, GMMIP, GeoMIP, HighResMIP, LS3MIP, LUMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, temperature_variability_daily_lowpriority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, AgModelCoreDaily, AgModelExpandedDaily, AgWaterCore, AgWaterExt, transport_impacts_essential, HealthFloodingDaily, biodiv_freshwater_daily, CHELSA_land_daily, impact_energy_hydropower, biodiv_land_daily, WaterResources_daily, hydro_modelling_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",5,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'DynVarMIP', 'GeoMIP', 'LS3MIP', 'LUMIP', 'PMIP', 'RFMIP', 'VIACSAB']",5,9,42,,,,1 checked out of 1,,,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, DynVarMIP, GMMIP, GeoMIP, HighResMIP, LS3MIP, LUMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,
 recH7qfbOHCx4gIDo,AERday.sfno2,mole_fraction_of_nitrogen_dioxide_in_air,Surface volume mixing ratio of NO2,"NO2 volume mixing ratio at the model level corresponding to the surface.
 ",real,['atmosChem'],['AERday'],['day'],Under review,['Impacts & adaptation'],,,,,,,,,,,,In progress,,,,,,,,,,,
 recHAsVnhaOSAw7lP,ImonGre.litemptop,temperature_at_top_of_ice_sheet_model,Temperature at Top of Ice Sheet Model,"quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods
@@ -1622,7 +1622,7 @@ recIPpjjvidZZHD5v,Oday.co3os,mole_concentration_of_carbonate_expressed_as_carbon
 ",real,['ocnBgchem'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,DCPP_Wider,,,,,,,,,,,,,In progress,,,,,,,,
 recIPuAehMabgvZMP,SIday.sirdgconc,area_fraction,Percentage Cover of Sea Ice by Ridging ,"Fraction of sea ice, by area, which is covered by sea ice ridges, giving equal weight to every square metre of sea ice .
 ",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Fraction of sea ice, by area, which is covered by sea ice ridges, giving equal weight to every square metre of sea ice .
-",,,,,,,,,,,In progress,,,,,,,,
+",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recIVQJRP476FuV12,E3hrPt.clmisr,cloud_area_fraction_in_atmosphere_layer,Percentage Cloud Cover as Calculated by the MISR Simulator (Including Error Flag),"MISR optical thickness - height histogram
 ",real,['atmos'],['E3hrPt'],['3hrPt'],CMIP6 CMOR variable,,,,1230,,CFMIP [CF3hr_sim_new],,['CFMIP'],1757,1441,1230,,,,,,,,,,,,,
 recIW79oscZ60h5sb,ImonAnt.ts,surface_temperature,Surface Temperature,"quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods
@@ -1654,7 +1654,7 @@ recIg9oGOAtQqTbUK,Oday.co3satarag,mole_concentration_of_carbonate_expressed_as_c
 ",real,['ocnBgchem'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,DCPP_Wider,,"The variable at the depth of 200 meters is requested.
 ",,,,,,,,,,,In progress,,,,,,,,
 recIi8LprJne3ABAO,Emon.albsn,surface_albedo,Albedo of Snow ,"Albedo of snow - this is similar to Eday.albsn, but providing monthly averages
-",real,"['land', 'ocean']",['Emon'],['mon'],New,"['Atmosphere', 'Ocean & sea-ice', 'Land & land-ice', 'Earth System']",In progress,paleo_cryosphere,,,,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",real,"['land', 'ocean']",['Emon'],['mon'],New,"['Atmosphere', 'Ocean & sea-ice', 'Land & land-ice', 'Earth System']",In progress,paleo_cryosphere,,,,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recIialic3g6qaKMj,Oyr.ocontempdiff,tendency_of_sea_water_conservative_temperature_expressed_as_heat_content_due_to_parameterized_dianeutral_mixing,Tendency of Sea Water Conservative Temperature Expressed as Heat Content Due to Parameterized Dianeutral Mixing,"Tendency of heat content for a grid cell from parameterized dianeutral mixing. Reported only for models that use conservative temperature as prognostic field.
 ",real,['ocean'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,776,"Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.
 ",Oyr ((isd.003)),,['FAFMIP'],1564,776,1295,,,['CMIP5'],,,,,,,,,,
@@ -1711,11 +1711,11 @@ recJOnEuwO2mTHoRE,CFmon.clmodisice_dup,,MODIS Ice Topped Cloud Area Fraction,"Pe
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],In progress,CFMIP_cosp_extra,,"7 IWP levels x 6 effective radius levels. NOTE: ""p1000"" is chosen as a coordinate to enable form submission and should be ignored.  An extra dimension of IWP should also be added to this request (although it is not an option in the form). Metric is further described in [Pincus 2023](https://essd.copernicus.org/articles/15/2483/2023/essd-15-2483-2023-discussion.html).
 
 [BD removed the p1000 coordinate on 4/9/24]
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
+",,,,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
 
 Moved back to in progress, as it has been noted that there are duplicate compound names. Could suggest to the author to submit new physical parameters to avoid this.
 
-NOTE - need to add IWP as an extra dimension",,,,
+NOTE - need to add IWP as an extra dimension",,
 recJP2wLKl4zAiRnl,CFsubhr.tntscpbl,tendency_of_air_temperature_due_to_stratiform_cloud_and_precipitation_and_boundary_layer_mixing,Tendency of Air Temperature Due to Stratiform Cloud and Precipitation and Boundary Layer Mixing,"To be specified only in  models which do not separate cloud, precipitation and boundary layer terms.  Includes all boundary layer terms including diffusive ones.
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",364,,CFsubhr ((isd.003)),,['CMIP5'],1265,364,1069,,,,,,,,,,,,,
 recJQvOgnnY3ItheB,Oyr.chl,mass_concentration_of_phytoplankton_expressed_as_chlorophyll_in_sea_water,Mass Concentration of Total Phytoplankton Expressed as Chlorophyll in Sea Water,"sum of chlorophyll from all phytoplankton group concentrations.  In most models this is equal to chldiat+chlmisc, that is the sum of ""Diatom Chlorophyll Mass Concentration"" plus ""Other Phytoplankton Chlorophyll Mass Concentration""
@@ -1750,7 +1750,7 @@ recJlG1hyr97VW22r,Omon.limnpico,nitrogen_growth_limitation_of_picophytoplankton,
 recJmpgdsEuzYP9Q8,CF3hr.dtauc,atmosphere_optical_thickness_due_to_convective_cloud,Convective Cloud Optical Depth,"This is the in-cloud optical depth obtained by considering only the cloudy portion of the grid cell
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,"cfmip_3hr, clouds_basic_instantaneous",9999,,CF3hr ((isd.003)),['CFMIP'],,,,,,,,,,,,,,,,,
 recJoOzfVPHYCLYO4,SIday.siconc,sea_ice_area_fraction,Sea-Ice Area Percentage (Ocean Grid),"Percentage of grid cell covered by sea ice
-",real,['seaIce'],['SIday'],['day'],CMIP6 CMOR variable,,,"baseline_daily, seaice_state_daily_basic, cowclip_wind_wave_variables, DCPP_Wider, biodiv_marine_daily, CFMIP_baseline, cordex [test], seaice_gcos_ecv",95,,SIMIP [seaiceday],,"['CMIP', 'CMIP5', 'CORDEX', 'LS3MIP', 'SIMIP']",95,132,116,,,['DCPP'],1 checked out of 1,,,,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, LS3MIP, SIMIP, VolMIP",,,,"DCPP, PAMIP",
+",real,['seaIce'],['SIday'],['day'],CMIP6 CMOR variable,,,"baseline_daily, seaice_state_daily_basic, cowclip_wind_wave_variables, DCPP_Wider, biodiv_marine_daily, CFMIP_baseline, cordex [test], seaice_gcos_ecv",95,,SIMIP [seaiceday],,"['CMIP', 'CMIP5', 'CORDEX', 'LS3MIP', 'SIMIP']",95,132,116,,,['DCPP'],1 checked out of 1,,,,,,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, LS3MIP, SIMIP, VolMIP",,"DCPP, PAMIP",
 recJpG0BwSGf96ykV,Omon.wfo,water_flux_into_sea_water,Water Flux into Sea Water,"Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum \*wfonocorr\* and \*wfcorr\*.
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,"aerchemmip_2d_monthly, DCPP_Essential, paleo_ocean",107,"net flux of water into sea water, including any flux correction. Report on native horizontal grid as well as mapped onto sphere.
 ",Omon ((isd.003)),,"['CMIP', 'CMIP5', 'DAMIP', 'PMIP', 'VIACSAB']",115,382,107,,,,,,,,,,,,,
@@ -1786,7 +1786,7 @@ recKLvM8Y25oS6YLZ,Omon.hfgeou,upward_geothermal_heat_flux_at_sea_floor,Upward Ge
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,landice_global_allfreq,384,"If this field is time-invariant, then save it instead as one of your ""fixed"" fields (see the fx table). Report on native horizontal grid.
 ",Omon ((isd.003)),"['CMIP5', 'ISMIP6', 'VIACSAB']","['CMIP', 'PMIP', 'VIACSAB']",384,1084,956,up,,,,,,,,,,,,
 recKMHaEeWOGW8lIC,day.ta,air_temperature,Air Temperature,"Air Temperature
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, temperature_variability_daily_lowpriority, DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test]",11,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",55,11,81,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, temperature_variability_daily_lowpriority, DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test]",11,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",55,11,81,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,
 recKMj8asxYvOZMuE,E1hrClimMon.rsut,toa_outgoing_shortwave_flux,TOA Outgoing Shortwave Radiation,"at the top of the atmosphere
 ",real,['atmos'],['E1hrClimMon'],['1hrCM'],CMIP6 CMOR variable,,,CFMIP_monthly_diurnal,1599,,CFMIP [cf1hrClimMon],,['CFMIP'],1787,1665,1599,up,,,,,,,,,,,,
 recKPqmRq8S5xzsRJ,IyrAnt.orog,surface_altitude,Surface Altitude,"This is needed in case the ice sheet elevation changes in time
@@ -1856,7 +1856,7 @@ recL0nE57ZXq9ZDmm,Emon.fNdep,minus_tendency_of_atmosphere_mass_content_of_nitrog
 recL26tzOAh6AeIkC,AERday.ua10,eastward_wind,Eastward Wind at 10hPa,"Zonal wind on the 10 hPa surface
 ",real,['aerosol'],['AERday'],['day'],CMIP6 CMOR variable,,,aerchemmip_2d_daily,653,,AERday ((isd.003)),,['AerChemMIP'],1376,661,653,,,,,,,,,,,,,
 recL2E4Md6rLnlWJN,3hrPt.bldep,atmosphere_boundary_layer_thickness,Boundary Layer Depth,"Boundary Layer Depth every 3 hours
-",real,"['land', 'atmos']",['3hrPt'],['3hrPt'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,"urban_impacts_essential, landatm_coupling_3hA",,,,,,,,,,,,,,In progress,,,,,,,
+",real,"['land', 'atmos']",['3hrPt'],['3hrPt'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,"urban_impacts_essential, landatm_coupling_3hA",,,,,,,,,,,,,,,,In progress,,,,,
 recL2qi1PziXS2WIC,AERmonZ.bry,mole_fraction_of_inorganic_bromine_in_air,Total Inorganic Bromine Volume Mixing Ratio,"Total family (the sum of all appropriate species in the model) ; list the species in the netCDF header, e.g. Bry = Br + BrO + HOBr + HBr + BrONO2 + BrCl Definition: Total inorganic bromine (e.g., HBr and inorganic bromine oxides and radicals (e.g., BrO, atomic bromine (Br), bromine nitrate (BrONO2)) resulting from degradation of bromine-containing organicsource gases (halons, methyl bromide, VSLS), and natural inorganic bromine sources (e.g., volcanoes, sea salt, and other aerosols) add comment attribute with detailed description about how the model calculates these fields
 ",real,['aerosol'],['AERmonZ'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2dZ_monthly,1295,,AERmonZ ((isd.003)),,['CMIP5'],1315,1583,1295,,,,,,,,,,,,,
 recL3ZR1JtM1gGXU1,AERmon.emiach4,tendency_of_atmosphere_mass_content_of_methane_due_to_emission,anthropogenic emission rate of CH4,"This is the anthropogenic emission rate of methane (CH4) into the atmosphere
@@ -1872,12 +1872,12 @@ recLBnetKlPqLsq7m,E3hr.gpp,gross_primary_productivity_of_biomass_expressed_as_ca
 recLC1z9TH8QH0bB7,Eday.mrsol,mass_content_of_water_in_soil_layer,Total Water Content of Soil Layer,"in each soil layer, the mass of water in all phases, including ice.  Reported as ""missing"" for grid cells occupied entirely by ""sea""
 ",real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,"biodiv_freshwater_daily, biodiv_land_daily",107,,C4MIP [L_day],,"['C4MIP', 'LS3MIP']",288,107,351,,,,,,,,,,,,,
 recLCjuuWprYXq9aB,SImon.siconc,sea_ice_area_fraction,Sea-Ice Area Percentage (Ocean Grid),"Percentage of grid cell covered by sea ice
-",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, seaice_budget_area_monthly, seaice_state_monthly_basic, DAMIP_monthly, CVDP_input, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_cryosphere, ref_ocean_and_seaice, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, cordex [test]",12,,SIMIP [seaicemon],['CDRMIP'],"['CFMIP', 'CMIP', 'CORDEX', 'DCPP', 'PMIP', 'SIMIP', 'VIACSAB']",12,214,47,,,,1 checked out of 1,,,CDRMIP,"C4MIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, FAFMIP, GMMIP, GeoMIP, HighResMIP, LS3MIP, PAMIP, PMIP, RFMIP, SIMIP, VIACSAB",,,,,
+",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, seaice_budget_area_monthly, seaice_state_monthly_basic, DAMIP_monthly, CVDP_input, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_cryosphere, ref_ocean_and_seaice, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, cordex [test]",12,,SIMIP [seaicemon],['CDRMIP'],"['CFMIP', 'CMIP', 'CORDEX', 'DCPP', 'PMIP', 'SIMIP', 'VIACSAB']",12,214,47,,,,1 checked out of 1,,,,,CDRMIP,"C4MIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, FAFMIP, GMMIP, GeoMIP, HighResMIP, LS3MIP, PAMIP, PMIP, RFMIP, SIMIP, VIACSAB",,,
 recLCodTtCNhzfbDq,Omon.zostoga,global_average_thermosteric_sea_level_change,Global Average Thermosteric Sea Level Change,"There is no CMIP6 request for zosga nor zossga.
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, DAMIP_monthly, DCPP_Wider",72,,Omon ((isd.003)),"['DCPP', 'VIACSAB']","['CMIP', 'CMIP5', 'DAMIP', 'ISMIP6']",72,1519,188,,,['CDRMIP'],1 checked out of 1,,,,,,,,,
 recLF2wEsJOsXvfXJ,Omon.expfeob,sinking_mole_flux_of_particulate_iron_in_sea_water,Sinking Flux of Particulate Iron Reaching the Ocean Bottom,"Downward sinking flux of particulate iron at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 recLG6Erh6LH4l2Au,Odec.wfo,water_flux_into_sea_water,Water Flux into Sea Water,"Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum \*wfonocorr\* and \*wfcorr\*.
 ",real,['ocean'],['Odec'],['dec'],CMIP6 CMOR variable,,,,1463,"net flux of water into seawater, including any flux correction. Report on native horizontal grid as well as mapped onto sphere.
 ",Odec ((isd.003)),,['CMIP5'],1591,1509,1463,,,,,,,,,,,,,
@@ -1886,7 +1886,7 @@ recLH0goC93DEcbEJ,Omon.mlotstmax,ocean_mixed_layer_thickness_defined_by_sigma_t,
 ",Omon ((isd.003)),,['CMIP5'],190,547,264,,,,,,,,,,,,,
 recLHxvTwGQLMzle4,Eday.mrro,runoff_flux,Total runoff over land,"This follows Emon.mrro, but at daily resolution where this variable does not yet exist
 ",real,['land'],['Eday'],['day'],Under review,"['Land & land-ice', 'Atmosphere', 'Ocean & sea-ice', 'Earth System']",In progress,"paleo_land_atmosphere_surface, HealthFloodingDaily",,"Not sure whether Lday may be an alternative place for this.
-",,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recLIo7KK8BYjNPbd,Eday.reffcclwtop,effective_radius_of_convective_cloud_liquid_water_particles_at_convective_liquid_water_cloud_top,Cloud-Top Effective Droplet Radius in Convective Cloud,"Droplets are liquid only.  This is the effective radius ""as seen from space"" over convective liquid cloudy portion of grid cell.  This is the value from uppermost model layer with liquid cloud or, if available, or for some models it is the sum over all liquid cloud tops, no matter where they occur, as long as they are seen from the top of the atmosphere. Reported values are weighted by total liquid cloud top fraction of  (as seen from TOA) each time sample when computing monthly mean.daily data, separated to large-scale clouds, convective clouds. If any of the cloud is from more than one process (i.e. shallow convection), please provide them separately.
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,1354,,CFMIP [aeroDay_2d],,['CFMIP'],1710,1354,1681,,,,,,,,,,,,,
 recLM5txMJyV3rVz1,SIday.sic,,Total Ice Algal Carbon Amount,"Sum of ice algal carbon component content
@@ -2068,7 +2068,7 @@ recNLgayTh5qyd2Rf,Omon.co3,mole_concentration_of_carbonate_expressed_as_carbon_i
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,,103,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
 ",Omon ((isd.003)),"['C4MIP', 'OMIP']",,470,103,548,,,"['CDRMIP', 'CMIP5']",,,,,,,,,,
 recNLrS3aAgp37Hbf,Eday.evspsblveg,water_evaporation_flux_from_canopy,Daily water evaporation flux from canopy,"The same as the current variable evspsblveg but defined on daily timescales.
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,temperature_variability_daily_highpriority,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,temperature_variability_daily_highpriority,,,,,,,,,,,,,,,,In progress,,,,,
 recNNBdw46xo5klT2,SImon.sidconcth,tendency_of_sea_ice_area_fraction_due_to_thermodynamics,Sea-Ice Area Percentage Tendency Due to Thermodynamics,"Total change in sea-ice area fraction through thermodynamic processes
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,seaice_budget_area_monthly,290,,SIMIP [seaicemon],['SIMIP'],,642,975,290,,,,,,,,,,,,,
 recNNYOh6bw0zuntJ,6hrPlevPt.intuaw,eastward_atmosphere_water_transport_across_unit_distance,6 hourly instantaneous vertical integral of zonal water vapor flux,"This is the same as intuaw but defined on 6hrPlevPt
@@ -2196,7 +2196,7 @@ recP5SXUFK5WXwWjQ,Omon.fbddtalk,integral_wrt_depth_of_tendency_of_sea_water_alka
 ",Omon ((isd.003)),,,568,760,788,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
 recP62xG8W5iWuBZf,Omon.tos,sea_surface_temperature,Sea Surface Temperature,"This may differ from ""surface temperature"" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, DAMIP_monthly, surgemip_variables, CVDP_input, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, marine_bgc, paleo_ocean, ref_ocean_and_seaice, SO_BGC-cloud_ocean_monthly, fish_model_core_mon, FireMIP_monthly, cordex [test]",3,"Note change from CMIP5 K to CMIP6 C. Report on native horizontal grid as well as on a spherical latitude/longitude grid.
-",Omon ((isd.003)),"['ISMIP6', 'VIACSAB']","['CMIP', 'CMIP5', 'CORDEX', 'DAMIP', 'DCPP', 'PMIP', 'VIACSAB']",3,58,15,,,,1 checked out of 1,,,"ISMIP6, VIACSAB","AerChemMIP, C4MIP, CMIP, CORDEX, DAMIP, DCPP, GMMIP, GeoMIP, HighResMIP, LS3MIP, OMIP, PAMIP, VIACSAB, VolMIP",,,,,
+",Omon ((isd.003)),"['ISMIP6', 'VIACSAB']","['CMIP', 'CMIP5', 'CORDEX', 'DAMIP', 'DCPP', 'PMIP', 'VIACSAB']",3,58,15,,,,1 checked out of 1,,,,,"ISMIP6, VIACSAB","AerChemMIP, C4MIP, CMIP, CORDEX, DAMIP, DCPP, GMMIP, GeoMIP, HighResMIP, LS3MIP, OMIP, PAMIP, VIACSAB, VolMIP",,,
 recP6ymOD0mr2ewvp,Oyr.diftrelo,ocean_tracer_epineutral_laplacian_diffusivity,Ocean Tracer Epineutral Laplacian Diffusivity,"Ocean tracer diffusivity associated with parameterized eddy-induced diffusive transport oriented along neutral or isopycnal directions. Sometimes this diffusivity is called the neutral diffusivity or isopycnal diffusivity or Redi diffusivity.
 ",real,['ocean'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,779,"Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.
 ",Oyr ((isd.003)),,['FAFMIP'],1335,779,1295,,,['CMIP5'],,,,,,,,,,
@@ -2220,7 +2220,7 @@ recPEEwVa1v2JMxDY,E1hr.tas,air_temperature,Hourly Temperature at Surface ,"Hourl
 recPF3EQGht8BrK6b,Emon.treeFracNdlDcd,area_fraction,Needleleaf Deciduous Tree Area Percentage,"This is the percentage of the entire grid cell that is covered by needleleaf deciduous trees.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_benchmarking_and_landcover_variables_tier2,269,,C4MIP [C_LandT2],,"['C4MIP', 'CMIP', 'PMIP']",269,1355,481,,,,,,,,,,,,,
 recPJ9VVoybqUhqlw,6hrPlev.ps,surface_air_pressure,Surface Air Pressure,"surface pressure, not mean sea level pressure
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,,,,,,,,In progress,,,,,
 recPJSkXxSOMOByVN,Oday.tossq,square_of_sea_surface_temperature,Square of Sea Surface Temperature,"Square of temperature of liquid ocean, averaged over the day.
 ",real,['ocean'],['Oday'],['day'],CMIP6 CMOR variable,,,"Ocean Temperature Extremes, CFMIP_baseline",175,"Report on the ocean horizontal native grid.
 ",Oday ((isd.003)),,['CMIP5'],276,179,175,,,['CMIP5'],,,,,,,,,,
@@ -2249,7 +2249,7 @@ recPU0Gzttudok3fj,Eday.esn,water_evapotranspiration_flux,Snow Evaporation,"liqui
 recPUP6b9ulmMX0yV,EdayZ.utendnogw,tendency_of_eastward_wind_due_to_nonorographic_gravity_wave_drag,Eastward Acceleration Due to Non-Orographic Gravity Wave Drag,"zonal mean; hence YZT
 ",real,['atmos'],['EdayZ'],['day'],CMIP6 CMOR variable,,,dynvar_basic,593,,DynVarMIP [DYVR_daily_b],,['DynVarMIP'],920,908,593,,,,,,,,,,,,,
 recPUPu7KGO6atUp8,6hrPlev.prra,rainfall_flux,Rainfall Flux,"Rainfall rate
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,,,In progress,,,,,
 recPUp2zaiXIXJtWi,Emon.treeFracBdlDcd,area_fraction,Broadleaf Deciduous Tree Area Percentage,"This is the percentage of the entire grid cell that is covered by broadleaf deciduous trees.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_benchmarking_and_landcover_variables_tier2, landuse",265,,C4MIP [C_LandT2],,"['C4MIP', 'CMIP', 'PMIP']",265,1191,461,,,,,,,,,,,,,
 recPV0CaFrTgT1Ggh,Omon.spco2,surface_partial_pressure_of_carbon_dioxide_in_sea_water,Surface Aqueous Partial Pressure of CO2,"The surface called ""surface"" means the lower boundary of the atmosphere. The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium. The partial pressure of a gaseous constituent of air is the pressure which it alone would exert with unchanged temperature and number of moles per unit volume. The chemical formula for carbon dioxide is CO2.
@@ -2266,9 +2266,9 @@ recPdJCwqrMQ3RE0z,Oyr.difvso,ocean_vertical_salt_diffusivity,Ocean Vertical Salt
 ",Oyr ((isd.003)),,['FAFMIP'],1057,644,622,,,['CMIP5'],,,,,,,,,,
 recPeTHHGH2e9FiX9,CFmon.cltmodis,cloud_area_fraction,MODIS Total Cloud Area Fraction,"Percentage of total cloud cover as seen by the MODIS instrument simulator. 
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],Accept,"SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",,"Latitude x longitude x time. NOTE: Both of the entries in _Coordinates_ and _Extra Dimensions_ should be ignored as they were only included for form submission.
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept variables based on the fix below.
+",,,,,,,,,,,,,,,,,"Atmosphere team happy to accept variables based on the fix below.
 
-There was a typo in the initial submission of clmodis and cltmodis which had the metadata for the two variables swapped. MZ contacted submitter to confirm this. On confirmation, the variables have been corrected.",,,,
+There was a typo in the initial submission of clmodis and cltmodis which had the metadata for the two variables swapped. MZ contacted submitter to confirm this. On confirmation, the variables have been corrected.",,
 recPf5sRwkpphEtcj,Emon.dissi14c,mole_concentration_of_dissolved_inorganic_14C_in_sea_water,Dissolved Inorganic Carbon-14 Concentration,"Dissolved inorganic carbon-14 (CO3+HCO3+H2CO3) concentration
 ",real,['ocnBgchem'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_carbon_isotopic_variables,9999,,C4MIP [C_Hist],"['C4MIP', 'PMIP']",,,,,,,,,,,,,,,,,
 recPfCuH5qaRSCaBL,IyrGre.lithk,land_ice_thickness,Ice Sheet Thickness,"This is needed in case ice sheet thickness changes in time
@@ -2449,7 +2449,7 @@ recRN6CP8HfCaU79G,IyrGre.litempbotfl,land_ice_basal_temperature,Basal Temperatur
 ",real,['landIce'],['IyrGre'],['yr'],CMIP6 CMOR variable,,,landice_greenland_allfreq,1765,,ISMIP6 [IyrGre],['ISMIP6'],,1848,1848,1765,,,,,,,,,,,,,
 recRNSz99eVKk1IO3,Omon.expnob,sinking_mole_flux_of_particulate_organic_nitrogen_in_sea_water,Sinking Flux of Particulate Organic Nitrogen Reaching the Ocean Bottom,"Downward sinking flux of particulate organic nitrogen at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 recRRJRe9sdibsd7j,day.rsus,surface_upwelling_shortwave_flux_in_air,Surface Upwelling Shortwave Radiation,"The surface called ""surface"" means the lower boundary of the atmosphere. ""shortwave"" means shortwave radiation. Upwelling radiation is radiation from below. It does not mean ""net upward"". When thought of as being incident on a surface, a radiative flux is sometimes called ""irradiance"". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called ""vector irradiance"". In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"seaice_budget_energy_daily, temperature_variability_daily_highpriority, seaice_budget_energy_daily, CFMIP_baseline",69,,day ((isd.003)),['VIACSAB'],"['CMIP5', 'LS3MIP', 'VIACSAB']",167,145,69,up,,,,,,,,,,,,
 recRRQjAys9phaHo0,Omon.hfy,ocean_heat_y_transport,Ocean Heat Y Transport,"Contains all contributions to ""y-ward"" heat transport from resolved and parameterized processes. Use Celsius for temperature scale.
@@ -2473,17 +2473,17 @@ recRcZMlNN67kJj4X,Emon.grplmxrat,mass_fraction_of_graupel_in_air,Graupel Mixing 
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,9999,,HighResMIP [Amon_diag],['HighResMIP'],,,,,,,,,,,,,,,,,
 recRdlJa7gucTVhIU,day.hurs,relative_humidity,Near-Surface Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, synoptic_systems_high_priority, DAMIP_daily, aerchemmip_2d_daily, AgModelExpandedDaily, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",38,"normally report this at 2 meters above the surface
-",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'LS3MIP', 'PMIP', 'VIACSAB']",38,39,102,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, LS3MIP, PMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'LS3MIP', 'PMIP', 'VIACSAB']",38,39,102,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, LS3MIP, PMIP, VIACSAB, VolMIP",,,
 recRe7WutP870N1XU,AERmon.eminox,tendency_of_atmosphere_mass_content_of_nox_expressed_as_nitrogen_due_to_emission,Total Emission Rate of NOx,"Store flux as Nitrogen. NOx=NO+NO2. Integrate 3D emission field vertically to 2d field.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2d_monthly,644,,AERmon ((isd.003)),,['AerChemMIP'],644,1296,956,,,,,,,,,,,,,
 recRiqEWe1lNuQKIZ,Emon.osaltpmdiff,tendency_of_sea_water_salinity_expressed_as_salt_content_due_to_parameterized_mesoscale_eddy_diffusion,Tendency of Sea Water Salinity Expressed as Salt Content Due to Parameterized Mesoscale Diffusion,"Tendency of salt content for a grid cell from parameterized mesoscale eddy diffusion.
 ",real,['ocean'],['Emon'],['mon'],CMIP6 CMOR variable,,,,284,,FAFMIP [fafOmonB],['FAFMIP'],,1284,284,788,,,,,,,,,,,,,
 recRlSLPL4rkn0zwt,fx.depthl,depth,lake depth,"depth of a lake; this relates to variable fx.sftlkf and shall provide additional information of the vertical extent of a lake which will influence the heat capacity among other things. This variable shall identify differences in details of the treatment of lakes in climate models.
-",real,['land'],['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System', 'Ocean & sea-ice']",,"paleo_fx, hydrology",,,,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",real,['land'],['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System', 'Ocean & sea-ice']",,"paleo_fx, hydrology",,,,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recRlqlxjDVitQBoh,Eday.scldncl,number_concentration_of_stratiform_cloud_liquid_water_particles_at_stratiform_liquid_water_cloud_top,Cloud Droplet Number Concentration of Stratiform Cloud Tops,"Droplets are liquid only.  Report concentration ""as seen from space"" over stratiform liquid cloudy portion of grid cell.  This is the value from uppermost model layer with liquid cloud or, if available, it is better to sum over all liquid cloud tops, no matter where they occur, as long as they are seen from the top of the atmosphere. Weight by total liquid cloud top fraction of  (as seen from TOA) each time sample when computing monthly mean.
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,595,,CFMIP [aeroDay_2d],,['CFMIP'],982,595,1230,,,,,,,,,,,,,
 recRmAXfTYhFnae0Q,SIday.siitdthick,sea_ice_thickness,Sea-Ice Thickness in Thickness Categories ,"K=ice depth bands
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recRn3dbAL7zbGWn5,CFmon.edt,atmosphere_heat_diffusivity,Eddy Diffusivity Coefficient for Temperature,"Vertical diffusion coefficient for temperature due to parametrised eddies
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",526,,CFmon ((isd.003)),,['CMIP5'],1357,526,653,,,,,,,,,,,,,
 recRqPcMwJ7JQL6KY,AERday.zg500,geopotential_height,Geopotential Height at 500hPa,"geopotential height on the 500 hPa surface
@@ -2526,11 +2526,11 @@ recSFc3JLliNEhrO5,CF3hr.reffclwc,effective_radius_of_convective_cloud_liquid_wat
 recSFjFZg3j0vAIyV,ImonAnt.icem,land_ice_surface_melt_flux,Surface Ice Melt Flux,"Loss of ice mass resulting from surface melting. Computed as the total surface melt water on the land ice portion of the grid cell divided by land ice area in the grid cell.
 ",real,['landIce'],['ImonAnt'],['mon'],CMIP6 CMOR variable,,,landice_antarctica_allfreq,1425,,ISMIP6 [ImonAnt],,,1425,1756,1463,,,['ISMIP6'],,,,,,,,,,
 recSH1dZGJNwO8hzk,Eday.evspsblsoi,water_evaporation_flux_from_soil,Daily water evaporation flux from soil,"Water evaporation flux from soil but for daily averages i.e., the evspsblsoi variable, which is only currently defined for monthly averages
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,temperature_variability_daily_highpriority,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,temperature_variability_daily_highpriority,,,,,,,,,,,,,,,,In progress,,,,,
 recSIKh3qzI1YY9gb,EmonZ.tntmp,tendency_of_air_temperature_due_to_model_physics,Tendency of Air Temperature Due to Model Physics,"zonal mean; hence YZT
 ",real,['atmos'],['EmonZ'],['mon'],CMIP6 CMOR variable,,,dynvar_basic,533,,DynVarMIP [DYVR_monthly_b],,['DynVarMIP'],1068,1498,533,,,,,,,,,,,,,
 recSIdlXJv8KlY8sD,Eday.raVgt,surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_plant_respiration,Autotrophic Respiration on Vegetation type as Carbon Mass Flux [kgC m-2 s-1],"Carbon mass flux per unit area into atmosphere due to autotrophic respiration on land (respiration by producers) [see rh for heterotrophic production]. Calculated on vegetation type.
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,,,In progress,,,,,
 recSJb9DGIcvQBTtb,Lmon.cLitter,litter_mass_content_of_carbon,Carbon Mass in Litter Pool,"""Litter"" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between ""fine"" and ""coarse"" is model dependent. ""Content"" indicates a quantity per unit area. The sum of the quantities with standard names surface\_litter\_mass\_content\_of\_carbon and subsurface\_litter\_mass\_content\_of\_carbon has the standard name litter\_mass\_content\_of\_carbon.
 ",real,['land'],['Lmon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, FireMIP_monthly",135,,Lmon ((isd.003)),"['CDRMIP', 'DCPP']","['C4MIP', 'CMIP', 'CMIP5', 'LS3MIP', 'PMIP', 'VIACSAB']",135,735,248,,,,,,,,,,,,,
 recSLWHe6RaAv7Jen,Lmon.nbp,surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_all_land_processes,Carbon Mass Flux out of Atmosphere Due to Net Biospheric Production on Land [kgC m-2 s-1],"This is the net mass flux of carbon between land and atmosphere calculated as photosynthesis MINUS the sum of  plant and soil respiration, carbonfluxes  from fire, harvest, grazing  and land use change. Positive flux  is into the land.
@@ -2621,9 +2621,9 @@ recTP2wOo0NqlKVfX,Esubhr.tntrscs,tendency_of_air_temperature_due_to_shortwave_he
 ",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,CFMIP_cfSites,710,,CFMIP [CFsubhr_new],,['CFMIP'],1627,710,1401,,,,,,,,,,,,,
 recTTC6mVBAhCFQQc,CFmon.clmodisice,,MODIS Ice Topped Cloud Area Fraction,"Percentage ice-cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the same as used by clisccp output from the ISCCP satellite simulator. 
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],In progress,"radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",,"7 pressure levels x 7 optical depth levels. THIS VARIABLE DOES NOT HAVE AN EXTRA COORDINATE - ""p1000"" is chosen to allow for form submission. [BD removed the p1000 coordinate on 4/9/24]
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
+",,,,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
 
-Moved back to in progress, as it has been noted that there are duplicate compound names. Could suggest to the author to submit new physical parameters to avoid this.",,,,
+Moved back to in progress, as it has been noted that there are duplicate compound names. Could suggest to the author to submit new physical parameters to avoid this.",,
 recTTwF2Pm6n1qC9y,Amon.vas,northward_wind,Northward Near-Surface Wind,"Northward component of the near surface wind
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, dynvar_basic, DAMIP_monthly, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline",36,"normally, the the wind component should be reported at the 10 meter height
 ",Amon ((isd.003)),['VIACSAB'],"['CFMIP', 'CMIP', 'CMIP5', 'DCPP', 'DynVarMIP', 'ISMIP6', 'PMIP', 'VIACSAB']",36,271,73,,,['CDRMIP'],1 checked out of 1,,,,,,,,,
@@ -2692,7 +2692,7 @@ recU8Ivqln3TV07TX,Emon.ut,product_of_eastward_wind_and_air_temperature,Product o
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,669,,HighResMIP [Amon_sparc],['HighResMIP'],,1538,669,1230,,,,,,,,,,,,,
 recUAJmn7l0jwJKno,Oday.tos,sea_surface_temperature,Sea Surface Temperature,"This may differ from ""surface temperature"" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.
 ",real,['ocean'],['Oday'],['day'],CMIP6 CMOR variable,,,"baseline_daily, ocean_mesoscale, DCPP_Essential, paleo_ocean, fish_model_day, hydrology, biodiv_marine_daily, CFMIP_baseline, cordex [test]",26,"Report on the ocean horizontal native grid.
-",Oday ((isd.003)),,"['CMIP', 'CMIP5', 'CORDEX']",70,26,105,,,['CMIP5'],1 checked out of 1,,,,"CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, VolMIP",,,,OMIP,
+",Oday ((isd.003)),,"['CMIP', 'CMIP5', 'CORDEX']",70,26,105,,,['CMIP5'],1 checked out of 1,,,,,,"CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, VolMIP",,OMIP,
 recUBFgvMkUGv7evD,CF3hr.grpllsprof,stratiform_graupel_flux,Stratiform Graupel Flux,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics. Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud. Graupel consists of heavily rimed snow particles, often called snow pellets; often indistinguishable from very small soft hail except when the size convention that hail must have a diameter greater than 5 mm is adopted. Reference: American Meteorological Society Glossary <http://glossary.ametsoc.org/wiki/Graupel>. There are also separate standard names for hail. Standard names for ""graupel\_and\_hail"" should be used to describe data produced by models that do not distinguish between hail and graupel.
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,cfmip_3hr,9999,"report on model half-levels
 ",CF3hr ((isd.003)),['CFMIP'],,,,,,,,,,,,,,,,,
@@ -2700,9 +2700,9 @@ recUCxlOFXcKL5NlJ,AERmon.cod,atmosphere_optical_thickness_due_to_cloud,Cloud Opt
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"clouds_basic_average, SO_BGC-cloud_atmos_composition_monthly, aerchemmip_2d_monthly",481,,AERmon ((isd.003)),,['AerChemMIP'],826,739,481,,,,,,,,,,,,,
 recUGsHiQBF6APWwQ,CFmon.clmodisliquid,,MODIS Liquid Topped Cloud Area Fraction,"Percentage liquid-cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the samed used by clisccp (ISCCP simulator).
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],In progress,"radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",,"7 pressure levels x 7 optical depth levels. THIS VARIABLE SHOULD HAVE NO EXTRA COORDINATE - ""p1000"" is selected simply to submit this form. [BD removed the p1000 coordinate on 4/9/24]
-",,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
+",,,,,,,,,,,,,,,,,"Atmosphere team happy to accept variable.
 
-Moved back to in progress, as it has been noted that there are duplicate compound names. Could suggest to the author to submit new physical parameters to avoid this.",,,,
+Moved back to in progress, as it has been noted that there are duplicate compound names. Could suggest to the author to submit new physical parameters to avoid this.",,
 recUIOOu4MGCRedr8,AERmon.ua,eastward_wind,Eastward Wind,"Zonal wind (positive in a eastward direction).
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_3d_monthly,84,,AERmon ((isd.003)),['HighResMIP'],"['AerChemMIP', 'DynVarMIP']",236,84,278,,,,,,,,,,,,,
 recUIuZbEFKtQ8AgA,Oyr.expsi,sinking_mole_flux_of_particulate_silicon_in_sea_water,Sinking Particulate Silicon Flux,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.   'Sinking' is the gravitational settling of particulate matter suspended in a liquid. A sinking flux is positive downwards and is calculated relative to the movement of the surrounding fluid.
@@ -2762,7 +2762,7 @@ recUt792XeRVe26Vy,6hrPlev.psl,air_pressure_at_mean_sea_level,Sea Level Pressure,
 recUuqtjh90dgSaA7,Emon.c13Veg,vegetation_mass_content_of_13C,Mass of 13C in Vegetation,"Carbon-13 mass content per unit area in vegetation (any living plants e.g. trees, shrubs, grass).
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_carbon_isotopic_variables,1400,,C4MIP [C_Hist],"['C4MIP', 'PMIP']",,1400,1475,1463,,,,,,,,,,,,,
 recUvpxbQWeTeKKPC,day.hus,specific_humidity,Specific Humidity,"Specific humidity is the mass fraction of water vapor in (moist) air.
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, aerchemmip_3d_daily, CFMIP_baseline, cordex [test]",13,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",79,13,81,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, aerchemmip_3d_daily, CFMIP_baseline, cordex [test]",13,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",79,13,81,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,
 recUwtjhGY4dwMmLu,Lmon.fLitterSoil,carbon_mass_flux_into_soil_from_litter,Total Carbon Mass Flux from Litter to Soil,"Carbon mass flux per unit area into soil from litter (dead plant material in or above the soil).
 ",real,['land'],['Lmon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_cn_cycle_monthly, c4mip_land_carbon_cycle_tier1",250,,Lmon ((isd.003)),['VIACSAB'],"['C4MIP', 'CMIP', 'CMIP5', 'LS3MIP', 'PMIP', 'VIACSAB']",250,1053,427,,,,,,,,,,,,,
 recUxwZBwg9spVW9R,Emon.conccn,number_concentration_of_ambient_aerosol_particles_in_air,Aerosol Number Concentration,"""Number concentration"" means the number of particles or other specified objects per unit volume. ""Aerosol"" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. ""Ambient\_aerosol"" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. ""Ambient aerosol particles"" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles.
@@ -2771,12 +2771,12 @@ recUypHT0q4GSBZUY,Odec.wo,upward_sea_water_velocity,Sea Water Vertical Velocity,
 ",real,['ocean'],['Odec'],['dec'],CMIP6 CMOR variable,,,,1295,"Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
 ",Odec ((isd.003)),,['CMIP5'],1585,1382,1295,,,,,,,,,,,,,
 recUzzf6DfglnRkUW,Eday.nppVgt,net_primary_productivity_of_biomass_expressed_as_carbon,Net Primary Production on Vegetation type as Carbon Mass Flux [kgC m-2 s-1],"""Production of carbon"" means the production of biomass expressed as the mass of carbon which it contains. Net primary production is the excess of gross primary production (rate of synthesis of biomass from inorganic precursors) by autotrophs (""producers""), for example, photosynthesis in plants or phytoplankton, over the rate at which the autotrophs themselves respire some of this biomass. ""Productivity"" means production per unit area. The phrase ""expressed\_as"" is used in the construction A\_expressed\_as\_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A.
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,,,In progress,,,,,
 recV4HfpYc34yVdbJ,Eday.mrso5,,mrso5,"Soil moisture in the top 5 cm of the soil column
 ",real,['land'],['Eday'],['day'],Under review,['Impacts & adaptation'],,HealthFloodingDaily,,"only provided for land locations
 ",,,,,,,,In progress,,,,,,,,,,,
 recV5Dr8ifn4cWTop,SIday.simprefrozen,thickness_of_ice_on_sea_ice_melt_pond,Thickness of Refrozen Ice on Melt Pond ,"Volume of refrozen ice on melt ponds divided by meltpond covered area
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recV7xbGh4Zxs9A2X,CFsubhr.rsutcs,toa_outgoing_shortwave_flux_assuming_clear_sky,TOA Outgoing Clear-Sky Shortwave Radiation,"Calculated in the absence of clouds.
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",956,"This table includes the 2-D variables listed in the ""Amon"" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.
 ",CFsubhr ((isd.003)),,['CMIP5'],1476,1114,956,up,,,,,,,,,,,,
@@ -2803,7 +2803,7 @@ recVXR76y0jTEcNRg,Eyr.shrubFrac,area_fraction,Percentage Cover by Shrub,"Percent
 recVXahw6pmj1ndT6,AERmonZ.oh,mole_fraction_of_hydroxyl_radical_in_air,OH Volume Mixing Ratio,"Mole fraction is used in the construction mole\_fraction\_of\_X\_in\_Y, where X is a material constituent of Y.
 ",real,['aerosol'],['AERmonZ'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2dZ_monthly,635,,AERmonZ ((isd.003)),,['CMIP5'],635,1466,956,,,,,,,,,,,,,
 recVXppjza4qBEw4F,6hrPlevPt.psl,air_pressure_at_mean_sea_level,Sea Level Pressure,"Sea Level Pressure
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",77,,6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'CORDEX']",132,77,122,,,['HighResMIP'],,,,DAMIP,"CMIP, CORDEX, HighResMIP, VolMIP",,,,HighResMIP,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",77,,6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'CORDEX']",132,77,122,,,['HighResMIP'],,,,,,DAMIP,"CMIP, CORDEX, HighResMIP, VolMIP",,HighResMIP,
 recVYCnUBmMmlQ5nz,Eday.ares,aerodynamic_resistance,Aerodynamic Resistance,"aerodynamic\_resistance
 ",real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,,981,,LS3MIP [LWday],,['LS3MIP'],1369,981,1159,,,,,,,,,,,,,
 recVYJWsZfU5V9cZo,CFsubhr.hur,relative_humidity,Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
@@ -2817,7 +2817,7 @@ recVgYihdNLZdJZHQ,Oday.phyc,mole_concentration_of_phytoplankton_expressed_as_car
 ",real,['ocnBgchem'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,"DCPP_Wider, biodiv_marine_daily",,"The variable at the depth of 200 meters is requested
 ",,,,,,,,,,,In progress,,,,,,,,
 recVgef1OXOIEmiaV,Amon.prra,rainfall_flux,Rainfall Flux,"rainfall flux at surface; includes precipitation of all forms of water in the liquid phase
-",real,['atmos'],['Amon'],['mon'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,"landice_global_allfreq, SO_BGC-cloud_met_monthly, FireMIP_monthly",,,,,,,,,down,,,,,In progress,,,,,,,
+",real,['atmos'],['Amon'],['mon'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,"landice_global_allfreq, SO_BGC-cloud_met_monthly, FireMIP_monthly",,,,,,,,,down,,,,,,,In progress,,,,,
 recVizojMrbrWndJE,Amon.ch4global,mole_fraction_of_methane_in_air,Global Mean Mole Fraction of CH4,"Global Mean Mole Fraction of CH4
 ",real,"['atmos', 'atmosChem']",['Amon'],['mon'],CMIP6 CMOR variable,,,CFMIP_baseline,440,"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If CH4 is spatially nonuniform, omit this field, but report Mole Fraction of CH4 (see the table entry before the previous one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?
 ",Amon ((isd.003)),,"['CFMIP', 'CMIP', 'CMIP5', 'PMIP']",536,1744,440,,,,,,,,,,,,,
@@ -2850,7 +2850,7 @@ recVz4QaQbqdL5hDx,Emon.fNAnthDisturb,tendency_of_atmosphere_mass_content_of_nitr
 recW2bFwDrxMlAq1y,AERmon.c2h6,mole_fraction_of_ethane_in_air,C2H6 Volume Mixing Ratio,"Mole fraction is used in the construction mole\_fraction\_of\_X\_in\_Y, where X is a material constituent of Y.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_3d_monthly,469,,AERmon ((isd.003)),,['AerChemMIP'],780,469,1159,,,,,,,,,,,,,
 recW3LtC5mM8OzLNG,day.zg,geopotential_height,Geopotential Height,"Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test]",15,,day ((isd.003)),['CMIP5'],"['CMIP', 'CORDEX', 'VIACSAB']",67,15,139,,,,,,,"CFMIP, CMIP, DAMIP, HighResMIP, VolMIP","CMIP, CORDEX, VIACSAB",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test]",15,,day ((isd.003)),['CMIP5'],"['CMIP', 'CORDEX', 'VIACSAB']",67,15,139,,,,,,,,,"CFMIP, CMIP, DAMIP, HighResMIP, VolMIP","CMIP, CORDEX, VIACSAB",,,
 recW3PQKXZCpnxWv8,E3hrPt.mmroa,mass_fraction_of_particulate_organic_matter_dry_aerosol_particles_in_air,Instantaneous surface total organic aerosol mass mixing ratio at CF sites,"This variable represents the instantaneous surface organic aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours. 
 ",real,['aerosol'],['E3hrPt'],['3hrPt'],Under review,['Atmosphere'],In progress,aerchemmip_CFsites,,"Unsure which cell measures to use in this case!
 ",,,,,,,,,,,,,,,,,,,
@@ -2896,7 +2896,7 @@ recWR4RptQmM1PbVg,6hrPlev.rv850,atmosphere_relative_vorticity,Relative Vorticity
 ",real,['atmos'],['6hrPlev'],['6hr'],CMIP6 CMOR variable,,,DCPP_Wider,537,,DCPP [DCPP-6hr],,['VIACSAB'],1023,537,1765,,,['DCPP'],,,,,,,,,,
 recWR5uZxtcqUoW5b,6hrLev.va,northward_wind,Northward Wind,"Meridional wind (positive in a northward direction).
 ",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,2,"on all model levels
-",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",158,2,240,,,['VIACSAB'],,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,,,VIACSAB,
+",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",158,2,240,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
 recWV1pTtaMxg8Gi8,Amon.rlds,surface_downwelling_longwave_flux_in_air,Surface Downwelling Longwave Radiation,"The surface called ""surface"" means the lower boundary of the atmosphere. ""longwave"" means longwave radiation. Downwelling radiation is radiation from above. It does not mean ""net downward"". When thought of as being incident on a surface, a radiative flux is sometimes called ""irradiance"". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called ""vector irradiance"". In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, Bjerknes_Index_ENSO, poleward_heat_transports, aerchemmip_2d_monthly, paleodata_assimilation, paleo_radiation_fluxes, DCPP_Wider, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, seaice_budget_energy_monthly, CFMIP_baseline",9,,Amon ((isd.003)),['VIACSAB'],"['CFMIP', 'CMIP', 'CMIP5', 'ISMIP6', 'PMIP', 'VIACSAB']",22,228,9,down,,['DCPP'],1 checked out of 1,,,,,,,,,
 recWVAADmUwRVq6Xb,CFsubhr.ua,eastward_wind,Eastward Wind,"Zonal wind (positive in a eastward direction).
@@ -2986,7 +2986,7 @@ recXdOO9CNxUSU9yz,Efx.rsu,upwelling_shortwave_flux_in_air,Upwelling Shortwave Ra
 ",real,['atmos'],['Efx'],['fx'],CMIP6 CMOR variable,,,,675,,RFMIP [OfflineRad],,['RFMIP'],675,1721,956,up,,,,,,,,,,,,
 recXdm6ZatzPzBeeS,Omon.expsiob,sinking_mole_flux_of_particulate_silicon_in_sea_water,Sinking Flux of Particulate Silicon Reaching the Ocean Bottom,"Downward sinking flux of particulate silicon at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 recXeM7nIRsWa8YDc,CF3hr.rlds,surface_downwelling_longwave_flux_in_air,Surface Downwelling Longwave Radiation,"The surface called ""surface"" means the lower boundary of the atmosphere. ""longwave"" means longwave radiation. Downwelling radiation is radiation from above. It does not mean ""net downward"". When thought of as being incident on a surface, a radiative flux is sometimes called ""irradiance"". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called ""vector irradiance"". In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,cfmip_3hr,1401,,CFMIP (CMIP5),,['CFMIP'],1732,1596,1401,down,,,,,,,,,,,,
 recXfktu1H0zteWHc,IyrAnt.libmassbffl,land_ice_basal_specific_mass_balance_flux,Basal Specific Mass Balance Flux of Floating Ice Shelf,"quantity averaged over floating land ice
@@ -3069,12 +3069,12 @@ recYflu0IhojSNAnd,Oyr.expcalc,sinking_mole_flux_of_calcite_expressed_as_carbon_i
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,biological_carbon_pump,540,"Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
 ",Oyr ((isd.003)),"['CMIP5', 'VIACSAB']","['CMIP', 'PMIP', 'VIACSAB']",914,540,898,down,,,,,,,,,,,,
 recYiQbvYG2mtJUSq,Eday.prw,atmosphere_mass_content_of_water_vapor,Water Vapor Path,"vertically integrated through the atmospheric column
-",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,"clouds_basic_average, DAMIP_daily, cordex [test]",286,,DAMIP [DAMIP_day],,"['CORDEX', 'DAMIP']",397,286,351,,,,,,,,"CORDEX, DAMIP",,,,,
+",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,"clouds_basic_average, DAMIP_daily, cordex [test]",286,,DAMIP [DAMIP_day],,"['CORDEX', 'DAMIP']",397,286,351,,,,,,,,,,"CORDEX, DAMIP",,,
 recYilKUWNvnJhtI2,AERmon.hno3,mole_fraction_of_nitric_acid_in_air,HNO3 Volume Mixing Ratio,"Mole fraction is used in the construction mole\_fraction\_of\_X\_in\_Y, where X is a material constituent of Y.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_3d_monthly,391,,AERmon ((isd.003)),,['AerChemMIP'],702,391,727,,,,,,,,,,,,,
 recYit4EAkZQwnkX7,6hrLev.hus,specific_humidity,Specific Humidity,"Specific humidity is the mass fraction of water vapor in (moist) air.
 ",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,3,"on all model levels
-",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",169,3,240,,,['VIACSAB'],,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,,,VIACSAB,
+",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",169,3,240,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
 recYjBXwZ186FPxCg,CFmon.tnta,tendency_of_air_temperature_due_to_advection,Tendency of Air Temperature Due to Advection,"Tendency of Air Temperature due to Advection
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, CFMIP_baseline",172,,CFmon ((isd.003)),,"['CMIP5', 'PMIP']",658,172,440,,,,,,,,,,,,,
 recYjvuWiE6y0FqrL,Oyr.phyfe,mole_concentration_of_phytoplankton_expressed_as_iron_in_sea_water,Mole Concentration of Total Phytoplankton Expressed as Iron in Sea Water,"sum of phytoplankton iron component concentrations
@@ -3086,7 +3086,7 @@ recYmC2Z7hbIjWBKw,Eday.tran,transpiration_flux,Transpiration,"Transpiration
 recYngUC9Mj1ZxZsg,IyrGre.tendacabf,tendency_of_land_ice_mass_due_to_surface_mass_balance,Total Surface Mass Balance Flux,"Greenland
 ",real,['landIce'],['IyrGre'],['yr'],CMIP6 CMOR variable,,,landice_greenland_allfreq,9999,,ISMIP6 [IyrGre],,,,,,,,['ISMIP6'],,,,,,,,,,
 recYpJlc3HFLaHh6z,Emon.albl,surface_albedo,Surface Albedo of Land without Snow,"albedo of the portion of land that is not covered by ice, potentially considering sub-gridscale inhomogeneity of ice cover
-",real,['land'],['Emon'],['mon'],Under review,"['Earth System', 'Land & land-ice']",,paleo_cryosphere,,,,,,,,,,,,,,In progress,,,,,,,In progress
+",real,['land'],['Emon'],['mon'],Under review,"['Earth System', 'Land & land-ice']",,paleo_cryosphere,,,,,,,,,,,,,,,,In progress,,,,,In progress
 recYqCieRYg4YDtjs,Oyr.dcalc,tendency_of_mole_concentration_of_calcite_expressed_as_carbon_in_sea_water_due_to_dissolution,Calcite Dissolution,"Rate of change of Calcite carbon mole concentration  due to dissolution
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,586,,Oyr ((isd.003)),"['CMIP5', 'VIACSAB']",['VIACSAB'],960,586,898,,,,,,,,,,,,,
 recYtGPS2uv63VgET,Odec.tauvo,downward_y_stress_at_sea_water_surface,Sea Water Surface Downward Y Stress,"This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.
@@ -3114,7 +3114,7 @@ recZ6ovNNdpxDgP74,SImon.siarean,sea_ice_area,Sea-Ice Area North,"total area of s
 recZ76DdvK4m289A4,Emon.snowmxrat,mass_fraction_of_snow_in_air,Mass Fraction of Snow in Air,"Snow mixing ratio
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,9999,,HighResMIP [Amon_diag],['HighResMIP'],,,,,,,,,,,,,,,,,
 recZA9FW3dMEuKcHz,SIday.sisnhc,thermal_energy_content_of_surface_snow,Daily Snow Heat Content per Unit Area ,"Heat-content of all snow in grid cell divided by total grid-cell area. Snow-water equivalent at 0 Celsius is assumed to have a heat content of 0 J.  Does not include heat content of sea ice.
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,,,,,,,,up,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recZBGtTHX5HVNHt8,Eday.dslw,change_over_time_in_mass_content_of_water_in_soil,Change in Soil Moisture,,real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,biodiv_freshwater_daily,1093,,LS3MIP [LWday],,['LS3MIP'],1651,1093,1599,,,,,,,,,,,,,
 recZBhpUg1IUeQxqZ,Omon.dissic,mole_concentration_of_dissolved_inorganic_carbon_in_sea_water,Dissolved Inorganic Carbon Concentration,"Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly",62,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
@@ -3146,7 +3146,7 @@ recZQqPcKNHrzTJvf,SImon.sisndmassdyn,tendency_of_surface_snow_amount_due_to_sea_
 recZR4cb7mSTO6K1v,SImon.sidmassmelttop,tendency_of_sea_ice_amount_due_to_surface_melting,Sea-Ice Mass Change Through Surface Melting,"The rate of change of sea ice mass through melting at the ice surface divided by grid-cell area
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,seaice_budget_mass_monthly,204,,SIMIP [seaicemon],['SIMIP'],"['CMIP', 'PMIP', 'VIACSAB']",318,964,204,,,,,,,,,,,,,
 recZRbz9bqjWVCWuG,6hrPlevPt.zg7h,geopotential_height,Geopotential Height,"Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,"CORDEX, HighResMIP",,,,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 recZRoKLKA1DYVJXF,Omon.phycalcos,mole_concentration_of_calcareous_phytoplankton_expressed_as_carbon_in_sea_water,Surface Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water,"carbon concentration from calcareous (calcite-producing) phytoplankton component alone
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,SO_BGC-cloud_BGC_monthly,1617,,Omon ((isd.003)),['CMIP5'],,1658,1617,1681,,,,,,,,,,,,,
 recZW8cUo4vwpFwMU,E3hrPt.ps,surface_air_pressure,Surface Air Pressure,"Surface Pressure .. needed for vertical coordinates
@@ -3170,7 +3170,7 @@ recZc0Slj7wcNoPjc,Oday.phycpico,,Carbon concentration of picophytoplankton,"Carb
 ",real,['ocnBgchem'],['Oday'],['day'],New,['Ocean & sea-ice'],,,,"Analogous to Oday.phyc
 ",,,,,,,,,,,,,,,,,,,
 recZgHyHiR6j4uXjG,Lmon.snw,surface_snow_amount,Monthly surface snow amount,"As snw but defined as Lmon (Not sure about this though - it seems already available as LImon but I'm guessing that's only over land ice?)
-",real,['land'],['Lmon'],['mon'],Under review,['Land & land-ice'],,DAMIP_monthly,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Lmon'],['mon'],Under review,['Land & land-ice'],,DAMIP_monthly,,,,,,,,,,,,,,,,In progress,,,,,
 recZgupAZZgTiKKs4,Oyr.opottemprmadvect,tendency_of_sea_water_potential_temperature_expressed_as_heat_content_due_to_residual_mean_advection,Tendency of Sea Water Potential Temperature Expressed as Heat Content Due to Residual Mean Advection,"Tendency of heat content for a grid cell from residual mean (sum of Eulerian mean + parameterized eddy-induced) advection. Reported only for models that use potential temperature as prognostic field.
 ",real,['ocean'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,624,"Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.
 ",Oyr ((isd.003)),,['FAFMIP'],946,624,692,,,['CMIP5'],,,,,,,,,,
@@ -3223,7 +3223,7 @@ reca61NxQFHP1zq95,AERday.zg1000,geopotential_height,Geopotential Height at 1000h
 reca6SPSPshDQ99WE,day.mrro,runoff_flux,Total Runoff,"computed as the total runoff (including ""drainage"" through the base of the soil model) leaving the land portion of the grid cell divided by the land area in the grid cell.
 ",real,['land'],['day'],['day'],CMIP6 CMOR variable,,,"temperature_variability_daily_lowpriority, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline",119,,day ((isd.003)),,"['CMIP5', 'LS3MIP', 'VIACSAB']",134,213,119,,,,,,,,,,,,,
 reca71bh3dVNnYCVo,day.tslsi,surface_temperature,Surface Temperature Where Land or Sea Ice,"Surface temperature of all surfaces except open ocean.
-",real,['land'],['day'],['day'],CMIP6 CMOR variable,,,"CFMIP_baseline, cordex [test]",209,,day ((isd.003)),,"['CMIP', 'CMIP5', 'CORDEX', 'PMIP', 'VIACSAB']",251,345,209,,,,,,,,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, PMIP, VIACSAB, VolMIP",,,,,
+",real,['land'],['day'],['day'],CMIP6 CMOR variable,,,"CFMIP_baseline, cordex [test]",209,,day ((isd.003)),,"['CMIP', 'CMIP5', 'CORDEX', 'PMIP', 'VIACSAB']",251,345,209,,,,,,,,,,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, PMIP, VIACSAB, VolMIP",,,
 reca7CescXCCOOetx,CFsubhr.lon,longitude,Longitude,"Longitude is positive eastward; its units of degree\_east (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid\_longitude should be used instead of longitude. Grid longitude is positive in the grid-eastward direction, but its units should be plain degree.
 ",real,['atmos'],['CFsubhr'],['fx'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",9999,"Note that the CF convention and CMOR2 require that this field will be included in each file that contains a variable that is a function of the ""site"" dimension, so there is no need to save this field by itself.  It is included here simply to indicate that longitudes should be stored for the site grid in each file written.
 ",CFsubhr ((isd.003)),,['CMIP5'],,,,,,,,,,,,,,,,
@@ -3292,7 +3292,7 @@ recafzgFwO1c2cyDG,AERmon.emic2h4,tendency_of_atmosphere_mass_content_of_ethene_d
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,aerchemmip_2d_monthly,,,,,,,,,,,,,,,,,,,,,
 recahzHXgCe32NSOj,Omon.exppob,sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water,Sinking Flux of Particulate Organic Phosphorus Reaching the Ocean Bottom,"Downward sinking flux of particulate organic phosphorus at seafloor
 ",real,['ocnBgchem'],['Omon'],['mon'],New,['Earth System'],,ocean_sediments,,"Variable value should be reported as the flux exiting the bottom of the deepest ocean layer
-",,,,,,,down,,,,,,,,,Matches pattern of existing Omon variables.,Accept,,
+",,,,,,,down,,,,,Accept,Matches pattern of existing Omon variables.,,,,,,
 recakdjXXLePNxqKg,Emon.fDeforestToProduct,carbon_mass_flux_into_forestry_and_agricultural_products_due_to_anthropogenic_land_use_or_land_cover_change,Deforested Biomass That Goes into Product Pool as a Result of Anthropogenic Land-Use Change,"When land use change results in deforestation of natural vegetation (trees or grasslands) then natural biomass is removed. The treatment of deforested biomass differs significantly across models, but it should be straight-forward to compare deforested biomass across models.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_cn_cycle_monthly, c4mip_land_carbon_cycle_tier1",393,,C4MIP [C_LandT1],,['C4MIP'],393,1274,508,,,,,,,,,,,,,
 recam1pRw3gE2Zju9,Omon.tosga,sea_surface_temperature,Global Average Sea Surface Temperature,"This may differ from ""surface temperature"" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.
@@ -3320,7 +3320,7 @@ recb4mJEtKsPHotzK,CFsubhr.tnhus,tendency_of_specific_humidity,Tendency of Specif
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",379,,CFsubhr ((isd.003)),,['CMIP5'],1267,379,956,,,,,,,,,,,,,
 recb4uBX599JLZeZ0,6hrLev.ta,air_temperature,Air Temperature,"Air Temperature
 ",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,4,"on all model levels
-",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",154,4,230,,,['VIACSAB'],,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,,,VIACSAB,
+",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",154,4,230,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
 recb6ST1d0q2Z2PPH,AERmon.emih2,tendency_of_atmosphere_mass_content_of_molecular_hydrogen_due_to_emission,Total emission rate of molecular hydrogen (H2),"This is the total emission rate of molecular hydrogen (H2) into the atmosphere (i.e., integrate 3D emission field vertically to 2d field)
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,aerchemmip_3d_monthly,,,,,,,,,up,,,,,,,,,,,,
 recb6UaWZlHEsK39X,3hr.rsuscs,surface_upwelling_shortwave_flux_in_air_assuming_clear_sky,Surface Upwelling Clear-Sky Shortwave Radiation,"This is a 3-hour mean flux.
@@ -3354,7 +3354,7 @@ recbHUVOwtBhmpgjU,Eyr.cSoil,soil_mass_content_of_carbon,Carbon Mass in Model Soi
 recbHUkmhBVQssRG0,Emon.cLitterCwd,wood_debris_mass_content_of_carbon,Carbon Mass in Coarse Woody Debris,"""Content"" indicates a quantity per unit area. ""Wood debris"" means dead organic matter composed of coarse wood. It is distinct from fine litter. The precise distinction between ""fine"" and ""coarse"" is model dependent.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,662,,C4MIP [C_LandT2],['C4MIP'],,662,1332,1295,,,,,,,,,,,,,
 recbKWW7PA81rhiy0,SIday.simpconc,area_fraction,Percentage Cover of Sea Ice by Meltpond ,"Percentage of sea ice, by area, which is covered by melt ponds, giving equal weight to every square metre of sea ice .
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recbMDsE3U8EaeWGs,Emon.fLitterFire,surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_litter_in_fires,"Carbon Mass Flux from Litter, CWD or any non-Living Pool into Atmosphere Due to CO2 Emission from All Fire [kgC m-2 s-1]","Required for unambiguous separation of vegetation and soil + litter turnover times, since total fire flux draws from both sources
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,1446,,C4MIP [C_LandT2],['C4MIP'],,1446,1827,1681,,,,,,,,,,,,,
 recbRRsrRUOcRGWEj,Amon.ch4globalClim,mole_fraction_of_methane_in_air,Global Mean Mole Fraction of CH4,"Global Mean Mole Fraction of CH4
@@ -3438,7 +3438,7 @@ reccJ8wfGEs4PTtv8,Eday.dsw,change_over_time_in_land_water_amount,Change in Surfa
 reccJmavNAXV2V9z6,Emon.fLulccResidueLut,carbon_mass_flux_into_litter_and_soil_due_to_anthropogenic_land_use_or_land_cover_change,Carbon Transferred to Soil or Litter Pools Due to Land-Use or Land-Cover Change Processes on Tile,"This annual mean flux refers to the transfer of carbon into soil or litter pools due to any land use or land-cover change activities
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,,898,,LUMIP [Lmon_Lut],,['LUMIP'],898,1335,898,,,,,,,,,,,,,
 reccMZl3liba3rpIx,6hrPlevPt.hus7h,specific_humidity,Specific Humidity,"Extra levels - 925, 700, 600, 300, 50
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",9999,,HighResMIP [6hrPlev_extr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,"CORDEX, HighResMIP",,,,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",9999,,HighResMIP [6hrPlev_extr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 reccOmbbOWhef9jfJ,Emon.ppcalc,tendency_of_mole_concentration_of_particulate_organic_matter_expressed_as_carbon_in_sea_water_due_to_net_primary_production_by_calcareous_phytoplankton,Net Primary Mole Productivity of Carbon by Calcareous Phytoplankton,"Primary (organic carbon) production by the calcite-producing phytoplankton component alone
 ",real,['ocnBgchem'],['Emon'],['mon'],CMIP6 CMOR variable,,,,9999,,C4MIP [C_Ocean_T2],,,,,,,,['C4MIP'],,,,,,,,,,
 reccSUU7q6kQtazmV,IyrAnt.limnsw,land_ice_mass_not_displacing_sea_water,Ice Sheet Mass That Does not Displace Sea Water,"Antarctica
@@ -3501,11 +3501,11 @@ recd4hDBb9zzMNSZp,Emon.lwtoacsaer,toa_instantaneous_longwave_forcing,TOA Clear-S
 recd72HARz5bRFiVj,Omon.fgco2,surface_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon,Surface Downward Mass Flux of Carbon as CO2 [kgC m-2 s-1],"Gas exchange flux of CO2 (positive into ocean)
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"DAMIP_monthly, DCPP_Essential, marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly, ref_earth_system",136,,Omon ((isd.003)),"['DAMIP', 'DCPP', 'VIACSAB']","['C4MIP', 'CDRMIP', 'CMIP', 'CMIP5', 'PMIP', 'VIACSAB']",136,282,258,down,,,,,,,,,,,,
 recd9tsWMC8flR02D,Emon.albic,surface_albedo,Surface Albedo of ice-covered Surface,"This describes the albedo of any surface covered by ice, land and ocean
-",real,"['land', 'ocean']",['Emon'],['mon'],Under review,"['Land & land-ice', 'Ocean & sea-ice', 'Earth System']",,paleo_cryosphere,,,,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",real,"['land', 'ocean']",['Emon'],['mon'],Under review,"['Land & land-ice', 'Ocean & sea-ice', 'Earth System']",,paleo_cryosphere,,,,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recdAkIIapwqKn9hk,Emon.pathetao,sea_water_added_potential_temperature,Sea Water Additional Potential Temperature,"The quantity with standard name sea\_water\_added\_potential\_temperature is a passive tracer in an ocean model whose surface flux does not come from the atmosphere but is imposed externally upon the simulated climate system. The surface flux is expressed as a heat flux and converted to a passive tracer increment as if it were a heat flux being added to potential temperature. The passive tracer is transported within the ocean as if it were potential temperature. The passive tracer is zero in the control climate of the model. The passive tracer records added heat, as described for the CMIP6 FAFMIP experiment (doi:10.5194/gmd-9-3993-2016), following earlier ideas. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure.
 ",real,['ocean'],['Emon'],['mon'],CMIP6 CMOR variable,,,,858,,FAFMIP [fafOmonB],,['FAFMIP'],1541,858,1230,,,,,,,,,,,,,
 recdBHUVjfBeAyRBR,SIday.simpmass,sea_ice_melt_pond_thickness,Meltpond Mass per Unit Area (as Depth) ,"Meltpond Depth
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recdBrbgf049ACrqF,LImon.sootsn,soot_content_of_surface_snow,Snow Soot Content,"the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.
 ",real,"['landIce', 'land']",['LImon'],['mon'],CMIP6 CMOR variable,,,FireMIP_monthly,1069,,LImon ((isd.003)),"['CMIP5', 'VIACSAB']","['CMIP', 'VIACSAB']",1140,1424,1069,,,,,,,,,,,,,
 recdE45T8PI1IwCwL,SIday.sisi,,Dissolved Silicon Amount in Sea Ice,"Mole amount means moles of substance per unit area
@@ -3570,7 +3570,7 @@ recdxCyyvB27bJ9sS,ImonGre.snicem,surface_snow_and_ice_melt_flux,Surface Snow and
 ",real,['landIce'],['ImonGre'],['mon'],CMIP6 CMOR variable,,,landice_greenland_allfreq,1394,,ISMIP6 [ImonGre],['ISMIP6'],,1394,1734,1463,,,,,,,,,,,,,
 recdz0FNMlfXwZA4z,SIday.sihc,sea_ice_temperature_expressed_as_heat_content,sea_ice_temperature_expressed_as_heat_content_daily,"Sea-Ice Heat Content per Unit Area at daily mean
 ",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,"seaice_budget_energy_daily, seaice_state_daily_advanced",,"Time and Area Mean on Single Level, Masked (Sea), daily
-",,,,,,,up,,,,In progress,,,,,,,,
+",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recdzTlBDdZi2ORdG,Ofx.basin,region,Region Selection Index,"A variable with the standard name of region contains strings which indicate geographical regions. These strings must be chosen from the standard region list.
 ",integer,['ocean'],['Ofx'],['fx'],CMIP6 CMOR variable,,,"baseline_fixed, paleo_fx, CFMIP_baseline",240,"Report on the same grid as the temperature field. flag\_values=0,1,2,3,4,5,6,7,8,9,10 corresponding to flag\_meanings=global\_land, southern\_ocean, atlantic\_ocean, pacific\_ocean, arctic\_ocean, indian\_ocean, mediterranean\_sea, black\_sea, hudson\_bay, baltic\_sea, red\_sea.
 ",Ofx ((isd.003)),,"['CFMIP', 'CMIP', 'CMIP5', 'VIACSAB']",468,1421,240,,,,1 checked out of 1,,,,,,,,,
@@ -3707,7 +3707,7 @@ recfoR5oY4M2FGHrv,Amon.n2oglobal,mole_fraction_of_nitrous_oxide_in_air,Global Me
 ",Amon ((isd.003)),,"['CFMIP', 'CMIP', 'CMIP5', 'PMIP']",769,1751,461,,,,,,,,,,,,,
 recfphpvUhcc5d0G5,Emon.albsrfc,surface_albedo,Emon.alb,"surface albedo at grid cell level (i.e. the albedo averaged over all potential subgrid-scale structures) over all wave-bands; this shall apply to all realms (land, ocean, sea ice, land ice)
 ",real,"['atmos', 'land', 'landIce', 'ocean', 'seaIce']",['Emon'],['mon'],Under review,"['Earth System', 'Ocean & sea-ice', 'Land & land-ice', 'Atmosphere']",In progress,paleo_land_atmosphere_surface,,"There is a variable AERmon.albsrfc, but I am not sure whether the definition applies to the description above; furthermore, the variable would also be of relevance outside of the AER focus, hence we may consider whether it should go into another category as well (I had Emon in mind.); Whether this variable should be provided at atmosphere/land or ocean grid, and the respective grid cell metrics, must be discussed.
-",,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recfsy37rnG2qd8D3,CF3hr.ta,air_temperature,Air Temperature,"Air Temperature
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,"cfmip_3hr, clouds_basic_instantaneous",163,,CF3hr ((isd.003)),['CFMIP'],['RFMIP'],933,163,898,,,,,,,,,,,,,
 recftycnU5eweCtW7,AERmon.dryso4,minus_tendency_of_atmosphere_mass_content_of_sulfate_dry_aerosol_particles_due_to_dry_deposition,Dry Deposition Rate of SO4,,real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2d_monthly,382,,AERmon ((isd.003)),,"['AerChemMIP', 'GeoMIP', 'VIACSAB']",506,887,382,,,,,,,,,,,,,
@@ -3833,7 +3833,7 @@ rechNYXNINIQ4GoZ7,Eyr.cLitterLut,litter_mass_content_of_carbon,Carbon  in Above 
 rechOWPXw5tuqwTqY,Amon.hus,specific_humidity,Specific Humidity,"Specific humidity is the mass fraction of water vapor in (moist) air.
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, radiativeforcing_monthly, paleo_atmosphere, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",15,,Amon ((isd.003)),['DCPP'],"['CFMIP', 'CMIP', 'CMIP5', 'DynVarMIP', 'PMIP', 'VIACSAB']",23,37,15,,,['CDRMIP'],1 checked out of 1,,,,,,,,,
 rechOuHtAACyJO1FD,SIday.sisali,sea_ice_salinity,Sea Ice Salinity ,"Mean sea-ice salinity of all sea ice in grid cell
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rechPiVROsH0915Ro,AERmon.mmroa,mass_fraction_of_particulate_organic_matter_dry_aerosol_particles_in_air,Total Organic Aerosol Mass Mixing Ratio,"We recommend a scale factor of POM=1.4\*OC, unless your model has more detailed info available.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline",188,,AERmon ((isd.003)),,"['AerChemMIP', 'CFMIP', 'RFMIP']",379,188,440,,,,,,,,,,,,,
 rechR6uAxyBl1XuY1,Amon.sfcWind,wind_speed,Near-Surface Wind Speed,"This is the mean of the speed, not the speed computed from the mean u and v components of wind
@@ -3916,7 +3916,7 @@ reciVcAf9O0YYaey3,Oclim.zfullo,depth_below_geoid,Depth Below Geoid of Ocean Laye
 reciWltj5F6wVHnLB,LImon.sbl,tendency_of_atmosphere_mass_content_of_water_vapor_due_to_sublimation_of_surface_snow_and_ice,Surface Snow and Ice Sublimation Flux,"The snow and ice sublimation flux is the loss of snow and ice mass resulting from their conversion to water vapor.  Computed as the total sublimation on the land portion of the grid cell divided by the land area in the grid cell; reported as missing for snow-free land regions; reported as missing where the land fraction is 0.
 ",real,['landIce'],['LImon'],['mon'],CMIP6 CMOR variable,,,landice_global_allfreq,145,,LImon ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'ISMIP6', 'PMIP', 'VIACSAB']",145,892,312,,,,,,,,,,,,,
 reciYyeFZgWguDPxG,day.va,northward_wind,Northward Wind,"Meridional wind (positive in a northward direction).
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, DAMIP_daily, aerchemmip_3d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test]",7,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",47,7,81,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, DAMIP_daily, aerchemmip_3d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test]",7,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",47,7,81,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,
 reciggDMxMuAk3CT6,Eyr.treeFrac,area_fraction,Tree Cover Percentage,"Percentage of entire grid cell  that is covered by trees.
 ",real,['land'],['Eyr'],['yr'],CMIP6 CMOR variable,,,"DCPP_Wider, landuse",290,,DCPP [DCPP-year],['DCPP'],['CMIP'],290,1660,508,,,,,,,,,,,,,
 recigx2DPDLyAufOh,Omon.mlotstmin,ocean_mixed_layer_thickness_defined_by_sigma_t,Minimum Ocean Mixed Layer Thickness Defined by Sigma T,"Sigma T is potential density referenced to ocean surface.
@@ -3957,7 +3957,7 @@ recj0y7MLZ6V9XDQt,CFmon.rsu4co2,upwelling_shortwave_flux_in_air,Upwelling Shortw
 recj27ZyJWxGVfq8q,Omon.intpbp,tendency_of_ocean_mole_content_of_phosphorus_due_to_biological_production,Phosphorus Production,"Vertically integrated biogenic phosphorus production
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,SO_BGC-cloud_BGC_monthly,1064,,Omon ((isd.003)),,,1064,1235,1463,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
 recj2gWA8shPtaidc,fx.depthsl,depth,total depth of soil,"This shall provide the total depth of soil, summed up over all soil layers, that may differ between  models; the idea is to be able to identify differences in treatment of soils across climate models.
-",real,['land'],['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System', 'Ocean & sea-ice']",,paleo_fx,,,,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",real,['land'],['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System', 'Ocean & sea-ice']",,paleo_fx,,,,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recj4KshHKz5YVb0L,SImon.sisnmass,surface_snow_amount,Snow Mass per Area,"(in OImon, sim included snow and sea ice mass)
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_budget_mass_monthly, seaice_state_monthly_basic, hydrology, CFMIP_baseline",144,,SIMIP [seaicemon],,"['CFMIP', 'CMIP', 'SIMIP']",177,709,144,,,,,,,,,,,,,
 recj6oMfQa4ROk2KM,Emon.osalttend,tendency_of_sea_water_salinity_expressed_as_salt_content,Tendency of Sea Water Salinity Expressed as Salt Content,"Tendency of salt content for a grid cell from all processes.
@@ -3984,7 +3984,7 @@ recjHM9TkZz4B4Cus,6hrPlevPt.lwsffluxaero,surface_downwelling_longwave_flux_in_ai
 ",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,,1117,,VolMIP [VIRF],['VolMIP'],,1782,1117,1159,,,,,,,,,,,,,
 recjHphrELckP4AJx,Eday.albsrfc,surface_albedo,Albedo of the surface,"This follows the requested definition of Emon.alb, but we request data at daily resolution
 ",real,"['atmos', 'land', 'ocean', 'seaIce', 'landIce']",['Eday'],['day'],Under review,"['Atmosphere', 'Earth System', 'Land & land-ice', 'Ocean & sea-ice']",In progress,paleo_land_atmosphere_surface,,"This follows the requested definition of Emon.alb, but we request data at daily resolution
-",,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recjIAN7jxWJQRrPl,Emon.cStem,stem_mass_content_of_carbon,Carbon Mass in Stem,"including sapwood and hardwood.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,449,,C4MIP [C_LandT2],['C4MIP'],,449,1078,508,,,,,,,,,,,,,
 recjJJq3g61w7QAtZ,Amon.hurs,relative_humidity,Near-Surface Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
@@ -4014,7 +4014,7 @@ recjUqtZD9DxT0Q84,E3hrPt.solbnd,toa_incoming_shortwave_flux,TOA Solar Irradiance
 recjVmk4SYDPq4sKH,6hrPlevPt.hur850,relative_humidity,hur850,"Relative humidity at 850 hPa
 ",real,['atmos'],['6hrPlevPt'],['6hrPt'],New,['Atmosphere'],In progress,Synoptic_systems_low_priority,,,,,,,,,,,,,,,,,,,,,
 recjVvRTFQL8jbvKj,day.rsut,toa_outgoing_shortwave_flux,TOA Outgoing Shortwave Radiation,"As Amon.rsut, but at daily resolution.
-",real,['atmos'],['day'],['day'],Under review,"['Earth System', 'Ocean & sea-ice', 'Land & land-ice']",,paleo_radiation_fluxes,,,,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",real,['atmos'],['day'],['day'],Under review,"['Earth System', 'Ocean & sea-ice', 'Land & land-ice']",,paleo_radiation_fluxes,,,,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recjW7pISZOUaBFRr,6hrPlev.ua100m,eastward_wind,Eastward Wind at 100m,"Zonal wind at 100m
 ",real,['atmos'],['6hrPlev'],['6hr'],CMIP6 CMOR variable,,,,1765,,VIACSAB [viacsabExtra],,['VIACSAB'],1843,1776,1765,,,,,,,,,,,,,
 recjWchlpzsIaARW2,Omon.wmo,upward_ocean_mass_transport,Upward Ocean Mass Transport,"Upward mass transport from residual mean (resolved plus parameterized) advective transport.
@@ -4489,7 +4489,7 @@ recpxQO8HYGAiz8o5,Omon.rsntds,net_downward_shortwave_flux_at_sea_water_surface,N
 ",Omon ((isd.003)),['CMIP5'],"['CMIP', 'PMIP', 'VIACSAB']",146,466,175,down,,,,,,,,,,,,
 recpxdYnYGhB71lK1,6hrLev.ua,eastward_wind,Eastward Wind,"Zonal wind (positive in a eastward direction).
 ",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,1,"on all model levels
-",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",152,1,230,,,['VIACSAB'],,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,,,VIACSAB,
+",6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",152,1,230,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
 recpyt9W00jHo3Rgx,Omon.phabio,sea_water_ph_abiotic_analogue_reported_on_total_scale,Abiotic pH,"negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1 (abiotic component)..
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,,1057,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
 ",Omon ((isd.003)),['CMIP5'],,1726,1057,1765,,,,,,,,,,,,,
@@ -4555,7 +4555,7 @@ recqofsnZHXrKMmSJ,Oyr.fg14co2abio,surface_downward_mass_flux_of_14C_dioxide_abio
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,1353,,Oyr ((isd.003)),,['CMIP5'],1353,1556,1599,down,,,,,,,,,,,,
 recqpmMEL86DzUVBM,day.huss,specific_humidity,Near-Surface Specific Humidity,"Near-surface (usually, 2 meter) specific humidity.
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",63,"normally, report this at 2 meters above the surface
-",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'RFMIP', 'VIACSAB']",63,64,89,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, RFMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'RFMIP', 'VIACSAB']",63,64,89,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, GMMIP, HighResMIP, RFMIP, VIACSAB, VolMIP",,,
 recqwe6YOrgSWld9G,3hr.rsus,surface_upwelling_shortwave_flux_in_air,Surface Upwelling Shortwave Radiation,"This is the 3-hour mean flux.
 ",real,['atmos'],['3hr'],['3hr'],CMIP6 CMOR variable,,,"landatm_coupling_3hA, urban_impacts_essential",131,,3hr ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'VIACSAB']",403,175,131,up,,,,,,,,,,,,
 recqxlRJRKThPcrLc,LImon.agesno,age_of_surface_snow,Mean Age of Snow,"When computing the time-mean here, the time samples, weighted by the mass of snow on the land portion of the grid cell, are accumulated and then divided by the sum of the weights.  Reported as ""missing in regions free of snow on land.
@@ -4632,7 +4632,7 @@ recrgk7Ri8aKOOqel,Emon.vegHeightShrub,canopy_height,Height of Shrubs,"Vegetation
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_benchmarking_and_landcover_variables_tier2,1256,,C4MIP [C_LandT2],"['C4MIP', 'PMIP']",,1256,1478,1295,,,,,,,,,,,,,
 recrhiYAJeu1WqSVG,day.tas,air_temperature,Near-Surface Air Temperature,"near-surface (usually, 2 meter) air temperature
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, clouds_basic_average, temperature_variability_daily_highpriority, synoptic_systems_high_priority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, baseline-daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",6,"normally report this at 2 meters above the surface
-",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'DynVarMIP', 'PMIP', 'RFMIP', 'VIACSAB']",6,16,48,,,,1 checked out of 1,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, DynVarMIP, GMMIP, HighResMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'DynVarMIP', 'PMIP', 'RFMIP', 'VIACSAB']",6,16,48,,,,1 checked out of 1,,,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, DynVarMIP, GMMIP, HighResMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,
 recrkzs016EcVuRtx,Omon.detoc,mole_concentration_of_organic_detritus_expressed_as_carbon_in_sea_water,Detrital Organic Carbon Concentration,"sum of detrital organic carbon component concentrations
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"marine_bgc, c4mip_ocean_carbon_cycle_tier1",129,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
 ",Omon ((isd.003)),"['C4MIP', 'OMIP']",,524,129,564,,,['CMIP5'],,,,,,,,,,
@@ -4710,7 +4710,7 @@ recsRP3O42wpAwAjd,IyrGre.limnsw,land_ice_mass_not_displacing_sea_water,Ice Sheet
 recsRfL84kFSDfuJa,Emon.hfssLut,surface_upward_sensible_heat_flux,Sensible Heat Flux on Land-Use Tile,"Upward sensible heat flux on land use tiles. The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,landuse,956,,LUMIP [Lmon_Lut],,['LUMIP'],1204,1239,956,up,,,,,,,,,,,,
 recsTbZGS29Nv2R9b,SIday.sirdgthick,sea_ice_thickness,Ridged Ice Thickness ,"Sea Ice Ridge Height (representing mean height over the ridged area)
-",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,,,,,,,,
+",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 recsUz7TPC1aEnGAT,Omon.uboluso,bolus_eastward_sea_water_velocity,Bolus ocean velocity in the eastward direction,"The bolus (also referred to as parameterised) ocean velocity in the eastward direction.
 ",real,['ocean'],['Omon'],['mon'],Under review,['Ocean & sea-ice'],,,,,,,,,,,,,,,In progress,,,,,,,,
 recsV7qxQM1M9t87e,CF3hr.reffclic,effective_radius_of_convective_cloud_ice_particles,Hydrometeor Effective Radius of Convective Cloud Ice,"This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).
@@ -4835,7 +4835,7 @@ rectpphyt4FP0MFvk,Omon.dissoc,mole_concentration_of_dissolved_organic_carbon_in_
 ",Omon ((isd.003)),"['C4MIP', 'DCPP', 'OMIP']",['CMIP'],413,89,564,,,['CMIP5'],,,,,,,,,,
 rectu1VswBJ0D9utC,SIday.sisaltmass,sea_ice_mass_content_of_salt,Mass of Salt in Sea Ice per Area ,"Total mass of all salt in sea ice divided by grid-cell area
 ",real,['seaIce'],['SIday'],['day'],Under review,['Ocean & sea-ice'],,seaice_state_daily_advanced,,"Total mass of all salt in sea ice divided by grid-cell area
-",,,,,,,,,,,In progress,,,,,,,,
+",,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
 rectvyv669X4OYG5q,Emon.grassFracC3,area_fraction,C3 Natural Grass Area Percentage,"Percentage of entire grid cell covered by C3 natural grass.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_benchmarking_and_landcover_variables_tier2,259,,C4MIP [C_LandT2],,"['C4MIP', 'CMIP', 'PMIP']",259,1102,366,,,,,,,,,,,,,
 rectw3UtkvfqwWXxu,SImon.siextentn,sea_ice_extent,Sea-Ice Extent North,"Total area of all Northern-Hemisphere grid cells that are covered by at least 15 % areal fraction of sea ice
@@ -4911,7 +4911,7 @@ recuaGBX9oyRHuYar,SImon.sirdgconc,area_fraction,Percentage Cover of Sea Ice by R
 recubAhUk6D7LUgWI,CFmon.rsdcs,downwelling_shortwave_flux_in_air_assuming_clear_sky,Downwelling Clear-Sky Shortwave Radiation,"Includes also the fluxes at the surface and TOA.
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, radiativeforcing_monthly, CFMIP_baseline",243,,CFmon ((isd.003)),,"['CMIP', 'CMIP5', 'PMIP', 'VIACSAB']",617,243,382,down,,,,,,,,,,,,
 recuccVncSk1i0SGk,6hrPlev.rlds,surface_downwelling_longwave_flux_in_air,Surface Downwelling Longwave Radiation,"Surface downwelling longwave radiation
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,down,,,,,,,In progress,,,,,
 recud8hFKA4PDxA1U,CF3hr.phalf,air_pressure,Pressure on Model Half-Levels,"Air pressure on model half-levels
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,cfmip_3hr,525,"provide this field for models in which the pressure cannot be calculated from the vertical coordinate information stored already for each variable.  Thus, the pressures are needed for height or theta-coordinate models, for example, but not sigma- or eta-coordinate models.
 ",CF3hr ((isd.003)),['CFMIP'],['RFMIP'],1516,525,1463,,,,,,,,,,,,,
@@ -5068,7 +5068,7 @@ recwa5IUSlFx6H1MZ,Emon.hus27,specific_humidity,Specific Humidity,"Specific humid
 recwaYTpGizgW5QsJ,AERmon.od550aer,atmosphere_optical_thickness_due_to_ambient_aerosol_particles,Ambient Aerosol Optical Thickness at 550nm,"AOD from ambient aerosols (i.e., includes aerosol water).  Does not include AOD from stratospheric aerosols if these are prescribed but includes other possible background aerosol types. Needs a comment attribute ""wavelength: 550 nm""
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"radiativeforcing_monthly, SO_BGC-cloud_atmos_composition_monthly, DAMIP_monthly, aerchemmip_2d_monthly, CFMIP_baseline",141,,AERmon ((isd.003)),,"['AerChemMIP', 'CFMIP', 'CMIP', 'GeoMIP', 'PMIP', 'RFMIP', 'VIACSAB']",141,472,144,,,,,,,,,,,,,
 recwcM4y2MfMp7xrP,day.ua,eastward_wind,Eastward Wind,"Zonal wind (positive in a eastward direction).
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, DAMIP_daily, aerchemmip_3d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test]",6,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",45,6,81,,,,1 checked out of 1,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_lowpriority, DAMIP_daily, aerchemmip_3d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test]",6,,day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'VIACSAB']",45,6,81,,,,1 checked out of 1,,,,,VIACSAB,"CFMIP, CMIP, CORDEX, DAMIP, HighResMIP, VIACSAB, VolMIP",,,
 recwcwuiSCdOgGWTo,Emon.fBNF,tendency_of_soil_and_vegetation_mass_content_of_nitrogen_compounds_expressed_as_nitrogen_due_to_fixation,Biological Nitrogen Fixation,"The fixation (uptake of nitrogen gas directly from the atmosphere) of nitrogen due to biological processes.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_cn_cycle_monthly, c4mip_land_nitrogen_cycle_tier1, FireMIP_monthly",376,,C4MIP [C_LandT1],,['C4MIP'],376,1190,593,,,,,,,,,,,,,
 recweDQj1PYsrOQfp,CFsubhr.clivi,atmosphere_mass_content_of_cloud_ice,Ice Water Path,"mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating frozen hydrometeors ONLY if the precipitating hydrometeor affects the calculation of radiative transfer in model.
@@ -5080,7 +5080,7 @@ recwjZ6zLoIDsidBl,Emon.wetlandFrac,area_fraction,Wetland Percentage Cover,"Perce
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_benchmarking_and_landcover_variables_tier2, land_ch4_fluxes",653,,PMIP [PMIP-Lmon-02],"['C4MIP', 'PMIP']",['CMIP'],808,1255,653,,,,,,,,,,,,,
 recwkZXaddFD9QkzJ,day.tasmin,air_temperature,Daily Minimum Near-Surface Air Temperature,"minimum near-surface (usually, 2 meter) air temperature (add cell\_method attribute ""time: min"")
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, temperature_variability_daily_highpriority, synoptic_systems_high_priority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, AgModelCoreDaily, AgModelExpandedDaily, transport_impacts_essential, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test]",9,"normally report this at 2 meters above the surface
-",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'GeoMIP', 'LS3MIP', 'LUMIP', 'PMIP', 'RFMIP', 'VIACSAB']",9,21,50,,,,1 checked out of 1,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, GMMIP, GeoMIP, HighResMIP, LS3MIP, LUMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,,,
+",day ((isd.003)),['VIACSAB'],"['CMIP', 'CMIP5', 'CORDEX', 'DCPP', 'GeoMIP', 'LS3MIP', 'LUMIP', 'PMIP', 'RFMIP', 'VIACSAB']",9,21,50,,,,1 checked out of 1,,,,,VIACSAB,"AerChemMIP, CFMIP, CMIP, CORDEX, DAMIP, DCPP, GMMIP, GeoMIP, HighResMIP, LS3MIP, LUMIP, PAMIP, PMIP, RFMIP, VIACSAB, VolMIP",,,
 recwljUT3MzcpE9Dt,Oyr.co3nat,mole_concentration_of_carbonate_natural_analogue_expressed_as_carbon_in_sea_water,Natural Carbonate Ion Concentration,"Surface mole concentration (number of moles per unit volume: molarity) of the natural-analogue carbonate anion (CO3). A natural analogue is used to simulate the effect on a modelled variable of imposing preindustrial atmospheric carbon dioxide concentrations, even when the model as a whole may be subjected to varying forcings. 
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,1463,,Oyr ((isd.003)),['CMIP5'],,1639,1488,1463,,,,,,,,,,,,,
 recwmokoeBUBGfomW,Omon.pp,tendency_of_mole_concentration_of_particulate_organic_matter_expressed_as_carbon_in_sea_water_due_to_net_primary_production,Primary Carbon Production by Phytoplankton,"total primary (organic carbon) production by phytoplankton
@@ -5232,7 +5232,7 @@ recyElBsPIH3FUEcx,CFmon.smc,atmosphere_net_upward_shallow_convective_mass_flux,S
 recyFBL2zO3lBK7J0,Oyr.parag,tendency_of_mole_concentration_of_aragonite_expressed_as_carbon_in_sea_water_due_to_biological_production,Aragonite Production,"Production rate of Aragonite, a mineral that is a polymorph of calcium carbonate. The chemical formula of aragonite is CaCO3.
 ",real,['ocnBgchem'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,9999,,Oyr ((isd.003)),"['CMIP5', 'VIACSAB']",['VIACSAB'],,,,,,,,,,,,,,,,
 recyGc8s8CsD1I5r8,6hrPlevPt.ua7h,eastward_wind,Eastward Wind,"Zonal wind (positive in a eastward direction).
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,cordex [test],9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,"CORDEX, HighResMIP",,,,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,cordex [test],9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 recyHt3XRD8gUxT4k,Omon.intpbn,tendency_of_ocean_mole_content_of_nitrogen_due_to_biological_production,Nitrogen Production,"Vertically integrated biogenic nitrogen production
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,SO_BGC-cloud_BGC_monthly,940,,Omon ((isd.003)),,,940,943,956,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
 recyLsfF1B03aDU7p,Omon.icfriver,tendency_of_ocean_mole_content_of_inorganic_carbon_due_to_runoff_and_sediment_dissolution,Flux of Inorganic Carbon into Ocean Surface by Runoff,"Inorganic Carbon supply to ocean through runoff (separate from gas exchange)
@@ -5304,14 +5304,14 @@ reczARSz2cH54lDTN,Omon.hfsso,surface_downward_sensible_heat_flux,Surface Downwar
 ",real,['ocean'],['Omon'],['mon'],CMIP6 CMOR variable,,,,481,"Report on native horizontal grid.
 ",Omon ((isd.003)),['CMIP5'],"['CMIP', 'PMIP', 'VIACSAB']",905,766,481,down,,,,,,,,,,,,
 reczDsUB4nIIA92Ee,6hrPlev.huss,specific_humidity,Near-Surface Specific Humidity,"Near-surface (usually, 2 meter) specific humidity.
-",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],Under review,"['Atmosphere', 'Land & land-ice']",In progress,landice_global_allfreq,,,,,,,,,,,,,,,,In progress,,,,,
 reczHIn3e2KdezUfg,Emon.nLand,mass_content_of_nitrogen_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products,Total Nitrogen in All Terrestrial Nitrogen Pools,"Report missing data over ocean grid cells. For fractional land report value averaged over the land fraction.
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,"c4mip_land_cn_cycle_monthly, c4mip_land_nitrogen_cycle_tier1, FireMIP_monthly",344,,C4MIP [C_LandT1],,"['C4MIP', 'PMIP']",344,1179,564,,,,,,,,,,,,,
 reczMhRQaCe64YPj5,Emon.expcalc,sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water,Downward Flux of Calcite,"Downward flux of Calcite
 ",real,['ocnBgchem'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_ocean_carbon_cycle_tier1,270,"Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
 ",C4MIP [C_Ocean_T2],['C4MIP'],,1016,270,1159,down,,,,,,,,,,,,
 reczMr57DQHsIwRXj,fx.sftlkf,,lake fraction,"This variable describes the fraction of a land surface grid cell that is characterized as lake. It shall complement variable fx.sftlf that defines the fraction of land for a grid cell, while information of the lake fraction could only be indirectly derived (e.g. via LMon.LandCoverFrac). For grid cells fully covered by lake the value should be 1, for grid cells without lake coverage the value should be zero.
-",real,['land'],['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System', 'Ocean & sea-ice']",,"paleo_fx, hydrology",,,,,,,,,,,,,In progress,In progress,,,,,,,In progress
+",real,['land'],['fx'],['fx'],Under review,"['Land & land-ice', 'Earth System', 'Ocean & sea-ice']",,"paleo_fx, hydrology",,,,,,,,,,,,,In progress,,,In progress,,,,,In progress
 reczMygV4R8O9b8ph,Esubhr.wap,lagrangian_tendency_of_air_pressure,Omega (=dp/dt),"Omega (vertical velocity in pressure coordinates, positive downwards)
 ",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,,135,,HighResMIP [1ts],,,1142,135,1681,,,['HighResMIP'],,,,,,,,,,
 reczO5Ox9e9px0Cvn,AERmon.emidms,tendency_of_atmosphere_mass_content_of_dimethyl_sulfide_due_to_emission,Total Emission Rate of DMS,"Integrate 3D emission field vertically to 2d field.
@@ -5323,7 +5323,7 @@ reczRTAadDJnFJgBh,Emon.tauvnogw,,Northward Reynolds stress from non-orographic g
 reczRV1jPuVrL1Lws,LImon.hflsIs,surface_upward_latent_heat_flux,Ice Sheet Surface Upward Latent Heat Flux,"quantity averaged over ice\_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
 ",real,['landIce'],['LImon'],['mon'],CMIP6 CMOR variable,,,landice_global_allfreq,788,,ISMIP6 [new_LImon],,['ISMIP6'],1258,1495,788,up,,,,,,,,,,,,
 reczTTWoh6ABOD1lU,Eday.gppVgt,gross_primary_productivity_of_biomass_expressed_as_carbon,Gross Primary Production on Vegetation type as Carbon Mass Flux [kgC m-2 s-1],"The rate of synthesis of biomass from inorganic precursors by autotrophs (""producers"") expressed as the mass of carbon which it contains. For example, photosynthesis in plants or phytoplankton. The producers also respire some of this biomass and the difference is referred to as the net primary production. Reported on land-use tiles.
-",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['land'],['Eday'],['day'],Under review,['Land & land-ice'],,Vegetation_type ,,,,,,,,,,,,,,,,In progress,,,,,
 reczTZGLU4DrL3UoI,SImon.sicompstren,compressive_strength_of_sea_ice,Compressive Sea Ice Strength,"Computed strength of the ice pack, defined as the energy (J m-2) dissipated per unit area removed from the ice pack under compression, and assumed proportional to the change in potential energy caused by ridging. For Hibler-type models, this is P (= P\*h exp(-C(1-A)) where P\* is compressive strength, h ice thickness, A compactness and C strength reduction constant).
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,seaice_dynamics_advanced,248,,SIMIP [seaicemon],['SIMIP'],"['CMIP', 'VIACSAB']",402,1058,248,,,,,,,,,,,,,
 reczZrbJWqUT4ctZ3,Omon.hfsnthermds2d,heat_flux_into_sea_water_due_to_snow_thermodynamics,Heat Flux into Sea Water Due to Snow Thermodynamics,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.  The specification of a physical process by the phrase due\_to\_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  ""Snow thermodynamics"" refers to the addition or subtraction of mass due to surface and basal fluxes, i.e., due to melting, sublimation and fusion.
@@ -5337,7 +5337,7 @@ reczdxtO7nAmwMwgU,CFmon.mcd,atmosphere_downdraft_convective_mass_flux,Downdraft 
 reczfWYd60PKiFNx4,LImon.sncIs,surface_snow_area_fraction,Ice Sheet Snow Cover Percentage,"quantity averaged over ice\_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
 ",real,['landIce'],['LImon'],['mon'],CMIP6 CMOR variable,,,landice_global_allfreq,1347,,ISMIP6 [new_LImon],,['ISMIP6'],1347,1708,1463,,,,,,,,,,,,,
 reczhIInrHTpvOmod,AERday.mmraerh2o,mass_fraction_of_water_in_ambient_aerosol_particles_in_air,Daily mean surface Aerosol water mass mixing ratio in lowest model layer,"This is the daily mean Aerosol water mass mixing ratio in lowest model layer
-",real,['aerosol'],['AERday'],['day'],Under review,['Atmosphere'],In progress,aerchemmip_2d_daily,,,,,,,,,,,,,,In progress,,,,,,,
+",real,['aerosol'],['AERday'],['day'],Under review,['Atmosphere'],In progress,aerchemmip_2d_daily,,,,,,,,,,,,,,,,In progress,,,,,
 recziV3KRM1dlzpil,Emon.osaltdiff,tendency_of_sea_water_salinity_expressed_as_salt_content_due_to_parameterized_dianeutral_mixing,Tendency of Sea Water Salinity Expressed as Salt Content Due to Parameterized Dianeutral Mixing,"Tendency of salt content for a grid cell from parameterized dianeutral mixing.
 ",real,['ocean'],['Emon'],['mon'],CMIP6 CMOR variable,,,,291,,FAFMIP [fafOmonB],['FAFMIP'],,1283,291,727,,,,,,,,,,,,,
 reczj9VLL7MCBaAPE,Emon.lwtoaasdust,toa_instantaneous_longwave_forcing,TOA All-Sky Longwave Radiative Forcing Due to Dust,"Instantaneous forcing is the radiative flux change caused instantaneously by an imposed change in radiative forcing agent (greenhouse gases, aerosol, solar radiation, etc.).
