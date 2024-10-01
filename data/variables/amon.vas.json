@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/northward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline, paleo_permafrost",
     "compound-name": "Amon.vas",
     "description": "Northward component of the near surface wind\n",
     "frequency": [

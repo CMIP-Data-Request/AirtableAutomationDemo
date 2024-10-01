@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/rainfall_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq, SO_BGC-cloud_met_monthly, FireMIP_monthly",
+    "cmip7-variable-groups": "landice_global_allfreq, SO_BGC-cloud_met_monthly, FireMIP_monthly, paleo_permafrost",
     "compound-name": "Amon.prra",
     "description": "rainfall flux at surface; includes precipitation of all forms of water in the liquid phase\n",
     "frequency": [

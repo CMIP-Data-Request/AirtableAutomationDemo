@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/water_flux_into_sea_water_from_land_ice"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq",
+    "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "Emon.flandice",
     "description": "Computed as the water flux into the ocean due to land ice (runoff water from surface and base of land ice or melt from base of ice shelf or vertical ice front) into the ocean divided by the area ocean portion of the grid cell\n",
     "frequency": [

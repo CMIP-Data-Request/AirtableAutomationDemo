@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/floating_ice_shelf_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq",
+    "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "LImon.sftflf",
     "description": "Percentage of grid cell covered by floating ice shelf, the component of the ice sheet that is flowing over sea water\n",
     "frequency": [

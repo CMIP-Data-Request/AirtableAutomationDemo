@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/eastward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline, paleo_permafrost",
     "compound-name": "Amon.uas",
     "description": "Eastward component of the near-surface (usually, 10 meters)  wind\n",
     "frequency": [

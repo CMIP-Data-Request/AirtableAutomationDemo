@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/grounded_ice_sheet_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq",
+    "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "Efx.sftgrf",
     "description": "This is needed to distinguish between grounded glaciated ice (grounded = ice sheet and glacier) and ice shelves (floating over sea water), since land\\_ice is by definition ice sheet, glacier and ice shelves\n",
     "frequency": [

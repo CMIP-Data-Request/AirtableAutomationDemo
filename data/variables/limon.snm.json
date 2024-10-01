@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_snow_melt_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq, FireMIP_monthly",
+    "cmip7-variable-groups": "landice_global_allfreq, FireMIP_monthly, paleo_permafrost",
     "compound-name": "LImon.snm",
     "description": "Computed as the total surface melt water on the land portion of the grid cell divided by the land area in the grid cell; report as 0.0 for snow-free land regions; report as missing where the land fraction is 0.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/relative_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, aerchemmip_2d_monthly, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, aerchemmip_2d_monthly, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, paleo_permafrost",
     "compound-name": "Amon.hurs",
     "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/land_ice_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq",
+    "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "LImon.sftgif",
     "description": "Percentage of grid cell covered by land ice (ice sheet, ice shelf, ice cap, glacier)\n",
     "frequency": [
