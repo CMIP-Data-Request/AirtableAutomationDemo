@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "biodiv_marine_daily",
     "compound-name": "Oday.phycnano",
     "description": "Carbon concentration of nanophytoplankton\n",
     "frequency": [
