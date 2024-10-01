@@ -1,16 +1,16 @@
 {
-    "@id": "dr:data/variables/simon.sic",
+    "@id": "dr:data/variables/siday.sialgc",
     "@type": "dr:variable",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "seaice_bgc_monthly",
-    "compound-name": "SImon.sic",
-    "description": "Sum of ice algal carbon component content\n\n",
+    "cmip7-variable-groups": "seaice_bgc_daily",
+    "compound-name": "SIday.sialgc",
+    "description": "Sum of ice algal carbon component content\n",
     "frequency": [
         {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
         }
     ],
     "modeling-realm": [
@@ -26,7 +26,7 @@
     "provenance": "",
     "status": "New",
     "table": [
-        "SImon"
+        "SIday"
     ],
     "theme": [
         "Ocean & sea-ice"

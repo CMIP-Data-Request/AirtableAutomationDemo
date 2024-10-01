@@ -766,7 +766,7 @@ rec8aTKH4Y4uTYmyf,Eday.pflw,liquid_water_content_of_permafrost_layer,Liquid Wate
 ",real,"['landIce', 'land']",['Eday'],['day'],CMIP6 CMOR variable,,,hydrology,9999,,LS3MIP [LWday],,,,,,,,['LS3MIP'],,,,,,,,,,
 rec8cKZu15H4dGdTn,CF3hr.clwc,mass_fraction_of_convective_cloud_liquid_water_in_air,Mass Fraction of Convective Cloud Liquid Water,"Calculated as the mass of convective cloud liquid water in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,"cfmip_3hr, clouds_basic_instantaneous",577,,CF3hr ((isd.003)),['CFMIP'],,1544,577,1401,,,,,,,,,,,,,
-rec8dDYtyPKFOe3Rg,SImon.sic,,Total Ice Algal Carbon Amount,"Sum of ice algal carbon component content
+rec8dDYtyPKFOe3Rg,SImon.sialgc,,Total Ice Algal Carbon Amount,"Sum of ice algal carbon component content
 
 ",real,"['ocnBgchem', 'seaIce']",['SImon'],['mon'],New,['Ocean & sea-ice'],,seaice_bgc_monthly,,,,,,,,,,,,,In progress,,,,,,,,
 rec8dpbi3z8gIsrqY,Oday.fshtrans,,Florida Strait Heat Transport,"The heat transport through the Florida Straits, from the coast of Florida to the Bahamas at 26.7N.
@@ -1889,7 +1889,7 @@ recLHxvTwGQLMzle4,Eday.mrro,runoff_flux,Total runoff over land,"This follows Emo
 ",,,,,,,,,,,In progress,,,In progress,,,,,In progress
 recLIo7KK8BYjNPbd,Eday.reffcclwtop,effective_radius_of_convective_cloud_liquid_water_particles_at_convective_liquid_water_cloud_top,Cloud-Top Effective Droplet Radius in Convective Cloud,"Droplets are liquid only.  This is the effective radius ""as seen from space"" over convective liquid cloudy portion of grid cell.  This is the value from uppermost model layer with liquid cloud or, if available, or for some models it is the sum over all liquid cloud tops, no matter where they occur, as long as they are seen from the top of the atmosphere. Reported values are weighted by total liquid cloud top fraction of  (as seen from TOA) each time sample when computing monthly mean.daily data, separated to large-scale clouds, convective clouds. If any of the cloud is from more than one process (i.e. shallow convection), please provide them separately.
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,1354,,CFMIP [aeroDay_2d],,['CFMIP'],1710,1354,1681,,,,,,,,,,,,,
-recLM5txMJyV3rVz1,SIday.sic,,Total Ice Algal Carbon Amount,"Sum of ice algal carbon component content
+recLM5txMJyV3rVz1,SIday.sialgc,,Total Ice Algal Carbon Amount,"Sum of ice algal carbon component content
 ",real,"['ocnBgchem', 'seaIce']",['SIday'],['day'],New,['Ocean & sea-ice'],,seaice_bgc_daily,,,,,,,,,,,,,In progress,,,,,,,,
 recLNMXoe360J6NTJ,AERday.mmrsoa,mass_fraction_of_secondary_particulate_organic_matter_dry_aerosol_particles_in_air,Daily mean surface SOA,"This is the daily mean secondary organic aerosol mass mixing ratio in lowest model layer
 ",real,['aerosol'],['AERday'],['day'],Under review,['Atmosphere'],In progress,aerchemmip_2d_daily,,,,,,,,,,,,,,,,,,,,,

@@ -15019,7 +15019,7 @@
         "Earth system author team review":""
     },
     {
-        "Compound Name":"SImon.sic",
+        "Compound Name":"SImon.sialgc",
         "CF Standard Name (from MIP Variables)":"",
         "Title":"Total Ice Algal Carbon Amount",
         "Description":"Sum of ice algal carbon component content\n\n",
@@ -37366,7 +37366,7 @@
         "Earth system author team review":""
     },
     {
-        "Compound Name":"SIday.sic",
+        "Compound Name":"SIday.sialgc",
         "CF Standard Name (from MIP Variables)":"",
         "Title":"Total Ice Algal Carbon Amount",
         "Description":"Sum of ice algal carbon component content\n",

@@ -32752,7 +32752,10 @@
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
-        "CMOR Variables":"",
+        "CMOR Variables":[
+            "rec8dDYtyPKFOe3Rg",
+            "recLM5txMJyV3rVz1"
+        ],
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:26:58.000Z",

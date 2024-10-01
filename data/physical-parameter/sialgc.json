@@ -5,7 +5,14 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmor-variables": "",
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/simon.sialgc"
+        },
+        {
+            "@id": "dr:variables/siday.sialgc"
+        }
+    ],
     "comments": "\"Reconsidering the name of the physical parameter \"\"sic\"\"\"",
     "created": "2024-09-12T21:26:58.000Z",
     "data-protection-consent": true,
