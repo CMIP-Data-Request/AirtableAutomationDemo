@@ -1,26 +1,19 @@
 {
-    "@id": "dr:data/physical-parameter/sic",
+    "@id": "dr:data/physical-parameter/sialgc",
     "@type": "dr:variable",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmor-variables": [
-        {
-            "@id": "dr:variables/simon.sic"
-        },
-        {
-            "@id": "dr:variables/siday.sic"
-        }
-    ],
+    "cmor-variables": "",
     "comments": "\"Reconsidering the name of the physical parameter \"\"sic\"\"\"",
     "created": "2024-09-12T21:26:58.000Z",
     "data-protection-consent": true,
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Some CMIP7 models now have sea ice biogeochemistry included and are interested in saving these variables. Models that include sea-ice biogeochemistry support closing the carbon and nutrient s' cycles in the sea-ice zone.\n\n",
-    "last-modified-by": "Anonymous",
-    "name": "sic",
+    "last-modified-by": "Beth Dingley",
+    "name": "sialgc",
     "name-validation": 1,
     "processing-comment": "",
     "processing-note": "",

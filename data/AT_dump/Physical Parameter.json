@@ -32744,7 +32744,7 @@
         "CF Standard Name Proposal Accepted":""
     },
     {
-        "Name":"sic",
+        "Name":"sialgc",
         "Title":"Total Ice Algal Carbon Amount ",
         "CF Standard Name":"",
         "Units":"mol m-2",
@@ -32752,14 +32752,11 @@
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
-        "CMOR Variables":[
-            "rec8dDYtyPKFOe3Rg",
-            "recLM5txMJyV3rVz1"
-        ],
+        "CMOR Variables":"",
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:26:58.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Beth Dingley",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -36577,7 +36574,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-16T15:34:13.000Z",
-        "Last Modified By":"Data Request co-leads",
+        "Last Modified By":"Beth Dingley",
         "Atmosphere team review status":"",
         "Tagged author team":"",
         "Data protection consent":true,
@@ -41892,7 +41889,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-16T15:29:58.000Z",
-        "Last Modified By":"Data Request co-leads",
+        "Last Modified By":"Beth Dingley",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -46406,7 +46403,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-14T09:58:09.000Z",
-        "Last Modified By":"Data Request co-leads",
+        "Last Modified By":"Beth Dingley",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
