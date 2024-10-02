@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Percentage Cloud Cover as Calculated by the MISR Simulator (Including Error Flag)",
     "type": "real",
+    "uid": "8b8a51ce-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

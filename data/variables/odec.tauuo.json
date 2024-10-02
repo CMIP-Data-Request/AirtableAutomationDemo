@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Sea Water Surface Downward X Stress",
     "type": "real",
+    "uid": "ac26fd4c-bb0d-11e6-83c8-bf7187cdbd68",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

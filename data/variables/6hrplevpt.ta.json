@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Air Temperature",
     "type": "real",
+    "uid": "6a35d178-aa6a-11e6-9736-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

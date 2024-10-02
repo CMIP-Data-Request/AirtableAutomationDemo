@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Air Pressure",
     "type": "real",
+    "uid": "3ea033746b2e830fcdadb54489c669ae0677d5f6",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

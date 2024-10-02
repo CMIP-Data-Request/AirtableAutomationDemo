@@ -31,6 +31,7 @@
     "theme": "",
     "title": "Rainfall Flux over Land Ice",
     "type": "real",
+    "uid": "d5b3136c-c78d-11e6-9b25-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_particulate_organic_matter_ambient_aerosol_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550oa",
     "description": "total organic aerosol AOD, comprises all organic aerosols, primary + secondary ; natural + anthropogenic including biomasss burning organic aerosol\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Total Organic Aerosol Optical Depth at 550nm",
     "type": "real",
+    "uid": "19c03a6c-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

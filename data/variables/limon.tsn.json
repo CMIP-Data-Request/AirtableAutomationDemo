@@ -31,6 +31,7 @@
     "theme": "",
     "title": "Snow Internal Temperature",
     "type": "real",
+    "uid": "8bbac66a-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

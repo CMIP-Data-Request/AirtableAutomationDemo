@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Tendency of Air Temperature Due to Model Physics",
     "type": "real",
+    "uid": "607e74a6-bf0e-11e6-aae4-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

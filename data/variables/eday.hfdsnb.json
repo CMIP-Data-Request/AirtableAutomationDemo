@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Downward Heat Flux at Snow Base",
     "type": "real",
+    "uid": "f2fb0ac8-c38d-11e6-abc1-1b922e5e1118",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

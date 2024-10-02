@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Carbon Transferred Directly to Atmosphere Due to any Land-Use or Land-Cover Change Activities [kgC m-2 s-1]",
     "type": "real",
+    "uid": "3e26c210-b89b-11e6-be04-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

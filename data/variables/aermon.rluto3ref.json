@@ -30,6 +30,7 @@
     ],
     "title": "toa_outgoing_longwave_flux_assuming_reference_mole_fraction_of_ozone_in_air",
     "type": "real",
+    "uid": "83bbfbf0-7f07-11ef-9308-b1dd71e64bec",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "In progress",

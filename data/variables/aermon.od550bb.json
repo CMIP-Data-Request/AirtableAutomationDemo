@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_particulate_organic_matter_ambient_aerosol_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550bb",
     "description": "total organic aerosol AOD due to biomass burning (excluding so4, nitrate BB components)\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Aerosol Optical Depth at 550nm Due to Biomass Burning",
     "type": "real",
+    "uid": "19bea26a-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

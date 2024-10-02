@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Downward Mass Flux of Carbon-14 as Abiotic 14CO2 [kgC m-2 s-1]",
     "type": "real",
+    "uid": "c926dc1a-c5e8-11e6-84e6-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_ambient_aerosol_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "radiativeforcing_monthly, SO_BGC-cloud_atmos_composition_monthly, DAMIP_monthly, aerchemmip_2d_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "radiativeforcing_monthly, SO_BGC-cloud_atmos_composition_monthly, DAMIP_monthly, aerchemmip_2d_monthly, CFMIP_baseline, dynamical_downscaling_core",
     "compound-name": "AERmon.od550aer",
     "description": "AOD from ambient aerosols (i.e., includes aerosol water).  Does not include AOD from stratospheric aerosols if these are prescribed but includes other possible background aerosol types. Needs a comment attribute \"wavelength: 550 nm\"\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Ambient Aerosol Optical Thickness at 550nm",
     "type": "real",
+    "uid": "19c01942-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

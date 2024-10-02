@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_heat_y_transport"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "ocean_mesoscale",
     "compound-name": "Oday.hfy",
     "description": "Contains all contributions to \"y-ward\" heat transport from resolved and parameterized processes. Use Celsius for temperature scale.\n",
     "frequency": [
@@ -30,6 +30,7 @@
     ],
     "title": "daily ocean_heat_y_transport",
     "type": "real",
+    "uid": "83bbfb88-7f07-11ef-9308-b1dd71e64bec",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

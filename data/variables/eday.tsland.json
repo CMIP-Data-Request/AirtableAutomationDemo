@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Land Surface Temperature",
     "type": "real",
+    "uid": "bdbed73a-01e5-11e8-aa5e-a44cc8186c64",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

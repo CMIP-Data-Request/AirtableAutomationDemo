@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Ambient Aerosol Absorption Optical Thickness at 550nm",
     "type": "real",
+    "uid": "19bebf2a-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

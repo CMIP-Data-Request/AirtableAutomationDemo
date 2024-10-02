@@ -30,6 +30,7 @@
     ],
     "title": "global_average_thermosteric_sea_level_change",
     "type": "real",
+    "uid": "",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

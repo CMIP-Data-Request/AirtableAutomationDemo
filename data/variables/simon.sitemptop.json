@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Temperature of Sea Ice",
     "type": "real",
+    "uid": "711075e2-faa7-11e6-bfb7-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

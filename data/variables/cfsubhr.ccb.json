@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Air Pressure at Convective Cloud Base",
     "type": "real",
+    "uid": "8009dc3e-f906-11e6-a176-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

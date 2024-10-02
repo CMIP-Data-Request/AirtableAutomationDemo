@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Total Plant Nitrogen Uptake (Sum of Ammonium and Nitrate) Irrespective of the Source of Nitrogen",
     "type": "real",
+    "uid": "8b80e08a-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

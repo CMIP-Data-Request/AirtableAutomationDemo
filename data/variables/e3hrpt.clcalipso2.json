@@ -28,6 +28,7 @@
     "theme": "",
     "title": "CALIPSO Cloud Cover Percentage Undetected by CloudSat (as Percentage of Area Covered)",
     "type": "real",
+    "uid": "b7c6f9d2-7c00-11e6-bcdf-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

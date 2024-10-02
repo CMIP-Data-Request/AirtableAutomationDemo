@@ -28,6 +28,7 @@
     "theme": "",
     "title": "PM2.5 Mass Mixing Ratio",
     "type": "real",
+    "uid": "19be7b78-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

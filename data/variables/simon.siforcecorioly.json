@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Coriolis Force Term in Force Balance (Y-Component)",
     "type": "real",
+    "uid": "712a8130-faa7-11e6-bfb7-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

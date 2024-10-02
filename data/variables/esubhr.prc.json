@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Convective Precipitation",
     "type": "real",
+    "uid": "8bb161c4-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

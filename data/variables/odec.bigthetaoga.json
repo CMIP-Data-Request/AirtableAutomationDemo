@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Global Average Sea Water Conservative Temperature",
     "type": "real",
+    "uid": "47953f1c-bb0b-11e6-8316-5980f7b176d1",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Carbon Mass in Each Model Soil Pool (Summed over Vertical Levels)",
     "type": "real",
+    "uid": "e7071f58-aa7f-11e6-9a4a-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

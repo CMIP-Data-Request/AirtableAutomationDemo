@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Net Downward Radiative Flux at Top of Model",
     "type": "real",
+    "uid": "edbcf236-4b7f-11e7-903f-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

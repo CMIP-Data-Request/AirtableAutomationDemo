@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Daily Maximum O3 Volume Mixing Ratio in Lowest Model Layer",
     "type": "real",
+    "uid": "fda754f4-96ec-11e6-b81e-c9e268aff03a",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

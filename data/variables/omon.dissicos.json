@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Dissolved Inorganic Carbon Concentration",
     "type": "real",
+    "uid": "803e5f7c-f906-11e6-a176-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

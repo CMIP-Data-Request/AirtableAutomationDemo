@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Geopotential Height at 100hPa",
     "type": "real",
+    "uid": "19be0332-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Total Soil Moisture Content",
     "type": "real",
+    "uid": "3c641b6c-b89b-11e6-be04-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

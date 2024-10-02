@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Sea-Ice Area Percentage (Ocean Grid)",
     "type": "real",
+    "uid": "86119ff6-357c-11e7-8257-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

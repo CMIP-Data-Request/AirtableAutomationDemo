@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Near-Surface Relative Humidity",
     "type": "real",
+    "uid": "5a070350-c77d-11e6-8a33-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

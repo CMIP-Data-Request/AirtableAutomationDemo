@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/land_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, hydrology, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, hydrology, CFMIP_baseline, dynamical_downscaling_core",
     "compound-name": "fx.sftlf",
     "description": "Percentage of horizontal area occupied by land.\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Percentage of the Grid Cell Occupied by Land (Including Lakes)",
     "type": "real",
+    "uid": "bab742c8-e5dd-11e5-8482-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

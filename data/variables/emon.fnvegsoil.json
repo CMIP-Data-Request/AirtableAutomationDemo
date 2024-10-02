@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Total Nitrogen Mass Flux from Vegetation Directly to Soil",
     "type": "real",
+    "uid": "8b80fc82-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

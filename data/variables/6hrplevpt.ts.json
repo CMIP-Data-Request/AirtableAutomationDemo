@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "dynamical_downscaling_core",
     "compound-name": "6hrPlevPt.ts",
     "description": "Temperature of the lower boundary of the atmosphere\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Temperature",
     "type": "real",
+    "uid": "8bb06940-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

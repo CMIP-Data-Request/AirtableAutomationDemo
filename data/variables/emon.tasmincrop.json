@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Daily Minimum Near-Surface Air Temperature over Crop Tile",
     "type": "real",
+    "uid": "124a104a-c14f-11e6-bb78-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

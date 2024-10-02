@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Nitrogen Mass in Above-Ground Litter (non CWD)",
     "type": "real",
+    "uid": "bcc6fc0a-b8a7-11e6-b7f0-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

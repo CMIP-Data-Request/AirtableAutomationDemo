@@ -30,6 +30,7 @@
     ],
     "title": "Daily water evaporation flux from soil",
     "type": "real",
+    "uid": "83bbfbb0-7f07-11ef-9308-b1dd71e64bec",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

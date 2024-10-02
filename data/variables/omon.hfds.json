@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Downward Heat Flux at Sea Water Surface",
     "type": "real",
+    "uid": "baa6c33a-e5dd-11e5-8482-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "1 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

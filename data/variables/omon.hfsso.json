@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Downward Sensible Heat Flux",
     "type": "real",
+    "uid": "ada95ca6-b17f-11e6-8975-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_black_carbon_ambient_aerosol"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550bc",
     "description": "Total aerosol AOD due to black carbon aerosol at a wavelength of 550 nanometres.\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Black Carbon Optical Thickness at 550nm",
     "type": "real",
+    "uid": "19bf8f18-81b1-11e6-92de-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

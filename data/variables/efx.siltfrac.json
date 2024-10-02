@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Silt Fraction",
     "type": "real",
+    "uid": "819641f0-f906-11e6-a176-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "0 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

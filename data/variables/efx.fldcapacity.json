@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Field Capacity",
     "type": "real",
+    "uid": "f2fabe42-c38d-11e6-abc1-1b922e5e1118",
     "variable-is-included-in-esm-bcv-v1.3": "0 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

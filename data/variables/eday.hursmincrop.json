@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Daily Minimum Near-Surface Relative Humidity over Crop Tile",
     "type": "real",
+    "uid": "f32a8460-c38d-11e6-abc1-1b922e5e1118",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

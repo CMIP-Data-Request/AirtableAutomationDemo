@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Total Cloud Cover Percentage",
     "type": "real",
+    "uid": "e0ab3cc4-4b7f-11e7-903f-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

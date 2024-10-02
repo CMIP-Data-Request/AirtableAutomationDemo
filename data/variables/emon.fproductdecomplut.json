@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Net Carbon Mass Flux from Wood and Agricultural Product Pools on Land Use Tile into Atmosphere [kgC m-2 s-1]",
     "type": "real",
+    "uid": "3e26b4be-b89b-11e6-be04-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface Downwelling Longwave Radiation",
     "type": "real",
+    "uid": "bab52b5a-e5dd-11e5-8482-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

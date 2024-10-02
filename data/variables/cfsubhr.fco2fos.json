@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Carbon Mass Flux into Atmosphere Due to Fossil Fuel Emissions of CO2 [kgC m-2 s-1]",
     "type": "real",
+    "uid": "800a3d46-f906-11e6-a176-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

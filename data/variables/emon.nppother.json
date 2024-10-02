@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Net Primary Production Allocated to Other Pools (not Leaves Stem or Roots) as Carbon Mass Flux [kgC m-2 s-1]",
     "type": "real",
+    "uid": "e7074974-aa7f-11e6-9a4a-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

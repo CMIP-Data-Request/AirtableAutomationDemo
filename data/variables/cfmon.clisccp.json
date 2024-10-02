@@ -28,6 +28,7 @@
     "theme": "",
     "title": "ISCCP Cloud Area Percentage",
     "type": "real",
+    "uid": "2ab325ee-c07e-11e6-8775-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

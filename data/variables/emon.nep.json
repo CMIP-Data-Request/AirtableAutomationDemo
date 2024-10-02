@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Net Carbon Mass Flux out of Atmosphere Due to Net Ecosystem Productivity on Land [kgC m-2 s-1]",
     "type": "real",
+    "uid": "d2290cee-4a9f-11e6-b84e-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Moisture in Upper Portion of Soil Column",
     "type": "real",
+    "uid": "bab1ca14-e5dd-11e5-8482-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

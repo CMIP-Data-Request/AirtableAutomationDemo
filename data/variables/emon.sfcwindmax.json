@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Daily Maximum Near-Surface Wind Speed",
     "type": "real",
+    "uid": "fee11078-5270-11e6-bffa-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Sea Water Surface Downward Y Stress",
     "type": "real",
+    "uid": "ac270e9a-bb0d-11e6-83c8-bf7187cdbd68",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

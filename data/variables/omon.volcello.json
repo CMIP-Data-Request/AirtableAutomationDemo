@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Ocean Grid-Cell Volume",
     "type": "real",
+    "uid": "e0739eaa-e1ab-11e7-9db4-1c4d70487308",
     "variable-is-included-in-esm-bcv-v1.3": "0 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

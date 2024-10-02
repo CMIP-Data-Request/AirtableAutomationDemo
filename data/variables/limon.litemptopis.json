@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Ice Sheet Temperature at Top of Ice Sheet Model",
     "type": "real",
+    "uid": "8120ca5c-bf17-11e6-b0d8-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

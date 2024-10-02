@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Grid-Cell Area for River Model Variables",
     "type": "real",
+    "uid": "8306180c-76ca-11e7-ba39-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "0 checked out of 1",
     "review": {
         "atmosphere-author-team-review": "",

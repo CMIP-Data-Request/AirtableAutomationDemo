@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Carbon-13 Mass Flux out of Atmosphere Due to Gross Primary Production on Land [kgC m-2 s-1]",
     "type": "real",
+    "uid": "8b7f90fe-4a5b-11e6-9cd2-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

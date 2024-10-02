@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/air_pressure_at_mean_sea_level"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly",
+    "cmip7-variable-groups": "synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly, dynamical_downscaling_core",
     "compound-name": "6hrPlevPt.psl",
     "description": "Sea Level Pressure\n",
     "frequency": [
@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Sea Level Pressure",
     "type": "real",
+    "uid": "816898e0-f906-11e6-a176-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

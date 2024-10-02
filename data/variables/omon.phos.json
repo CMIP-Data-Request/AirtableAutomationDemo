@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Surface pH",
     "type": "real",
+    "uid": "c918bbf8-c5e8-11e6-84e6-5404a60d96b5",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

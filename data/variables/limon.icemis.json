@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Ice Sheet Surface Ice Melt Flux",
     "type": "real",
+    "uid": "8120ed7a-bf17-11e6-b0d8-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",

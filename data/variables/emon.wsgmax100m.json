@@ -31,6 +31,7 @@
     ],
     "title": "Maximum Wind Speed of Gust at 100m",
     "type": "real",
+    "uid": "83bbfc7c-7f07-11ef-9308-b1dd71e64bec",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "In progress",

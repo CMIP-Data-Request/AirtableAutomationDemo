@@ -28,6 +28,7 @@
     "theme": "",
     "title": "Internal Stress Term in Force Balance (X-Component)",
     "type": "real",
+    "uid": "7147c57e-faa7-11e6-bfb7-ac72891c3257",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
