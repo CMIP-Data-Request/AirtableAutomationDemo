@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/eastward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, dynvar_basic, statistical_downscaling_core_daily, statistical_downscaling_core_daily",
+    "cmip7-variable-groups": "baseline_daily, dynvar_basic, statistical_downscaling_core_daily_please_delete, statistical_downscaling_core_daily",
     "compound-name": "Eday.ua",
     "description": "Zonal wind (positive in a eastward direction).\n",
     "frequency": [
