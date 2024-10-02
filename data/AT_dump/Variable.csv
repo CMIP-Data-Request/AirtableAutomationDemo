@@ -624,7 +624,7 @@ rec77L7IRt2CTbK7T,Amon.cl,cloud_area_fraction_in_atmosphere_layer,Percentage Clo
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, aerchemmip_3d_monthly, ref_atmosphere, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",70,"Report on model layers (not standard pressures).
 ",Amon ((isd.003)),"['HighResMIP', 'VIACSAB']","['CFMIP', 'CMIP', 'CMIP5', 'PMIP']",166,70,81,,,['CDRMIP'],1 checked out of 1,,,,,,,,,
 rec78f5d25icmTJ1q,6hrPlevPt.ta,air_temperature,Air Temperature,"Air Temperature
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority",24,"on the following pressure levels: 850, 500, 250 hPa
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority, statistical_downscaling_core_6hourly",24,"on the following pressure levels: 850, 500, 250 hPa
 ",6hrPlev ((isd.003)),['DAMIP'],['CMIP5'],137,24,131,,,,1 checked out of 1,,,,,,,,,
 rec7A2wbyuu24yaq2,Eday.agesno,age_of_surface_snow,Mean Age of Snow,"When computing the time-mean here, the time samples, weighted by the mass of snow on the land portion of the grid cell, are accumulated and then divided by the sum of the weights.  Reported as ""missing in regions free of snow on land.
 ",real,"['landIce', 'land']",['Eday'],['day'],CMIP6 CMOR variable,,,,1397,,LS3MIP [LWday],,['LS3MIP'],1692,1397,1599,,,,,,,,,,,,,
@@ -976,7 +976,7 @@ recAvRf0FRmEnsOdu,Omon.phypico,mole_concentration_of_picophytoplankton_expressed
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"marine_bgc, c4mip_ocean_carbon_cycle_tier2, fishmip_marine_monthly",377,"Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  ""Tracer""  concentations should be reported even if they are diagnosed rather than prognostically calculated.
 ",Omon ((isd.003)),['OMIP'],"['CMIP', 'VIACSAB']",1009,377,1463,,,"['C4MIP', 'CMIP5']",,,,,,,,,,
 recB1NW34hivEEEoj,6hrPlevPt.va,northward_wind,Northward Wind,"Meridional wind (positive in a northward direction).
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority",19,"on the following pressure levels: 850, 500, 250 hPa
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority, statistical_downscaling_core_6hourly",19,"on the following pressure levels: 850, 500, 250 hPa
 ",6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'HighResMIP']",118,19,125,,,,1 checked out of 1,,,,,,,,,
 recB1kFzDSiLk2X7s,SIday.siitdsnconc,surface_snow_area_fraction,Snow Area Percentages in Ice Thickness Categories ,"K=ice depth bands
 ",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,"hydrology, seaice_state_daily_advanced",,,,,,,,,,,,,In progress,Accept,MJ: simple change from existing monthly variable to daily.,,,,,,
@@ -1014,7 +1014,7 @@ recBOauO21RY9g2HK,Oyr.opottempmint,integral_wrt_depth_of_product_of_potential_te
 ",real,['ocean'],['Oyr'],['yr'],CMIP6 CMOR variable,,,,653,"Report on native horizontal grid.
 ",Oyr ((isd.003)),,,968,1401,653,,,['CMIP5'],,,,,,,,,,
 recBOhar60vE3cZ8y,day.hur,relative_humidity,Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
-",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline",22,,day ((isd.003)),['VIACSAB'],"['CMIP5', 'VIACSAB']",106,22,92,,,,1 checked out of 1,,,,,,,,,
+",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"baseline_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, statistical_downscaling_extended",22,,day ((isd.003)),['VIACSAB'],"['CMIP5', 'VIACSAB']",106,22,92,,,,1 checked out of 1,,,,,,,,,
 recBRUoUjw5Od8Okj,Omon.thkcelluo,,Time Varying Gridbox thickness at u-points,"The time varying thickness of the gridboxes computed on the u-points
 ",real,['ocean'],['Omon'],['mon'],Under review,['Ocean & sea-ice'],,ocean_grid,,,,,,,,,,,,,In progress,,,,,,,,
 recBSFeKuybTTLkDz,ImonAnt.snicem,surface_snow_and_ice_melt_flux,Surface Snow and Ice Melt Flux,"Loss of snow and ice mass resulting from surface melting. Computed as the total surface melt on the land ice portion of the grid cell divided by land ice area in the grid cell.
@@ -1411,7 +1411,7 @@ recGJC6jCiv6FoWJQ,Omon.intppnano,,Net Primary Organic Carbon Production by Nanop
 
 ",real,['ocnBgchem'],['Omon'],['mon'],New,"['Earth System', 'Ocean & sea-ice']",,fishmip_marine_monthly,,,,,,,,,,,,,,,,,,,,,
 recGK6XqcMN4Sjr38,6hrLev.ps,surface_air_pressure,Surface Air Pressure,"surface pressure, not mean sea level pressure
-",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,,170,,6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",284,170,190,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
+",real,['atmos'],['6hrLev'],['6hrPt'],CMIP6 CMOR variable,,,statistical_downscaling_core_6hourly,170,,6hrLev ((isd.003)),,"['CMIP5', 'VIACSAB']",284,170,190,,,['VIACSAB'],,,,,,,"CMIP, CORDEX, PMIP, VIACSAB, VolMIP",,VIACSAB,
 recGL29p2xcQUId4D,CFsubhr.clw,mass_fraction_of_cloud_liquid_water_in_air,Mass Fraction of Cloud Liquid Water,"Includes both large-scale and convective cloud.  This is the mass of  cloud liquid water in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",518,,CFsubhr ((isd.003)),,['CMIP5'],1340,518,956,,,,,,,,,,,,,
 recGL2nVigjCx873I,day.hfss,surface_upward_sensible_heat_flux,Surface Upward Sensible Heat Flux,"The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.
@@ -2803,7 +2803,7 @@ recVXR76y0jTEcNRg,Eyr.shrubFrac,area_fraction,Percentage Cover by Shrub,"Percent
 recVXahw6pmj1ndT6,AERmonZ.oh,mole_fraction_of_hydroxyl_radical_in_air,OH Volume Mixing Ratio,"Mole fraction is used in the construction mole\_fraction\_of\_X\_in\_Y, where X is a material constituent of Y.
 ",real,['aerosol'],['AERmonZ'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2dZ_monthly,635,,AERmonZ ((isd.003)),,['CMIP5'],635,1466,956,,,,,,,,,,,,,
 recVXppjza4qBEw4F,6hrPlevPt.psl,air_pressure_at_mean_sea_level,Sea Level Pressure,"Sea Level Pressure
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",77,,6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'CORDEX']",132,77,122,,,['HighResMIP'],,,,,,DAMIP,"CMIP, CORDEX, HighResMIP, VolMIP",,HighResMIP,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly",77,,6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'CORDEX']",132,77,122,,,['HighResMIP'],,,,,,DAMIP,"CMIP, CORDEX, HighResMIP, VolMIP",,HighResMIP,
 recVYCnUBmMmlQ5nz,Eday.ares,aerodynamic_resistance,Aerodynamic Resistance,"aerodynamic\_resistance
 ",real,['land'],['Eday'],['day'],CMIP6 CMOR variable,,,,981,,LS3MIP [LWday],,['LS3MIP'],1369,981,1159,,,,,,,,,,,,,
 recVYJWsZfU5V9cZo,CFsubhr.hur,relative_humidity,Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
@@ -3146,7 +3146,7 @@ recZQqPcKNHrzTJvf,SImon.sisndmassdyn,tendency_of_surface_snow_amount_due_to_sea_
 recZR4cb7mSTO6K1v,SImon.sidmassmelttop,tendency_of_sea_ice_amount_due_to_surface_melting,Sea-Ice Mass Change Through Surface Melting,"The rate of change of sea ice mass through melting at the ice surface divided by grid-cell area
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,seaice_budget_mass_monthly,204,,SIMIP [seaicemon],['SIMIP'],"['CMIP', 'PMIP', 'VIACSAB']",318,964,204,,,,,,,,,,,,,
 recZRbz9bqjWVCWuG,6hrPlevPt.zg7h,geopotential_height,Geopotential Height,"Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly",9999,,CORDEX [cx_6hr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 recZRoKLKA1DYVJXF,Omon.phycalcos,mole_concentration_of_calcareous_phytoplankton_expressed_as_carbon_in_sea_water,Surface Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water,"carbon concentration from calcareous (calcite-producing) phytoplankton component alone
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,SO_BGC-cloud_BGC_monthly,1617,,Omon ((isd.003)),['CMIP5'],,1658,1617,1681,,,,,,,,,,,,,
 recZW8cUo4vwpFwMU,E3hrPt.ps,surface_air_pressure,Surface Air Pressure,"Surface Pressure .. needed for vertical coordinates
@@ -3438,7 +3438,7 @@ reccJ8wfGEs4PTtv8,Eday.dsw,change_over_time_in_land_water_amount,Change in Surfa
 reccJmavNAXV2V9z6,Emon.fLulccResidueLut,carbon_mass_flux_into_litter_and_soil_due_to_anthropogenic_land_use_or_land_cover_change,Carbon Transferred to Soil or Litter Pools Due to Land-Use or Land-Cover Change Processes on Tile,"This annual mean flux refers to the transfer of carbon into soil or litter pools due to any land use or land-cover change activities
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,,898,,LUMIP [Lmon_Lut],,['LUMIP'],898,1335,898,,,,,,,,,,,,,
 reccMZl3liba3rpIx,6hrPlevPt.hus7h,specific_humidity,Specific Humidity,"Extra levels - 925, 700, 600, 300, 50
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test]",9999,,HighResMIP [6hrPlev_extr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly",9999,,HighResMIP [6hrPlev_extr],,"['CORDEX', 'HighResMIP']",,,,,,,,,,,,,"CORDEX, HighResMIP",,,
 reccOmbbOWhef9jfJ,Emon.ppcalc,tendency_of_mole_concentration_of_particulate_organic_matter_expressed_as_carbon_in_sea_water_due_to_net_primary_production_by_calcareous_phytoplankton,Net Primary Mole Productivity of Carbon by Calcareous Phytoplankton,"Primary (organic carbon) production by the calcite-producing phytoplankton component alone
 ",real,['ocnBgchem'],['Emon'],['mon'],CMIP6 CMOR variable,,,,9999,,C4MIP [C_Ocean_T2],,,,,,,,['C4MIP'],,,,,,,,,,
 reccSUU7q6kQtazmV,IyrAnt.limnsw,land_ice_mass_not_displacing_sea_water,Ice Sheet Mass That Does not Displace Sea Water,"Antarctica
@@ -4932,7 +4932,7 @@ recuq9uPdQ8ktgwdV,LImon.sftgrf,grounded_ice_sheet_area_fraction,Grounded Ice She
 recurHdNfDHWNu5XF,CFday.clwvi,atmosphere_mass_content_of_cloud_condensed_water,Condensed Water Path,"calculate mass of condensed (liquid + ice) water in the column divided by the area of the column (not just the area of the cloudy portion of the column). This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.
 ",real,['atmos'],['CFday'],['day'],CMIP6 CMOR variable,,,"cfmip_daily, clouds_basic_average, CFMIP_baseline",273,,CFday ((isd.003)),,['CMIP5'],606,432,273,,,,,,,,,,,,,
 recutu8eqxd7456bq,6hrPlevPt.ua,eastward_wind,Eastward Wind,"Zonal wind (positive in a eastward direction).
-",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority",18,"on the following pressure levels: 850, 500, 250 hPa
+",real,['atmos'],['6hrPlevPt'],['6hrPt'],CMIP6 CMOR variable,,,"baseline_subdaily, synoptic_systems_high_priority, statistical_downscaling_core_6hourly",18,"on the following pressure levels: 850, 500, 250 hPa
 ",6hrPlev ((isd.003)),['DAMIP'],"['CMIP5', 'HighResMIP']",113,18,123,,,,1 checked out of 1,,,,,,,,,
 recv1BfqpbqLNSwlQ,6hrPlev.zg1000,geopotential_height,Geopotential Height at 1000hPa,"Geopotential height on the 1000 hPa surface
 ",real,['atmos'],['6hrPlev'],['6hr'],CMIP6 CMOR variable,,,DCPP_Wider,584,,DCPP [DCPP-6hr],['DCPP'],,962,584,956,,,,,,,,,,,,,

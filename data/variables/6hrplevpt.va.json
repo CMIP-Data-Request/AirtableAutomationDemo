@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/northward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_subdaily, synoptic_systems_high_priority",
+    "cmip7-variable-groups": "baseline_subdaily, synoptic_systems_high_priority, statistical_downscaling_core_6hourly",
     "compound-name": "6hrPlevPt.va",
     "description": "Meridional wind (positive in a northward direction).\n",
     "frequency": [

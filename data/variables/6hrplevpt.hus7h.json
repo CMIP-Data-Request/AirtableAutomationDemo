@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "synoptic_systems_high_priority, cordex [test]",
+    "cmip7-variable-groups": "synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly",
     "compound-name": "6hrPlevPt.hus7h",
     "description": "Extra levels - 925, 700, 600, 300, 50\n",
     "frequency": [
