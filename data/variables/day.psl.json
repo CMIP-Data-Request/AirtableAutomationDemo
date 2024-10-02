@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/air_pressure_at_mean_sea_level"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, CFMIP_baseline, cordex [test]",
+    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, CFMIP_baseline, cordex [test], statistical_downscaling_core_daily",
     "compound-name": "day.psl",
     "description": "Sea Level Pressure\n",
     "frequency": [

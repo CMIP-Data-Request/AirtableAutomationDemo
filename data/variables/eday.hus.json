@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, dynvar_basic, statistical_downscaling_core_daily",
+    "cmip7-variable-groups": "baseline_daily, dynvar_basic, statistical_downscaling_core_daily, statistical_downscaling_core_daily",
     "compound-name": "Eday.hus",
     "description": "These are standard variables from CMIP5.\n",
     "frequency": [
