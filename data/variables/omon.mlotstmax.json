@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_mixed_layer_thickness_defined_by_sigma_t"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "OMIP_scalar_fields",
     "compound-name": "Omon.mlotstmax",
     "description": "Sigma T is potential density referenced to ocean surface.\n",
     "frequency": [

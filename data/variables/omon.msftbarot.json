@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_barotropic_mass_streamfunction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DCPP_Essential",
+    "cmip7-variable-groups": "DCPP_Essential, OMIP_scalar_fields",
     "compound-name": "Omon.msftbarot",
     "description": "Streamfunction or its approximation for free surface models. See OMDP document for details.\n",
     "frequency": [
