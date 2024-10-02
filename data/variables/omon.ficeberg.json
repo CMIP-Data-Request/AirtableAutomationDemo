@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/water_flux_into_sea_water_from_icebergs"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "dynamical_downscaling_ocean_core",
     "compound-name": "Omon.ficeberg",
     "description": "computed as the iceberg melt water  flux into the ocean divided by the area of the ocean portion of the grid cell.\n",
     "frequency": [
