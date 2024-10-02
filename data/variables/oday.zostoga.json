@@ -1,16 +1,16 @@
 {
-    "@id": "dr:data/variables/omon.mlotstmax",
+    "@id": "dr:data/variables/oday.zostoga",
     "@type": "dr:variable",
     "cf-standard-name": {
-        "@id": "cf:standard-name/ocean_mixed_layer_thickness_defined_by_sigma_t"
+        "@id": "cf:standard-name/global_average_thermosteric_sea_level_change"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "OMIP_scalar_fields, omip_priority",
-    "compound-name": "Omon.mlotstmax",
-    "description": "Sigma T is potential density referenced to ocean surface.\n",
+    "cmip7-variable-groups": "omip_priority",
+    "compound-name": "Oday.zostoga",
+    "description": "Global Average Thermosteric Sea Level Change\n",
     "frequency": [
         {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
         }
     ],
     "modeling-realm": [
@@ -19,14 +19,16 @@
         }
     ],
     "positive-direction": "",
-    "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",
-    "provenance": "Omon ((isd.003))",
-    "status": "CMIP6 CMOR variable",
+    "processing-note": "",
+    "provenance": "",
+    "status": "New",
     "table": [
-        "Omon"
+        "Oday"
     ],
-    "theme": "",
-    "title": "Maximum Ocean Mixed Layer Thickness Defined by Sigma T",
+    "theme": [
+        "Ocean & sea-ice"
+    ],
+    "title": "global_average_thermosteric_sea_level_change",
     "type": "real",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
@@ -41,18 +43,16 @@
     },
     "priority": {
         "priority-1-(cmip6)": "",
-        "priority-1-(cmip6)----old": [
-            "CMIP5"
-        ],
+        "priority-1-(cmip6)----old": "",
         "priority-2-(cmip6---old": "",
         "priority-2-(cmip6)": "",
         "priority-3-(cmip6---old)": "",
         "priority-3-(cmip6)": ""
     },
     "rank": {
-        "min-rank": 190,
-        "rank-by-file-count": 190,
-        "rank-by-submissions": 264,
-        "rank-by-volume": 547
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
     }
 }

@@ -8,6 +8,9 @@
     "cmor-variables": [
         {
             "@id": "dr:variables/omon.zostoga"
+        },
+        {
+            "@id": "dr:variables/oday.zostoga"
         }
     ],
     "comments": "",

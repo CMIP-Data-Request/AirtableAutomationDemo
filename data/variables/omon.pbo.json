@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_water_pressure_at_sea_floor"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "OMIP_scalar_fields",
+    "cmip7-variable-groups": "OMIP_scalar_fields, omip_priority",
     "compound-name": "Omon.pbo",
     "description": "\"Sea water pressure\" is the pressure that exists in the medium of sea water.  It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present.\n",
     "frequency": [

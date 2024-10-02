@@ -33526,7 +33526,8 @@
         "Name Validation":1,
         "Status":"Existing physical parameter",
         "CMOR Variables":[
-            "recLCodTtCNhzfbDq"
+            "recLCodTtCNhzfbDq",
+            "recpUYzfJx1JTscQV"
         ],
         "Description":"There is no CMIP6 request for zosga nor zossga.\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",

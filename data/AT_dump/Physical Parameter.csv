@@ -1810,7 +1810,7 @@ reccU8WRtWCxqJwXG,drydust,Dry Deposition Rate of Dust,minus_tendency_of_atmosphe
 ",0 checked out of 1,2024-07-12T09:06:25.000Z,Data Request co-leads,,,,,,,,,,,,,,,,,,,
 reccWfAUcNW9znJjJ,c4PftFrac,Percentage Cover by C4 Plant Functional Type,area_fraction,%,351c26a0f5a0cefa8f1183f2f12e1aa3,"CMIP5_Lmon,PMIP3_Lclim,PMIP3_Lmon,SPECS_Lmon",1,Existing physical parameter,['recc6oNyVvo2fjU2k'],"Percentage of entire grid cell  that is covered by C4 PFTs (including grass and crops).
 ",0 checked out of 1,2024-07-12T09:06:25.000Z,Data Request co-leads,,,,,,,,,,,,,,,,,,,
-reccXxhCp31DlQ4P6,zostoga,Global Average Thermosteric Sea Level Change,global_average_thermosteric_sea_level_change,m,69c17331aebbebfc295d5b7af7f0ef8b,OMIP.Omon,1,Existing physical parameter,['recLCodTtCNhzfbDq'],"There is no CMIP6 request for zosga nor zossga.
+reccXxhCp31DlQ4P6,zostoga,Global Average Thermosteric Sea Level Change,global_average_thermosteric_sea_level_change,m,69c17331aebbebfc295d5b7af7f0ef8b,OMIP.Omon,1,Existing physical parameter,"['recLCodTtCNhzfbDq', 'recpUYzfJx1JTscQV']","There is no CMIP6 request for zosga nor zossga.
 ",0 checked out of 1,2024-07-12T09:06:25.000Z,Data Request co-leads,,,,,,,,,,,,,,,,,,,
 reccZFphgzh8sN3yC,tas,Near-Surface Air Temperature,air_temperature,K,5c4978e802ba55d5a298cf1b3bdc2b3a,CMIP5_Amon,1,Existing physical parameter,"['recLt9eQAeDtamGPx', 'recSBMlpJh7FoS5eH', 'recNDLVlOWmo8ajYi', 'recYwxOxq1ydvdqx5', 'rec28NM6cd5ONb9MT', 'recdZSM6d4B39lyxG', 'recrhiYAJeu1WqSVG', 'recApHH5h1NIpTIva', 'rec3c0vRZoCspEXml', 'recdc1leKvPuvRcd3', 'rec2yDTywOhZ4rd02', 'recPEEwVa1v2JMxDY']","near-surface (usually, 2 meter) air temperature
 ",0 checked out of 1,2024-07-12T09:06:25.000Z,Data Request co-leads,,,,,,,,['nsrf'],,,,,,,,,,,

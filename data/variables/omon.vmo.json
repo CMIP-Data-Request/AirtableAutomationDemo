@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_mass_y_transport"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_ocean_monthly",
+    "cmip7-variable-groups": "baseline_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_ocean_monthly, omip_priority",
     "compound-name": "Omon.vmo",
     "description": "Y-ward mass transport from residual mean (resolved plus parameterized) advective transport.\n",
     "frequency": [
