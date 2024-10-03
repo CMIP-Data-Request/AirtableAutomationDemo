@@ -1,13 +1,13 @@
 {
-    "@id": "dr:data/variables/eday.gppvgt",
+    "@id": "dr:data/variables/oday.dissoc",
     "@type": "dr:variable",
     "cf-standard-name": {
-        "@id": "cf:standard-name/gross_primary_productivity_of_biomass_expressed_as_carbon"
+        "@id": "cf:standard-name/mole_concentration_of_dissolved_organic_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "Vegetation_type , plant_phenology",
-    "compound-name": "Eday.gppVgt",
-    "description": "The rate of synthesis of biomass from inorganic precursors by autotrophs (\"producers\") expressed as the mass of carbon which it contains. For example, photosynthesis in plants or phytoplankton. The producers also respire some of this biomass and the difference is referred to as the net primary production. Reported on land-use tiles.\n",
+    "cmip7-variable-groups": "",
+    "compound-name": "Oday.dissoc",
+    "description": "Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/day"
@@ -15,22 +15,22 @@
     ],
     "modeling-realm": [
         {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
+            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
         }
     ],
     "positive-direction": "",
     "processing-note": "",
     "provenance": "",
-    "status": "Under review",
+    "status": "New",
     "table": [
-        "Eday"
+        "Oday"
     ],
     "theme": [
-        "Land & land-ice"
+        "Earth System"
     ],
-    "title": "Gross Primary Production on Vegetation type as Carbon Mass Flux [kgC m-2 s-1]",
+    "title": "Dissolved Organic Carbon Concentration",
     "type": "real",
-    "uid": "83bbfbad-7f07-11ef-9308-b1dd71e64bec",
+    "uid": "",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
@@ -39,7 +39,7 @@
         "cross-thematic-team-review": "",
         "earth-system-author-team-review": "",
         "impacts-&-adaptation-author-team-review": "",
-        "land-&-land-ice-author-team-review": "In progress",
+        "land-&-land-ice-author-team-review": "",
         "ocean-&-sea-ice-author-team-review": ""
     },
     "priority": {

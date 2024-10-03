@@ -11,6 +11,9 @@
         },
         {
             "@id": "dr:variables/oyr.detoc"
+        },
+        {
+            "@id": "dr:variables/oday.detoc"
         }
     ],
     "comments": "",

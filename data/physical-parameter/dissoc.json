@@ -11,6 +11,9 @@
         },
         {
             "@id": "dr:variables/oyr.dissoc"
+        },
+        {
+            "@id": "dr:variables/oday.dissoc"
         }
     ],
     "comments": "",

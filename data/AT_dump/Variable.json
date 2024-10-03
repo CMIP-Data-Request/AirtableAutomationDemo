@@ -2297,7 +2297,7 @@
             "Land & land-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"Vegetation_type ",
+        "CMIP7 Variable Groups":"Vegetation_type , plant_phenology",
         "UID":"83bbfba7-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -17895,7 +17895,7 @@
             "Land & land-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"Vegetation_type ",
+        "CMIP7 Variable Groups":"Vegetation_type , plant_phenology",
         "UID":"83bbfbac-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -23088,6 +23088,50 @@
         "Priority 3 (CMIP6 - OLD)":[
             "CMIP5"
         ],
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
+        "Compound Name":"Oday.detoc",
+        "CF Standard Name (from MIP Variables)":"mole_concentration_of_organic_detritus_expressed_as_carbon_in_sea_water",
+        "Title":"Detrital Organic Carbon Concentration",
+        "Description":"sum of detrital organic carbon component concentrations\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocnBgchem"
+        ],
+        "Table":[
+            "Oday"
+        ],
+        "Frequency":[
+            "day"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Earth System"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"",
         "Cross-thematic team review":"",
@@ -45741,7 +45785,7 @@
         "Status":"CMIP6 CMOR variable",
         "Theme":"",
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"Vegetation_type , urban_impacts_essential",
+        "CMIP7 Variable Groups":"Vegetation_type , urban_impacts_essential, plant_phenology",
         "UID":"bab09a7c-e5dd-11e5-8482-ac72891c3257",
         "Min Rank":"225",
         "Processing Note":"need to explain how to define vegtype.  To facilitate model comparison, it is also requested that the aggregated land cover types called for in lines 28 to 35 be archived (but not in this variable).  Note that if this variable is independent of time, it should be stored only for a single time (user choice).   Note that the \"types\" will be model dependent and for each type there should be a full description of the PFT (plant functional type).\n",
@@ -48277,6 +48321,50 @@
         "Priority 3 (CMIP6 - OLD)":[
             "CMIP5"
         ],
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
+        "Compound Name":"Oday.dissoc",
+        "CF Standard Name (from MIP Variables)":"mole_concentration_of_dissolved_organic_carbon_in_sea_water",
+        "Title":"Dissolved Organic Carbon Concentration",
+        "Description":"Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocnBgchem"
+        ],
+        "Table":[
+            "Oday"
+        ],
+        "Frequency":[
+            "day"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Earth System"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"",
         "Cross-thematic team review":"",
@@ -51206,7 +51294,7 @@
             "Land & land-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"Vegetation_type ",
+        "CMIP7 Variable Groups":"Vegetation_type , plant_phenology",
         "UID":"83bbfba8-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -56052,7 +56140,7 @@
             "Land & land-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"Vegetation_type ",
+        "CMIP7 Variable Groups":"Vegetation_type , plant_phenology",
         "UID":"83bbfba9-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -108631,7 +108719,7 @@
             "Land & land-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"Vegetation_type ",
+        "CMIP7 Variable Groups":"Vegetation_type , plant_phenology",
         "UID":"83bbfbad-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",

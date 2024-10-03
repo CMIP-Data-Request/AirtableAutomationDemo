@@ -635,7 +635,8 @@
         "Status":"Existing physical parameter",
         "CMOR Variables":[
             "recrkzs016EcVuRtx",
-            "recsdyASRKrspUiyS"
+            "recsdyASRKrspUiyS",
+            "recDCsImmqFpVGItL"
         ],
         "Description":"Sum of detrital organic carbon component concentrations\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",
@@ -30166,7 +30167,8 @@
         "Status":"Existing physical parameter",
         "CMOR Variables":[
             "rectpphyt4FP0MFvk",
-            "recSDCqOK83aB3ZNa"
+            "recSDCqOK83aB3ZNa",
+            "recQlwJg7Q92n8jMU"
         ],
         "Description":"Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",
