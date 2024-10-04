@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_zooplankton_expressed_as_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "OceanPP, marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, fishmip_marine_monthly",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
     "compound-name": "Omon.zooc",
     "description": "sum of zooplankton carbon component concentrations\n",
     "frequency": [

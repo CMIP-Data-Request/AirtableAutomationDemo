@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_diazotrophic_phytoplankton_expressed_as_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "fishmip_marine_monthly",
+    "cmip7-variable-groups": "",
     "compound-name": "Omon.phydiaz",
     "description": "carbon concentration from the diazotrophic phytoplankton component alone\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/nitrogen_growth_limitation_of_miscellaneous_phytoplankton"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "OceanPP",
+    "cmip7-variable-groups": "marine_bgc_pp_uncertainty",
     "compound-name": "Omon.limnmisc",
     "description": "Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. \"Miscellaneous phytoplankton\" are all those phytoplankton that are not diatoms, diazotrophs, calcareous phytoplankton, picophytoplankton or other separately named components of the phytoplankton population. \"Nitrogen growth limitation\" means the ratio of the growth rate of a species population in the environment (where there is a finite availability of nitrogen) to the theoretical growth rate if there were no such limit on nitrogen availability.\n",
     "frequency": [

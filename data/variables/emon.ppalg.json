@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "fish_add_mon",
+    "cmip7-variable-groups": "",
     "compound-name": "Emon.ppalg",
     "description": "**algal production**\n",
     "frequency": [

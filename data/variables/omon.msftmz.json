@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_meridional_overturning_mass_streamfunction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_meridional_overturning_streamfunctions_yearly, DAMIP_monthly, CVDP_input, paleodata_assimilation, DCPP_Essential, marine_bgc, paleo_ocean_transports, ref_ocean_and_seaice",
+    "cmip7-variable-groups": "ocean_meridional_overturning_streamfunctions_yearly, DAMIP_monthly, CVDP_input, paleodata_assimilation, DCPP_Essential, marine_bgc_baseline, paleo_ocean_transports, ref_ocean_and_seaice",
     "compound-name": "Omon.msftmz",
     "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
     "frequency": [

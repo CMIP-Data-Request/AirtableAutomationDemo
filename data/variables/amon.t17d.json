@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/depth_of_isosurface_of_sea_water_potential_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "fish_add_mon",
+    "cmip7-variable-groups": "marine_bgc_fisheries",
     "compound-name": "Amon.t17d",
     "description": "**depth\\_of\\_isosurface\\_of\\_sea\\_water\\_potential\\_temperature at 17C**\n",
     "frequency": [

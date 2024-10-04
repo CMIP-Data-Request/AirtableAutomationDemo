@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_water_ph_reported_on_total_scale"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
     "compound-name": "Omon.ph",
     "description": "negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1.\n",
     "frequency": [

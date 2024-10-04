@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/minus_tendency_of_ocean_mole_content_of_inorganic_carbon_due_to_sedimentation"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc, c4mip_ocean_carbon_cycle_tier2, ocean_sediments",
+    "cmip7-variable-groups": "marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier2",
     "compound-name": "Omon.fric",
     "description": "Inorganic Carbon loss to sediments\n",
     "frequency": [

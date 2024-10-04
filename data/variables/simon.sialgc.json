@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "seaice_bgc_monthly",
+    "cmip7-variable-groups": "marine_bgc_seaice",
     "compound-name": "SImon.sialgc",
     "description": "Sum of ice algal carbon component content\n\n",
     "frequency": [

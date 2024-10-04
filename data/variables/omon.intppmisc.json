@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_miscellaneous_phytoplankton"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, c4mip_ocean_carbon_cycle_tier2, fishmip_marine_monthly",
+    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, c4mip_ocean_carbon_cycle_tier2, marine_bgc_fishmip",
     "compound-name": "Omon.intppmisc",
     "description": "Vertically integrated total primary (organic carbon) production by other phytoplankton components alone\n",
     "frequency": [

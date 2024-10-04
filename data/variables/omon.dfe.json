@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_dissolved_iron_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, fishmip_marine_monthly",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
     "compound-name": "Omon.dfe",
     "description": "dissolved iron in sea water is meant to include both Fe2+ and Fe3+ ions (but not, e.g., particulate detrital iron)\n",
     "frequency": [

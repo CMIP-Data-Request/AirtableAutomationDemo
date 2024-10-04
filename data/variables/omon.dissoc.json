@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_dissolved_organic_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
     "compound-name": "Omon.dissoc",
     "description": "Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)\n",
     "frequency": [

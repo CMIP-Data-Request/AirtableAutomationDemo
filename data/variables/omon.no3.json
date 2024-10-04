@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_nitrate_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "OceanPP, marine_bgc, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly, fishmip_marine_monthly",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly",
     "compound-name": "Omon.no3",
     "description": "Mole concentration means moles (amount of substance) per unit volume and is used in the construction mole\\_concentration\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
     "frequency": [

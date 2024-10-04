@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_y_overturning_mass_streamfunction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_meridional_overturning_streamfunctions_yearly, CVDP_input, paleodata_assimilation, marine_bgc, paleo_ocean_transports",
+    "cmip7-variable-groups": "ocean_meridional_overturning_streamfunctions_yearly, CVDP_input, paleodata_assimilation, marine_bgc_baseline, paleo_ocean_transports",
     "compound-name": "Omon.msftyz",
     "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mass_concentration_of_phytoplankton_expressed_as_chlorophyll_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, DCPP_Essential, marine_bgc",
+    "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, DCPP_Essential",
     "compound-name": "Omon.chlos",
     "description": "sum of chlorophyll from all phytoplankton group concentrations.  In most models this is equal to chldiat+chlmisc, that is the sum of \"Diatom Chlorophyll Mass Concentration\" plus \"Other Phytoplankton Chlorophyll Mass Concentration\"\n",
     "frequency": [

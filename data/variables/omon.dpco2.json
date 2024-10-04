@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_carbon_dioxide_partial_pressure_difference_between_sea_water_and_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "marine_bgc_baseline",
     "compound-name": "Omon.dpco2",
     "description": "Difference in partial pressure of carbon dioxide between sea water and air.  The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium. \n",
     "frequency": [

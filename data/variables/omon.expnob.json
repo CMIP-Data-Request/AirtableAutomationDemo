@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sinking_mole_flux_of_particulate_organic_nitrogen_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_sediments",
+    "cmip7-variable-groups": "marine_bgc_sediments",
     "compound-name": "Omon.expnob",
     "description": "Downward sinking flux of particulate organic nitrogen at seafloor\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/cell_thickness"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, ocean_coordinates, ocean_grid, marine_bgc, paleo_fx",
+    "cmip7-variable-groups": "baseline_fixed, ocean_coordinates, ocean_grid, marine_bgc_baseline, paleo_fx",
     "compound-name": "Ofx.thkcello",
     "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.\n",
     "frequency": [

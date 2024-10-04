@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_dissolved_molecular_oxygen_in_sea_water_at_saturation"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "biological_carbon_pump",
+    "cmip7-variable-groups": "marine_bgc_carbon_sink",
     "compound-name": "Omon.o2sat",
     "description": "\"Mole concentration at saturation\" means the mole concentration in a saturated solution. Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole\\_concentration\\_of\\_X\\_in\\_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox\\_expressed\\_as\\_nitrogen\".\n",
     "frequency": [

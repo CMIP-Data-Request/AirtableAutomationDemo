@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "fishmip_marine_monthly",
+    "cmip7-variable-groups": "",
     "compound-name": "Omon.phycnano",
     "description": "Mole Concentration of Nanophytoplankton only Expressed as Carbon in Sea Water\n",
     "frequency": [
