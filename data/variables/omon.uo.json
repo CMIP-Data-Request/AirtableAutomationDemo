@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_water_x_velocity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, surgemip_variables, Bjerknes_Index_ENSO, Hadley_Walker_Circulations, aerchemmip_3d_monthly, marine_bgc_baseline, paleo_ocean_3D, DCPP_Wider, SO_BGC-cloud_ocean_monthly, fish_model_expand_mon, omip_priority, dynamical_downscaling_ocean_core",
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, surgemip_variables, Bjerknes_Index_ENSO, Hadley_Walker_Circulations, aerchemmip_3d_monthly, marine_bgc_baseline, paleo_ocean_3D, DCPP_Wider, SO_BGC-cloud_ocean_monthly, fish_model_expand_mon, omip_priority, dynamical_downscaling_ocean_core, tipmip_baseline",
     "compound-name": "Omon.uo",
     "description": "Prognostic x-ward velocity component resolved by the model.\n",
     "frequency": [

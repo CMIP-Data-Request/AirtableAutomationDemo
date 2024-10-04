@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_runoff_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, ref_land_and_landice, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, WaterResources_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, ref_land_and_landice, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, WaterResources_monthly, CFMIP_baseline, tipmip_baseline",
     "compound-name": "Lmon.mrros",
     "description": "the total surface runoff leaving the land portion of the grid cell.\n",
     "frequency": [

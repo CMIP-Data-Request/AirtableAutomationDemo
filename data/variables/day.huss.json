@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test], paleo_permafrost",
+    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test], paleo_permafrost, tipmip_baseline",
     "compound-name": "day.huss",
     "description": "Near-surface (usually, 2 meter) specific humidity.\n",
     "frequency": [

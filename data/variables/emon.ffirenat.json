@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_natural_fires"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, aerchemmip_2d_monthly, c4mip_land_carbon_cycle_tier1",
+    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, aerchemmip_2d_monthly, c4mip_land_carbon_cycle_tier1, tipmip_extended",
     "compound-name": "Emon.fFireNat",
     "description": "CO2 emissions from natural fires\n",
     "frequency": [

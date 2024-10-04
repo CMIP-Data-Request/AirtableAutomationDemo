@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/bedrock_altitude"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_greenland_allfreq",
+    "cmip7-variable-groups": "landice_greenland_allfreq, tipmip_baseline",
     "compound-name": "IfxGre.topg",
     "description": "The bedrock topography beneath the land ice\n",
     "frequency": [

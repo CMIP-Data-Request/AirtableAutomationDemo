@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/upward_geothermal_heat_flux_at_ground_level_in_land_ice"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "landice_greenland_allfreq",
+    "cmip7-variable-groups": "landice_greenland_allfreq, tipmip_baseline",
     "compound-name": "IfxGre.hfgeoubed",
     "description": "",
     "frequency": [
