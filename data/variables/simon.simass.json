@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_amount"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, seaice_budget_mass_monthly, seaice_state_monthly_basic",
+    "cmip7-variable-groups": "baseline_monthly, seaice_budget_mass_monthly, seaice_state_monthly_basic, paleo_cryosphere",
     "compound-name": "SImon.simass",
     "description": "(in OImon, sim included snow and sea ice mass)\n",
     "frequency": [

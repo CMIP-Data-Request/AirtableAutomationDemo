@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/fraction_of_time_with_sea_ice_area_fraction_above_threshold"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, SO_BGC-cloud_ocean_monthly",
+    "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, SO_BGC-cloud_ocean_monthly, paleo_cryosphere",
     "compound-name": "SImon.sitimefrac",
     "description": "Fraction of time steps of the averaging period during which sea ice is present (siconc >0 ) in a grid cell\n",
     "frequency": [

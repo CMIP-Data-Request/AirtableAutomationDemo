@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/downward_sea_ice_basal_salt_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_freshwater_monthly",
+    "cmip7-variable-groups": "seaice_budget_freshwater_monthly, paleo_cryosphere",
     "compound-name": "SImon.siflsaltbot",
     "description": "Total flux of salt from water into sea ice divided by grid-cell area; salt flux is upward (negative) during ice growth when salt is embedded into the ice and downward (positive) during melt when salt from sea ice is again released to the ocean.\n",
     "frequency": [

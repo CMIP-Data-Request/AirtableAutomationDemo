@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_temperature_expressed_as_heat_content"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_monthly, seaice_state_monthly_advanced",
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, seaice_state_monthly_advanced, paleo_cryosphere",
     "compound-name": "SImon.sihc",
     "description": "Heat content of all ice in grid cell divided by total grid-cell area. Water at 0 Celsius is assumed to have a heat content of 0 J.  Does not include heat content of snow, but does include heat content of brine. Heat content is always negative, since both the sensible and the latent heat content of ice are less than that of water\n",
     "frequency": [

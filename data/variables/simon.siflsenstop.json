@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_upward_sensible_heat_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_monthly, DCPP_Wider",
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, DCPP_Wider, paleo_cryosphere",
     "compound-name": "SImon.siflsenstop",
     "description": "the net sensible heat flux over sea ice\n",
     "frequency": [

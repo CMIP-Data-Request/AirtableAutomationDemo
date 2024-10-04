@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_extent"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_global_monthly_basic",
+    "cmip7-variable-groups": "seaice_global_monthly_basic, paleo_cryosphere",
     "compound-name": "SImon.siextents",
     "description": "Total area of all Southern-Hemisphere grid cells that are covered by at least 15 % areal fraction of sea ice\n",
     "frequency": [
