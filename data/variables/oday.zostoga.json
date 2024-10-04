@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/global_average_thermosteric_sea_level_change"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "omip_priority",
+    "cmip7-variable-groups": "omip_priority, Sea_level_extremes",
     "compound-name": "Oday.zostoga",
     "description": "Global Average Thermosteric Sea Level Change\n",
     "frequency": [

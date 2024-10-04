@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/thickness_of_ice_on_sea_ice_melt_pond"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_state_monthly_advanced",
+    "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere",
     "compound-name": "SImon.simprefrozen",
     "description": "Volume of refrozen ice on melt ponds divided by meltpond covered area\n",
     "frequency": [
