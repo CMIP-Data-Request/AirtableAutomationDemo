@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mass_concentration_of_phytoplankton_expressed_as_chlorophyll_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DCPP_Wider, biodiv_marine_daily, Ocean_acidification_oxygen_extremes",
+    "cmip7-variable-groups": "DCPP_Wider, Ocean_acidification_oxygen_extremes",
     "compound-name": "Oday.chl",
     "description": "Sum of chlorophyll from all phytoplankton group concentrations. In most models this is equal to chldiat+chlmisc, that is the sum of Diatom Chlorophyll Mass Concentration and Other Phytoplankton Chlorophyll Mass Concentration\n",
     "frequency": [

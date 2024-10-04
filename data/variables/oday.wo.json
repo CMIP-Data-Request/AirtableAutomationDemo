@@ -1,13 +1,13 @@
 {
-    "@id": "dr:data/variables/oday.intppdiat",
+    "@id": "dr:data/variables/oday.wo",
     "@type": "dr:variable",
     "cf-standard-name": {
-        "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_diatoms"
+        "@id": "cf:standard-name/upward_sea_water_velocity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
-    "compound-name": "Oday.intppdiat",
-    "description": "Vertically integrated primary (organic carbon) production by the diatom phytoplankton component alone\n",
+    "cmip7-variable-groups": "biodiv_marine_daily",
+    "compound-name": "Oday.wo",
+    "description": "Prognostic z-ward velocity component resolved by the model.\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/day"
@@ -15,11 +15,11 @@
     ],
     "modeling-realm": [
         {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
     "positive-direction": "",
-    "processing-note": "",
+    "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "",
     "status": "New",
     "table": [
@@ -28,9 +28,9 @@
     "theme": [
         "Ocean & sea-ice"
     ],
-    "title": "Net Primary Organic Carbon Production by Diatoms",
+    "title": "Sea Water Vertical Velocity",
     "type": "real",
-    "uid": "83bbfb85-7f07-11ef-9308-b1dd71e64bec",
+    "uid": "",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
@@ -40,7 +40,7 @@
         "earth-system-author-team-review": "",
         "impacts-&-adaptation-author-team-review": "",
         "land-&-land-ice-author-team-review": "",
-        "ocean-&-sea-ice-author-team-review": "In progress"
+        "ocean-&-sea-ice-author-team-review": ""
     },
     "priority": {
         "priority-1-(cmip6)": "",

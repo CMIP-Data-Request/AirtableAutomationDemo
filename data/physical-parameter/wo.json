@@ -11,6 +11,9 @@
         },
         {
             "@id": "dr:variables/omon.wo"
+        },
+        {
+            "@id": "dr:variables/oday.wo"
         }
     ],
     "comments": "",

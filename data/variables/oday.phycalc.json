@@ -1,13 +1,13 @@
 {
-    "@id": "dr:data/variables/oday.intppdiat",
+    "@id": "dr:data/variables/oday.phycalc",
     "@type": "dr:variable",
     "cf-standard-name": {
-        "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_diatoms"
+        "@id": "cf:standard-name/mole_concentration_of_calcareous_phytoplankton_expressed_as_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
-    "compound-name": "Oday.intppdiat",
-    "description": "Vertically integrated primary (organic carbon) production by the diatom phytoplankton component alone\n",
+    "cmip7-variable-groups": "biodiv_marine_daily",
+    "compound-name": "Oday.phycalc",
+    "description": "carbon concentration from calcareous (calcite-producing) phytoplankton component alone\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/day"
@@ -19,18 +19,18 @@
         }
     ],
     "positive-direction": "",
-    "processing-note": "",
+    "processing-note": "\"Tracer\" concentrations should be reported even if they are diagnosed rather than prognostically calculated.\n",
     "provenance": "",
     "status": "New",
     "table": [
         "Oday"
     ],
     "theme": [
-        "Ocean & sea-ice"
+        "Earth System"
     ],
-    "title": "Net Primary Organic Carbon Production by Diatoms",
+    "title": "Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water",
     "type": "real",
-    "uid": "83bbfb85-7f07-11ef-9308-b1dd71e64bec",
+    "uid": "",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
@@ -40,7 +40,7 @@
         "earth-system-author-team-review": "",
         "impacts-&-adaptation-author-team-review": "",
         "land-&-land-ice-author-team-review": "",
-        "ocean-&-sea-ice-author-team-review": "In progress"
+        "ocean-&-sea-ice-author-team-review": ""
     },
     "priority": {
         "priority-1-(cmip6)": "",

@@ -2745,7 +2745,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb85-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -4101,7 +4101,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"DCPP_Wider, biodiv_marine_daily, Ocean_acidification_oxygen_extremes",
+        "CMIP7 Variable Groups":"DCPP_Wider, Ocean_acidification_oxygen_extremes",
         "UID":"83bbfb94-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"The variable at the depth of 200 meters is requested.\n",
@@ -23605,7 +23605,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb8e-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -23620,6 +23620,50 @@
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
         "Ocean & sea-ice author team review":"In progress",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
+        "Compound Name":"Oday.wo",
+        "CF Standard Name (from MIP Variables)":"upward_sea_water_velocity",
+        "Title":"Sea Water Vertical Velocity",
+        "Description":"Prognostic z-ward velocity component resolved by the model.\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocean"
+        ],
+        "Table":[
+            "Oday"
+        ],
+        "Frequency":[
+            "day"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Ocean & sea-ice"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"Report on native horizontal grid. Online mapping to depth\/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
         "Cross-thematic team review":"",
         "Cross-thematic group review comment":"",
         "Land & land-ice author team review":"",
@@ -25330,7 +25374,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb83-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -27444,7 +27488,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb84-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -32758,7 +32802,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb81-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -64033,6 +64077,50 @@
         "Earth system author team review":""
     },
     {
+        "Compound Name":"Oday.phycalc",
+        "CF Standard Name (from MIP Variables)":"mole_concentration_of_calcareous_phytoplankton_expressed_as_carbon_in_sea_water",
+        "Title":"Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water",
+        "Description":"carbon concentration from calcareous (calcite-producing) phytoplankton component alone\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocnBgchem"
+        ],
+        "Table":[
+            "Oday"
+        ],
+        "Frequency":[
+            "day"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Earth System"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"\"Tracer\" concentrations should be reported even if they are diagnosed rather than prognostically calculated.\n",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
         "Compound Name":"E1hr.rsdsdiff",
         "CF Standard Name (from MIP Variables)":"surface_diffuse_downwelling_shortwave_flux_in_air",
         "Title":"Surface Diffuse Downwelling Shortwave Radiation ",
@@ -86177,6 +86265,50 @@
         "Earth system author team review":""
     },
     {
+        "Compound Name":"Oday.intpoc",
+        "CF Standard Name (from MIP Variables)":"ocean_mass_content_of_particulate_organic_matter_expressed_as_carbon",
+        "Title":"Particulate Organic Carbon Content",
+        "Description":"Vertically integrated POC\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocnBgchem"
+        ],
+        "Table":[
+            "Oday"
+        ],
+        "Frequency":[
+            "day"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Earth System"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
         "Compound Name":"Omon.fric",
         "CF Standard Name (from MIP Variables)":"minus_tendency_of_ocean_mole_content_of_inorganic_carbon_due_to_sedimentation",
         "Title":"Downward Inorganic Carbon Flux at Ocean Bottom",
@@ -94940,7 +95072,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb82-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -99791,7 +99923,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "CMIP7 Variable Groups":"",
         "UID":"83bbfb86-7f07-11ef-9308-b1dd71e64bec",
         "Min Rank":"",
         "Processing Note":"",
@@ -108554,6 +108686,50 @@
         "Rank by Volume":"1024",
         "Rank by Submissions":"461",
         "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
+        "Compound Name":"Oday.expcob",
+        "CF Standard Name (from MIP Variables)":"sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water",
+        "Title":"Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom",
+        "Description":"Downward sinking flux of particulate organic carbon at seafloor\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocnBgchem"
+        ],
+        "Table":[
+            "Oday"
+        ],
+        "Frequency":[
+            "day"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Earth System"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"biodiv_marine_daily",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"down",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",

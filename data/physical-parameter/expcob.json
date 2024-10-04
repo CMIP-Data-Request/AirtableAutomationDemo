@@ -8,6 +8,9 @@
     "cmor-variables": [
         {
             "@id": "dr:variables/omon.expcob"
+        },
+        {
+            "@id": "dr:variables/oday.expcob"
         }
     ],
     "comments": "",

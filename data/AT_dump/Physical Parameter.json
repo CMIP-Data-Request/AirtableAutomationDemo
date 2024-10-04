@@ -24801,7 +24801,8 @@
         "Name Validation":1,
         "Status":"New",
         "CMOR Variables":[
-            "rec9pLukeZSqZu4a5"
+            "rec9pLukeZSqZu4a5",
+            "reczPQ0BNsaiNghr1"
         ],
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
@@ -43986,7 +43987,8 @@
         "Status":"Existing physical parameter",
         "CMOR Variables":[
             "recDxnWMxVKV6GEGc",
-            "rec4eOFw3ZyRKLfoR"
+            "rec4eOFw3ZyRKLfoR",
+            "recZWoszfZdvZEJgz"
         ],
         "Description":"carbon concentration from calcareous (calcite-producing) phytoplankton component alone\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",
@@ -50330,7 +50332,8 @@
         "Status":"Existing physical parameter",
         "CMOR Variables":[
             "recUypHT0q4GSBZUY",
-            "recgXbwgqx2Z5KX68"
+            "recgXbwgqx2Z5KX68",
+            "recDV7y8QXydrDzCB"
         ],
         "Description":"A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward).\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",
@@ -52403,7 +52406,8 @@
         "Name Validation":1,
         "Status":"Existing physical parameter",
         "CMOR Variables":[
-            "recdhVV3HqJoi66zB"
+            "recdhVV3HqJoi66zB",
+            "recmbkfHdpYCSlYDw"
         ],
         "Description":"Vertically integrated POC\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",

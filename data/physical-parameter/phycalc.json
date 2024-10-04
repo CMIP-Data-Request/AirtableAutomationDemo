@@ -11,6 +11,9 @@
         },
         {
             "@id": "dr:variables/oyr.phycalc"
+        },
+        {
+            "@id": "dr:variables/oday.phycalc"
         }
     ],
     "comments": "",

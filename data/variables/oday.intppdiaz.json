@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_diazotrophic_phytoplankton"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "biodiv_marine_daily",
+    "cmip7-variable-groups": "",
     "compound-name": "Oday.intppdiaz",
     "description": "Vertically integrated primary (organic carbon) production by the diazotrophs alone\n",
     "frequency": [

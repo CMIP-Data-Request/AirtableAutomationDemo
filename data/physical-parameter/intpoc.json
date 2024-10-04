@@ -8,6 +8,9 @@
     "cmor-variables": [
         {
             "@id": "dr:variables/omon.intpoc"
+        },
+        {
+            "@id": "dr:variables/oday.intpoc"
         }
     ],
     "comments": "",

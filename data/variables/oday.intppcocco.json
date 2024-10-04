@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "biodiv_marine_daily",
+    "cmip7-variable-groups": "",
     "compound-name": "Oday.intppcocco",
     "description": "Vertically integrated primary (organic carbon) production by the coccolithophores component alone\n",
     "frequency": [
