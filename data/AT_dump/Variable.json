@@ -12140,6 +12140,50 @@
         "Earth system author team review":""
     },
     {
+        "Compound Name":"Omon.sfx",
+        "CF Standard Name (from MIP Variables)":"ocean_salt_x_transport",
+        "Title":"Ocean x salt transport",
+        "Description":"Contains all contributions to \"x-ward\" heat transport from resolved and parameterized processes.\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocean"
+        ],
+        "Table":[
+            "Omon"
+        ],
+        "Frequency":[
+            "mon"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Ocean & sea-ice"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"3D field. Report on native horizontal grid.\n",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
         "Compound Name":"Esubhr.hus",
         "CF Standard Name (from MIP Variables)":"specific_humidity",
         "Title":"Specific Humidity",
@@ -92537,6 +92581,50 @@
         "Rank by Volume":"1671",
         "Rank by Submissions":"1463",
         "Positive Direction":"down",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
+        "Compound Name":"Omon.sfy",
+        "CF Standard Name (from MIP Variables)":"ocean_salt_y_transport",
+        "Title":"Ocean Salt Y Transport",
+        "Description":"Contains all contributions to 'y-ward' salt transport from resolved and parameterized processes.\n",
+        "Type":"real",
+        "Modeling Realm":[
+            "ocean"
+        ],
+        "Table":[
+            "Omon"
+        ],
+        "Frequency":[
+            "mon"
+        ],
+        "Status":"New",
+        "Theme":[
+            "Ocean & sea-ice"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"",
+        "UID":"",
+        "Min Rank":"",
+        "Processing Note":"time-mean on ocean grid\n",
+        "Provenance":"",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",

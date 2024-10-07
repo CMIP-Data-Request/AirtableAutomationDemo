@@ -603,6 +603,9 @@ rec6uJ6QNXl833KyT,Eday.hfss,surface_upward_sensible_heat_flux,Surface Upward Sen
 ",real,['atmos'],['Eday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,d2278996-4a9f-11e6-b84e-ac72891c3257,736,,LS3MIP [LEday],,['LS3MIP'],909,736,898,up,,,,,,,,,,,,
 rec6v24OBdb6uB0vO,EmonZ.vmrox,mole_fraction_of_ox_in_air,"Mole Fraction of Odd Oxygen (O, O3 and O1D)","zonal mean; hence YZT
 ",real,['atmosChem'],['EmonZ'],['mon'],CMIP6 CMOR variable,,,,8b8f0e58-4a5b-11e6-9cd2-ac72891c3257,1463,,DAMIP [DAMIP_Amon_new],,['DAMIP'],1480,1651,1463,,,,,,,,,,,,,
+rec6vQ9cOXrDi6OdY,Omon.sfx,ocean_salt_x_transport,Ocean x salt transport,"Contains all contributions to ""x-ward"" heat transport from resolved and parameterized processes.
+",real,['ocean'],['Omon'],['mon'],New,['Ocean & sea-ice'],,,,,"3D field. Report on native horizontal grid.
+",,,,,,,,,,,,,,,,,,,
 rec6wtBviGdE9Hg8w,Esubhr.hus,specific_humidity,Specific Humidity,"Specific humidity is the mass fraction of water vapor in (moist) air.
 ",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,,8bb1a788-4a5b-11e6-9cd2-ac72891c3257,127,,HighResMIP [1ts],,,1069,127,1681,,,['HighResMIP'],,,,,,,,,,
 rec6zNjoLw4hNeakS,Eday.snm,surface_snow_melt_flux,Surface Snow Melt,"surface\_snow\_and\_ice\_melt\_flux
@@ -4543,6 +4546,9 @@ recqE5MyNYAL2DFri,E3hrPt.mmrso4,mass_fraction_of_sulfate_dry_aerosol_particles_i
 ",real,['aerosol'],['E3hrPt'],['3hrPt'],Under review,['Atmosphere'],In progress,"aerchemmip_CFsites, WaterResources_subdaily",83bbfbb4-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 recqLZfrcDQebUFGx,Emon.netAtmosLandC13Flux,surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_13C_due_to_all_land_processes,Net Mass Flux of 13C Between Atmosphere and Land (Positive into Land) as a Result of All Processes [kgC m-2 s-1],"Flux of carbon 31as carbon dioxide into the land. This flux should be reproducible by differencing the sum of all carbon pools (cVeg, cLitter, cSoil, and cProducts or equivalently cLand) from one time step to the next, except in the case of lateral transfer of carbon due to harvest, riverine transport of dissolved organic and/or inorganic carbon, or any other process (in which case the lateral\_carbon\_transfer\_over\_land term, see below, will be zero data).-
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_carbon_isotopic_variables,6f6b5004-9acb-11e6-b7ee-ac72891c3257,1463,,PMIP [PMIP-Lmon-02],"['C4MIP', 'PMIP']",,1562,1671,1463,down,,,,,,,,,,,,
+recqU5nQjIboAnbPs,Omon.sfy,ocean_salt_y_transport,Ocean Salt Y Transport,"Contains all contributions to 'y-ward' salt transport from resolved and parameterized processes.
+",real,['ocean'],['Omon'],['mon'],New,['Ocean & sea-ice'],,,,,"time-mean on ocean grid
+",,,,,,,,,,,,,,,,,,,
 recqXaCKgoFcpRDjP,Emon.expfe,sinking_mole_flux_of_particulate_iron_in_sea_water,Sinking Particulate Iron Flux,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.   'Sinking' is the gravitational settling of particulate matter suspended in a liquid. A sinking flux is positive downwards and is calculated relative to the movement of the surrounding fluid.
 ",real,['ocnBgchem'],['Emon'],['mon'],CMIP6 CMOR variable,,,,e708c2a4-aa7f-11e6-9a4a-5404a60d96b5,159,"Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
 ",C4MIP [C_Ocean_T2],,['C4MIP'],671,159,839,down,,,,,,,,,,,,

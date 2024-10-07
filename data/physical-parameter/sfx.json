@@ -5,7 +5,11 @@
         "@id": "cf:standard-name/0 checked out of 1"
     },
     "cf-standard-name-exists": false,
-    "cmor-variables": "",
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/omon.sfx"
+        }
+    ],
     "comments": "",
     "created": "2024-10-07T07:12:25.000Z",
     "data-protection-consent": true,

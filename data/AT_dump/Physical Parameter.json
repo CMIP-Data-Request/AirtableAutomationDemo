@@ -13369,7 +13369,9 @@
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
-        "CMOR Variables":"",
+        "CMOR Variables":[
+            "recqU5nQjIboAnbPs"
+        ],
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-10-07T07:13:53.000Z",
@@ -47360,7 +47362,9 @@
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
-        "CMOR Variables":"",
+        "CMOR Variables":[
+            "rec6vQ9cOXrDi6OdY"
+        ],
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-10-07T07:12:25.000Z",
