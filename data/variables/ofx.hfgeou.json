@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/upward_geothermal_heat_flux_at_sea_floor"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed",
+    "cmip7-variable-groups": "baseline_fixed, omip_geometry_physics",
     "compound-name": "Ofx.hfgeou",
     "description": "Upward geothermal heat flux per unit area on the sea floor\n",
     "frequency": [

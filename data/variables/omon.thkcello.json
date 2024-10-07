@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/cell_thickness"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, ocean_coordinates, ocean_grid, OMIP_scalar_fields, omip_priority, tipmip_extended",
+    "cmip7-variable-groups": "baseline_monthly, ocean_coordinates, ocean_grid, omip_scalar_fields, omip_priority, tipmip_extended",
     "compound-name": "Omon.thkcello",
     "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.\n",
     "frequency": [

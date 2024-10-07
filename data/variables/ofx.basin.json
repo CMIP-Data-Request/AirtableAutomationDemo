@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/region"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, paleo_fx, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_fixed, paleo_fx, CFMIP_baseline, omip_geometry_physics",
     "compound-name": "Ofx.basin",
     "description": "A variable with the standard name of region contains strings which indicate geographical regions. These strings must be chosen from the standard region list.\n",
     "frequency": [

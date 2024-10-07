@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/square_of_brunt_vaisala_frequency_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "OMIP_scalar_fields",
+    "cmip7-variable-groups": "omip_scalar_fields",
     "compound-name": "Omon.obvfsq",
     "description": "The phrase \"square\\_of\\_X\" means X\\*X. Frequency is the number of oscillations of a wave per unit time. Brunt-Vaisala frequency is also sometimes called \"buoyancy frequency\" and is a measure of the vertical stratification of the medium.\n",
     "frequency": [

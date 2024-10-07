@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_water_salinity_at_sea_floor"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc_baseline, OMIP_scalar_fields",
+    "cmip7-variable-groups": "marine_bgc_baseline, omip_scalar_fields",
     "compound-name": "Omon.sob",
     "description": "Model prognostic salinity at bottom-most model grid cell\n",
     "frequency": [

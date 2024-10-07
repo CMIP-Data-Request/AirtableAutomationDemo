@@ -49,7 +49,7 @@ recUe4A02m9D3NaFe,scatratio,lidar backscattering ratio,15 bins of scattering rat
 recV8JFEdA18TJ9G0,depth700m,depth,coordinate value for 700 m ocean depth,coordinate,depth,depth,Z,True,down,double,dim:depth700m,fixedScalar,m,350.,,increasing,,,700.0,0.0,"0, 700",
 recVCnmShdwvU82wX,landUse,Land use type,"In CMIP6, this is encoded as an index dimension called landuse and an auxiliary dimension called sector",dimension,landuse,area_type,,,,character,dim:landUse,,,,,,primary_and_secondary_land pastures crops urban,,,,,
 recVQ30MzTql01p6s,lambda550nm,Radiation Wavelength 550 nanometers,Radiation wavelength used for monitoring aerosol properties,coordinate,wavelength,radiation_wavelength,,,,double,dim:lambda550nm,fixedScalar,nm,550.0,,,,,,,,
-recVg6m8HfmriiHMv,overt200m,depth,coordinate value for 100 m ocean depth,coordinate,depth,depth,Z,,down,double,dim:depth200m,fixedScalar,m,200.,,increasing,,,220.0,180.0,,
+recVg6m8HfmriiHMv,overt20bar,Hydrostatic Pressure 20bar,Coordinate level as hydrostatic pressure depth of 20bar (approximately 200m),coordinate,depth,sea_water_pressure_due_to_sea_water,Z,,down,double,dim:depth200m,fixedScalar,bar,20.,,increasing,,,22.0,18.0,,
 recWo2rmVSBYtJp5Z,typec4pft,surface type,,coordinate,type,area_type,,,,character,dim:typec4pft,fixedScaler,,c4_plant_functional_types,,,,,,,,
 recX7r20i18xNFIGn,typesirdg,Sea Ice Ridge  area type,,coordinate,type,area_type,,,,character,dim:typesirdg,fixedScaler,,sea_ice_ridges,,,,,,,,
 recYAtuvOqOZISrTS,time3,Diurnal Mean,Diurnal cycle: monthly mean of the diurnal cycle (1 hour steps).,dimension,time,time,T,True,,double,dim:time3,model,days since ?,,,increasing,,,,,,True
