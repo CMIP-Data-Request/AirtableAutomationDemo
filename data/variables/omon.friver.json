@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/water_flux_into_sea_water_from_rivers"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "hydrology, dynamical_downscaling_ocean_core, tipmip_extended",
+    "cmip7-variable-groups": "hydrology, dynamical_downscaling_ocean_core, tipmip_extended, omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.friver",
     "description": "computed as the river flux of water into the ocean divided by the area of the ocean portion of the grid cell.\n",
     "frequency": [

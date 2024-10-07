@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/water_evapotranspiration_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.evs",
     "description": "computed as the total mass of water vapor evaporating from the ice-free portion of the ocean  divided by the area of the ocean portion of the grid cell.\n",
     "frequency": [

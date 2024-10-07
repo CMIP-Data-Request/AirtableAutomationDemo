@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/northward_ocean_heat_transport_due_to_overturning"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_ocean_salt_and_heat_transport_variables_monthly, paleo_ocean_transports, tipmip_extended",
+    "cmip7-variable-groups": "aerchemmip_ocean_salt_and_heat_transport_variables_monthly, paleo_ocean_transports, tipmip_extended, omip_transports_medium_priority",
     "compound-name": "Omon.htovovrt",
     "description": "From all advective mass transport processes, resolved and parameterized.\n",
     "frequency": [

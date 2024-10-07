@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_heat_x_transport"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_mesoscale, poleward_heat_transports, paleo_ocean_transports, tipmip_extended",
+    "cmip7-variable-groups": "ocean_mesoscale, poleward_heat_transports, paleo_ocean_transports, tipmip_extended, omip_transports_medium_priority",
     "compound-name": "Omon.hfx",
     "description": "Contains all contributions to \"x-ward\" heat transport from resolved and parameterized processes.  Use Celsius for temperature scale.\n",
     "frequency": [
