@@ -1,0 +1,39 @@
+{
+    "@id": "dr:data/physical-parameter/sfx",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": "",
+    "comments": "",
+    "created": "2024-10-07T07:12:25.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "For regional budgets of salt in eddy-permitting ocean models, this term is necessary because the salt transport has an eddy component (arising from salinity-velocity correlations in time) that cannot be recomputed from monthly salinity and velocity.\n",
+    "last-modified-by": "Anonymous",
+    "name": "sfx",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "anne-marie.treguier@univ-brest.fr",
+    "proposer-name": "Anne Marie Treguier",
+    "provenance": "",
+    "status": "New",
+    "tagged-author-team": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Ocean Salt X Transport",
+    "uid": "",
+    "units": "kg s-1",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}
