@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_water_salinity_expressed_as_salt_content_due_to_parameterized_mesoscale_eddy_diffusion"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.osaltpmdiff",
     "description": "Tendency of salt content for a grid cell from parameterized mesoscale eddy diffusion.\n",
     "frequency": [

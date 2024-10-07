@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_vertical_salt_diffusivity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_parameterizations",
     "compound-name": "Oyr.difvso",
     "description": "Vertical/dianeutral diffusivity applied to prognostic salinity field.\n",
     "frequency": [

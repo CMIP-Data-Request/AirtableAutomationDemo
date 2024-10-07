@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_kinetic_energy_dissipation_per_unit_area_due_to_xy_friction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_parameterizations",
     "compound-name": "Oyr.dispkexyfo",
     "description": "Depth integrated impacts on kinetic energy arising from lateral frictional dissipation associated with Laplacian and/or biharmonic viscosity. For CMIP5, this diagnostic was 3d, whereas the CMIP6 depth integrated diagnostic is sufficient for many purposes and reduces archive requirements.\n",
     "frequency": [
