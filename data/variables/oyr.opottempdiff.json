@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_water_potential_temperature_expressed_as_heat_content_due_to_parameterized_dianeutral_mixing"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.opottempdiff",
     "description": "Tendency of heat content for a grid cell from parameterized dianeutral mixing. Reported only for models that use potential temperature as prognostic field.\n",
     "frequency": [

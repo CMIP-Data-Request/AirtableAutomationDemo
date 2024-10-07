@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/integral_wrt_depth_of_product_of_conservative_temperature_and_sea_water_density"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.ocontempmint",
     "description": "Full column sum of density\\*cell thickness\\*conservative temperature. If the model is Boussinesq, then use Boussinesq reference density for the density factor.\n",
     "frequency": [

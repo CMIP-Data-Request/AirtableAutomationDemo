@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_water_potential_temperature_expressed_as_heat_content"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "paleo_ocean_3D",
+    "cmip7-variable-groups": "paleo_ocean_3D, omip_budgets",
     "compound-name": "Oyr.opottemptend",
     "description": "Tendency of heat content for a grid cell from all processes. Reported only for models that use potential temperature as prognostic field.\n",
     "frequency": [

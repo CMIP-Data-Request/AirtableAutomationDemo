@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_water_salinity_expressed_as_salt_content"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.osalttend",
     "description": "Tendency of salt content for a grid cell from all processes.\n",
     "frequency": [

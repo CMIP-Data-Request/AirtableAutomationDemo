@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/net_rate_of_absorption_of_shortwave_energy_in_ocean_layer"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.rsdoabsorb",
     "description": "Tendency of heat content for a grid cell from penetrative shortwave radiation within a grid cell.\n",
     "frequency": [
