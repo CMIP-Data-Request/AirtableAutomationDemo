@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/thermal_energy_content_of_surface_snow"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_daily, seaice_state_daily_advanced",
+    "cmip7-variable-groups": "seaice_budget_energy_daily, seaice_state_daily_advanced, snow_allfreq",
     "compound-name": "SIday.sisnhc",
     "description": "Heat-content of all snow in grid cell divided by total grid-cell area. Snow-water equivalent at 0 Celsius is assumed to have a heat content of 0 J.  Does not include heat content of sea ice.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_snow_melt_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "hydrology",
+    "cmip7-variable-groups": "hydrology, snow_allfreq",
     "compound-name": "Eday.snm",
     "description": "surface\\_snow\\_and\\_ice\\_melt\\_flux\n",
     "frequency": [

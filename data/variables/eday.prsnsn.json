@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mass_fraction_of_solid_precipitation_falling_onto_surface_snow"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "snow_allfreq",
     "compound-name": "Eday.prsnsn",
     "description": "mass\\_fraction\\_of\\_snowfall\\_onto\\_snow\n",
     "frequency": [

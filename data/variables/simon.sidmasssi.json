@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_ice_amount_due_to_conversion_of_snow_to_sea_ice"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere, snow_allfreq",
     "compound-name": "SImon.sidmasssi",
     "description": "The rate of change of sea ice mass due to transformation of snow to sea ice divided by grid-cell area\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/soot_content_of_surface_snow"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "FireMIP_monthly",
+    "cmip7-variable-groups": "FireMIP_monthly, snow_allfreq",
     "compound-name": "LImon.sootsn",
     "description": "the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.\n",
     "frequency": [

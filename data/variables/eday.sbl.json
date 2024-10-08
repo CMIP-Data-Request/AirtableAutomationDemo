@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_atmosphere_mass_content_of_water_vapor_due_to_sublimation_of_surface_snow_and_ice"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "snow_allfreq",
     "compound-name": "Eday.sbl",
     "description": "surface\\_snow\\_and\\_ice\\_sublimation\\_flux\n",
     "frequency": [

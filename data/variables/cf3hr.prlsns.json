@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/stratiform_snowfall_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_3hr",
+    "cmip7-variable-groups": "cfmip_3hr, snow_allfreq",
     "compound-name": "CF3hr.prlsns",
     "description": "large-scale precipitation of all forms of water in the solid phase.\n",
     "frequency": [

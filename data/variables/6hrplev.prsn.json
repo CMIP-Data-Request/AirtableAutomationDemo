@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/snowfall_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "landice_global_allfreq",
+    "cmip7-variable-groups": "landice_global_allfreq, snow_allfreq",
     "compound-name": "6hrPlev.prsn",
     "description": "at surface. Includes precipitation of all forms water in the solid phase.\n",
     "frequency": [

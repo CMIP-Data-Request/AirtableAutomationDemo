@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_snow_amount"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DAMIP_monthly",
+    "cmip7-variable-groups": "DAMIP_monthly, snow_allfreq",
     "compound-name": "Lmon.snw",
     "description": "As snw but defined as Lmon (Not sure about this though - it seems already available as LImon but I'm guessing that's only over land ice?)\n",
     "frequency": [
