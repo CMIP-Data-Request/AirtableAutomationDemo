@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/mole_concentration_of_calcite_expressed_as_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "Ocean_acidification_oxygen_extremes",
     "compound-name": "Omon.calc",
     "description": "sum of particulate calcite component concentrations (e.g. Phytoplankton, Detrital, etc.)\n",
     "frequency": [
