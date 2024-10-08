@@ -75,7 +75,7 @@ recfFPXgVqd4Um5jH,gridlatitude,Grid Latitude,,dimension,rlat,grid_latitude,Y,Tru
 recfrTZMIK32psFQQ,p1000,pressure,1000 hPa,coordinate,plev,air_pressure,Z,,down,double,dim:p1000,fixedScalar,Pa,100000.,,,,,,,,
 recitpUO1krSZU2wR,alevhalf,Atmospheric Model Half-level,"Atmospheric model ""half"" level [use CF standard name apporpriate for model vertical coordinate, e.g. model_level_number or atmosphere_sigma_coordinate]",dimension,lev,,Z,,up,double,dim:alevhalf,options,,,,,,,,,,
 recj92B89EeHy9s4w,typec3pastures,C3 Pastures area type,,coordinate,type,area_type,,,,character,dim:typec3pastures,fixedScaler,,pastures_of_c3_plant_functional_types,,,,,,,,
-recjSHnEM0z8hffuE,swplayers,Hydrostatic Pressure Layers,Coordinate levels as hydrostatic pressure layers spanning full depth of the ocean,coordinate,,sea_water_pressure_due_to_sea_water,,,,,,,,,,,,,,,,
+recjSHnEM0z8hffuE,swplayers,Hydrostatic Pressure Layers,Coordinate levels as hydrostatic pressure layers spanning full depth of the ocean,dimension,depth,sea_water_pressure_due_to_sea_water,Z,True,down,double,dim:swplayers,fixed,bar,,0. 20. 20. 30. 30. 70. 70. 200. 200. 1000.,increasing,10.  25.  50.  135. 300.,1.0,,,,
 reckjxRgngf8fepQT,typesi,Sea Ice area type,,coordinate,type,area_type,,,,character,dim:typesi,fixedScaler,,sea_ice,,,,,,,,
 recksNR3O685kGGF4,scatter180,Scattering Angle,Angle of scattering relative to direction of incident radiation,coordinate,scatangle,scattering_angle,,,,double,dim:scatter180,fixedScalar,degree,180.0,,,,,,,,
 reclg32wOmLg9hJ0b,typecrop,Crop area type,,coordinate,type,area_type,,,,character,dim:typecrop,fixedScaler,,crops,,,,,,,,
