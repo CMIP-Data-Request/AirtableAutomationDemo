@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_downward_heat_flux_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Essential, paleo_cryosphere, SO_BGC-cloud_ocean_monthly, DAMIP_monthly, tipmip_baseline",
+    "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Essential, paleo_cryosphere, SO_BGC-cloud_ocean_monthly, DAMIP_monthly, tipmip_baseline, landice_glaciers_allfreq",
     "compound-name": "Omon.hfds",
     "description": "This is the net flux of heat entering the liquid water column through its upper surface (excluding any \"flux adjustment\") .\n",
     "frequency": [

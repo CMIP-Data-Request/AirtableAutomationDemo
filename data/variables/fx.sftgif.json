@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/land_ice_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, paleo_fx, hydrology",
+    "cmip7-variable-groups": "baseline_fixed, paleo_fx, hydrology, landice_glaciers_allfreq",
     "compound-name": "fx.sftgif",
     "description": "fraction of grid cell occupied by \"permanent\" ice (i.e., glaciers).\n",
     "frequency": [

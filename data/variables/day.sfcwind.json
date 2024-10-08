@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/wind_speed"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, DAMIP_daily, aerchemmip_2d_daily, AgModelExpandedDaily, AgImpactsMisc, transport_impacts_essential, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, paleo_permafrost, tipmip_baseline",
+    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, DAMIP_daily, aerchemmip_2d_daily, AgModelExpandedDaily, AgImpactsMisc, transport_impacts_essential, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, paleo_permafrost, tipmip_baseline, landice_glaciers_allfreq",
     "compound-name": "day.sfcWind",
     "description": "near-surface (usually, 10 meters) wind speed.\n",
     "frequency": [

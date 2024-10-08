@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_downward_heat_flux_in_snow"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "landice_glaciers_allfreq",
     "compound-name": "LImon.hfdsn",
     "description": "the net downward heat flux from the atmosphere into the snow that lies on land divided by the land area in the grid cell; reported as missing for snow-free land regions or where the land fraction is 0.\n",
     "frequency": [
