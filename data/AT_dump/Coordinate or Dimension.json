@@ -1176,7 +1176,7 @@
         "Climatology Flag":""
     },
     {
-        "Name":"overt20bar",
+        "Name":"swp20bar",
         "Title":"Hydrostatic Pressure 20bar",
         "Description":"Coordinate level as hydrostatic pressure depth of 20bar (approximately 200m)",
         "CF Category":"coordinate",
@@ -1186,7 +1186,7 @@
         "Bounds Flag":"",
         "Positive Direction":"down",
         "Type":"double",
-        "UID":"dim:depth200m",
+        "UID":"dim:swp20bar",
         "Grid Class":"fixedScalar",
         "Units":"bar",
         "Value (Scalar or String)":"20.",
