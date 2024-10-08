@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_downward_heat_flux_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_surface_fluxes_high_priority",
     "compound-name": "Odec.hfds",
     "description": "This is the net flux of heat entering the liquid water column through its upper surface (excluding any \"flux adjustment\") .\n",
     "frequency": [

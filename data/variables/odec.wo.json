@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/upward_sea_water_velocity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_vectors_high_priority",
     "compound-name": "Odec.wo",
     "description": "Prognostic z-ward velocity component resolved by the model.\n",
     "frequency": [

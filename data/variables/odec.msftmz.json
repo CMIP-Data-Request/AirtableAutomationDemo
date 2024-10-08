@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_meridional_overturning_mass_streamfunction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_transports_high_priority",
     "compound-name": "Odec.msftmz",
     "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_water_transport_across_line"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_circulation_transects_monthly, omip_priority, omip_transports_medium_priority",
+    "cmip7-variable-groups": "ocean_circulation_transects_monthly, omip_transports_medium_priority",
     "compound-name": "Omon.mfo",
     "description": "Transport across\\_line means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. The transport should be evaluated for the full depth of the ocean, except for the Pacific Equatorial Undercurrent, which is averaged from the surface to 350m.\n",
     "frequency": [

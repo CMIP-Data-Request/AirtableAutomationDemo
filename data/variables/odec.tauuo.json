@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/downward_x_stress_at_sea_water_surface"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_momentum_fluxes_high_priority",
     "compound-name": "Odec.tauuo",
     "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_surface_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, ocean_mesoscale, DCPP_Essential, paleo_ocean, fish_model_day, hydrology, biodiv_marine_daily, CFMIP_baseline, cordex [test], omip_scalar_fields, omip_priority, dynamical_downscaling_core, Ocean_acidification_oxygen_extremes, tipmip_extended, omip_scalars_low_priority",
+    "cmip7-variable-groups": "baseline_daily, ocean_mesoscale, DCPP_Essential, paleo_ocean, fish_model_day, hydrology, biodiv_marine_daily, CFMIP_baseline, cordex [test], omip_scalar_fields, dynamical_downscaling_core, Ocean_acidification_oxygen_extremes, tipmip_extended, omip_scalars_low_priority",
     "compound-name": "Oday.tos",
     "description": "This may differ from \"surface temperature\" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.\n",
     "frequency": [

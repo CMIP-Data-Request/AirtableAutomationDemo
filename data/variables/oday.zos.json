@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_surface_height_above_geoid"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_mesoscale, Sea_level_extremes, omip_priority, omip_scalars_high_priority",
+    "cmip7-variable-groups": "ocean_mesoscale, Sea_level_extremes, omip_scalars_high_priority",
     "compound-name": "Oday.zos",
     "description": "This is the dynamic sea level, so should have zero global area mean. zos is the effective sea level as if sea ice (and snow) at a grid cell were converted to liquid seawater (Campin et al., 2008). For OMIP, do _not _record inverse barometer responses from sea-ice (and snow) loading in zos. See (Griffies et al, 2016, https://doi.org/10.5194/gmd-9-3231-2016).\n",
     "frequency": [

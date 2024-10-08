@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/water_flux_into_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_surface_fluxes_high_priority",
     "compound-name": "Odec.wfo",
     "description": "Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum \\*wfonocorr\\* and \\*wfcorr\\*.\n",
     "frequency": [
