@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_thickness"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_state_monthly_basic, paleo_cryosphere, ref_ocean_and_seaice",
+    "cmip7-variable-groups": "seaice_state_monthly_basic, paleo_cryosphere, ref_ocean_and_seaice, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sivol",
     "description": "Total volume of sea ice divided by grid-cell area (this used to be called ice thickness in CMIP5)\n",
     "frequency": [

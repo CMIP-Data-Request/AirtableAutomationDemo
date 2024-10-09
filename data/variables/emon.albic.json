@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_albedo"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "paleo_cryosphere",
+    "cmip7-variable-groups": "paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "Emon.albic",
     "description": "This describes the albedo of any surface covered by ice, land and ocean\n",
     "frequency": [

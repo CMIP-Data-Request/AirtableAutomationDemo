@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_speed"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_dynamics_basic, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_dynamics_basic, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sispeed",
     "description": "Speed of ice (i.e. mean absolute velocity) to account for back-and-forth movement of the ice\n",
     "frequency": [

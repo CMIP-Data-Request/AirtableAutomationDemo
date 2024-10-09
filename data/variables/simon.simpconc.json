@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.simpconc",
     "description": "Percentage of sea ice, by area, which is covered by melt ponds, giving equal weight to every square metre of sea ice .\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_albedo"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "paleo_cryosphere",
+    "cmip7-variable-groups": "paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "Emon.albl",
     "description": "albedo of the portion of land that is not covered by ice, potentially considering sub-gridscale inhomogeneity of ice cover\n",
     "frequency": [

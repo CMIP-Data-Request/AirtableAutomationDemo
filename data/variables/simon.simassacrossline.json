@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_transport_across_line"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_global_monthly_advanced, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_global_monthly_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.simassacrossline",
     "description": "Flux across 4 straits\n",
     "frequency": [

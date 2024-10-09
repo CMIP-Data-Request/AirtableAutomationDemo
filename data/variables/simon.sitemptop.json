@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_surface_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, DCPP_Wider, SO_BGC-cloud_ocean_monthly, CFMIP_baseline, paleo_cryosphere",
+    "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, DCPP_Wider, SO_BGC-cloud_ocean_monthly, CFMIP_baseline, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sitemptop",
     "description": "Report surface temperature of snow where snow covers the sea ice.\n",
     "frequency": [

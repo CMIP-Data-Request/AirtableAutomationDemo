@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_x_velocity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, seaice_dynamics_basic, paleo_cryosphere, DCPP_Wider, SO_BGC-cloud_ocean_monthly",
+    "cmip7-variable-groups": "baseline_monthly, seaice_dynamics_basic, paleo_cryosphere, DCPP_Wider, SO_BGC-cloud_ocean_monthly, paleo_cryosphere_high_priority",
     "compound-name": "SImon.siu",
     "description": "The x-velocity of ice on native model grid\n",
     "frequency": [
