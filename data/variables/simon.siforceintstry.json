@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_y_internal_stress"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_low_priority",
     "compound-name": "SImon.siforceintstry",
     "description": "Y-component of force on sea ice caused by internal stress (divergence of sigma)\n",
     "frequency": [

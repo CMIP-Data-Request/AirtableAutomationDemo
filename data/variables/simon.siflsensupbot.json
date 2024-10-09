@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/upward_sea_ice_basal_heat_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.siflsensupbot",
     "description": "the net sensible heat flux under sea ice from the ocean\n",
     "frequency": [

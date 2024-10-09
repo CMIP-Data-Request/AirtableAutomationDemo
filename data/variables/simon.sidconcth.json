@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_ice_area_fraction_due_to_thermodynamics"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_area_monthly, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_area_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sidconcth",
     "description": "Total change in sea-ice area fraction through thermodynamic processes\n",
     "frequency": [

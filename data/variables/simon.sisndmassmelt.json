@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_snow_melt_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere, snow_allfreq",
+    "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere, snow_allfreq, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sisndmassmelt",
     "description": "the rate of change of snow mass through melt divided by sea-ice area\n",
     "frequency": [

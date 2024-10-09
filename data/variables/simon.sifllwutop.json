@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_upwelling_longwave_flux_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sifllwutop",
     "description": "the upwelling longwave flux over sea ice (always negative)\n",
     "frequency": [

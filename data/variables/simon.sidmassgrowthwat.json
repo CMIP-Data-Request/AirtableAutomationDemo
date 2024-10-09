@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_sea_ice_amount_due_to_frazil_ice_accumulation_in_leads"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sidmassgrowthwat",
     "description": "The rate of change of sea ice mass due to sea ice formation in supercooled water (often through frazil formation) divided by grid-cell area. Together, sidmassgrowthwat and sidmassgrowthbot should give total ice growth\n",
     "frequency": [

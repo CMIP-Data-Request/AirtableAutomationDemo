@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_downward_heat_flux_in_sea_ice"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.siflcondtop",
     "description": "the net heat conduction flux at the ice surface\n",
     "frequency": [

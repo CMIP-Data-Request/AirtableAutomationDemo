@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/maximum_over_coordinate_rotation_of_sea_ice_horizontal_shear_strain_rate"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sishevel",
     "description": "Maximum shear of sea-ice velocity field (second shear strain invariant)\n",
     "frequency": [

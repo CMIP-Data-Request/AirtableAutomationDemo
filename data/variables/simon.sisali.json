@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_salinity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_state_monthly_advanced, CFMIP_baseline, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_state_monthly_advanced, CFMIP_baseline, paleo_cryosphere, paleo_cryosphere_low_priority",
     "compound-name": "SImon.sisali",
     "description": "Mean sea-ice salinity of all sea ice in grid cell\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/sea_ice_average_normal_horizontal_stress"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_dynamics_advanced",
+    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere_low_priority",
     "compound-name": "SImon.sistressave",
     "description": "Average normal stress in sea ice (first stress invariant)\n",
     "frequency": [

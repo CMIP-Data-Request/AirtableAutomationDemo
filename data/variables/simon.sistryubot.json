@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/upward_y_stress_at_sea_ice_base"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",
+    "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sistryubot",
     "description": "Y-component of ocean stress on sea ice\n",
     "frequency": [

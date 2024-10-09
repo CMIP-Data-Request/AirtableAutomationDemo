@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_upward_latent_heat_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_energy_monthly, DCPP_Wider, paleo_cryosphere",
+    "cmip7-variable-groups": "seaice_budget_energy_monthly, DCPP_Wider, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sifllattop",
     "description": "the net latent heat flux over sea ice\n",
     "frequency": [
