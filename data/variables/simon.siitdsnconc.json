@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_snow_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_state_monthly_advanced",
+    "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere_low_priority",
     "compound-name": "SImon.siitdsnconc",
     "description": "K=ice depth bands\n",
     "frequency": [

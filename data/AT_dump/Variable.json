@@ -17616,7 +17616,7 @@
         "Status":"CMIP6 CMOR variable",
         "Theme":"",
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"seaice_state_monthly_advanced",
+        "CMIP7 Variable Groups":"seaice_state_monthly_advanced, paleo_cryosphere_low_priority",
         "UID":"71147dcc-faa7-11e6-bfb7-ac72891c3257",
         "Min Rank":"1198",
         "Processing Note":"",
