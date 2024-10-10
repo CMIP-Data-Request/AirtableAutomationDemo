@@ -1290,7 +1290,7 @@ recEvEtVGwg8e4kjq,SImon.siflswdtop,surface_downwelling_shortwave_flux_in_air,Dow
 recExVLFH4zBXrYLE,SIday.siflswutop,surface_upwelling_shortwave_flux_in_air,Daily Upwelling Shortwave Flux over Sea Ice,"The upwelling shortwave flux over sea ice (always negative)
 ",real,['seaIce'],['SIday'],['day'],Accepted,['Ocean & sea-ice'],,seaice_budget_energy_daily,83bbfb3a-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,up,,,,In progress,Accept,"MJ: ""positive direction"" adjusted to match standard name,",,,,,,
 recExe5lHt2GZNOlU,SImon.sistrydtop,surface_downward_y_stress,Y-Component of Atmospheric Stress on Sea Ice,"Y-component of atmospheric stress on sea ice
-",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, DCPP_Wider, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",713aeca0-faa7-11e6-bfb7-ac72891c3257,131,,SIMIP [seaicemon],['SIMIP'],['CMIP'],371,874,131,down,,['DCPP'],,,,,,,,,,
+",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, DCPP_Wider, paleo_cryosphere_high_priority",713aeca0-faa7-11e6-bfb7-ac72891c3257,131,,SIMIP [seaicemon],['SIMIP'],['CMIP'],371,874,131,down,,['DCPP'],,,,,,,,,,
 recEz3zIal5FFqq37,LImon.prsnIs,snowfall_flux,Ice Sheet Snowfall Flux,"quantity averaged over ice\_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
 ",real,['landIce'],['LImon'],['mon'],CMIP6 CMOR variable,,,"landice_global_allfreq, paleo_permafrost",8120d4f2-bf17-11e6-b0d8-ac72891c3257,1159,,ISMIP6 [new_LImon],,['ISMIP6'],1374,1558,1159,,,,,,,,,,,,,
 recF2FAdhDupUs7Pv,SImon.sisnthick,surface_snow_thickness,Snow Thickness,"(in OImon, snd was volume per entire cell area)
@@ -1837,7 +1837,7 @@ recKmHzMPhoR21vt0,Eday.mrfsofr,mass_fraction_of_frozen_water_in_soil_moisture,Av
 recKnFraJ6hkEhsds,IyrGre.lifmassbf,land_ice_specific_mass_flux_due_to_calving_and_ice_front_melting,Land Ice Vertical Front Mass Balance Flux,"Total mass balance at the ice front (or vertical margin). It includes both iceberg calving and melt on vertical ice front
 ",real,['landIce'],['IyrGre'],['yr'],CMIP6 CMOR variable,,,landice_greenland_allfreq,d5b3c0b4-c78d-11e6-9b25-5404a60d96b5,9999,,ISMIP6 [IyrGre],,,,,,,,['ISMIP6'],,,,,,,,,,
 recKnGR4l49JAGahg,SImon.sistrxubot,upward_x_stress_at_sea_ice_base,X-Component of Ocean Stress on Sea Ice,"X-component of ocean stress on sea ice
-",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",711858ca-faa7-11e6-bfb7-ac72891c3257,184,,SIMIP [seaicemon],['SIMIP'],,639,971,184,up,,,,,,,,,,,,
+",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",711858ca-faa7-11e6-bfb7-ac72891c3257,184,,SIMIP [seaicemon],['SIMIP'],,639,971,184,up,,,,,,,,,,,,
 recKp0BfjIevholUM,Amon.aod550volso4,stratosphere_optical_thickness_due_to_volcanic_ambient_aerosol_particles,Monthly od550volso4,"As od550volso4 but monthly averaged
 ",real,['atmos'],['Amon'],['mon'],Under review,['Atmosphere'],In progress,DAMIP_monthly,83bbfbe2-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 recKqYiNvI9gly2M9,Amon.tauv,surface_downward_northward_stress,Surface Downward Northward Wind Stress,"Downward northward wind stress at the surface
@@ -2757,7 +2757,7 @@ recUeHtmA86yWAfng,Eday.tasmaxCrop,air_temperature,Daily Maximum Near-Surface Air
 recUfxAVkh1u63RTD,AERmon.h2loss,,Chemical destruction of atmospheric H2,"This is the loss rate of molecular hydrogen (H2) from the atmosphere due to chemical destruction
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,aerchemmip_3d_monthly,83bbfbf7-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 recUg7wHGxQ3dnehl,SImon.simpconc,area_fraction,Percentage Cover of Sea Ice by Meltpond,"Percentage of sea ice, by area, which is covered by melt ponds, giving equal weight to every square metre of sea ice .
-",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_state_monthly_advanced, paleo_cryosphere, paleo_cryosphere_high_priority, paleo_cryosphere_low_priority",71238a60-faa7-11e6-bfb7-ac72891c3257,839,,SIMIP [seaicemon],,['CMIP'],1203,1408,839,,,['SIMIP'],,,,,,,,,,
+",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_state_monthly_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",71238a60-faa7-11e6-bfb7-ac72891c3257,839,,SIMIP [seaicemon],,['CMIP'],1203,1408,839,,,['SIMIP'],,,,,,,,,,
 recUm5nNO7MthCOhx,Oday.ph,sea_water_ph_reported_on_total_scale,pH,"negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1.
 ",real,['ocnBgchem'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,"DCPP_Wider, biodiv_marine_daily, Ocean_acidification_oxygen_extremes",83bbfb7c-7f07-11ef-9308-b1dd71e64bec,,"The variable at the depth of 200 meters is requested. 
 ",,,,,,,,,,,In progress,,,,,,,,
@@ -3281,7 +3281,7 @@ recaVc7bILnya1QC9,E3hrPt.mmrno3,mass_fraction_of_nitrate_dry_aerosol_particles_i
 ",real,['aerosol'],['E3hrPt'],['3hrPt'],Under review,['Atmosphere'],In progress,aerchemmip_CFsites,83bbfbb6-7f07-11ef-9308-b1dd71e64bec,,"Not sure which cell measures to use here!
 ",,,,,,,,,,,,,,,,,,,
 recaVpqxZb9PLizz2,SImon.sistryubot,upward_y_stress_at_sea_ice_base,Y-Component of Ocean Stress on Sea Ice,"Y-component of ocean stress on sea ice
-",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",7132e85c-faa7-11e6-bfb7-ac72891c3257,184,,SIMIP [seaicemon],['SIMIP'],,670,978,184,up,,,,,,,,,,,,
+",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",7132e85c-faa7-11e6-bfb7-ac72891c3257,184,,SIMIP [seaicemon],['SIMIP'],,670,978,184,up,,,,,,,,,,,,
 recaYKaWYjwNEEJat,Emon.rac14,surface_upward_mass_flux_of_carbon_dioxide_expressed_as_14C_due_to_plant_respiration,Carbon-14 Mass Flux into Atmosphere Due to Autotrophic (Plant) Respiration on Land [kgC m-2 s-1],"Flux of carbon-14 into the atmosphere due to plant respiration. Plant respiration is the sum of respiration by parts of plants both above and below the soil. It is assumed that all the respired carbon dioxide is emitted to the atmosphere. 
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_carbon_isotopic_variables,6f6b2c96-9acb-11e6-b7ee-ac72891c3257,1463,,C4MIP [C_Hist],"['C4MIP', 'PMIP']",,1471,1539,1463,,,,,,,,,,,,,
 recaYgsaI8a1P5yLH,Lmon.mrsos,mass_content_of_water_in_soil_layer,Moisture in Upper Portion of Soil Column,"the mass of water in all phases in a thin surface soil layer.
@@ -4228,7 +4228,7 @@ recmHpQWDeTrurcJk,Oyr.remoc,tendency_of_mole_concentration_of_particulate_organi
 recmHquOW0E4Aa3po,Emon.rsdscsdiff,surface_diffuse_downwelling_shortwave_flux_in_air_assuming_clear_sky,Surface Diffuse Downwelling Clear Sky Shortwave Radiation,"Surface downwelling solar irradiance from diffuse radiation for UV calculations in clear sky conditions
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,7aff68f4-a220-11e6-a33f-ac72891c3257,1230,,GeoMIP [aeroGeo],,"['GeoMIP', 'VIACSAB']",1344,1271,1230,down,,,,,,,,,,,,
 recmJJWAhLhor0osv,SImon.sistrxdtop,surface_downward_x_stress,X-Component of Atmospheric Stress on Sea Ice,"X-component of atmospheric stress on sea ice
-",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, DCPP_Wider, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",71147110-faa7-11e6-bfb7-ac72891c3257,131,,SIMIP [seaicemon],['SIMIP'],['CMIP'],369,870,131,down,,['DCPP'],,,,,,,,,,
+",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_advanced, paleo_cryosphere, DCPP_Wider, paleo_cryosphere_high_priority",71147110-faa7-11e6-bfb7-ac72891c3257,131,,SIMIP [seaicemon],['SIMIP'],['CMIP'],369,870,131,down,,['DCPP'],,,,,,,,,,
 recmLe9W0gonsgftG,CFday.rsut,toa_outgoing_shortwave_flux,TOA Outgoing Shortwave Radiation,"at the top of the atmosphere
 ",real,['atmos'],['CFday'],['day'],CMIP6 CMOR variable,,,"cfmip_daily, synoptic_systems_high_priority, DCPP_Wider, CFMIP_baseline",bab68392-e5dd-11e5-8482-ac72891c3257,209,,CFday ((isd.003)),,['CMIP5'],359,238,209,up,,['DCPP'],,,,,,,,,,
 recmNZ9Ga3UYm0YzM,SImon.sidconcdyn,tendency_of_sea_ice_area_fraction_due_to_dynamics,Sea-Ice Area Percentage Tendency Due to Dynamics,"Total change in sea-ice area fraction through dynamics-related processes (advection, divergence...)
