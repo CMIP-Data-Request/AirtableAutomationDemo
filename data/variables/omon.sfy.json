@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_salt_y_transport"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "ocean_mesoscale, omip_transports_medium_priority",
     "compound-name": "Omon.sfy",
     "description": "Contains all contributions to 'y-ward' salt transport from resolved and parameterized processes.\n",
     "frequency": [

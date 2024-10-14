@@ -12159,7 +12159,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"",
+        "CMIP7 Variable Groups":"ocean_mesoscale, omip_transports_medium_priority",
         "UID":"",
         "Min Rank":"",
         "Processing Note":"3D field. Report on native horizontal grid.\n",
@@ -92614,7 +92614,7 @@
             "Ocean & sea-ice"
         ],
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"",
+        "CMIP7 Variable Groups":"ocean_mesoscale, omip_transports_medium_priority",
         "UID":"",
         "Min Rank":"",
         "Processing Note":"time-mean on ocean grid\n",
