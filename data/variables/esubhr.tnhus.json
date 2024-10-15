@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_cfSites",
+    "cmip7-variable-groups": "",
     "compound-name": "Esubhr.tnhus",
     "description": "Tendency of Specific Humidity\n",
     "frequency": [

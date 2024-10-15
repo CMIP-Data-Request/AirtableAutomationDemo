@@ -1783,7 +1783,7 @@ recK10f0sqLbZUegq,AERmon.abs550oa,atmosphere_absorption_optical_thickness_due_to
 recK2XlsJxc47sQdh,LImon.sblIs,tendency_of_atmosphere_mass_content_of_water_vapor_due_to_sublimation_of_surface_snow_and_ice,Ice Sheet Surface Snow and Ice Sublimation Flux,"quantity averaged over ice\_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
 ",real,['landIce'],['LImon'],['mon'],CMIP6 CMOR variable,,,"landice_global_allfreq, paleo_permafrost",132b2aca-be44-11e6-9e13-f9e3356200b3,1069,,ISMIP6 [new_LImon],,['ISMIP6'],1274,1434,1069,,,,,,,,,,,,,
 recK2ts8xKCef0Oy4,Esubhr.tnhus,tendency_of_specific_humidity,Tendency of Specific Humidity,"Tendency of Specific Humidity
-",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,CFMIP_cfSites,8bb1b624-4a5b-11e6-9cd2-ac72891c3257,124,,HighResMIP [1ts],,,1138,124,1681,,,['HighResMIP'],,,,,,,,,,
+",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,,8bb1b624-4a5b-11e6-9cd2-ac72891c3257,124,,HighResMIP [1ts],,,1138,124,1681,,,['HighResMIP'],,,,,,,,,,
 recKFE3VyS0npN82x,AERmon.emibbnh3,,total emission rate of NH3 from all biomass burning,"This is the total emission rate of ammonia (NH3) into the atmosphere from all biomass burning (natural and anthropogenic)
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,aerchemmip_2d_monthly,83bbfc07-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 recKJed4SJDaUh2yt,3hr.wetnh4,minus_tendency_of_atmosphere_mass_content_of_ammonium_dry_aerosol_particles_due_to_wet_deposition,3-hourly Wet Deposition Rate of NH4,"3-hourly Wet Deposition Rate of NH4
@@ -2439,7 +2439,7 @@ recR8j1AXOZLYD6LC,CFday.pctisccp,air_pressure_at_cloud_top,ISCCP Mean Cloud Top 
 recR8yoX4QDpxZjFH,SImon.sispeed,sea_ice_speed,Sea-Ice Speed,"Speed of ice (i.e. mean absolute velocity) to account for back-and-forth movement of the ice
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_dynamics_basic, paleo_cryosphere, paleo_cryosphere_high_priority",71435d54-faa7-11e6-bfb7-ac72891c3257,144,,SIMIP [seaicemon],,['SIMIP'],178,742,144,,,,,,,,,,,,,
 recR9SBCMiBFtjMbY,Esubhr.tnt,tendency_of_air_temperature,Tendency of Air Temperature,"Tendency of Air Temperature
-",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,CFMIP_cfSites,8bb1b156-4a5b-11e6-9cd2-ac72891c3257,137,,HighResMIP [1ts],,,1149,137,1681,,,['HighResMIP'],,,,,,,,,,
+",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,,8bb1b156-4a5b-11e6-9cd2-ac72891c3257,137,,HighResMIP [1ts],,,1149,137,1681,,,['HighResMIP'],,,,,,,,,,
 recRAjFN1HMlEsExj,CFmon.ta,air_temperature,Air Temperature,"Air Temperature
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",bab8ff64-e5dd-11e5-8482-ac72891c3257,80,,CFmon ((isd.003)),['HighResMIP'],"['CMIP5', 'VIACSAB']",185,80,184,,,,,,,,,,,,,
 recRBtOpnUSgaAIWH,Emon.nwdFracLut,area_fraction,Non-Woody Vegetation Percentage Cover,"Percentage of land use tile tile that is non-woody vegetation ( e.g. herbaceous crops)

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_air_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_cfSites",
+    "cmip7-variable-groups": "",
     "compound-name": "Esubhr.tnt",
     "description": "Tendency of Air Temperature\n",
     "frequency": [
