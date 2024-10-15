@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/virtual_salt_flux_into_sea_water_due_to_rainfall"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.vsfpr",
     "description": "zero for models using real water fluxes.\n",
     "frequency": [

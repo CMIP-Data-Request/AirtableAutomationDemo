@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/ocean_meridional_overturning_mass_streamfunction_due_to_parameterized_mesoscale_eddy_advection"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DCPP_Wider",
+    "cmip7-variable-groups": "DCPP_Wider, omip_transports_low_priority",
     "compound-name": "Omon.msftmzmpa",
     "description": "CMIP5 called this \"due to Bolus Advection\".  Name change respects the more general physics of the mesoscale parameterizations.\n",
     "frequency": [

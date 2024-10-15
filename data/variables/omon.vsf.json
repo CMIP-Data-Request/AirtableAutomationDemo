@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/virtual_salt_flux_into_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DCPP_Essential",
+    "cmip7-variable-groups": "DCPP_Essential, omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.vsf",
     "description": "It is set to zero in models which receive a real water flux.\n",
     "frequency": [

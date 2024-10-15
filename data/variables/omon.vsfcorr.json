@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/virtual_salt_flux_correction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.vsfcorr",
     "description": "It is set to zero in models which receive a real water flux.\n",
     "frequency": [

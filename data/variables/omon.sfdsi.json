@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/downward_sea_ice_basal_salt_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.sfdsi",
     "description": "This field is physical, and it arises since sea ice has a nonzero salt content, so it exchanges salt with the liquid ocean upon melting and freezing.\n",
     "frequency": [
