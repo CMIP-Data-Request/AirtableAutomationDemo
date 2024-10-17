@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/ami-fx",
+    "@id": "dr:data/cell-methods/amni-fx",
     "@type": "dr:variable",
     "brand-id": "is",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "Ice Sheet cell methods error",
     "mask": "",
     "regex": 1.0,
-    "label": "ami-fx",
+    "label": "amni-fx",
     "title": "Fixed Area Mean over Ice Sheets",
     "uid": "CellMethods::ami-fx"
 }

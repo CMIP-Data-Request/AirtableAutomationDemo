@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/aclima",
+    "@id": "dr:data/cell-methods/amna-clim",
     "@type": "dr:variable",
     "brand-id": "x",
     "brand-tag": "tstat",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": "",
-    "label": "aclima",
+    "label": "amna-clim",
     "title": "Annual Climatology in Atmosphere",
     "uid": "CellMethods::aclima"
 }

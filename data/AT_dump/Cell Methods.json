@@ -1,7 +1,7 @@
 [
     {
         "Cell Methods":"longitude: time: mean where air",
-        "label":"zmean",
+        "label":"zmeana-twm",
         "title":"Zonal Time Mean",
         "uid":"CellMethods::zmean",
         "Brand ID":"x",
@@ -23,7 +23,7 @@
     },
     {
         "Cell Methods":"area: mean where sea time: point",
-        "label":"amse-tpt",
+        "label":"amns-tpt",
         "title":"Instantaneous over Sea",
         "uid":"CellMethods::amse-tpt",
         "Brand ID":"sea",
@@ -56,7 +56,7 @@
     },
     {
         "Cell Methods":"area: mean where land over all_area_types time: sum",
-        "label":"tsum",
+        "label":"amnlax-tsum",
         "title":"Temporal Sum",
         "uid":"CellMethods::tsum",
         "Brand ID":"lnd",
@@ -67,7 +67,7 @@
     },
     {
         "Cell Methods":"area: mean where snow over sea_ice area: time: mean where sea_ice",
-        "label":"amsnsi-tmn",
+        "label":"amnsnsi-tmn",
         "title":"Weighted Time Mean over Area of Snow on Sea-Ice",
         "uid":"CellMethods::amsnsi-tmn",
         "Brand ID":"sn",
@@ -78,7 +78,7 @@
     },
     {
         "Cell Methods":"area: mean where sea depth: sum where sea time: mean",
-        "label":"amdss-tmn",
+        "label":"amndss-tmn",
         "title":"Sum over Depth, Time Mean",
         "uid":"CellMethods::amdss-tmn",
         "Brand ID":"sea",
@@ -89,7 +89,7 @@
     },
     {
         "Cell Methods":"area: mean where ice_sheet",
-        "label":"ami-fx",
+        "label":"amni-fx",
         "title":"Fixed Area Mean over Ice Sheets",
         "uid":"CellMethods::ami-fx",
         "Brand ID":"is",
@@ -111,7 +111,7 @@
     },
     {
         "Cell Methods":"area: mean where sector time: point",
-        "label":"amlu-tpt",
+        "label":"amnlu-tpt",
         "title":"Instantaneous Mean on Landuse Tiles",
         "uid":"CellMethods::amlu-tpt",
         "Brand ID":"lus",
@@ -133,7 +133,7 @@
     },
     {
         "Cell Methods":"area: mean time: minimum",
-        "label":"tmin",
+        "label":"amn-tmin",
         "title":"Temporal Minimum",
         "uid":"CellMethods::tmin",
         "Brand ID":"x",
@@ -155,7 +155,7 @@
     },
     {
         "Cell Methods":"time: mean grid_longitude: mean",
-        "label":"bgzmean",
+        "label":"bgzmean-tm",
         "title":"Basin Zonal Mean on Model Grid",
         "uid":"CellMethods::bgzmean",
         "Brand ID":"x",
@@ -177,7 +177,7 @@
     },
     {
         "Cell Methods":"time: point",
-        "label":"tpt",
+        "label":"amn-tpt",
         "title":"Instantaneous",
         "uid":"CellMethods::tpt",
         "Brand ID":"x",
@@ -232,7 +232,7 @@
     },
     {
         "Cell Methods":"area: mean where air time: mean within years time: mean over years\n",
-        "label":"aclima",
+        "label":"amna-clim",
         "title":"Annual Climatology in Atmosphere",
         "uid":"CellMethods::aclima",
         "Brand ID":"x",
@@ -254,7 +254,7 @@
     },
     {
         "Cell Methods":"area: mean where sea depth: sum where sea (top 100m only) time: mean",
-        "label":"amds-tmn",
+        "label":"amnds-tmn",
         "title":"Sum over Upper 100m, Time Mean",
         "uid":"CellMethods::amds-tmn",
         "Brand ID":"sea",
@@ -298,7 +298,7 @@
     },
     {
         "Cell Methods":"area: sum",
-        "label":"asum-fx",
+        "label":"asm-fx",
         "title":"Fixed Area Sum",
         "uid":"CellMethods::asum-fx",
         "Brand ID":"x",
@@ -320,7 +320,7 @@
     },
     {
         "Cell Methods":"area: mean time: minimum within days time: mean over days",
-        "label":"dmin",
+        "label":"amn-dmin",
         "title":"Daily Minimum",
         "uid":"CellMethods::dmin",
         "Brand ID":"x",
@@ -364,7 +364,7 @@
     },
     {
         "Cell Methods":"area: point",
-        "label":"apt",
+        "label":"apt-fx",
         "title":"Point Values",
         "uid":"CellMethods::apt",
         "Brand ID":"x",
@@ -386,7 +386,7 @@
     },
     {
         "Cell Methods":"area: mean where grounded_ice_sheet",
-        "label":"amgi-fx",
+        "label":"amngi-fx",
         "title":"Fixed Area Mean over Grounded Ice Sheets",
         "uid":"CellMethods::amgi-fx",
         "Brand ID":"gis",
@@ -419,7 +419,7 @@
     },
     {
         "Cell Methods":"longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean",
-        "label":"bzzsum",
+        "label":"bzzsum-tmn",
         "title":"Basin Zig-Zag Zonal Sum",
         "uid":"CellMethods::bzzsum",
         "Brand ID":"x",
@@ -441,7 +441,7 @@
     },
     {
         "Cell Methods":"area: mean where land",
-        "label":"amla",
+        "label":"amnla-fx",
         "title":"Fixed Area Mean",
         "uid":"CellMethods::amla",
         "Brand ID":"lnd",
@@ -452,7 +452,7 @@
     },
     {
         "Cell Methods":"area: mean time: sum",
-        "label":"am-ts",
+        "label":"amn-ts",
         "title":"Area Mean and Time Sum",
         "uid":"CellMethods::am-ts",
         "Brand ID":"x",
@@ -474,7 +474,7 @@
     },
     {
         "Cell Methods":"area: mean time: maximum",
-        "label":"tmax",
+        "label":"amn-tmax",
         "title":"Time Maximum",
         "uid":"CellMethods::tmax",
         "Brand ID":"x",
@@ -485,7 +485,7 @@
     },
     {
         "Cell Methods":"area: mean time: maximum within days time: mean over days",
-        "label":"dmax",
+        "label":"amn-dmax",
         "title":"Daily Maximum",
         "uid":"CellMethods::dmax",
         "Brand ID":"x",
@@ -507,7 +507,7 @@
     },
     {
         "Cell Methods":"area: time: mean",
-        "label":"am-tm",
+        "label":"am-twm",
         "title":"Area and Time Mean",
         "uid":"CellMethods::am-tm",
         "Brand ID":"x",
@@ -518,7 +518,7 @@
     },
     {
         "Cell Methods":"area: mean where land over all_area_types time: point",
-        "label":"amlax-tpt",
+        "label":"amnlax-tpt",
         "title":"Contribution from Land (Instantaneous)",
         "uid":"CellMethods::amlax-tpt",
         "Brand ID":"lnd",
@@ -540,7 +540,7 @@
     },
     {
         "Cell Methods":"area: mean where crops time: minimum within days time: mean over days",
-        "label":"dminc",
+        "label":"amncrp-dmin",
         "title":"Daily Minimum over Crops",
         "uid":"CellMethods::dminc",
         "Brand ID":"crp",
@@ -584,7 +584,7 @@
     },
     {
         "Cell Methods":"area: mean time: mean within years time: mean over years",
-        "label":"aclim",
+        "label":"amn-clim",
         "title":"Annual Climatology",
         "uid":"CellMethods::aclim",
         "Brand ID":"x",
@@ -595,7 +595,7 @@
     },
     {
         "Cell Methods":"area: mean time: mean within hours time: maximum over hours",
-        "label":"am-tmh",
+        "label":"amn-tmh",
         "title":"Maximum Hourly Rate",
         "uid":"CellMethods::am-tmh",
         "Brand ID":"x",
@@ -606,7 +606,7 @@
     },
     {
         "Cell Methods":"area: mean where crops time: maximum",
-        "label":"tmaxc",
+        "label":"amncrp-tmax",
         "title":"Time Maximum over Crops",
         "uid":"CellMethods::tmaxc",
         "Brand ID":"crp",
@@ -628,7 +628,7 @@
     },
     {
         "Cell Methods":"area: mean where sea time: mean",
-        "label":"amse-tmn",
+        "label":"amns-tmn",
         "title":"Time Mean over Sea",
         "uid":"CellMethods::amse-tmn",
         "Brand ID":"sea",
@@ -727,7 +727,7 @@
     },
     {
         "Cell Methods":"area: mean where crops time: minimum",
-        "label":"tminc",
+        "label":"amncrp-tmin",
         "title":"Temporal Minimum over Crops",
         "uid":"CellMethods::tminc",
         "Brand ID":"crp",
@@ -749,7 +749,7 @@
     },
     {
         "Cell Methods":"area: mean where crops time: maximum within days time: mean over days",
-        "label":"dmaxc",
+        "label":"amncrp-dmax",
         "title":"Daily Maximum over Crops",
         "uid":"CellMethods::dmaxc",
         "Brand ID":"crp",
@@ -760,7 +760,7 @@
     },
     {
         "Cell Methods":"time: mean",
-        "label":"tmean",
+        "label":"amn-tm",
         "title":"Time Mean",
         "uid":"CellMethods::tmean",
         "Brand ID":"x",

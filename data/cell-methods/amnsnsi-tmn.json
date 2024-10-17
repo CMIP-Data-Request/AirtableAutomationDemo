@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amsnsi-tmn",
+    "@id": "dr:data/cell-methods/amnsnsi-tmn",
     "@type": "dr:variable",
     "brand-id": "sn",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,
-    "label": "amsnsi-tmn",
+    "label": "amnsnsi-tmn",
     "title": "Weighted Time Mean over Area of Snow on Sea-Ice",
     "uid": "CellMethods::amsnsi-tmn"
 }

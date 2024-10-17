@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/tmaxc",
+    "@id": "dr:data/cell-methods/amncrp-tmax",
     "@type": "dr:variable",
     "brand-id": "crp",
     "brand-tag": "tstat",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,
-    "label": "tmaxc",
+    "label": "amncrp-tmax",
     "title": "Time Maximum over Crops",
     "uid": "CellMethods::tmaxc"
 }

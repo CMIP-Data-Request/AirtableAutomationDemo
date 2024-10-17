@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/tminc",
+    "@id": "dr:data/cell-methods/amncrp-tmin",
     "@type": "dr:variable",
     "brand-id": "crp",
     "brand-tag": "tstat",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,
-    "label": "tminc",
+    "label": "amncrp-tmin",
     "title": "Temporal Minimum over Crops",
     "uid": "CellMethods::tminc"
 }

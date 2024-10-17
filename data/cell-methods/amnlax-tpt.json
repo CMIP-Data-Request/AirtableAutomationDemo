@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amlax-tpt",
+    "@id": "dr:data/cell-methods/amnlax-tpt",
     "@type": "dr:variable",
     "brand-id": "lnd",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,
-    "label": "amlax-tpt",
+    "label": "amnlax-tpt",
     "title": "Contribution from Land (Instantaneous)",
     "uid": "CellMethods::amlax-tpt"
 }

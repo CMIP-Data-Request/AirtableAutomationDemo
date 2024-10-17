@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amlu-tpt",
+    "@id": "dr:data/cell-methods/amnlu-tpt",
     "@type": "dr:variable",
     "brand-id": "lus",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,
-    "label": "amlu-tpt",
+    "label": "amnlu-tpt",
     "title": "Instantaneous Mean on Landuse Tiles",
     "uid": "CellMethods::amlu-tpt"
 }

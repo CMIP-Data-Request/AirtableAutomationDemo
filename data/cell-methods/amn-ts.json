@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/am-ts",
+    "@id": "dr:data/cell-methods/amn-ts",
     "@type": "dr:variable",
     "brand-id": "x",
     "brand-tag": "tsum",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": 1.0,
-    "label": "am-ts",
+    "label": "amn-ts",
     "title": "Area Mean and Time Sum",
     "uid": "CellMethods::am-ts"
 }
