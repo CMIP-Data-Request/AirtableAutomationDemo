@@ -237,6 +237,18 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Change '--' notation in cell measures ",
+        "Comment":"These three cell measures are indicated with two dashes in their name, this creates issues when exporting the database to excel format. Update names to have two colons instead of two dashes (e.g. ::UGRID instead of --UGRID)\n",
+        "Status":"Done",
+        "Author teams to alert":"",
+        "Data Request Actions":"Changed\n",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue URL":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Variables tasmax and tasmin should use a climatology time axis",
         "Comment":"Variables tasmax and tasmin should use a climatology time axis but were assigned the time mean axis: see https:\/\/github.com\/cmip6dr\/cmip7\\_forward\\_look\/issues\/48\n",
         "Status":"Done",

@@ -1,16 +1,16 @@
 [
     {
-        "Name":"--UGRID",
+        "Name":"::UGRID",
         "Notes":"",
         "Title":""
     },
     {
-        "Name":"--MODEL",
+        "Name":"::MODEL",
         "Notes":"indicates that the data should\nbe provided at the cell locations used for that variable\nin the model code",
         "Title":""
     },
     {
-        "Name":"--OPT",
+        "Name":"::OPT",
         "Notes":"the data\nmay be provided either on the cell centres or on the cell\nboundaries",
         "Title":""
     },

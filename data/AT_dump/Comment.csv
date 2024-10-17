@@ -41,6 +41,9 @@ recLi3Dsi3FEHdL7f,provide Oyr.opottemptend as a decadal variable Odec.opottempte
 recONbhbzjml2jK6H,Ice Sheet cell methods error,"The ""area: mean where ice\_sheet"" cell methods string has a title referring to \*\*grounded ice sheets\*\*.
 ",Done,['Land & Land-Ice'],"Removed 'grounded' from string. [MJ, 17 July]
 ",,,,,
+recRRKc3KsrcYrLTo,Change '--' notation in cell measures ,"These three cell measures are indicated with two dashes in their name, this creates issues when exporting the database to excel format. Update names to have two colons instead of two dashes (e.g. ::UGRID instead of --UGRID)
+",Done,,"Changed
+",,,,,
 recSUbe58BCOEY10o,Variables tasmax and tasmin should use a climatology time axis,"Variables tasmax and tasmin should use a climatology time axis but were assigned the time mean axis: see https://github.com/cmip6dr/cmip7\_forward\_look/issues/48
 ",Done,,"co-leads MJ : reassign temporal shape in variables records and update linked structures. 
 ",,https://github.com/cmip6dr/cmip7_forward_look/issues/48,,,
