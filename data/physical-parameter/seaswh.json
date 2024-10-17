@@ -12,7 +12,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "inclusion of the wave model's output\n",
-    "last-modified-by": "Anonymous",
+    "last-modified-by": "Data Request co-leads",
     "name": "seaswh",
     "name-validation": 1,
     "processing-comment": "",
@@ -25,7 +25,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Sera Significant Wave Height",
-    "uid": "",
+    "uid": "f86eb6c2-8ca1-11ef-944e-41a8eb05f654",
     "units": "m",
     "review": {
         "atmosphere-review-comments": "",

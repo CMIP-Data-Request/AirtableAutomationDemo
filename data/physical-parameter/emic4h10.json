@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "To understand VOC budgets\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "emic4h10",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Total emission rate of butane",
-    "uid": "",
+    "uid": "f86eb68c-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

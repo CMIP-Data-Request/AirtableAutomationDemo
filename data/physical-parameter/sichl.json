@@ -19,7 +19,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Some CMIP7 models now have sea ice biogeochemistry included and are interested in saving these variables. Models that include sea-ice biogeochemistry support closing the carbon and nutrient s' cycles in the sea-ice zone.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "sichl",
     "name-validation": 1,
     "processing-comment": "",
@@ -32,7 +32,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Amount of Total Ice Algae Expressed as Chlorophyll in Sea Ice",
-    "uid": "",
+    "uid": "f86eb6cc-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg m-2",
     "review": {
         "atmosphere-review-comments": "",

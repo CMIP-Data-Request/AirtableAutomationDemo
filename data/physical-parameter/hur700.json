@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Relative humidity at 700 hPa on high frequencies is useful for looking at the dynamical control on clouds.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "hur700",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Relative humidity at 700 hPa",
-    "uid": "",
+    "uid": "f86eb6a3-8ca1-11ef-944e-41a8eb05f654",
     "units": "%",
     "review": {
         "atmosphere-review-comments": "",

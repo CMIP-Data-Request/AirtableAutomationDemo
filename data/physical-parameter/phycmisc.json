@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Requested by Fish-MIP as part of ISIMIP. Needed for model intercomparisons for marine biodiversity and ecosystems.\n",
-    "last-modified-by": "Anonymous",
+    "last-modified-by": "Data Request co-leads",
     "name": "phycmisc",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Ocean & sea-ice"
     ],
     "title": "carbon concentration of miscellaneous phytoplankton",
-    "uid": "",
+    "uid": "f86eb6b1-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol m-3",
     "review": {
         "atmosphere-review-comments": "",

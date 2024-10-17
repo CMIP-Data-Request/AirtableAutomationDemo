@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Provision of band-mean planetary albedo\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "albs",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Planetary albedo",
-    "uid": "",
+    "uid": "f86eb65d-8ca1-11ef-944e-41a8eb05f654",
     "units": "1",
     "review": {
         "atmosphere-review-comments": "",

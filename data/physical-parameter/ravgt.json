@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "This physical parameter allows to assess phenology simulated by models and the relative impact for future projections at vegetation type level.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "raVgt",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Land & land-ice"
     ],
     "title": "Autotrophic Respiration on Vegetation type as Carbon Mass Flux [kgC m-2 s-1]",
-    "uid": "",
+    "uid": "f86eb6b5-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

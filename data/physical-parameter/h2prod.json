@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "To calculate hydrogen budget\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "h2prod",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "chemical production of atmospheric H2",
-    "uid": "",
+    "uid": "f86eb69f-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol m-3 s-1",
     "review": {
         "atmosphere-review-comments": "",

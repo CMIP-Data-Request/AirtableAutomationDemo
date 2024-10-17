@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "To compare differences in atmospheric transport in different models\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "e90inst",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Volume mixing ratio of Artificial tracer with 90 day lifetime",
-    "uid": "",
+    "uid": "f86eb67b-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol mol-1",
     "review": {
         "atmosphere-review-comments": "",

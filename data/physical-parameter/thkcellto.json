@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": true,
     "justification-for-inclusion": "Having the gridbox thickness be accurate at all time points and gridboxes at all model grid points used in the calculations. This is particularly true if ocean transects are being investigated.\u00a0Previously this information was only provided on t points and it is important to distinguish between t, u, and v points.\n",
-    "last-modified-by": "Automations",
+    "last-modified-by": "Data Request co-leads",
     "name": "thkcellto",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Gridbox Thickness on t points",
-    "uid": "",
+    "uid": "f86eb6e1-8ca1-11ef-944e-41a8eb05f654",
     "units": "m",
     "review": {
         "atmosphere-review-comments": "",

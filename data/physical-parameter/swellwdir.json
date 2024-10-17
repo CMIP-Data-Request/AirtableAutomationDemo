@@ -12,7 +12,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Inclusion of the wave model's output\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "swellwdir",
     "name-validation": 1,
     "processing-comment": "",
@@ -23,7 +23,7 @@
     "status": "New",
     "tagged-author-team": "",
     "title": "Swell waves Direction",
-    "uid": "",
+    "uid": "f86eb6d6-8ca1-11ef-944e-41a8eb05f654",
     "units": "degree",
     "review": {
         "atmosphere-review-comments": "",

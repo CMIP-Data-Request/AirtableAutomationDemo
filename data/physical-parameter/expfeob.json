@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "The sediments serve as both a source and sink of iron in the ocean. Understanding the flux of particulate iron reaching the ocean bottom will better help constrain the global iron cycle, as well as understand iron metabolism within the sediments.\n",
-    "last-modified-by": "Anonymous",
+    "last-modified-by": "Data Request co-leads",
     "name": "expfeob",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Earth system"
     ],
     "title": "Sinking Flux of Particulate Iron Reaching the Ocean Bottom",
-    "uid": "",
+    "uid": "f86eb696-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

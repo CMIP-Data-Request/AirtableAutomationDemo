@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Relative humidity at 500 hPa at 6 hourly instantaneous timescales can be useful for diagnosing convection/MCS & frontal environments\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "hur500",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Relatie humidity at 500 hPa",
-    "uid": "",
+    "uid": "f86eb6a2-8ca1-11ef-944e-41a8eb05f654",
     "units": "%",
     "review": {
         "atmosphere-review-comments": "",

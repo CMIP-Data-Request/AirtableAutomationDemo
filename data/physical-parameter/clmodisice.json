@@ -19,7 +19,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Same as clmodisliquid, but this parameter can be used to estimate the SW ERFaci from ice clouds. This would be most useful in GCMs that capture at least some of the\u00a0_aerosol effects on ice clouds,\u00a0_and might also prove useful to\u00a0understand how different degrees of ice-aerosol representations in models lead to differences in aerosol forcing_.\u00a0_This parameter could also be used in a similar fashion to\u00a0_clmodis_\u00a0as a test on how well models simulate ice cloud\u00a0_amount_\u00a0as well as ice cloud\u00a0_distribution_\u00a0(in CTP-COT or r\\_e-IWP space).\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "clmodisice",
     "name-validation": 1,
     "processing-comment": "",
@@ -32,7 +32,7 @@
         "Atmosphere"
     ],
     "title": "MODIS Ice-Topped Cloud Area Fraction",
-    "uid": "",
+    "uid": "f86eb66c-8ca1-11ef-944e-41a8eb05f654",
     "units": "1",
     "review": {
         "atmosphere-review-comments": "Atmosphere team are happy with the technical description of the parameters and confirmed there is precedent for the modis naming convention. The IPO has reached out to the proposer to inform that an accepted physical parameter does not indicate inclusion into the Data Request - the physical parameter must be assigned to a Variable, which in turn must be assigned a variable group and opportunity to ensure inclusion.",

@@ -40,7 +40,7 @@
         "Title":"Top of atmosphere shortwave radiative flux under clear sky conditions from a diagnostic call to the radiation scheme using a reference ozone field",
         "CF Standard Name":"toa_outgoing_shortwave_flux_assuming_clear_sky_and_reference_mole_fraction_of_ozone_in_air",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6bf-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -50,7 +50,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:15:43.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -331,7 +331,7 @@
         "Title":"mean 2m daily wet bulb globe temperature",
         "CF Standard Name":"",
         "Units":"degC",
-        "UID":"",
+        "UID":"f86eb6f1-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -341,7 +341,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-15T15:31:37.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere",
@@ -884,7 +884,7 @@
         "Title":"ambient black carbon aerosol absorption optical depth at 550nm",
         "CF Standard Name":"atmosphere_absorption_optical_thickness_due_to_black_carbon_ambient_aerosol",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb654-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -894,7 +894,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:32:47.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -1182,7 +1182,7 @@
         "Title":"Butane volume mixing ratio",
         "CF Standard Name":"mole_fraction_of_butane_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb661-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -1192,7 +1192,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:14:08.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -1441,7 +1441,7 @@
         "Title":"Surface albedo",
         "CF Standard Name":"surface_albedo",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb65e-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -1453,7 +1453,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T20:53:24.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -2152,7 +2152,7 @@
         "Title":"Total emission rate of methanol",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_methanol_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb68d-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -2162,7 +2162,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:26:34.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -2226,7 +2226,7 @@
         "Title":"Net Chemistry Tendency of O3 in troposphere",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb6e6-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -2236,7 +2236,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T12:27:45.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -2451,7 +2451,7 @@
         "Title":"total emission rate of NMVOC from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb686-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -2461,7 +2461,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T10:57:00.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -2939,7 +2939,7 @@
         "Title":"6 hourly instantaneous temperature at 2 additional pressure levels in the UTLS region (175 and 225 hPa)",
         "CF Standard Name":"air_temperature",
         "Units":"K",
-        "UID":"",
+        "UID":"f86eb6db-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -2949,7 +2949,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T18:18:03.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -3236,7 +3236,7 @@
         "Title":"CCN concentration at 1.0 percent supersaturation, based on aerosol chemical composition and size",
         "CF Standard Name":"",
         "Units":"m-3",
-        "UID":"",
+        "UID":"f86eb662-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -3246,7 +3246,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T16:15:37.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -3833,7 +3833,7 @@
         "Title":"Loss of CH4 due to biological consumption in the soil",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb665-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -3843,7 +3843,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T15:58:18.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -4056,7 +4056,7 @@
         "Title":"Total emission rate of propene",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_propene_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb68a-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -4066,7 +4066,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:22:49.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -4310,7 +4310,7 @@
         "Title":"Top of atmosphere shortwave outgoing radiative flux under clear sky conditions from diagnostic radiation call with reference methane",
         "CF Standard Name":"",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6be-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -4675,7 +4675,7 @@
         "Title":"Total emission rate of butane",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_butane_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb68c-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -4685,7 +4685,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:24:02.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -5044,7 +5044,7 @@
         "Title":"Instantaneous O3 volume mixing ratio ",
         "CF Standard Name":"mole_fraction_of_ozone_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb6ad-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -5054,7 +5054,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-30T12:39:31.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -5375,7 +5375,7 @@
         "Title":"Ambient Seasalt Aerosol Absorption Optical Thickness at 550nm",
         "CF Standard Name":"atmosphere_absorption_optical_thickness_due_to_sea_salt_ambient_aerosol_particles",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb659-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -5385,7 +5385,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:36:04.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -5595,7 +5595,7 @@
         "Title":"Zonal wind at 200 hPa",
         "CF Standard Name":"eastward_wind",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6e9-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -5605,7 +5605,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:43:49.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -5819,7 +5819,7 @@
         "Title":"Dry deposition of HNO3",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_nitric_acid_due_to_dry_deposition",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb673-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -5829,7 +5829,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T16:36:14.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -5968,7 +5968,7 @@
         "Title":"carbon concentration of diazotrophs",
         "CF Standard Name":"",
         "Units":"mol m-3",
-        "UID":"",
+        "UID":"f86eb6b0-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -5978,7 +5978,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-22T16:52:19.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -6119,7 +6119,7 @@
         "Title":"Gridbox Thickness on v points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6e3-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -6129,7 +6129,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:55:52.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -6599,7 +6599,7 @@
         "Title":"Cloud-Top Effective Radius of Liquid or Ice Cloud at Liquid or Ice Cloud Top ",
         "CF Standard Name":"effective_radius_of_cloud_condensed_water_particles_at_cloud_top",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6b6-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -6609,7 +6609,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-03T16:12:08.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -6637,7 +6637,7 @@
         "Title":"MODIS Condensed Water Path",
         "CF Standard Name":"atmosphere_mass_content_of_cloud_condensed_water",
         "Units":"kg m-2",
-        "UID":"",
+        "UID":"f86eb66e-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Accepted",
@@ -6647,7 +6647,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-14T12:24:40.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"Accepted",
         "Tagged author team":[
             "Atmosphere"
@@ -6897,7 +6897,7 @@
         "Title":"Tropospheric ozone volume mixing ratio due to stratosphere-troposphere exchange (STE) ",
         "CF Standard Name":"mole_fraction_of_ozone_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb6e7-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -6907,7 +6907,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-05T10:43:15.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -6935,7 +6935,7 @@
         "Title":"Northward Reynolds stress from non-orographic gravity wave parameterization",
         "CF Standard Name":"",
         "Units":"Pa",
-        "UID":"",
+        "UID":"f86eb6de-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -6946,7 +6946,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-05T10:20:02.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -7268,7 +7268,7 @@
         "Title":"Tropospheric loss of CH4 from chemical destruction",
         "CF Standard Name":"tendency_of_atmosphere_mole_concentration_of_methane_due_to_chemical_destruction",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb6e4-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -7278,7 +7278,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T15:46:12.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -7416,7 +7416,7 @@
         "Title":"Florida Strait Heat Transport",
         "CF Standard Name":"",
         "Units":"W",
-        "UID":"",
+        "UID":"f86eb69a-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -7426,7 +7426,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-05T11:17:33.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -7564,7 +7564,7 @@
         "Title":"Relative humidity at 100 hPa",
         "CF Standard Name":"relative_humidity",
         "Units":"%",
-        "UID":"",
+        "UID":"f86eb6a1-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -7574,7 +7574,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:18:30.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -8559,7 +8559,7 @@
         "Title":"Total emission rate of propane",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_propane_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb68b-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -8569,7 +8569,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:21:40.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -9447,7 +9447,7 @@
         "Title":"Chemical production of OH by reaction of O1D+H2O",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb667-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -9457,7 +9457,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T16:48:45.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -9895,7 +9895,7 @@
         "Title":"Autotrophic Respiration on Vegetation type as Carbon Mass Flux [kgC m-2 s-1]",
         "CF Standard Name":"surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_plant_respiration",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6b5-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -9905,7 +9905,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T12:45:22.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice"
@@ -10079,7 +10079,7 @@
         "Title":"Gridbox Thickness on u points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6e2-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -10089,7 +10089,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:54:33.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -10298,7 +10298,7 @@
         "Title":"Dry deposition of nitrate aerosol",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_nitrate_dry_aerosol_due_to_dry_deposition",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb674-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -10308,7 +10308,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"1 checked out of 1",
         "Created":"2024-08-29T16:44:16.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -10887,7 +10887,7 @@
         "Title":"Net Primary Mole Productivity of Carbon by coccolithophores",
         "CF Standard Name":"",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6a5-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -10897,7 +10897,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-15T16:31:57.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -10925,7 +10925,7 @@
         "Title":"regional halosteric sea level",
         "CF Standard Name":"halosteric_change_in_sea_surface_height",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6a0-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -10933,7 +10933,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T01:08:23.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -11108,7 +11108,7 @@
         "Title":"Surface Albedo of Land without ice cover",
         "CF Standard Name":"surface_albedo",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb65b-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11118,7 +11118,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T13:52:31.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system",
@@ -11223,7 +11223,7 @@
         "Title":"Top of atmosphere outgoing longwave radiative fluxes from diagnostic radiation call with reference methane",
         "CF Standard Name":"",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6b9-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11261,7 +11261,7 @@
         "Title":"Ambient Sulfate Aerosol Absorption Optical Thickness at 550nm",
         "CF Standard Name":"atmosphere_absorption_optical_thickness_due_to_sulfate_ambient_aerosol_particles",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb658-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11271,7 +11271,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:34:38.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -11704,7 +11704,7 @@
         "Title":"Amount of Total Ice Algae Expressed as Chlorophyll in Sea Ice",
         "CF Standard Name":"",
         "Units":"kg m-2",
-        "UID":"",
+        "UID":"f86eb6cc-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11715,7 +11715,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:23:57.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -11815,7 +11815,7 @@
         "Title":"Snow Mass on Sea-Ice South",
         "CF Standard Name":"",
         "Units":"kg",
-        "UID":"",
+        "UID":"f86eb6d2-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11891,7 +11891,7 @@
         "Title":"Reference CH4 volume mixing ratio",
         "CF Standard Name":"",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb666-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11965,7 +11965,7 @@
         "Title":"Volume Transport Through Florida Strait",
         "CF Standard Name":"",
         "Units":"m3 s-1",
-        "UID":"",
+        "UID":"f86eb69b-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -11975,7 +11975,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-05T10:12:28.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -12512,7 +12512,7 @@
         "Title":"Volume mixing ratio of Artificial tracer with 90 day lifetime",
         "CF Standard Name":"mole_fraction_of_artificial_tracer_with_fixed_lifetime_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb67b-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -12522,7 +12522,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-30T12:37:18.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -12881,7 +12881,7 @@
         "Title":"total emission rate of SO2 from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb685-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -12891,7 +12891,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T10:50:22.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -12994,7 +12994,7 @@
         "Title":"Total emission rate of CH4",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_methane_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb68e-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -13004,7 +13004,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T15:35:38.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -13217,7 +13217,7 @@
         "Title":"Ambient nitrate aerosol absorption optical thickness at 550nm",
         "CF Standard Name":"",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb656-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -13227,7 +13227,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T15:24:51.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -13365,7 +13365,7 @@
         "Title":"Ocean Salt y Transport",
         "CF Standard Name":"ocean_salt_y_transport",
         "Units":"kg s-1",
-        "UID":"",
+        "UID":"f86eb6c9-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -13375,7 +13375,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-10-07T07:13:53.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -13513,7 +13513,7 @@
         "Title":"Relative humidity at 700 hPa",
         "CF Standard Name":"relative_humidity",
         "Units":"%",
-        "UID":"",
+        "UID":"f86eb6a3-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -13523,7 +13523,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:14:25.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -13551,7 +13551,7 @@
         "Title":"carbon concentration of picophytoplankton",
         "CF Standard Name":"",
         "Units":"mol m-3",
-        "UID":"",
+        "UID":"f86eb6b3-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -13561,7 +13561,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-22T16:56:15.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -14289,7 +14289,7 @@
         "Title":"Downward sinking flux of particulate organic phosphorus at seafloor",
         "CF Standard Name":"sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb698-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -14299,7 +14299,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T14:04:55.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -14728,7 +14728,7 @@
         "Title":"Downward sinking flux of particulate silicon at seafloor",
         "CF Standard Name":"sinking_mole_flux_of_particulate_silicon_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb699-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -14738,7 +14738,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T14:05:49.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -14766,7 +14766,7 @@
         "Title":"total emission of organic aerosol from all biomass burning ",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb684-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -14776,7 +14776,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T11:47:16.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -14988,7 +14988,7 @@
         "Title":"regional sterodynamic sea level",
         "CF Standard Name":"thermosteric_change_in_sea_surface_height",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6e0-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -14996,7 +14996,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T01:10:25.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -15390,7 +15390,7 @@
         "Title":"Total Waves Direction",
         "CF Standard Name":"",
         "Units":"degree",
-        "UID":"",
+        "UID":"f86eb6f3-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -15398,7 +15398,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:26:03.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -15613,7 +15613,7 @@
         "Title":"max 2m daily NOAA heat index",
         "CF Standard Name":"",
         "Units":"degC",
-        "UID":"",
+        "UID":"f86eb6ab-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -16145,7 +16145,7 @@
         "Title":"total emission of CH4 from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb67f-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -16155,7 +16155,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T11:51:14.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -16402,7 +16402,7 @@
         "Title":" 6 hourly instantaneous northward wind at 2 additional pressure levels in the UTLS region (175 and 225 hPa)",
         "CF Standard Name":"northward_wind",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6eb-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -16412,7 +16412,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T18:14:10.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -16925,7 +16925,7 @@
         "Title":"carbon concentration of diatoms",
         "CF Standard Name":"",
         "Units":"mol m-3",
-        "UID":"",
+        "UID":"f86eb6af-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -16935,7 +16935,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-22T16:51:02.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -17528,7 +17528,7 @@
         "Title":"Albedo of sea-ice covered surface",
         "CF Standard Name":"surface_albedo",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb6ca-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -17538,7 +17538,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-25T13:56:14.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -17756,7 +17756,7 @@
         "Title":"dry deposition rate of H2",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_molecular_hydrogen_due_to_dry_deposition",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb672-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -17766,7 +17766,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:46:10.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -17794,7 +17794,7 @@
         "Title":"Sea Wave Direction",
         "CF Standard Name":"",
         "Units":"degree",
-        "UID":"",
+        "UID":"f86eb6c3-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -17802,7 +17802,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:48:52.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -18089,7 +18089,7 @@
         "Title":"Heterotrophic Respiration on Vegetation type as Carbon Mass Flux [kgC m-2 s-1]",
         "CF Standard Name":"surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_heterotrophic_respiration",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6b7-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -18099,7 +18099,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T12:48:46.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice"
@@ -18201,7 +18201,7 @@
         "Title":"PM10 mass mixing ratio in lowest model layer",
         "CF Standard Name":"mass_fraction_of_pm10_ambient_aerosol_particles_in_air",
         "Units":"kg kg-1",
-        "UID":"",
+        "UID":"f86eb6c6-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -18212,7 +18212,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:07:24.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -18426,7 +18426,7 @@
         "Title":"CCN concentration at 0.2 percent supersaturation, based on aerosol chemical composition and size",
         "CF Standard Name":"",
         "Units":"m-3",
-        "UID":"",
+        "UID":"f86eb663-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -18436,7 +18436,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T16:14:10.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -18577,7 +18577,7 @@
         "Title":"Mean soil water content at a depth of 5 cm",
         "CF Standard Name":"",
         "Units":"kg m-2",
-        "UID":"",
+        "UID":"f86eb6a9-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -18587,7 +18587,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-21T00:02:41.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice"
@@ -18801,7 +18801,7 @@
         "Title":"Sinking Flux of Particulate Organic Nitrogen Reaching the Ocean Bottom",
         "CF Standard Name":"sinking_mole_flux_of_particulate_organic_nitrogen_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb697-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -18811,7 +18811,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T14:03:56.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -19099,7 +19099,7 @@
         "Title":"Reference ozone mole fraction used in diagnostic call to radiation scheme",
         "CF Standard Name":"reference_mole_fraction_of_ozone_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb6ae-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -19109,7 +19109,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:28:34.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -19470,7 +19470,7 @@
         "Title":"Ambient Particulate Organic Matter Aerosol Absorption Optical Thickness at 550nm",
         "CF Standard Name":"atmosphere_absorption_optical_thickness_due_to_particulate_organic_matter_ambient_aerosol_particles",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb657-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -19480,7 +19480,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:38:01.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -20026,7 +20026,7 @@
         "Title":"Planetary albedo",
         "CF Standard Name":"planetary_albedo",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb65d-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -20036,7 +20036,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T20:52:05.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -20403,7 +20403,7 @@
         "Title":"PM1.0 mass mixing ratio in lowest model layer",
         "CF Standard Name":"mass_fraction_of_pm1_ambient_aerosol_particles_in_air",
         "Units":"kg kg-1",
-        "UID":"",
+        "UID":"f86eb6c5-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -20414,7 +20414,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:08:59.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -20627,7 +20627,7 @@
         "Title":"Swell waves peak period",
         "CF Standard Name":"",
         "Units":"s",
-        "UID":"",
+        "UID":"f86eb6d7-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -20635,7 +20635,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:32:11.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -21730,7 +21730,7 @@
         "Title":"Dissolved Silicon Amount in Sea Ice",
         "CF Standard Name":"",
         "Units":"mol m-2",
-        "UID":"",
+        "UID":"f86eb6d0-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -21741,7 +21741,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:31:29.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -21988,7 +21988,7 @@
         "Title":"6 hourly instantaneous eastward wind at 2 additional pressure levels in the UTLS region (175 and 225 hPa)",
         "CF Standard Name":"eastward_wind",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6ef-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -21998,7 +21998,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T18:16:04.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -22389,7 +22389,7 @@
         "Title":"Northward gridbox width on v points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb67a-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -22399,7 +22399,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:43:21.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -22659,7 +22659,7 @@
         "Title":"emission rate of nox from aviation",
         "CF Standard Name":"tendency_of_atmosphere_moles_of_nox_expressed_as_nitrogen",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb67d-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -22669,7 +22669,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-30T11:53:33.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -22771,7 +22771,7 @@
         "Title":"Net chemical production of O3",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb671-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -22781,7 +22781,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T16:00:25.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -22809,7 +22809,7 @@
         "Title":"Wet deposition of HNO3",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_nitric_acid_due_to_wet_deposition",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6f4-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -22819,7 +22819,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T16:37:46.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -23143,7 +23143,7 @@
         "Title":"total emission rate of NH3 from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb682-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -23153,7 +23153,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T10:58:49.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -23401,7 +23401,7 @@
         "Title":"Downward Flux of Calcite at 1000m",
         "CF Standard Name":"sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb692-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -23411,7 +23411,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T21:56:14.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -23884,7 +23884,7 @@
         "Title":"Swell Significant Wave Height",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6d5-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -23892,7 +23892,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:28:15.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -24284,7 +24284,7 @@
         "Title":"Sera Significant Wave Height",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6c2-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -24292,7 +24292,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:41:35.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -24612,7 +24612,7 @@
         "Title":"depth of soil across all soil layers",
         "CF Standard Name":"depth",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb670-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -24622,7 +24622,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T13:34:26.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice",
@@ -24834,7 +24834,7 @@
         "Title":"Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom",
         "CF Standard Name":"sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb695-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -24845,7 +24845,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T13:50:16.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -25092,7 +25092,7 @@
         "Title":"Loss of H2 due to chemical destruction",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb69e-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -25102,7 +25102,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T15:27:00.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -25984,7 +25984,7 @@
         "Title":"Sea Waves Mean Period",
         "CF Standard Name":"",
         "Units":"s",
-        "UID":"",
+        "UID":"f86eb6c1-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -25992,7 +25992,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:43:15.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -26095,7 +26095,7 @@
         "Title":"Top of atmosphere outgoing longwave radiative flux under clear-sky conditions from diagnostic call to radiation scheme with a reference ozone field",
         "CF Standard Name":"toa_outgoing_longwave_flux_assuming_clear_sky_and_reference_mole_fraction_of_ozone_in_air",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6bb-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -26105,7 +26105,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:20:30.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -26133,7 +26133,7 @@
         "Title":"Eastward gridbox width on u points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb676-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -26143,7 +26143,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:31:35.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -26424,7 +26424,7 @@
         "Title":"Northward wind at 200 hPa",
         "CF Standard Name":"northward_wind",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6ed-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -26434,7 +26434,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:46:42.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -26719,7 +26719,7 @@
         "Title":"maximum 2m daily wet bulb globe temperature",
         "CF Standard Name":"",
         "Units":"degC",
-        "UID":"",
+        "UID":"f86eb6f2-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -26729,7 +26729,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-15T15:32:54.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere",
@@ -26999,7 +26999,7 @@
         "Title":"Freshwater lake emissions of CH4",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb690-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -27009,7 +27009,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T15:42:11.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -27186,7 +27186,7 @@
         "Title":"chemical production of atmospheric H2",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb69f-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -27196,7 +27196,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T15:28:58.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -27370,7 +27370,7 @@
         "Title":"carbon concentration of nanophytoplankton",
         "CF Standard Name":"",
         "Units":"mol m-3",
-        "UID":"",
+        "UID":"f86eb6b2-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -27381,7 +27381,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-22T16:55:10.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -27409,7 +27409,7 @@
         "Title":"Sea Wave Peak Period",
         "CF Standard Name":"",
         "Units":"s",
-        "UID":"",
+        "UID":"f86eb6c4-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -27417,7 +27417,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:46:51.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -27850,7 +27850,7 @@
         "Title":"Relatie humidity at 500 hPa",
         "CF Standard Name":"relative_humidity",
         "Units":"%",
-        "UID":"",
+        "UID":"f86eb6a2-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -27860,7 +27860,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:25:37.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -27926,7 +27926,7 @@
         "Title":"'6 hourly instantaneous northward wind at 3 pressure levels in the UTLS region (150, 200, and 250 hPa) '",
         "CF Standard Name":"northward_wind",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6ea-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -27936,7 +27936,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T18:01:40.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -28038,7 +28038,7 @@
         "Title":"Loss of CH4 due to chemical destruction in the stratosphere",
         "CF Standard Name":"tendency_of_atmosphere_mole_concentration_of_methane_due_to_chemical_destruction",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb6d3-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -28048,7 +28048,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T15:56:13.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -28485,7 +28485,7 @@
         "Title":"H2 volume mixing ratio",
         "CF Standard Name":"mole_fraction_of_molecular_hydrogen_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb69d-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -28495,7 +28495,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:41:30.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -28523,7 +28523,7 @@
         "Title":"Net Primary Mole Productivity of Carbon by nanophytoplankton",
         "CF Standard Name":"",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6a6-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -28534,7 +28534,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-15T16:32:57.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -28711,7 +28711,7 @@
         "Title":"MODIS Ice-Topped Cloud Area Fraction",
         "CF Standard Name":"",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb66c-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Accepted",
@@ -28722,7 +28722,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-07-31T20:44:08.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"Accepted",
         "Tagged author team":[
             "Atmosphere"
@@ -29044,7 +29044,7 @@
         "Title":"Eastward gridbox width on v points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb677-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -29054,7 +29054,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:41:07.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -29191,7 +29191,7 @@
         "Title":"Wet deposition of nitrate aerosol",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_nitrate_dry_aerosol_particles_due_to_wet_deposition",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6f5-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -29201,7 +29201,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T16:42:54.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -29746,7 +29746,7 @@
         "Title":"Top of atmosphere longwave radiative flux from a diagnostic call to the radiation scheme using a reference ozone field",
         "CF Standard Name":"toa_outgoing_longwave_flux_assuming_reference_mole_fraction_of_ozone_in_air",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6bc-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -29756,7 +29756,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:18:05.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -29784,7 +29784,7 @@
         "Title":"MODIS Liquid-Topped Cloud Area Fraction",
         "CF Standard Name":"",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb66d-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Accepted",
@@ -29795,7 +29795,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-07-31T20:47:34.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"Accepted",
         "Tagged author team":[
             "Atmosphere"
@@ -30160,7 +30160,7 @@
         "Title":"Fraction of Land Grid Cell covered by Lake",
         "CF Standard Name":"",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb6c7-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -30170,7 +30170,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T13:18:15.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice",
@@ -30493,7 +30493,7 @@
         "Title":"total emission rate of CO from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb680-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -30503,7 +30503,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T10:52:22.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -30713,7 +30713,7 @@
         "Title":"Modis Cloud Area Fraction",
         "CF Standard Name":"",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb66b-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Accepted",
@@ -30723,7 +30723,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-07-31T20:40:03.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"Accepted",
         "Tagged author team":[
             "Atmosphere"
@@ -31012,7 +31012,7 @@
         "Title":"Eastward gridbox width on t points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb675-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -31022,7 +31022,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:27:12.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -31307,7 +31307,7 @@
         "Title":"Sinking Flux of Particulate Iron Reaching the Ocean Bottom",
         "CF Standard Name":"sinking_mole_flux_of_particulate_iron_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb696-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -31317,7 +31317,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T14:02:11.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -32017,7 +32017,7 @@
         "Title":"Gross primary production in sea ice as carbon amount flux",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6ce-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -32028,7 +32028,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:34:42.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -32056,7 +32056,7 @@
         "Title":"depth of isosurface of seawater temperature at 17C",
         "CF Standard Name":"depth_of_isosurface_of_sea_water_potential_temperature",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6d9-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -32066,7 +32066,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-15T00:29:03.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -32130,7 +32130,7 @@
         "Title":"Total emission rate of ethane",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_ethane_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb689-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -32140,7 +32140,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:19:03.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -32605,7 +32605,7 @@
         "Title":"Northward gridbox width on u points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb679-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -32615,7 +32615,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:33:04.000Z",
-        "Last Modified By":"dr-oceans",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -32643,7 +32643,7 @@
         "Title":"Total Significant Wave Height - Ocean surface",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6d8-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -32653,7 +32653,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:18:08.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -32789,7 +32789,7 @@
         "Title":"Total Ice Algal Carbon Amount ",
         "CF Standard Name":"",
         "Units":"mol m-2",
-        "UID":"",
+        "UID":"f86eb6cb-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -32800,7 +32800,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:26:58.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -33303,7 +33303,7 @@
         "Title":"C2H4 volume mixing ratio",
         "CF Standard Name":"mole_fraction_of_ethene_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb65f-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -33313,7 +33313,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:12:26.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -33341,7 +33341,7 @@
         "Title":"Surface Upwelling Longwave Radiation Clear Sky",
         "CF Standard Name":"surface_upwelling_longwave_flux_assuming_clear_sky",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6b8-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -33377,7 +33377,7 @@
         "Title":"Northward Reynolds stress from orographic gravity wave parameterization",
         "CF Standard Name":"",
         "Units":"Pa",
-        "UID":"",
+        "UID":"f86eb6df-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -33388,7 +33388,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-05T10:17:09.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -33904,7 +33904,7 @@
         "Title":"MODIS Ice Water Path",
         "CF Standard Name":"atmosphere_mass_content_of_cloud_ice",
         "Units":"kg m-2",
-        "UID":"",
+        "UID":"f86eb66a-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Accepted",
@@ -33914,7 +33914,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-14T12:20:55.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"Accepted",
         "Tagged author team":[
             "Atmosphere"
@@ -34089,7 +34089,7 @@
         "Title":"Total Waves Mean Period",
         "CF Standard Name":"",
         "Units":"s",
-        "UID":"",
+        "UID":"f86eb6a8-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -34097,7 +34097,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:20:27.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -34234,7 +34234,7 @@
         "Title":"Net chemical production of ammonium aerosol",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb668-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -34244,7 +34244,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T16:29:39.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -34424,7 +34424,7 @@
         "Title":"Total emission rate of ethene",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_ethene_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb687-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -34434,7 +34434,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:20:31.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -34977,7 +34977,7 @@
         "Title":"Total emission rate of ethanol",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_ethanol_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb688-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -34987,7 +34987,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:27:42.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -35053,7 +35053,7 @@
         "Title":"Westward Reynolds stress from orographic gravity wave parameterization",
         "CF Standard Name":"",
         "Units":"Pa",
-        "UID":"",
+        "UID":"f86eb6dd-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -35064,7 +35064,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-05T10:15:12.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -35131,7 +35131,7 @@
         "Title":"total emission of DMS from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb681-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -35141,7 +35141,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T11:48:57.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -35431,7 +35431,7 @@
         "Title":"eastward bolus sea water velocity",
         "CF Standard Name":"bolus_eastward_sea_water_velocity",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6ec-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -35441,7 +35441,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"1 checked out of 1",
         "Created":"2024-09-08T19:52:09.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -35954,7 +35954,7 @@
         "Title":"Geopotential height at 925 hPa",
         "CF Standard Name":"geopotential_height",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6f8-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -35964,7 +35964,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:39:47.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -36451,7 +36451,7 @@
         "Title":"Total Waves Peak Period",
         "CF Standard Name":"",
         "Units":"s",
-        "UID":"",
+        "UID":"f86eb6f6-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -36459,7 +36459,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-16T15:22:12.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -36611,7 +36611,7 @@
         "Title":"Swell waves Direction",
         "CF Standard Name":"sea_surface_swell_wave_to_direction",
         "Units":"degree",
-        "UID":"",
+        "UID":"f86eb6d6-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -36619,7 +36619,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-16T15:34:13.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":"",
         "Data protection consent":true,
@@ -36757,7 +36757,7 @@
         "Title":"Sinking Flux of Aragonite Reaching the Ocean Bottom",
         "CF Standard Name":"sinking_mole_flux_of_aragonite_expressed_as_carbon_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb693-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -36767,7 +36767,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T13:58:24.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -38238,7 +38238,7 @@
         "Title":"Algal Production",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb6b4-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -38248,7 +38248,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-14T10:00:25.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -38387,7 +38387,7 @@
         "Title":"Total emission rate of H2",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_molecular_hydrogen_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb68f-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -38397,7 +38397,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:44:10.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -38868,7 +38868,7 @@
         "Title":"Snow Mass on Sea-Ice North",
         "CF Standard Name":"",
         "Units":"kg",
-        "UID":"",
+        "UID":"f86eb6d1-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -38878,7 +38878,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T21:11:52.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice",
@@ -38943,7 +38943,7 @@
         "Title":"total emission rate of black carbon aerosol mass from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb67e-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -38953,7 +38953,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T11:45:33.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -39759,7 +39759,7 @@
         "Title":"Dissolved Nitrate Amount in Sea Ice",
         "CF Standard Name":"",
         "Units":"mol m-2",
-        "UID":"",
+        "UID":"f86eb6cf-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -39770,7 +39770,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-12T21:29:17.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -40577,7 +40577,7 @@
         "Title":"northward bolus sea water velocity",
         "CF Standard Name":"bolus_northward_sea_water_velocity",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6f0-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -40587,7 +40587,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"1 checked out of 1",
         "Created":"2024-09-08T19:54:07.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -40615,7 +40615,7 @@
         "Title":"Albedo of ice-covered Surface ",
         "CF Standard Name":"surface_albedo",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb65a-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -40625,7 +40625,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T14:02:00.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice",
@@ -40655,7 +40655,7 @@
         "Title":"Relative humidity at 850 hPa",
         "CF Standard Name":"relative_humidity",
         "Units":"%",
-        "UID":"",
+        "UID":"f86eb6a4-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -40665,7 +40665,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:21:35.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -40729,7 +40729,7 @@
         "Title":"Geopotential height at 700 hPa",
         "CF Standard Name":"geopotential_height",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6f7-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -40739,7 +40739,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T15:37:01.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -41260,7 +41260,7 @@
         "Title":"Net Primary Production on Vegetation type as Carbon Mass Flux [kgC m-2 s-1]",
         "CF Standard Name":"net_primary_productivity_of_biomass_expressed_as_carbon",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6ac-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -41270,7 +41270,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T12:41:46.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice"
@@ -41557,7 +41557,7 @@
         "Title":"dust absorption aerosol optical depth @550nm",
         "CF Standard Name":"atmosphere_absorption_optical_thickness_due_to_dust_ambient_aerosol_particles",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb655-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -41567,7 +41567,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:31:03.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -41926,7 +41926,7 @@
         "Title":"Swell Waves Mean Period",
         "CF Standard Name":"sea_surface_swell_wave_mean_period",
         "Units":"s",
-        "UID":"",
+        "UID":"f86eb6d4-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -41934,7 +41934,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-16T15:29:58.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -42148,7 +42148,7 @@
         "Title":"Leaf Area Index on Vegetation type",
         "CF Standard Name":"leaf_area_index",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb6a7-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -42158,7 +42158,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T12:35:01.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice"
@@ -42377,7 +42377,7 @@
         "Title":"Northward gridbox width on t points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb678-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -42387,7 +42387,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:28:40.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -43494,7 +43494,7 @@
         "Title":"Gridbox Thickness on t points",
         "CF Standard Name":"",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb6e1-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -43504,7 +43504,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-08T20:53:12.000Z",
-        "Last Modified By":"Automations",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -43571,7 +43571,7 @@
         "Title":"Methanol volume mixing ratio",
         "CF Standard Name":"mole_fraction_of_methanol_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb664-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -43581,7 +43581,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:15:15.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -44301,7 +44301,7 @@
         "Title":"Net chemical production of nitrate aerosol",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_nitrate_dry_aerosol_particles_due_to_net_chemical_production",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb669-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -44311,7 +44311,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T16:30:58.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -44594,7 +44594,7 @@
         "Title":"carbon concentration of miscellaneous phytoplankton",
         "CF Standard Name":"",
         "Units":"mol m-3",
-        "UID":"",
+        "UID":"f86eb6b1-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -44604,7 +44604,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-09-22T16:53:46.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -44705,7 +44705,7 @@
         "Title":"Surface Albedo of Ocean without Ice",
         "CF Standard Name":"surface_albedo",
         "Units":"1",
-        "UID":"",
+        "UID":"f86eb65c-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -44715,7 +44715,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T13:56:51.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice",
@@ -44819,7 +44819,7 @@
         "Title":"total emission rate of NOx from all biomass burning",
         "CF Standard Name":"",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb683-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -44829,7 +44829,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-30T10:55:21.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -46327,7 +46327,7 @@
         "Title":"Top of atmosphere shortwave flux from diagnostic call to radiation scheme using a reference ozone field",
         "CF Standard Name":"toa_outgoing_shortwave_flux_assuming_reference_mole_fraction_of_ozone_in_air",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6c0-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -46337,7 +46337,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T11:12:59.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -46439,7 +46439,7 @@
         "Title":"turbidity of coastal runoff",
         "CF Standard Name":"sea_water_turbidity",
         "Units":"units",
-        "UID":"",
+        "UID":"f86eb6e8-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -46449,7 +46449,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-14T09:58:09.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -46586,7 +46586,7 @@
         "Title":"Downward Flux of Particulate Organic Carbon at 1000m",
         "CF Standard Name":"sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb691-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -46596,7 +46596,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T21:49:04.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"
@@ -47358,7 +47358,7 @@
         "Title":"Ocean Salt X Transport",
         "CF Standard Name":"ocean_salt_x_transport",
         "Units":"kg s-1",
-        "UID":"",
+        "UID":"f86eb6c8-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -47368,7 +47368,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-10-07T07:12:25.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -47833,7 +47833,7 @@
         "Title":"Salt Flux from Sea Ice",
         "CF Standard Name":"downward_sea_ice_basal_salt_flux",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb6cd-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -47843,7 +47843,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T09:36:24.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Ocean & sea-ice"
@@ -47871,7 +47871,7 @@
         "Title":"Top of atmosphere outgoing longwave radiative fluxes under clear sky conditions from diagnostic radiation call with reference methane",
         "CF Standard Name":"",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6ba-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -48352,7 +48352,7 @@
         "Title":"Anthropogenic emission rate of CH4",
         "CF Standard Name":"tendency_of_atmosphere_mass_content_of_methane_due_to_emission",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb67c-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -48362,7 +48362,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T15:37:08.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -48723,7 +48723,7 @@
         "Title":"Westward Reynolds stress from non-orographic gravity wave parameterization",
         "CF Standard Name":"",
         "Units":"Pa",
-        "UID":"",
+        "UID":"f86eb6dc-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -48798,7 +48798,7 @@
         "Title":"'6 hourly instantaneous air temperature at 3 pressure levels in the UTLS region (150, 200, and 250 hPa) '",
         "CF Standard Name":"air_temperature",
         "Units":"K",
-        "UID":"",
+        "UID":"f86eb6da-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -48808,7 +48808,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T17:57:37.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -49321,7 +49321,7 @@
         "Title":"Top of atmosphere shortwave outgoing radiation from a diagnostic call with a reference methane field",
         "CF Standard Name":"",
         "Units":"W m-2",
-        "UID":"",
+        "UID":"f86eb6bd-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -50516,7 +50516,7 @@
         "Title":"mean 2m daily NOAA heat index",
         "CF Standard Name":"",
         "Units":"degC",
-        "UID":"",
+        "UID":"f86eb6aa-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -51069,7 +51069,7 @@
         "Title":"Loss of CH4 due to tropospheric loss by OH",
         "CF Standard Name":"",
         "Units":"mol m-3 s-1",
-        "UID":"",
+        "UID":"f86eb6e5-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -51079,7 +51079,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"",
         "Created":"2024-08-29T15:44:30.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -51107,7 +51107,7 @@
         "Title":"Gross Primary Production on Vegetation type as Carbon Mass Flux",
         "CF Standard Name":"gross_primary_productivity_of_biomass_expressed_as_carbon",
         "Units":"kg m-2 s-1",
-        "UID":"",
+        "UID":"f86eb69c-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -51117,7 +51117,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-06T12:39:20.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice",
@@ -51811,7 +51811,7 @@
         "Title":"Ethanol volume mixing ratio",
         "CF Standard Name":"mole_fraction_of_ethanol_in_air",
         "Units":"mol mol-1",
-        "UID":"",
+        "UID":"f86eb660-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -51821,7 +51821,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-08-29T12:16:17.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"In progress",
         "Tagged author team":[
             "Atmosphere"
@@ -52107,7 +52107,7 @@
         "Title":"'6 hourly instantaneous eastward wind at 3 pressure levels in the UTLS region (150, 200, and 250 hPa) '",
         "CF Standard Name":"eastward_wind",
         "Units":"m s-1",
-        "UID":"",
+        "UID":"f86eb6ee-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -52117,7 +52117,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-13T18:03:04.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Impacts & Adaptation"
@@ -52220,7 +52220,7 @@
         "Title":"depth of lake below the surface",
         "CF Standard Name":"depth",
         "Units":"m",
-        "UID":"",
+        "UID":"f86eb66f-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"Under review",
@@ -52230,7 +52230,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-12T13:27:53.000Z",
-        "Last Modified By":"Beth Dingley",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Land & land-ice",
@@ -52771,7 +52771,7 @@
         "Title":"Sinking Flux of Calcite Reaching the Ocean Bottom",
         "CF Standard Name":"sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water",
         "Units":"mol m-2 s-1",
-        "UID":"",
+        "UID":"f86eb694-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
         "Name Validation":1,
         "Status":"New",
@@ -52781,7 +52781,7 @@
         "Description":"",
         "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-26T13:55:26.000Z",
-        "Last Modified By":"Anonymous",
+        "Last Modified By":"Data Request co-leads",
         "Atmosphere team review status":"",
         "Tagged author team":[
             "Earth system"

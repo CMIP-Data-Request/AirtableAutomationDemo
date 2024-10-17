@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": true,
     "justification-for-inclusion": "To be able to do accurate calculations for the ocean model the width of the gridboxes in both the east/west and north/south direction is essential.  This is particularly true if ocean transects are being investigated.  Furthermore, attempting to estimate these parameters using the longitudes and latitudes from the  t,u and v grid points often leads to incorrect values due to some models artificially narrowing channels (e.g. Strait of Gibraltar and between various islands in the Indonesian Through flow region.\n",
-    "last-modified-by": "Automations",
+    "last-modified-by": "Data Request co-leads",
     "name": "dxto",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Eastward gridbox width on t points",
-    "uid": "",
+    "uid": "f86eb675-8ca1-11ef-944e-41a8eb05f654",
     "units": "m",
     "review": {
         "atmosphere-review-comments": "",

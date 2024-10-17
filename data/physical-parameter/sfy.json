@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "For regional budgets of salt in eddy-permitting ocean models, this term is necessary because the salt transport has an eddy component (arising from salinity-velocity correlations in time) that cannot be recomputed from monthly salinity and velocity.\n",
-    "last-modified-by": "Anonymous",
+    "last-modified-by": "Data Request co-leads",
     "name": "sfy",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Ocean Salt y Transport",
-    "uid": "",
+    "uid": "f86eb6c9-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg s-1",
     "review": {
         "atmosphere-review-comments": "",

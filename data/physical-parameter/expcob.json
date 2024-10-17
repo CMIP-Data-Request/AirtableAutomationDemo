@@ -19,7 +19,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "The sinking flux of particulate organic carbon reaching the ocean bottom is an essential quantity determining the function and fluxes of the sediments.\n",
-    "last-modified-by": "Anonymous",
+    "last-modified-by": "Data Request co-leads",
     "name": "expcob",
     "name-validation": 1,
     "processing-comment": "",
@@ -32,7 +32,7 @@
         "Earth system"
     ],
     "title": "Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom",
-    "uid": "",
+    "uid": "f86eb695-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

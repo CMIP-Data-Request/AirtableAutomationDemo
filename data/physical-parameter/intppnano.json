@@ -19,7 +19,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Vertically integrated primary (organic carbon) production by the nanophytoplankton component alone\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "intppnano",
     "name-validation": 1,
     "processing-comment": "",
@@ -32,7 +32,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Net Primary Mole Productivity of Carbon by nanophytoplankton",
-    "uid": "",
+    "uid": "f86eb6a6-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

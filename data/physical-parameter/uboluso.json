@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "This variable is essential to be able to accurately assess ocean circulation and transports.  The bolus (parameterized) velocity is particularly important in regions where there is a lot of eddy activity, like gyre boundaries and in the Southern Ocean.  In the Southern Ocean without the bolus velocities the transports are often incorrect/in the wrong direction.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "uboluso",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Ocean & sea-ice"
     ],
     "title": "eastward bolus sea water velocity",
-    "uid": "",
+    "uid": "f86eb6ec-8ca1-11ef-944e-41a8eb05f654",
     "units": "m s-1",
     "review": {
         "atmosphere-review-comments": "",

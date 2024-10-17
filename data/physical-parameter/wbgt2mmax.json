@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Important for the estimation of heat stress on human health\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "wbgt2mmax",
     "name-validation": 1,
     "processing-comment": "",
@@ -30,7 +30,7 @@
         "Impacts & Adaptation"
     ],
     "title": "maximum 2m daily wet bulb globe temperature",
-    "uid": "",
+    "uid": "f86eb6f2-8ca1-11ef-944e-41a8eb05f654",
     "units": "degC",
     "review": {
         "atmosphere-review-comments": "",

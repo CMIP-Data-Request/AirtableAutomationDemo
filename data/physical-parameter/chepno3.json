@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "To calculate nitrate aerosol budget\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "chepno3",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Net chemical production of nitrate aerosol",
-    "uid": "",
+    "uid": "f86eb669-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Geopotential height at 700 hPa, 6 hourly instantaneous is useful for classifying various types of low pressure systems.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "zg700",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "Geopotential height at 700 hPa",
-    "uid": "",
+    "uid": "f86eb6f7-8ca1-11ef-944e-41a8eb05f654",
     "units": "m",
     "review": {
         "atmosphere-review-comments": "",

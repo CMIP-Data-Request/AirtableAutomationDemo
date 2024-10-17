@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Transport through the Florida Strait is import for climatic changes, especially on decadal time scales.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "fshtrans",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Ocean & sea-ice"
     ],
     "title": "Florida Strait Heat Transport",
-    "uid": "",
+    "uid": "f86eb69a-8ca1-11ef-944e-41a8eb05f654",
     "units": "W",
     "review": {
         "atmosphere-review-comments": "",

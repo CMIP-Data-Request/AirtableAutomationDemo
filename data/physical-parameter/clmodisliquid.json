@@ -19,7 +19,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "The MODIS instrument simulator is capable of producing cloud fraction joint histograms\u00a0akin to those from the ISCCP satellite simulator, but can further partition them by cloud-top phase. Furthermore, two versions of the joint histogram exist: one that aligns with the cloud-top pressure & cloud optical depth (CTP-COT) dimensions of the existing ISCCP histograms, and another partitioned by cloud droplet effective radius (r\\_e) and cloud liquid water path (LWP). This latter version can used in conjunction with cloud radiative kernels to estimate both the SW effective radiative forcing from aerosol-cloud interactions (SW ERFaci) from liquid clouds, and also the relative contributions of the Twomey effect, LWP adjustment, and cloud-fraction (CF) adjustment separately. This is a new technique that adopts a decomposition framework from the cloud feedback literature ([Zelinka 2012a](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjournals.ametsoc.org%2Fview%2Fjournals%2Fclim%2F25%2F11%2Fjcli-d-11-00248.1.xml%3Ftab_body%3Dabstract-display&data=05%7C02%7CElisabeth.Dingley%40ext.esa.int%7Cd5a18aa3c0c94a4149ea08dcb5730745%7C9a5cacd02bef4dd7ac5c7ebe1f54f495%7C0%7C0%7C638584752864945047%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=0Ie0IdDPCr0pGBxlt0T16HO7vUfyzUbHnPzo1aqUQys%3D&reserved=0)\u00a0and\u00a0[Zelinka 2013](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjournals.ametsoc.org%2Fview%2Fjournals%2Fclim%2F26%2F14%2Fjcli-d-12-00555.1.xml&data=05%7C02%7CElisabeth.Dingley%40ext.esa.int%7Cd5a18aa3c0c94a4149ea08dcb5730745%7C9a5cacd02bef4dd7ac5c7ebe1f54f495%7C0%7C0%7C638584752864952800%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=mlEna4KNYajh34b%2FFpZK4AMBlwGH%2BBb5wlGLbWcfHSs%3D&reserved=0)). It has been used in observations by\u00a0[Wall 2023](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Facp.copernicus.org%2Farticles%2F23%2F13125%2F2023%2F&data=05%7C02%7CElisabeth.Dingley%40ext.esa.int%7Cd5a18aa3c0c94a4149ea08dcb5730745%7C9a5cacd02bef4dd7ac5c7ebe1f54f495%7C0%7C0%7C638584752864959609%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=QqdnpJwKxh%2BxfOArXdxMbwgIYa5WLrAUzWCY0%2B1V10c%3D&reserved=0), and a manuscript highlighting its first use in a GCM is nearing completion and will be submitted to ACP in the coming weeks.\u00a0\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "clmodisliquid",
     "name-validation": 1,
     "processing-comment": "",
@@ -32,7 +32,7 @@
         "Atmosphere"
     ],
     "title": "MODIS Liquid-Topped Cloud Area Fraction",
-    "uid": "",
+    "uid": "f86eb66d-8ca1-11ef-944e-41a8eb05f654",
     "units": "1",
     "review": {
         "atmosphere-review-comments": "Atmosphere team are happy with the technical description of the parameters and confirmed there is precedent for the modis naming convention. The IPO has reached out to the proposer to inform that an accepted physical parameter does not indicate inclusion into the Data Request - the physical parameter must be assigned to a Variable, which in turn must be assigned a variable group and opportunity to ensure inclusion.",

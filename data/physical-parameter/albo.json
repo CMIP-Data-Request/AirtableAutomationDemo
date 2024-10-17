@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "necessary to understand the response of the cryosphere in various climates\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "albo",
     "name-validation": 1,
     "processing-comment": "",
@@ -31,7 +31,7 @@
         "Earth system"
     ],
     "title": "Surface Albedo of Ocean without Ice",
-    "uid": "",
+    "uid": "f86eb65c-8ca1-11ef-944e-41a8eb05f654",
     "units": "1",
     "review": {
         "atmosphere-review-comments": "",

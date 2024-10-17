@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "To understand sources of NH3 and nitrate aerosols\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "emibbnh3",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "total emission rate of NH3 from all biomass burning",
-    "uid": "",
+    "uid": "f86eb682-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

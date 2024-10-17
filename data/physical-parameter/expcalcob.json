@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Calcite is the dominant form of calcium carbonate in marine sediments, and as such, the sinking flux of calcite reaching the ocean bottom is essential for understanding the ocean sediment response to climate change and ocean acidification.\n",
-    "last-modified-by": "Anonymous",
+    "last-modified-by": "Data Request co-leads",
     "name": "expcalcob",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Earth system"
     ],
     "title": "Sinking Flux of Calcite Reaching the Ocean Bottom",
-    "uid": "",
+    "uid": "f86eb694-8ca1-11ef-944e-41a8eb05f654",
     "units": "mol m-2 s-1",
     "review": {
         "atmosphere-review-comments": "",

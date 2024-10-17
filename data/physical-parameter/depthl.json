@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "studying the impact of lakes in climate model simulations necessitates documentation of details of the implementation of lakes\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "depthl",
     "name-validation": 1,
     "processing-comment": "",
@@ -31,7 +31,7 @@
         "Ocean & sea-ice"
     ],
     "title": "depth of lake below the surface",
-    "uid": "",
+    "uid": "f86eb66f-8ca1-11ef-944e-41a8eb05f654",
     "units": "m",
     "review": {
         "atmosphere-review-comments": "",

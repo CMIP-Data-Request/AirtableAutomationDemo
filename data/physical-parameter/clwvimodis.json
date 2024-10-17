@@ -16,7 +16,7 @@
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "To evaluate clouds in climate model by comparing with satellite observations the output of satellite simulators allows for a more quantitative comparison of model and satellite data. Until now only cloud coverage is part of the physical variables in the CMOR tables. Additional insight into the models\u2019 performance in reproducing observed cloud properties is expected from using additional output from the COSP satellite simulator package, in particular ice and liquid water path resembling MODIS measurements.\n",
-    "last-modified-by": "Beth Dingley",
+    "last-modified-by": "Data Request co-leads",
     "name": "clwvimodis",
     "name-validation": 1,
     "processing-comment": "",
@@ -29,7 +29,7 @@
         "Atmosphere"
     ],
     "title": "MODIS Condensed Water Path",
-    "uid": "",
+    "uid": "f86eb66e-8ca1-11ef-944e-41a8eb05f654",
     "units": "kg m-2",
     "review": {
         "atmosphere-review-comments": "",
