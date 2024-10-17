@@ -34,7 +34,7 @@
     },
     {
         "Cell Methods":"area: time: mean where unfrozen_soil",
-        "label":"amunf-twm",
+        "label":"amnunf-twm",
         "title":"Weighted Time Mean on Bare Ground",
         "uid":"CellMethods::amunf-twm",
         "Brand ID":"ufs",
@@ -144,7 +144,7 @@
     },
     {
         "Cell Methods":"area: sum where sea time: mean",
-        "label":"asm-tmn",
+        "label":"amns-tmn",
         "title":"Time Mean of Area Sum",
         "uid":"CellMethods::asm-tmn",
         "Brand ID":"sea",
@@ -210,7 +210,7 @@
     },
     {
         "Cell Methods":"area: time: mean where vegetation (comment: mask=vegFrac)",
-        "label":"amv-twm",
+        "label":"amnv-twm",
         "title":"Weighted Time Mean on Vegetation",
         "uid":"CellMethods::amv-twm",
         "Brand ID":"veg",
@@ -243,7 +243,7 @@
     },
     {
         "Cell Methods":"area: time: mean where trees (comment: mask=treeFrac)",
-        "label":"amtr-twm",
+        "label":"amntr-twm",
         "title":"Weighted Time Mean on Unfrozen Ground",
         "uid":"CellMethods::amtr-twm",
         "Brand ID":"tree",
@@ -496,7 +496,7 @@
     },
     {
         "Cell Methods":"area: time: mean where crops (comment: mask=cropFrac)",
-        "label":"amc-twm",
+        "label":"amnc-twm",
         "title":"Weighted Time Mean on Crops",
         "uid":"CellMethods::amc-twm",
         "Brand ID":"crp",
@@ -507,7 +507,7 @@
     },
     {
         "Cell Methods":"area: time: mean",
-        "label":"am-twm",
+        "label":"amn-twm",
         "title":"Area and Time Mean",
         "uid":"CellMethods::am-tm",
         "Brand ID":"x",
@@ -529,7 +529,7 @@
     },
     {
         "Cell Methods":"area: time: mean where air",
-        "label":"ama-twm",
+        "label":"amna-twm",
         "title":"Weighted Time Mean in Air",
         "uid":"CellMethods::ama-twm",
         "Brand ID":"x",
@@ -683,7 +683,7 @@
     },
     {
         "Cell Methods":"area: time: mean where pastures (comment: mask=pastureFrac)",
-        "label":"amp-twm",
+        "label":"amnp-twm",
         "title":"Weighted Time Mean on Pastures",
         "uid":"CellMethods::amp-twm",
         "Brand ID":"pst",
@@ -738,7 +738,7 @@
     },
     {
         "Cell Methods":"area: time: mean where shrubs (comment: mask=shrubFrac)",
-        "label":"ams-twm",
+        "label":"amnshr-twm",
         "title":"Weighted Time Mean on Shrubs",
         "uid":"CellMethods::ams-twm",
         "Brand ID":"shb",

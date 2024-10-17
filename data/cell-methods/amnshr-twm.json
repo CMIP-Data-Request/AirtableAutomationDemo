@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/ams-twm",
+    "@id": "dr:data/cell-methods/amnshr-twm",
     "@type": "dr:variable",
     "brand-id": "shb",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "shrubFrac",
     "regex": 1.0,
-    "label": "ams-twm",
+    "label": "amnshr-twm",
     "title": "Weighted Time Mean on Shrubs",
     "uid": "CellMethods::ams-twm"
 }

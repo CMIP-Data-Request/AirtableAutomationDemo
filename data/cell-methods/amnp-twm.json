@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amp-twm",
+    "@id": "dr:data/cell-methods/amnp-twm",
     "@type": "dr:variable",
     "brand-id": "pst",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "pastureFrac",
     "regex": 1.0,
-    "label": "amp-twm",
+    "label": "amnp-twm",
     "title": "Weighted Time Mean on Pastures",
     "uid": "CellMethods::amp-twm"
 }

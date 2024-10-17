@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/ama-twm",
+    "@id": "dr:data/cell-methods/amna-twm",
     "@type": "dr:variable",
     "brand-id": "x",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "",
     "regex": "",
-    "label": "ama-twm",
+    "label": "amna-twm",
     "title": "Weighted Time Mean in Air",
     "uid": "CellMethods::ama-twm"
 }
