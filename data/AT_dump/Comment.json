@@ -192,7 +192,7 @@
         "GitHub Issue URL":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
-        "Temporal Shape":"time-point, time-mean"
+        "Temporal Shape":"time-point, time-intv"
     },
     {
         "Title":"Air Pressure at Convective Cloud Base",
@@ -477,7 +477,7 @@
         "GitHub Issue URL":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
-        "Temporal Shape":"time-mean"
+        "Temporal Shape":"time-intv"
     },
     {
         "Title":"Eday.albsrfc to be added to variable group paleo_land_atmosphere_surface",

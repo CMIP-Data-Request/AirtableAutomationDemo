@@ -30,7 +30,7 @@ recCxlzsKIkUQlUpI,Ocean layers,"OMDP would like to specify a set of levels which
 recGexXbTyKuX1o6m,Inconsistent way sfcWind and sfcWindmax are provided,"I'm preparing a paper, where I'll touch on the issue (Malinina in prep, Attribution of the 2022 extratropical storm Fiona), but I have noticed that the way the sfcWind has been provided in the day table is all over the map, sometimes it is the real sfcWind (instantaneous norm of uas and vas components), sometimes it's a norm of 3hr/6hr uas and vas components and sometimes it is norm of daily uas and vas. Comparing models between each other or with observations becomes useless, because based on the method sfcWind is obtained, there can be up to 25% difference. 
 
 Additionally, it is unclear how sfcWindmax is obtained, is it instantaneous? Is it for the model time step? Since CMIP6 docs are down, I had to track the modelling centers to ask this questions and everyone has a different opinions even within one center. Again this makes multi-model ensembles very uncertain and both daily and sub-daily sfcWind and sfcWindmax are incredibly important for adaptation.
-",In progress,"['Atmosphere', 'Impacts & Adaptation', 'CF Working Group']",,,,,,"time-point, time-mean"
+",In progress,"['Atmosphere', 'Impacts & Adaptation', 'CF Working Group']",,,,,,"time-point, time-intv"
 recHIBzmnOqjL1PdW,Air Pressure at Convective Cloud Base,"cell\_methods should include ""where convective\_cloud"". When regridding, should these be weighted by \*total\* convective cloud area or by convective cloud area in the grid cell located at cloud base?
 
 MJ: accepted, but does not apply to instantaneous values.
@@ -93,7 +93,7 @@ reckmYZxiUnoBTQd8,Definition of temperature variables,"In CMIP7, is it possible 
 recmaxGK1DRVqxbF6,definition of variables Emon.albl and Emon.albo,"The idea of these variables is to gather information on the albedo of the surface that is not covered by ice or by snow - this means that if a grid cell is partly covered by ice or by snow, the value should be computed only on the part of the non-snow or non-ice cover, respectively, ignoring albedo of the snow or ice cover. We may therefore have to update the cell measures accordingly.
 ",New,"['Atmosphere', 'Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice']",,,,,,
 recmdn1tYpF7opUwa,update of temporal shape necessary,"The temporal shape is wrong - it should be time-mean, please correct.
-",New,"['Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice', 'Atmosphere']",,,,,,time-mean
+",New,"['Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice', 'Atmosphere']",,,,,,time-intv
 recn0a6397Y8gkBOi,Eday.albsrfc to be added to variable group paleo_land_atmosphere_surface,"Eday.albsrfc to be added to variable group paleo\_land\_atmosphere\_surface
 ",New,"['Atmosphere', 'Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice']",,,,,,
 recnFXMJXVbiF9RoE,Additional information requested for data variable C3H8,"For mole fractions of different VOCs (e.g., C3H8), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this information be captured in the data request?

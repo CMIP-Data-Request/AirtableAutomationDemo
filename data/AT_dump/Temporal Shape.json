@@ -1,19 +1,19 @@
 [
     {
         "Name":"time-point",
-        "Title":"Instantaneous value (i.e. synoptic or time-step value)"
+        "Title":"Instantaneous Value (i.e. Synoptic or Time-Step Value)"
     },
     {
-        "Name":"time-mean",
-        "Title":"Temporal mean"
+        "Name":"time-intv",
+        "Title":"Temporal Interval"
     },
     {
         "Name":"climatology",
-        "Title":"Climatological mean"
+        "Title":"Climatological Mean"
     },
     {
         "Name":"None",
-        "Title":"No temporal dimensions ... fixed field"
+        "Title":"No Temporal Dimensions; Fixed Field"
     },
     {
         "Name":"diurnal-cycle",

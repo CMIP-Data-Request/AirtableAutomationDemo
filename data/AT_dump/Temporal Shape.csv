@@ -1,6 +1,6 @@
 ,Name,Title
-rec5ZPGemyHnH3yno,time-point,Instantaneous value (i.e. synoptic or time-step value)
-recF1jvxHxPzKHG62,time-mean,Temporal mean
-recLkfM3DEviZi55e,climatology,Climatological mean
-recWkMQsqHF3CzF86,None,No temporal dimensions ... fixed field
+rec5ZPGemyHnH3yno,time-point,Instantaneous Value (i.e. Synoptic or Time-Step Value)
+recF1jvxHxPzKHG62,time-intv,Temporal Interval
+recLkfM3DEviZi55e,climatology,Climatological Mean
+recWkMQsqHF3CzF86,None,No Temporal Dimensions; Fixed Field
 recaK23tKc4fabb41,diurnal-cycle,Mean Diurnal Cycle
