@@ -405,7 +405,7 @@ rec4ah6i1cMiTbZeI,Eday.utendnogw,tendency_of_eastward_wind_due_to_nonorographic_
 ",real,['atmos'],['Eday'],['day'],Under review,['Atmosphere'],In progress,dynvar_advanced,83bbfc92-7f07-11ef-9308-b1dd71e64bec,,"We ask the modelling centers to report the induced tendencies separately for each component of the parameterization (where applicable) and to provide specific values of the tunable parameters used for the simulation in the metadata together with a specification of the part of the gravity wave spectrum that is targeted by the parameterization (e.g., minimally, the effective resolution of the model).
 ",,,,,,,,,,,,,,,,,,,
 rec4bDYD2W09Ecvmj,Emon.clmisr,cloud_area_fraction_in_atmosphere_layer,Percentage Cloud Cover as Calculated by the MISR Simulator (Including Error Flag),"MISR cloud area fraction
-",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,"CFMIP_cosp_extra, CFMIP_baseline",8b8a51ce-4a5b-11e6-9cd2-ac72891c3257,839,,CFMIP [CFmonExtra],,['CFMIP'],1631,1028,839,,,,,,,,,,,,,
+",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,CFMIP_baseline,8b8a51ce-4a5b-11e6-9cd2-ac72891c3257,839,,CFMIP [CFmonExtra],,['CFMIP'],1631,1028,839,,,,,,,,,,,,,
 rec4d2SMpfXCMj87p,AERmon.emibboa,,total emission of organic aerosol from all biomass burning ,"The is the total emission rate of particulate organic matter (organic aerosol) into the atmosphere from all biomass burning (natural and anthropogenic)
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,"aerchemmip_2d_monthly, FireMIP_monthly",83bbfc05-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 rec4dsbITpOvgdc28,EdayZ.tntrl,tendency_of_air_temperature_due_to_longwave_heating,"Zonal mean tendency of air temperature due to longwave heating, all sky","Zonal mean tendency of air temperature due to longwave heating, all sky, with the extended number of vertical levels.
@@ -604,7 +604,7 @@ rec6uJ6QNXl833KyT,Eday.hfss,surface_upward_sensible_heat_flux,Surface Upward Sen
 rec6v24OBdb6uB0vO,EmonZ.vmrox,mole_fraction_of_ox_in_air,"Mole Fraction of Odd Oxygen (O, O3 and O1D)","zonal mean; hence YZT
 ",real,['atmosChem'],['EmonZ'],['mon'],CMIP6 CMOR variable,,,,8b8f0e58-4a5b-11e6-9cd2-ac72891c3257,1463,,DAMIP [DAMIP_Amon_new],,['DAMIP'],1480,1651,1463,,,,,,,,,,,,,
 rec6vQ9cOXrDi6OdY,Omon.sfx,ocean_salt_x_transport,Ocean x salt transport,"Contains all contributions to ""x-ward"" heat transport from resolved and parameterized processes.
-",real,['ocean'],['Omon'],['mon'],New,['Ocean & sea-ice'],,"ocean_mesoscale, omip_transports_medium_priority",,,"3D field. Report on native horizontal grid.
+",real,['ocean'],['Omon'],['mon'],New,['Ocean & sea-ice'],,"ocean_mesoscale, omip_transports_medium_priority",527f5ccd-8c97-11ef-944e-41a8eb05f654,,"3D field. Report on native horizontal grid.
 ",,,,,,,,,,,,,,,,,,,
 rec6wtBviGdE9Hg8w,Esubhr.hus,specific_humidity,Specific Humidity,"Specific humidity is the mass fraction of water vapor in (moist) air.
 ",real,['atmos'],['Esubhr'],['subhrPt'],CMIP6 CMOR variable,,,,8bb1a788-4a5b-11e6-9cd2-ac72891c3257,127,,HighResMIP [1ts],,,1069,127,1681,,,['HighResMIP'],,,,,,,,,,
@@ -1150,7 +1150,7 @@ recD7NYZDEq4u2B1Y,Emon.reffsclwtop,effective_radius_of_stratiform_cloud_liquid_w
 recDA821rBfqnOOwp,Omon.intpbsi,tendency_of_ocean_mole_content_of_silicon_due_to_biological_production,Silicon Production,"Vertically integrated biogenic silica production
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,SO_BGC-cloud_BGC_monthly,baa08f6a-e5dd-11e5-8482-ac72891c3257,666,,Omon ((isd.003)),['VIACSAB'],['VIACSAB'],666,878,839,,,['CMIP5'],,,,,,,,,,
 recDCsImmqFpVGItL,Oday.detoc,mole_concentration_of_organic_detritus_expressed_as_carbon_in_sea_water,Detrital Organic Carbon Concentration,"sum of detrital organic carbon component concentrations
-",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,marine_bgc_fisheries,,,,,,,,,,,,,,,,,,,,,,
+",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,marine_bgc_fisheries,527f5cc7-8c97-11ef-944e-41a8eb05f654,,,,,,,,,,,,,,,,,,,,,
 recDEFgXbMStffTrs,Oday.omldamax,ocean_mixed_layer_thickness_defined_by_mixing_scheme,Mean Daily Maximum Ocean Mixed Layer Thickness Defined by Mixing Scheme,"The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by the mixing scheme is a diagnostic of ocean models. ""Thickness"" means the vertical extent of a layer.
 ",real,['ocean'],['Oday'],['day'],CMIP6 CMOR variable,,,CFMIP_baseline,bab2ce3c-e5dd-11e5-8482-ac72891c3257,203,"Report on the ocean grid.  This variable appears in WGOMD Table 2.2
 ",day ((isd.003)),,['CMIP5'],285,203,290,,,,,,,,,,,,,
@@ -1176,7 +1176,7 @@ recDSBTphKCD4oww5,LImon.snicemIs,surface_snow_and_ice_melt_flux,Ice Sheet Surfac
 recDUYYtQnjICCTo2,Oday.expc,sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water,Downward flux of particulate organic carbon ,"downward flux of particulate organic carbon
 ",real,['ocnBgchem'],['Oday'],['day'],New,['Ocean & sea-ice'],,,83bbfb8e-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,down,,,,In progress,,,,,,,,
 recDV7y8QXydrDzCB,Oday.wo,upward_sea_water_velocity,Sea Water Vertical Velocity,"Prognostic z-ward velocity component resolved by the model.
-",real,['ocean'],['Oday'],['day'],New,['Ocean & sea-ice'],,biodiv_marine_daily,,,"Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
+",real,['ocean'],['Oday'],['day'],New,['Ocean & sea-ice'],,biodiv_marine_daily,527f5cc9-8c97-11ef-944e-41a8eb05f654,,"Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
 ",,,,,,,,,,,,,,,,,,,
 recDXryBzKdWmXpGj,Amon.wap,lagrangian_tendency_of_air_pressure,Omega (=dp/dt),"commonly referred to as ""omega"", this represents the vertical component of velocity in pressure coordinates (positive down)
 ",real,['atmos'],['Amon'],['mon'],CMIP6 CMOR variable,,,"baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, paleodata_assimilation, paleo_atmosphere, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",babd0906-e5dd-11e5-8482-ac72891c3257,25,,Amon ((isd.003)),"['DCPP', 'VIACSAB']","['CFMIP', 'CMIP', 'CMIP5', 'DynVarMIP', 'PMIP']",39,40,25,,,,1 checked out of 1,,,,,,,,,
@@ -2394,7 +2394,7 @@ recQl5YltKkMv9Ja7,AERday.wetnoy,minus_tendency_of_atmosphere_mass_content_of_noy
 recQlnWCZuuYJY8Ri,Omon.limncalc,nitrogen_growth_limitation_of_calcareous_phytoplankton,Nitrogen Limitation of Calcareous Phytoplankton,"""Calcareous phytoplankton"" are phytoplankton that produce calcite. Calcite is a mineral that is a polymorph of calcium carbonate. The chemical formula of calcite is CaCO3. Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. ""Nitrogen growth limitation"" means the ratio of the growth rate of a species population in the environment (where there is a finite availability of nitrogen) to the theoretical growth rate if there were no such limit on nitrogen availability.
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,marine_bgc_pp_uncertainty,baa01b3e-e5dd-11e5-8482-ac72891c3257,1610,,Omon ((isd.003)),"['C4MIP', 'PMIP']",['CMIP'],1657,1610,1681,,,['CMIP5'],,,,,,,,,,
 recQlwJg7Q92n8jMU,Oday.dissoc,mole_concentration_of_dissolved_organic_carbon_in_sea_water,Dissolved Organic Carbon Concentration,"Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)
-",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,marine_bgc_fisheries,,,,,,,,,,,,,,,,,,,,,,
+",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,marine_bgc_fisheries,527f5cc8-8c97-11ef-944e-41a8eb05f654,,,,,,,,,,,,,,,,,,,,,
 recQmBW0TuVlBzq27,3hr.tos,sea_surface_temperature,Sea Surface Temperature,"temperature of surface of open ocean, sampled synoptically.
 ",real,['ocean'],['3hr'],['3hrPt'],CMIP6 CMOR variable,,,"surgemip_variables, Ocean Temperature Extremes",babb20b4-e5dd-11e5-8482-ac72891c3257,79,,3hr ((isd.003)),,"['CMIP5', 'VIACSAB']",375,79,278,,,,,,,,,,,,,
 recQpS1cDPkJKKRAw,Lmon.treeFracPrimDec,area_fraction,Percentage Cover by Primary Deciduous Tree,"This is the fraction of the entire grid cell  that is covered by ""total primary deciduous trees.""
@@ -3162,7 +3162,7 @@ recZRoKLKA1DYVJXF,Omon.phycalcos,mole_concentration_of_calcareous_phytoplankton_
 recZW8cUo4vwpFwMU,E3hrPt.ps,surface_air_pressure,Surface Air Pressure,"Surface Pressure .. needed for vertical coordinates
 ",real,['atmos'],['E3hrPt'],['3hrPt'],CMIP6 CMOR variable,,,,1d4f24a81e89bf76af2e687be91cd8a02f14ba68,640,,scanDreq.py,,,1160,640,1599,,,,,,,,,,,,,
 recZWoszfZdvZEJgz,Oday.phycalc,mole_concentration_of_calcareous_phytoplankton_expressed_as_carbon_in_sea_water,Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water,"carbon concentration from calcareous (calcite-producing) phytoplankton component alone
-",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,,,"""Tracer"" concentrations should be reported even if they are diagnosed rather than prognostically calculated.
+",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,527f5cca-8c97-11ef-944e-41a8eb05f654,,"""Tracer"" concentrations should be reported even if they are diagnosed rather than prognostically calculated.
 ",,,,,,,,,,,,,,,,,,,
 recZX9wL7ANsXlwtM,E1hr.rsdsdiff,surface_diffuse_downwelling_shortwave_flux_in_air,Surface Diffuse Downwelling Shortwave Radiation ,"Surface Diffuse Downwelling Shortwave Radiation
 ",real,['atmos'],['E1hr'],['1hr'],Under review,"['Atmosphere', 'Impacts & adaptation']",In progress,impacts_climserv_hourly_expanded,83bbfc77-7f07-11ef-9308-b1dd71e64bec,,"This is a 3-hour mean flux.
@@ -4252,7 +4252,7 @@ recma4pOTwmwj3itd,CFmon.tnt,tendency_of_air_temperature,Tendency of Air Temperat
 recmbIkFWyQIsFnXu,EdayZ.tauuogw,,Zonal mean westward Reynolds stress from orographic gravity wave parameterization,"Zonal mean of the vertical flux of zonal momentum within the orographic GW parameterization
 ",real,['atmos'],['EdayZ'],['day'],Under review,['Atmosphere'],In progress,dynvar_basic,83bbfc8c-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 recmbkfHdpYCSlYDw,Oday.intpoc,ocean_mass_content_of_particulate_organic_matter_expressed_as_carbon,Particulate Organic Carbon Content,"Vertically integrated POC
-",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,,,,,,,,,,,,,,,,,,,,,,
+",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,527f5cc6-8c97-11ef-944e-41a8eb05f654,,,,,,,,,,,,,,,,,,,,,
 recmcMD3NzaBSezkw,Omon.fric,minus_tendency_of_ocean_mole_content_of_inorganic_carbon_due_to_sedimentation,Downward Inorganic Carbon Flux at Ocean Bottom,"Inorganic Carbon loss to sediments
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,"marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier2",baa0f14e-e5dd-11e5-8482-ac72891c3257,504,,Omon ((isd.003)),"['C4MIP', 'PMIP']",['CMIP'],504,727,653,,,"['CDRMIP', 'CMIP5']",,,,,,,,,,
 recmdHQwBQP6rcq5j,Esubhr.ps,surface_air_pressure,Surface Air Pressure,"Surface Pressure .. needed for vertical coordinates
@@ -4467,7 +4467,7 @@ recpQTqqPewVVQgtg,Emon.netAtmosLandCO2Flux,surface_net_downward_mass_flux_of_car
 recpUFTAXhCEQA0i2,Emon.rhGrass,surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_heterotrophic_respiration,Heterotrophic Respiration on Grass Tiles as Carbon Mass Flux [kgC m-2 s-1],"Total RH of grass in the grid cell
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_land_carbon_cycle_tier2,e70792da-aa7f-11e6-9a4a-5404a60d96b5,882,,C4MIP [C_LandT2],['C4MIP'],,882,1341,1295,,,,,,,,,,,,,
 recpUYzfJx1JTscQV,Oday.zostoga,global_average_thermosteric_sea_level_change,global_average_thermosteric_sea_level_change,"Global Average Thermosteric Sea Level Change
-",real,['ocean'],['Oday'],['day'],New,['Ocean & sea-ice'],,Sea_level_extremes,,,,,,,,,,,,,,,,,,,,,,
+",real,['ocean'],['Oday'],['day'],New,['Ocean & sea-ice'],,Sea_level_extremes,527f5ccc-8c97-11ef-944e-41a8eb05f654,,,,,,,,,,,,,,,,,,,,,
 recpV2MKKbjQBhbff,Omon.o2os,mole_concentration_of_dissolved_molecular_oxygen_in_sea_water,Surface Dissolved Oxygen Concentration,"'Mole concentration' means number of moles per unit volume, also called ""molarity"", and is used in the construction mole\_concentration\_of\_X\_in\_Y, where X is a material constituent of Y.  A chemical or biological species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox\_expressed\_as\_nitrogen'.
 ",real,['ocnBgchem'],['Omon'],['mon'],CMIP6 CMOR variable,,,DCPP_Wider,c918f7d0-c5e8-11e6-84e6-5404a60d96b5,440,,Omon ((isd.003)),['DCPP'],"['CMIP', 'CMIP5', 'VIACSAB']",512,810,440,,,,,,,,,,,,,
 recpXLHGCVY6iJl5G,IyrAnt.snc,surface_snow_area_fraction,Snow Area Percentage,"quantity averaged over ice sheet  only, to avoid contamination from other surfaces (eg: permafrost)
@@ -4547,7 +4547,7 @@ recqE5MyNYAL2DFri,E3hrPt.mmrso4,mass_fraction_of_sulfate_dry_aerosol_particles_i
 recqLZfrcDQebUFGx,Emon.netAtmosLandC13Flux,surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_13C_due_to_all_land_processes,Net Mass Flux of 13C Between Atmosphere and Land (Positive into Land) as a Result of All Processes [kgC m-2 s-1],"Flux of carbon 31as carbon dioxide into the land. This flux should be reproducible by differencing the sum of all carbon pools (cVeg, cLitter, cSoil, and cProducts or equivalently cLand) from one time step to the next, except in the case of lateral transfer of carbon due to harvest, riverine transport of dissolved organic and/or inorganic carbon, or any other process (in which case the lateral\_carbon\_transfer\_over\_land term, see below, will be zero data).-
 ",real,['land'],['Emon'],['mon'],CMIP6 CMOR variable,,,c4mip_carbon_isotopic_variables,6f6b5004-9acb-11e6-b7ee-ac72891c3257,1463,,PMIP [PMIP-Lmon-02],"['C4MIP', 'PMIP']",,1562,1671,1463,down,,,,,,,,,,,,
 recqU5nQjIboAnbPs,Omon.sfy,ocean_salt_y_transport,Ocean Salt Y Transport,"Contains all contributions to 'y-ward' salt transport from resolved and parameterized processes.
-",real,['ocean'],['Omon'],['mon'],New,['Ocean & sea-ice'],,"ocean_mesoscale, omip_transports_medium_priority",,,"time-mean on ocean grid
+",real,['ocean'],['Omon'],['mon'],New,['Ocean & sea-ice'],,"ocean_mesoscale, omip_transports_medium_priority",527f5cce-8c97-11ef-944e-41a8eb05f654,,"time-mean on ocean grid
 ",,,,,,,,,,,,,,,,,,,
 recqXaCKgoFcpRDjP,Emon.expfe,sinking_mole_flux_of_particulate_iron_in_sea_water,Sinking Particulate Iron Flux,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.   'Sinking' is the gravitational settling of particulate matter suspended in a liquid. A sinking flux is positive downwards and is calculated relative to the movement of the surrounding fluid.
 ",real,['ocnBgchem'],['Emon'],['mon'],CMIP6 CMOR variable,,,,e708c2a4-aa7f-11e6-9a4a-5404a60d96b5,159,"Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.
@@ -5337,7 +5337,7 @@ reczMygV4R8O9b8ph,Esubhr.wap,lagrangian_tendency_of_air_pressure,Omega (=dp/dt),
 reczO5Ox9e9px0Cvn,AERmon.emidms,tendency_of_atmosphere_mass_content_of_dimethyl_sulfide_due_to_emission,Total Emission Rate of DMS,"Integrate 3D emission field vertically to 2d field.
 ",real,['aerosol'],['AERmon'],['mon'],CMIP6 CMOR variable,,,"SO_BGC-cloud_atmos_composition_monthly, aerchemmip_2d_monthly",19c006c8-81b1-11e6-92de-ac72891c3257,461,,AERmon ((isd.003)),,"['AerChemMIP', 'VIACSAB']",551,1024,461,,,,,,,,,,,,,
 reczPQ0BNsaiNghr1,Oday.expcob,sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water,Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom,"Downward sinking flux of particulate organic carbon at seafloor
-",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,,,,,,,,,,down,,,,,,,,,,,,
+",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,527f5ccb-8c97-11ef-944e-41a8eb05f654,,,,,,,,,down,,,,,,,,,,,,
 reczPXBgEL1FK0IiU,CFmon.clivimodis,atmosphere_mass_content_of_cloud_ice,MODIS Ice Water Path,"Mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column) as seen by the MODIS instrument simulator.
 ",real,['atmos'],['CFmon'],['mon'],Under review,['Atmosphere'],In progress,"SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",83bbfbdc-7f07-11ef-9308-b1dd71e64bec,,,,,,,,,,,,,,,,,,,,,
 reczRTAadDJnFJgBh,Emon.tauvnogw,,Northward Reynolds stress from non-orographic gravity wave parameterization," Vertical flux of meridional momentum within the non-orographic GW parameterization.
