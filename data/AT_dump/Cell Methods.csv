@@ -15,7 +15,7 @@ recAE6dPrH3Fie2NW,area: mean time: minimum,amn-tmin,Temporal Minimum,a269a4b6-8c
 recB9LhYGxvi4PVZw,area: sum where sea time: mean,amns-tmn,Time Mean of Area Sum,a269a4d6-8c9b-11ef-944e-41a8eb05f654,sea,1.0,,,
 recBX9pMXdx1y9asO,time: mean grid_longitude: mean,bgzmean-tm,Basin Zonal Mean on Model Grid,a269a4f2-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recEVPgrfZKnxhvR7,area: mean where sea_ice (comment: mask=siconc) time: point,amnsi-tpt,Instantaneous over Sea-Ice,a269a4cf-8c9b-11ef-944e-41a8eb05f654,si,1.0,siconc,,
-recGEN8vTgVCovQPt,time: point,amn-tpt,Instantaneous,a269a4f3-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
+recGEN8vTgVCovQPt,time: point,ax-tpt,Instantaneous,a269a4f3-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recI4rXw3b4ECj8N3,"area: time: mean where convective_cloud (weighted by total convective cloud area)
 ",amcc-twm,Weighted Time Mean on Convective Cloud,a269a4db-8c9b-11ef-944e-41a8eb05f654,ccl,,,,
 recIIDtju99NbGIgz,area: mean where sea,amns-fx,Area Mean over Sea,a269a4ca-8c9b-11ef-944e-41a8eb05f654,sea,1.0,,,
@@ -46,7 +46,7 @@ recfq9CqTb6R2U1l5,area: mean time: sum,amn-ts,Area Mean and Time Sum,a269a4b9-8c
 recgyKgOmMbUgk4Ce,area: mean where air time: point,amna-tpt,Instantaneous Value on Levels above Ground,a269a4bb-8c9b-11ef-944e-41a8eb05f654,,,,,
 rechhy6KHmOcnIBFU,area: mean time: maximum,amn-tmax,Time Maximum,a269a4b1-8c9b-11ef-944e-41a8eb05f654,x,1.0,,tstat,
 reciJ5K9FFJO5StB8,area: mean time: maximum within days time: mean over days,amn-dmax,Daily Maximum,a269a4b2-8c9b-11ef-944e-41a8eb05f654,x,1.0,,tstat,
-reciKnzSdlizSXox0,area: time: mean where crops (comment: mask=cropFrac),amnc-twm,Weighted Time Mean on Crops,a269a4dc-8c9b-11ef-944e-41a8eb05f654,crp,1.0,cropFrac,,
+reciKnzSdlizSXox0,area: time: mean where crops (comment: mask=cropFrac),amncrp-twm,Weighted Time Mean on Crops,a269a4dc-8c9b-11ef-944e-41a8eb05f654,crp,1.0,cropFrac,,
 recikI5axFizPaxLg,area: time: mean,amn-twm,Area and Time Mean,a269a4d7-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recinm4MMURWR8GQq,area: mean where land over all_area_types time: point,amnlax-tpt,Contribution from Land (Instantaneous),a269a4c5-8c9b-11ef-944e-41a8eb05f654,lnd,1.0,,,
 recj82upWagLqGWER,area: time: mean where air,amna-twm,Weighted Time Mean in Air,a269a4d9-8c9b-11ef-944e-41a8eb05f654,x,,,,
@@ -70,4 +70,4 @@ recwqOux1egZJBOlm,longitude: mean time: point,zmean-tpt,Zonal Mean,a269a4ee-8c9b
 recwuB1SPBkasIB7D,area: mean where crops time: minimum,amncrp-tmin,Temporal Minimum over Crops,a269a4be-8c9b-11ef-944e-41a8eb05f654,crp,1.0,,tstat,
 reczgcunQcEc3Pcy7,area: time: mean where shrubs (comment: mask=shrubFrac),amnshr-twm,Weighted Time Mean on Shrubs,a269a4e8-8c9b-11ef-944e-41a8eb05f654,shb,1.0,shrubFrac,,
 reczwvHFZ7bGsEmCM,area: mean where crops time: maximum within days time: mean over days,amncrp-dmax,Daily Maximum over Crops,a269a4bd-8c9b-11ef-944e-41a8eb05f654,crp,1.0,,tstat,
-reczxK3SCSq1vFJiH,time: mean,amn-tm,Time Mean,a269a4f1-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
+reczxK3SCSq1vFJiH,time: mean,ax-tm,Time Mean,a269a4f1-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,

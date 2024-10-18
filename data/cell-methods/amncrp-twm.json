@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amnc-twm",
+    "@id": "dr:data/cell-methods/amncrp-twm",
     "@type": "dr:variable",
     "brand-id": "crp",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "cropFrac",
     "regex": 1.0,
-    "label": "amnc-twm",
+    "label": "amncrp-twm",
     "title": "Weighted Time Mean on Crops",
     "uid": "a269a4dc-8c9b-11ef-944e-41a8eb05f654"
 }

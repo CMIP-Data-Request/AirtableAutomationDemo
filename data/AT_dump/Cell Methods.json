@@ -177,7 +177,7 @@
     },
     {
         "Cell Methods":"time: point",
-        "label":"amn-tpt",
+        "label":"ax-tpt",
         "title":"Instantaneous",
         "uid":"a269a4f3-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"x",
@@ -496,7 +496,7 @@
     },
     {
         "Cell Methods":"area: time: mean where crops (comment: mask=cropFrac)",
-        "label":"amnc-twm",
+        "label":"amncrp-twm",
         "title":"Weighted Time Mean on Crops",
         "uid":"a269a4dc-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"crp",
@@ -760,7 +760,7 @@
     },
     {
         "Cell Methods":"time: mean",
-        "label":"amn-tm",
+        "label":"ax-tm",
         "title":"Time Mean",
         "uid":"a269a4f1-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"x",
