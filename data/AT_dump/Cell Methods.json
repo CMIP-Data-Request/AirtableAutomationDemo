@@ -155,7 +155,7 @@
     },
     {
         "Cell Methods":"time: mean grid_longitude: mean",
-        "label":"bgzmean-tm",
+        "label":"bgzmean-tmn",
         "title":"Basin Zonal Mean on Model Grid",
         "uid":"a269a4f2-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"x",
@@ -353,7 +353,7 @@
     },
     {
         "Cell Methods":"area: depth: time: mean",
-        "label":"adm-tm",
+        "label":"adm-tmn",
         "title":"Area, Depth and Time Mean",
         "uid":"a269a4ae-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"x",
@@ -760,7 +760,7 @@
     },
     {
         "Cell Methods":"time: mean",
-        "label":"ax-tm",
+        "label":"ax-tmn",
         "title":"Time Mean",
         "uid":"a269a4f1-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"x",

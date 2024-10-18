@@ -13,7 +13,7 @@ rec8fAdhzzz5JKAI8,area: mean where sector time: point,amnlu-tpt,Instantaneous Me
 rec9Tk7LszeqrwXV3,area: time: mean where sea_ice (comment: mask=siconca),amnsia-twm,Weighted Time Mean on Sea-Ice (Atmospheric Grid),a269a4e3-8c9b-11ef-944e-41a8eb05f654,si,1.0,siconca,,
 recAE6dPrH3Fie2NW,area: mean time: minimum,amn-tmin,Temporal Minimum,a269a4b6-8c9b-11ef-944e-41a8eb05f654,x,1.0,,tstat,
 recB9LhYGxvi4PVZw,area: sum where sea time: mean,amns-tmn,Time Mean of Area Sum,a269a4d6-8c9b-11ef-944e-41a8eb05f654,sea,1.0,,,
-recBX9pMXdx1y9asO,time: mean grid_longitude: mean,bgzmean-tm,Basin Zonal Mean on Model Grid,a269a4f2-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
+recBX9pMXdx1y9asO,time: mean grid_longitude: mean,bgzmean-tmn,Basin Zonal Mean on Model Grid,a269a4f2-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recEVPgrfZKnxhvR7,area: mean where sea_ice (comment: mask=siconc) time: point,amnsi-tpt,Instantaneous over Sea-Ice,a269a4cf-8c9b-11ef-944e-41a8eb05f654,si,1.0,siconc,,
 recGEN8vTgVCovQPt,time: point,ax-tpt,Instantaneous,a269a4f3-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recI4rXw3b4ECj8N3,"area: time: mean where convective_cloud (weighted by total convective cloud area)
@@ -33,7 +33,7 @@ recNjEllhZigL9ymK,area: time: mean where cloud,amncl-twm,Weighted Time Mean on C
 recPgKrGZhGTSLNky,area: mean time: minimum within days time: mean over days,amn-dmin,Daily Minimum,a269a4b7-8c9b-11ef-944e-41a8eb05f654,x,1.0,,tstat,
 recRBME78TqHTqDbC,area: mean where land over all_area_types time: mean,amnlax-tmn,Time Mean contribution from Land,a269a4c4-8c9b-11ef-944e-41a8eb05f654,lnd,1.0,,,
 recS9I8YrYAsoIopy,area: sum where ice_sheet time: mean,asmi-tmn,Time Mean of Area Sum on Ice Sheet,a269a4d5-8c9b-11ef-944e-41a8eb05f654,is,1.0,,,
-recSYyARXZD6UYJK3,area: depth: time: mean,adm-tm,"Area, Depth and Time Mean",a269a4ae-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
+recSYyARXZD6UYJK3,area: depth: time: mean,adm-tmn,"Area, Depth and Time Mean",a269a4ae-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recTDdIgvBP9Nno7Z,area: point,apt-fx,Point Values,a269a4d2-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
 recTtMGOSQQErCsn4,area: time: mean where floating_ice_shelf (comment: mask=sftflf),amnfi-twmn,Weighted Time Mean on Floating Ice Shelf,a269a4dd-8c9b-11ef-944e-41a8eb05f654,fis,1.0,sftflf,,
 recUULmxT4GgUTTN7,area: mean where grounded_ice_sheet,amngi-fx,Fixed Area Mean over Grounded Ice Sheets,a269a4c0-8c9b-11ef-944e-41a8eb05f654,gis,1.0,,,
@@ -70,4 +70,4 @@ recwqOux1egZJBOlm,longitude: mean time: point,zmean-tpt,Zonal Mean,a269a4ee-8c9b
 recwuB1SPBkasIB7D,area: mean where crops time: minimum,amncrp-tmin,Temporal Minimum over Crops,a269a4be-8c9b-11ef-944e-41a8eb05f654,crp,1.0,,tstat,
 reczgcunQcEc3Pcy7,area: time: mean where shrubs (comment: mask=shrubFrac),amnshr-twm,Weighted Time Mean on Shrubs,a269a4e8-8c9b-11ef-944e-41a8eb05f654,shb,1.0,shrubFrac,,
 reczwvHFZ7bGsEmCM,area: mean where crops time: maximum within days time: mean over days,amncrp-dmax,Daily Maximum over Crops,a269a4bd-8c9b-11ef-944e-41a8eb05f654,crp,1.0,,tstat,
-reczxK3SCSq1vFJiH,time: mean,ax-tm,Time Mean,a269a4f1-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
+reczxK3SCSq1vFJiH,time: mean,ax-tmn,Time Mean,a269a4f1-8c9b-11ef-944e-41a8eb05f654,x,1.0,,,
