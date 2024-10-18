@@ -65571,7 +65571,7 @@
         "Earth system author team review":""
     },
     {
-        "Compound Name":"CFsubhr.lon",
+        "Compound Name":"fx.lon",
         "CF Standard Name (from MIP Variables)":"longitude",
         "Title":"Longitude",
         "Description":"Longitude is positive eastward; its units of degree\\_east (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid\\_longitude should be used instead of longitude. Grid longitude is positive in the grid-eastward direction, but its units should be plain degree.\n",
@@ -65580,7 +65580,7 @@
             "atmos"
         ],
         "Table":[
-            "CFsubhr"
+            "fx"
         ],
         "Frequency":[
             "fx"
@@ -78996,7 +78996,7 @@
         "Earth system author team review":""
     },
     {
-        "Compound Name":"CFsubhr.lat",
+        "Compound Name":"fx.lat",
         "CF Standard Name (from MIP Variables)":"latitude",
         "Title":"Latitude",
         "Description":"Latitude is positive northward; its units of degree\\_north (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid\\_latitude should be used instead of latitude. Grid latitude is positive in the grid-northward direction, but its units should be plain degree.\n",
@@ -79005,7 +79005,7 @@
             "atmos"
         ],
         "Table":[
-            "CFsubhr"
+            "fx"
         ],
         "Frequency":[
             "fx"

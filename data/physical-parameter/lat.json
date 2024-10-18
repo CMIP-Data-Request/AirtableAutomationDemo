@@ -7,7 +7,7 @@
     "cf-standard-name-exists": false,
     "cmor-variables": [
         {
-            "@id": "dr:variables/cfsubhr.lat"
+            "@id": "dr:variables/fx.lat"
         }
     ],
     "comments": "",

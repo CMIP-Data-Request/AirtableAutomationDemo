@@ -1,12 +1,12 @@
 {
-    "@id": "dr:data/variables/cfsubhr.lat",
+    "@id": "dr:data/variables/fx.lat",
     "@type": "dr:variable",
     "cf-standard-name": {
         "@id": "cf:standard-name/latitude"
     },
     "cf-standard-name-exists": true,
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
-    "compound-name": "CFsubhr.lat",
+    "compound-name": "fx.lat",
     "description": "Latitude is positive northward; its units of degree\\_north (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid\\_latitude should be used instead of latitude. Grid latitude is positive in the grid-northward direction, but its units should be plain degree.\n",
     "frequency": [
         {
@@ -23,7 +23,7 @@
     "provenance": "CFsubhr ((isd.003))",
     "status": "CMIP6 CMOR variable",
     "table": [
-        "CFsubhr"
+        "fx"
     ],
     "theme": "",
     "title": "Latitude",
