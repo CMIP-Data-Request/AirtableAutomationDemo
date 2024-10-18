@@ -465,14 +465,14 @@
     {
         "Title":"update of temporal shape necessary",
         "Comment":"The temporal shape is wrong - it should be time-mean, please correct.\n",
-        "Status":"New",
+        "Status":"Done",
         "Author teams to alert":[
             "Earth system",
             "Land & Land-Ice",
             "Ocean & Sea-Ice",
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"Done\n",
         "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
         "GitHub Issue number":"",

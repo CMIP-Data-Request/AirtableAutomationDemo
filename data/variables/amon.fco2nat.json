@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_natural_sources"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "FireMIP_monthly",
+    "cmip7-variable-groups": "FireMIP_monthly, c4mip_atmosphere_carbon_cycle_tier1",
     "compound-name": "Amon.fco2nat",
     "description": "This is what the atmosphere sees (on its own grid).  This field should be equivalent to the combined natural fluxes of carbon (requested in the L\\_mon and O\\_mon tables) that account for natural exchanges between the atmosphere and land or ocean reservoirs (i.e., \"net ecosystem biospheric productivity\", for land, and \"air to sea CO2 flux\", for ocean.)\n",
     "frequency": [

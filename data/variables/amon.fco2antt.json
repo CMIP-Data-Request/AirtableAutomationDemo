@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/tendency_of_atmosphere_mass_content_of_carbon_dioxide_expressed_as_carbon_due_to_anthropogenic_emission"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1",
     "compound-name": "Amon.fco2antt",
     "description": "This is requested only for the emission-driven coupled carbon climate model runs.  Does not include natural fire sources but, includes all anthropogenic sources, including fossil fuel use, cement production, agricultural burning, and sources associated with anthropogenic land use change excluding forest regrowth.\n",
     "frequency": [

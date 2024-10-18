@@ -93,7 +93,8 @@ reckmYZxiUnoBTQd8,Definition of temperature variables,"In CMIP7, is it possible 
 recmaxGK1DRVqxbF6,definition of variables Emon.albl and Emon.albo,"The idea of these variables is to gather information on the albedo of the surface that is not covered by ice or by snow - this means that if a grid cell is partly covered by ice or by snow, the value should be computed only on the part of the non-snow or non-ice cover, respectively, ignoring albedo of the snow or ice cover. We may therefore have to update the cell measures accordingly.
 ",New,"['Atmosphere', 'Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice']",,,,,,
 recmdn1tYpF7opUwa,update of temporal shape necessary,"The temporal shape is wrong - it should be time-mean, please correct.
-",New,"['Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice', 'Atmosphere']",,,,,,time-intv
+",Done,"['Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice', 'Atmosphere']","Done
+",,,,,time-intv
 recn0a6397Y8gkBOi,Eday.albsrfc to be added to variable group paleo_land_atmosphere_surface,"Eday.albsrfc to be added to variable group paleo\_land\_atmosphere\_surface
 ",New,"['Atmosphere', 'Earth system', 'Land & Land-Ice', 'Ocean & Sea-Ice']",,,,,,
 recnFXMJXVbiF9RoE,Additional information requested for data variable C3H8,"For mole fractions of different VOCs (e.g., C3H8), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this information be captured in the data request?
