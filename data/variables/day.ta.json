@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/air_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, clouds_basic_average, temperature_variability_daily_lowpriority, DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test]",
+    "cmip7-variable-groups": "baseline_daily, clouds_basic_average, temperature_variability_daily_lowpriority, DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test], global_emulators",
     "compound-name": "day.ta",
     "description": "Air Temperature\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/northward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cordex [test]",
+    "cmip7-variable-groups": "cordex [test], global_emulators",
     "compound-name": "6hrPlevPt.va7h",
     "description": "Meridional wind (positive in a northward direction).\n",
     "frequency": [

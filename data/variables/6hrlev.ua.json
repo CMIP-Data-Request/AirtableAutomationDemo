@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/eastward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "dynamical_downscaling_core",
+    "cmip7-variable-groups": "dynamical_downscaling_core, global_emulators",
     "compound-name": "6hrLev.ua",
     "description": "Zonal wind (positive in a eastward direction).\n",
     "frequency": [

@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, aerchemmip_3d_daily, CFMIP_baseline, cordex [test]",
+    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, aerchemmip_3d_daily, CFMIP_baseline, cordex [test], global_emulators",
     "compound-name": "day.hus",
     "description": "Specific humidity is the mass fraction of water vapor in (moist) air.\n",
     "frequency": [

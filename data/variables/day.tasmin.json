@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/air_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_highpriority, synoptic_systems_high_priority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, AgModelCoreDaily, AgModelExpandedDaily, transport_impacts_essential, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test], paleo_permafrost, landice_glaciers_allfreq",
+    "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_highpriority, synoptic_systems_high_priority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, AgModelCoreDaily, AgModelExpandedDaily, transport_impacts_essential, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test], paleo_permafrost, landice_glaciers_allfreq, global_emulators",
     "compound-name": "day.tasmin",
     "description": "minimum near-surface (usually, 2 meter) air temperature (add cell\\_method attribute \"time: min\")\n",
     "frequency": [

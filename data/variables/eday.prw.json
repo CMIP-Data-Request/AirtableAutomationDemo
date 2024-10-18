@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/atmosphere_mass_content_of_water_vapor"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "clouds_basic_average, DAMIP_daily, cordex [test]",
+    "cmip7-variable-groups": "clouds_basic_average, DAMIP_daily, cordex [test], global_emulators",
     "compound-name": "Eday.prw",
     "description": "vertically integrated through the atmospheric column\n",
     "frequency": [

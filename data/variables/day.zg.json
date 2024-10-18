@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/geopotential_height"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test]",
+    "cmip7-variable-groups": "DAMIP_daily, DCPP_Wider, CFMIP_baseline, cordex [test], baseline-daily, global_emulators",
     "compound-name": "day.zg",
     "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.\n",
     "frequency": [

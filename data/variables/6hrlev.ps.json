@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/surface_air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "statistical_downscaling_core_6hourly, dynamical_downscaling_core",
+    "cmip7-variable-groups": "statistical_downscaling_core_6hourly, dynamical_downscaling_core, global_emulators",
     "compound-name": "6hrLev.ps",
     "description": "surface pressure, not mean sea level pressure\n",
     "frequency": [

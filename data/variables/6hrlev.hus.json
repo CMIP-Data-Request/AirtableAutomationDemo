@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "dynamical_downscaling_core",
+    "cmip7-variable-groups": "dynamical_downscaling_core, global_emulators",
     "compound-name": "6hrLev.hus",
     "description": "Specific humidity is the mass fraction of water vapor in (moist) air.\n",
     "frequency": [

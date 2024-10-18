@@ -5,7 +5,7 @@
         "@id": "cf:standard-name/eastward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cordex [test]",
+    "cmip7-variable-groups": "cordex [test], global_emulators",
     "compound-name": "6hrPlevPt.ua7h",
     "description": "Zonal wind (positive in a eastward direction).\n",
     "frequency": [
