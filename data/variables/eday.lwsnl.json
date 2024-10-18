@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/eday.lwsnl",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/liquid_water_content_of_surface_snow"
     },

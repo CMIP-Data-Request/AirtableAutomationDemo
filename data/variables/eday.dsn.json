@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/eday.dsn",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/change_over_time_in_amount_of_ice_and_snow_on_land"
     },

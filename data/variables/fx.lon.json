@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/fx.lon",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxys-apt",
+    "brand-(wip)-[link]": "ti-z0-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/longitude"
     },

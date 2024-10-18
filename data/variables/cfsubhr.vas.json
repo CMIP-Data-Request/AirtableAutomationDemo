@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfsubhr.vas",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-h010-hxys-apt",
+    "brand-(wip)-[link]": "tpt-h010-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/northward_wind"
     },

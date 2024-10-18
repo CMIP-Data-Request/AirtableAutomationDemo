@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplev.va100m",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-h0100-hxy-amn",
+    "brand-(wip)-[link]": "tavg-h0100-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/northward_wind"
     },

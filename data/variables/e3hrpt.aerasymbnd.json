@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e3hrpt.aerasymbnd",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-al-hxy-amn",
+    "brand-(wip)-[link]": "tpt-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/asymmetry_factor_of_ambient_aerosol_particles"
     },

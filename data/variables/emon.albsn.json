@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.albsn",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sn",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_albedo"
     },

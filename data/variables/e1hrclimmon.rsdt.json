@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e1hrclimmon.rsdt",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tdnl-z0-hxy-amn",
+    "brand-(wip)-[link]": "tclimdc-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/toa_incoming_shortwave_flux"
     },

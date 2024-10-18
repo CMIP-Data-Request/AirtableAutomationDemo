@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.zhalfo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twmn-z0-hm-amnfi",
+    "brand-(wip)-[link]": "tavg-z0-hm-fis",
     "cf-standard-name": {
         "@id": "cf:standard-name/depth_below_geoid"
     },

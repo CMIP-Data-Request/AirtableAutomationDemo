@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.ocontemppsmadvect",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_sea_water_conservative_temperature_expressed_as_heat_content_due_to_parameterized_submesoscale_eddy_advection"
     },

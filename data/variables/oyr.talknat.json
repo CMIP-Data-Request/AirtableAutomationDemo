@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.talknat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_alkalinity_natural_analogue_expressed_as_mole_equivalent"
     },

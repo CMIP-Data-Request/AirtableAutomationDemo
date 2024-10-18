@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplevpt.vortmean",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-p0700-hxy-amna",
+    "brand-(wip)-[link]": "tpt-p0700-hxy-",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_relative_vorticity"
     },

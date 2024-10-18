@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfmon.clmodisice",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p7c-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p7c-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },

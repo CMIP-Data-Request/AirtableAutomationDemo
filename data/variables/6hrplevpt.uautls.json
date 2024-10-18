@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplevpt.uautls",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-p3u-hxy-ax",
+    "brand-(wip)-[link]": "tpt-p3u-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/northward_wind"
     },

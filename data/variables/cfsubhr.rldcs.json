@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfsubhr.rldcs",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-ah-hxys-apt",
+    "brand-(wip)-[link]": "tpt-l-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/downwelling_longwave_flux_in_air_assuming_clear_sky"
     },

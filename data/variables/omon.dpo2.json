@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.dpo2",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z00-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z00-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_molecular_oxygen_partial_pressure_difference_between_sea_water_and_air"
     },

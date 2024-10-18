@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplev.wap",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p4-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p4-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
     },

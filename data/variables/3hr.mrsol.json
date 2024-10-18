@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/3hr.mrsol",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_content_of_water_in_soil_layer"
     },

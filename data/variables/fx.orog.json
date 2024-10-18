@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/fx.orog",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amn",
+    "brand-(wip)-[link]": "ti-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_altitude"
     },

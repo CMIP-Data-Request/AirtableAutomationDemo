@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.fddtalk",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0100-hxy-amnds",
+    "brand-(wip)-[link]": "tavg-z0100-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/integral_wrt_depth_of_tendency_of_sea_water_alkalinity_expressed_as_mole_equivalent"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oclim.tnkebto",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "clim-ol-hxy-amn",
+    "brand-(wip)-[link]": "tclim-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_ocean_eddy_kinetic_energy_content_due_to_parameterized_eddy_advection"
     },

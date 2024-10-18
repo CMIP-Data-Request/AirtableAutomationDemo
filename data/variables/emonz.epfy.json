@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emonz.epfy",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p39-hy-zmeana",
+    "brand-(wip)-[link]": "tavg-p39-hy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/northward_eliassen_palm_flux_in_air"
     },

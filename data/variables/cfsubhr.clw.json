@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfsubhr.clw",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-al-hxys-apt",
+    "brand-(wip)-[link]": "tpt-l-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_fraction_of_cloud_liquid_water_in_air"
     },

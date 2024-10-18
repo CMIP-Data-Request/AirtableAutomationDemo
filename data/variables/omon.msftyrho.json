@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.msftyrho",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-rhon-ht-bgzmean",
+    "brand-(wip)-[link]": "tavg-rhon-ht-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_y_overturning_mass_streamfunction"
     },

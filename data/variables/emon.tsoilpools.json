@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.tsoilpools",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/soil_pool_carbon_decay_rate"
     },

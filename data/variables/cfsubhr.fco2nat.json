@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfsubhr.fco2nat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxys-apt",
+    "brand-(wip)-[link]": "tpt-z0-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_natural_sources"
     },

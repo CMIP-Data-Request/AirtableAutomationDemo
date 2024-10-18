@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.chldiat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_concentration_of_diatoms_expressed_as_chlorophyll_in_sea_water"
     },

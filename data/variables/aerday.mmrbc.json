@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aerday.mmrbc",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_fraction_of_elemental_carbon_dry_aerosol_particles_in_air"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/3hr.tos",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxy-amns",
+    "brand-(wip)-[link]": "tpt-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_surface_temperature"
     },

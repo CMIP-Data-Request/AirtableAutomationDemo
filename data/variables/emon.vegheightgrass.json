@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.vegheightgrass",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amng",
+    "brand-(wip)-[link]": "tavg-z0-hxy-ng",
     "cf-standard-name": {
         "@id": "cf:standard-name/canopy_height"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfsubhr.rsdscs",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxys-apt",
+    "brand-(wip)-[link]": "tpt-z0-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_downwelling_shortwave_flux_in_air_assuming_clear_sky"
     },

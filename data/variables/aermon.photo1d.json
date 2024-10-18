@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aermon.photo1d",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-al-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/photolysis_rate_of_ozone_to_1D_oxygen_atom"
     },

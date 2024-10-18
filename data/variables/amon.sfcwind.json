@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/amon.sfcwind",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-h010-hxy-amn",
+    "brand-(wip)-[link]": "tavg-h010-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/wind_speed"
     },

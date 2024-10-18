@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.zostoga",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hm-amns",
+    "brand-(wip)-[link]": "tavg-z0-hm-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/global_average_thermosteric_sea_level_change"
     },

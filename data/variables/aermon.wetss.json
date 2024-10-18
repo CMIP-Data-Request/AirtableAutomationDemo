@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aermon.wetss",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/minus_tendency_of_atmosphere_mass_content_of_sea_salt_dry_aerosol_particles_due_to_wet_deposition"
     },

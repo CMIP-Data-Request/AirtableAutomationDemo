@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sifllwutop",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsia",
+    "brand-(wip)-[link]": "tavg-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_upwelling_longwave_flux_in_air"
     },

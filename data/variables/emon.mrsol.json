@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.mrsol",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-sd-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-l-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_content_of_water_in_soil_layer"
     },

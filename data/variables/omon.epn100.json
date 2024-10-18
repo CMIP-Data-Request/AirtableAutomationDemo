@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.epn100",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0100-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0100-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sinking_mole_flux_of_particulate_organic_nitrogen_in_sea_water"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.siitdsnthick",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsib",
+    "brand-(wip)-[link]": "tavg-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_snow_thickness"
     },

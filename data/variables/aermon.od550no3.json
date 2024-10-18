@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aermon.od550no3",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_nitrate_ambient_aerosol_particles"
     },

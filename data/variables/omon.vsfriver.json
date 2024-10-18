@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.vsfriver",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/virtual_salt_flux_into_sea_water_from_rivers"
     },

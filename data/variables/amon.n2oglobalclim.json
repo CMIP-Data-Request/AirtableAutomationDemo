@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/amon.n2oglobalclim",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "clim-z0-hm-amn",
+    "brand-(wip)-[link]": "tclim-z0-hm-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mole_fraction_of_nitrous_oxide_in_air"
     },

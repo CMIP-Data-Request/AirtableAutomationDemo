@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/esubhr.tnhus",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-al-hxy-amn",
+    "brand-(wip)-[link]": "tpt-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_specific_humidity"
     },

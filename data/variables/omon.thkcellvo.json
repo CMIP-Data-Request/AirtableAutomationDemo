@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.thkcellvo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },

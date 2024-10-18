@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplev.uas",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-h010-hxy-amn",
+    "brand-(wip)-[link]": "tavg-h010-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/eastward_wind"
     },

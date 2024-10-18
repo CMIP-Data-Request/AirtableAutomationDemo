@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sisndmassmelt",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsi",
+    "brand-(wip)-[link]": "tavg-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_snow_melt_flux"
     },

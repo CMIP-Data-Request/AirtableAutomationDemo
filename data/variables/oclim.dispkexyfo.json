@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oclim.dispkexyfo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "clim-ol-hxy-amn",
+    "brand-(wip)-[link]": "tclim-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_kinetic_energy_dissipation_per_unit_area_due_to_xy_friction"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e3hrpt.so2",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxys-apt",
+    "brand-(wip)-[link]": "tpt-z0-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mole_fraction_of_sulfur_dioxide_in_air"
     },

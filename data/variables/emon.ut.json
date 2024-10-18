@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.ut",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-al-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/product_of_eastward_wind_and_air_temperature"
     },

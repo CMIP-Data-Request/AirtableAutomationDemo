@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aerday.minpblz",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmin-z0-hxy-amn",
+    "brand-(wip)-[link]": "tstat-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_boundary_layer_thickness"
     },

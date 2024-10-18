@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/amon.tasmin",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "dmin-h02-hxy-amn",
+    "brand-(wip)-[link]": "tstat-h02-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/air_temperature"
     },

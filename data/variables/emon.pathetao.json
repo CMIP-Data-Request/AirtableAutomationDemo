@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.pathetao",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_added_potential_temperature"
     },

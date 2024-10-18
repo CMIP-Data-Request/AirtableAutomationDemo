@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/ofx.deptho",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amns",
+    "brand-(wip)-[link]": "ti-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_floor_depth_below_geoid"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/fx.mrsofc",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amnla",
+    "brand-(wip)-[link]": "ti-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/soil_moisture_content_at_field_capacity"
     },

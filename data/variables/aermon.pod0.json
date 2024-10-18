@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aermon.pod0",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "clim-z0-hxy-amn",
+    "brand-(wip)-[link]": "tclim-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/integral_wrt_time_of_mole_stomatal_uptake_of_ozone"
     },

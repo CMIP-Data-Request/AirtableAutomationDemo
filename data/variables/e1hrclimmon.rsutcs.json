@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e1hrclimmon.rsutcs",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tdnl-z0-hxy-amn",
+    "brand-(wip)-[link]": "tclimdc-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/toa_outgoing_shortwave_flux_assuming_clear_sky"
     },

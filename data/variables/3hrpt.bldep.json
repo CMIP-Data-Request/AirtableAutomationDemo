@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/3hrpt.bldep",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z00-hxy-amn",
+    "brand-(wip)-[link]": "tpt-z00-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_boundary_layer_thickness"
     },

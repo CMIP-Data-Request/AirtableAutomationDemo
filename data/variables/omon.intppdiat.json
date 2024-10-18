@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.intppdiat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amndss",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_diatoms"
     },

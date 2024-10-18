@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/amon.thetao",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_potential_temperature"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.talkos",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_alkalinity_expressed_as_mole_equivalent"
     },

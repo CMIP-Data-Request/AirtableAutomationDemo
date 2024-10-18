@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/siday.sisaltmass",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsi",
+    "brand-(wip)-[link]": "tavg-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_ice_mass_content_of_salt"
     },

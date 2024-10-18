@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.masscello",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_mass_per_unit_area"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfmon.rsu4co2",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-ah-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/upwelling_shortwave_flux_in_air"
     },

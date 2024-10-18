@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.rsdoabsorb",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/net_rate_of_absorption_of_shortwave_energy_in_ocean_layer"
     },

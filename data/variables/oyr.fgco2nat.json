@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.fgco2nat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_downward_mass_flux_of_carbon_dioxide_natural_analogue_expressed_as_carbon"
     },

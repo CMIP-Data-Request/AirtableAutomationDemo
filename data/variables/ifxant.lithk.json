@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/ifxant.lithk",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amni",
+    "brand-(wip)-[link]": "ti-z0-hxy-is",
     "cf-standard-name": {
         "@id": "cf:standard-name/land_ice_thickness"
     },

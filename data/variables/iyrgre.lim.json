@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/iyrgre.lim",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmh-z0-hxy-amn",
+    "brand-(wip)-[link]": "tstat-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/land_ice_mass"
     },

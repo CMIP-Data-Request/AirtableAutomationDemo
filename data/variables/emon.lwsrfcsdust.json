@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.lwsrfcsdust",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_net_downward_longwave_dust_ambient_aerosol_particles_direct_radiative_effect_assuming_clear_sky"
     },

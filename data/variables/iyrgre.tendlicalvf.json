@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/iyrgre.tendlicalvf",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmh-z0-hxy-amn",
+    "brand-(wip)-[link]": "tstat-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_land_ice_mass_due_to_calving"
     },

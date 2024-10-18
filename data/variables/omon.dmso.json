@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.dmso",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/mole_concentration_of_dimethyl_sulfide_in_sea_water"
     },

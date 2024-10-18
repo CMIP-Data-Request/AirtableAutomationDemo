@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/amon.wap",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-p19-hxy-ax",
+    "brand-(wip)-[link]": "tavg-p19-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
     },

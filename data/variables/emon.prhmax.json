@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.prhmax",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-al-hxy-amn",
+    "brand-(wip)-[link]": "ti-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/precipitation_flux"
     },

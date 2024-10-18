@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e3hrpt.clmisr",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-h16-hxy-amna",
+    "brand-(wip)-[link]": "tpt-h16-hxy-",
     "cf-standard-name": {
         "@id": "cf:standard-name/cloud_area_fraction_in_atmosphere_layer"
     },

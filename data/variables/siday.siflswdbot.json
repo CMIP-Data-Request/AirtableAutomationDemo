@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/siday.siflswdbot",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsi",
+    "brand-(wip)-[link]": "tavg-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/downwelling_shortwave_flux_in_sea_water_at_sea_ice_base"
     },

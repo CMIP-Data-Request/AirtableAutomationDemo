@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/lmon.snw",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-z0-hxy-ax",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_snow_amount"
     },

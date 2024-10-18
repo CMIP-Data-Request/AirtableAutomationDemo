@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/ifxgre.hfgeoubed",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amngi",
+    "brand-(wip)-[link]": "ti-z0-hxy-gis",
     "cf-standard-name": {
         "@id": "cf:standard-name/upward_geothermal_heat_flux_at_ground_level_in_land_ice"
     },

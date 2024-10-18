@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/ofx.hfgeou",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-hxy-amns",
+    "brand-(wip)-[link]": "ti-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/upward_geothermal_heat_flux_at_sea_floor"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sisnmassacrossline",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-z0-ht-ax",
+    "brand-(wip)-[link]": "tavg-z0-ht-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/snow_transport_across_line_due_to_sea_ice_dynamics"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/eday.rhvgt",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amlu",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lus",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_heterotrophic_respiration"
     },

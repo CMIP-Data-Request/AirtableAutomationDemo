@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfsubhr.mc",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-ah-hxys-apt",
+    "brand-(wip)-[link]": "tpt-l-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_net_upward_convective_mass_flux"
     },

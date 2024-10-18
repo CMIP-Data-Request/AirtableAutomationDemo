@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sivoln",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hm-amn",
+    "brand-(wip)-[link]": "tavg-z0-hm-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_ice_volume"
     },

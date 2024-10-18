@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sidmasssi",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_sea_ice_amount_due_to_conversion_of_snow_to_sea_ice"
     },

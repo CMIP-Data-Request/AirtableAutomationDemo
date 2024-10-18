@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aermon.cdnc",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-al-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/number_concentration_of_cloud_liquid_water_particles_in_air"
     },

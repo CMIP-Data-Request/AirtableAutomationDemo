@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sistrxubot",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsi",
+    "brand-(wip)-[link]": "tavg-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/upward_x_stress_at_sea_ice_base"
     },

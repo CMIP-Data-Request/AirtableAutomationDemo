@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.thetaot2000",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-z02000-hxy-adm",
+    "brand-(wip)-[link]": "tavg-z02000-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_potential_temperature"
     },

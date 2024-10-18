@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e1hr.utendnogw",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-p27-hxy-amna",
+    "brand-(wip)-[link]": "tpt-p27-hxy-",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_eastward_wind_due_to_nonorographic_gravity_wave_drag"
     },

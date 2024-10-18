@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfmon.albisccp",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amncl",
+    "brand-(wip)-[link]": "tavg-z0-hxy-cl",
     "cf-standard-name": {
         "@id": "cf:standard-name/cloud_albedo"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.cvegshrub",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnshr",
+    "brand-(wip)-[link]": "tavg-z0-hxy-shb",
     "cf-standard-name": {
         "@id": "cf:standard-name/vegetation_carbon_content"
     },

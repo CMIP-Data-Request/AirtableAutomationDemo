@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplevpt.dtaus",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxy-amn",
+    "brand-(wip)-[link]": "tpt-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_stratiform_cloud"
     },

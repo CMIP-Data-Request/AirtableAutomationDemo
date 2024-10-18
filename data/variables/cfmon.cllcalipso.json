@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfmon.cllcalipso",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p0840-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p0840-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/cloud_area_fraction_in_atmosphere_layer"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplevpt.cldicemxrat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-p27-hxy-amna",
+    "brand-(wip)-[link]": "tpt-p27-hxy-",
     "cf-standard-name": {
         "@id": "cf:standard-name/cloud_ice_mixing_ratio"
     },

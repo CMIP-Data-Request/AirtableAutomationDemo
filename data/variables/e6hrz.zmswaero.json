@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e6hrz.zmswaero",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-al-hy-zmean",
+    "brand-(wip)-[link]": "tpt-l-hy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_air_temperature_due_to_shortwave_heating_from_volcanic_ambient_aerosol_particles"
     },

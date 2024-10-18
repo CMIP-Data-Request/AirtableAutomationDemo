@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.prw17o",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-al-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_content_of_water_vapor_containing_17O_in_atmosphere_layer"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/eyr.cveglut",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxy-amnlu",
+    "brand-(wip)-[link]": "tpt-z0-hxy-lus",
     "cf-standard-name": {
         "@id": "cf:standard-name/vegetation_carbon_content"
     },

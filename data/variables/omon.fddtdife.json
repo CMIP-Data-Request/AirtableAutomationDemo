@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.fddtdife",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0100-hxy-amnds",
+    "brand-(wip)-[link]": "tavg-z0100-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_ocean_mole_content_of_dissolved_inorganic_iron"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/ofx.dyvo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fixed-z0-hxy-",
+    "brand-(wip)-[link]": "ti-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },

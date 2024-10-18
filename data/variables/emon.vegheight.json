@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.vegheight",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnv",
+    "brand-(wip)-[link]": "tavg-z0-hxy-veg",
     "cf-standard-name": {
         "@id": "cf:standard-name/canopy_height"
     },

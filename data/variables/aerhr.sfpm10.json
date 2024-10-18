@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aerhr.sfpm10",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-z0-hxy-adm",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_fraction_of_pm10_ambient_aerosol_particles_in_air"
     },

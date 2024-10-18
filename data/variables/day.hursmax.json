@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/day.hursmax",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmax-h02-hxy-amn",
+    "brand-(wip)-[link]": "tstat-h02-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/relative_humidity"
     },

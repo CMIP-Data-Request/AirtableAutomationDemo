@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.ocontempmint",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/integral_wrt_depth_of_product_of_conservative_temperature_and_sea_water_density"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/esubhr.pr",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxy-amn",
+    "brand-(wip)-[link]": "tpt-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/precipitation_flux"
     },

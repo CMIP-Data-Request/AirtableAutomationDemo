@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrlev.ua",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-al-hxy-ax",
+    "brand-(wip)-[link]": "tpt-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/eastward_wind"
     },

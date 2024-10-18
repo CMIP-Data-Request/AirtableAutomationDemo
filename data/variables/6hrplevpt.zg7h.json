@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplevpt.zg7h",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-p7h-hxy-amna",
+    "brand-(wip)-[link]": "tpt-p7h-hxy-",
     "cf-standard-name": {
         "@id": "cf:standard-name/geopotential_height"
     },

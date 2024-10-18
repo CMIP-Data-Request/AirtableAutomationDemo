@@ -1,11 +1,13 @@
 {
     "@id": "dr:data/variables/oday.vo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z00-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z00-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_y_velocity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "Ocean_KE_vorticity_extremes, Ocean_KE_vorticity_extremes, biodiv_marine_daily",
+    "cmip7-variable-groups": "Ocean_KE_vorticity_extremes, Ocean_KE_vorticity_extremes, biodiv_marine_daily, ocean_mesoscale",
     "compound-name": "Oday.vo",
     "description": "This is just vo for comparison of high-res vs. coarse models and for compound extremes.\n",
     "frequency": [

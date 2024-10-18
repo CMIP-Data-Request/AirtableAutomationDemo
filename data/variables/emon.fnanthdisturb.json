@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.fnanthdisturb",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_atmosphere_mass_content_of_nitrogen_compounds_expressed_as_nitrogen_due_to_anthropogenic_emission"
     },

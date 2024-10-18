@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.gppshrub",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnshr",
+    "brand-(wip)-[link]": "tavg-z0-hxy-shb",
     "cf-standard-name": {
         "@id": "cf:standard-name/gross_primary_productivity_of_biomass_expressed_as_carbon"
     },

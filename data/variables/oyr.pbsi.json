@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.pbsi",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_mole_concentration_of_silicon_in_sea_water_due_to_biological_production"
     },

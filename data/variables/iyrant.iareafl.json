@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/iyrant.iareafl",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twmn-z0-hm-amngi",
+    "brand-(wip)-[link]": "tavg-z0-hm-gis",
     "cf-standard-name": {
         "@id": "cf:standard-name/floating_ice_shelf_area"
     },

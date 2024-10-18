@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/iyrant.yvelbase",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twmn-z0-hxy-amni",
+    "brand-(wip)-[link]": "tavg-z0-hxy-is",
     "cf-standard-name": {
         "@id": "cf:standard-name/land_ice_basal_y_velocity"
     },

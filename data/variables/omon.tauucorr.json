@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.tauucorr",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-z0-hxy-ax",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/downward_x_stress_correction_at_sea_water_surface"
     },

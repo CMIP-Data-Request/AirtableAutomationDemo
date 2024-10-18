@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.intdoc",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amndss",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_mass_content_of_dissolved_organic_carbon"
     },

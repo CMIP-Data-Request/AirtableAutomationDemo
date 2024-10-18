@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.utendnogw",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-p19-hxy-ax",
+    "brand-(wip)-[link]": "tavg-p19-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_eastward_wind_due_to_nonorographic_gravity_wave_drag"
     },

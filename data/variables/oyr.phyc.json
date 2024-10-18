@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.phyc",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/mole_concentration_of_phytoplankton_expressed_as_carbon_in_sea_water"
     },

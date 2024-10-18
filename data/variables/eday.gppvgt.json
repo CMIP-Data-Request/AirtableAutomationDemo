@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/eday.gppvgt",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amlu",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lus",
     "cf-standard-name": {
         "@id": "cf:standard-name/gross_primary_productivity_of_biomass_expressed_as_carbon"
     },

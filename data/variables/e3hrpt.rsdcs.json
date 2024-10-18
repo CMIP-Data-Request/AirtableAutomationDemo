@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e3hrpt.rsdcs",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-ah-hxy-amn",
+    "brand-(wip)-[link]": "tpt-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/downwelling_shortwave_flux_in_air_assuming_clear_sky"
     },

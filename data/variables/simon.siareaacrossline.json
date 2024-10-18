@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.siareaacrossline",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-z0-ht-ax",
+    "brand-(wip)-[link]": "tavg-z0-ht-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_ice_area_transport_across_line"
     },

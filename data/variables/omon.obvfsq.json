@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.obvfsq",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/square_of_brunt_vaisala_frequency_in_sea_water"
     },

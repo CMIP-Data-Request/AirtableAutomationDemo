@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.sw18o",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-al-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/isotope_ratio_of_18O_to_16O_in_sea_water_excluding_solutes_and_solids"
     },

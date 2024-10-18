@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sistressmax",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxy-amnsi",
+    "brand-(wip)-[link]": "tpt-z0-hxy-si",
     "cf-standard-name": {
         "@id": "cf:standard-name/maximum_over_coordinate_rotation_of_sea_ice_horizontal_shear_stress"
     },

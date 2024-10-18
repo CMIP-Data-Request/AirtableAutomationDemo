@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.wetlandch4cons",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_downward_mass_flux_of_methane_due_to_wetland_biological_consumption"
     },

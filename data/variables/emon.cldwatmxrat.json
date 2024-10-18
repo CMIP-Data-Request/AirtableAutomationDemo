@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.cldwatmxrat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-p27-hxy-ax",
+    "brand-(wip)-[link]": "tavg-p27-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/cloud_liquid_water_mixing_ratio"
     },

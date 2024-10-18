@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/amon.ta",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-p19-hxy-ax",
+    "brand-(wip)-[link]": "tavg-p19-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/air_temperature"
     },

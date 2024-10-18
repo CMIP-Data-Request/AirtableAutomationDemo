@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/3hr.tauvo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amlu",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lus",
     "cf-standard-name": {
         "@id": "cf:standard-name/downward_y_stress_at_sea_water_surface"
     },

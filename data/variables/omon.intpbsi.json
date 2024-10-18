@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.intpbsi",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amndss",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_ocean_mole_content_of_silicon_due_to_biological_production"
     },

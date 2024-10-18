@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.uqint",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/integral_wrt_height_of_product_of_eastward_wind_and_specific_humidity"
     },

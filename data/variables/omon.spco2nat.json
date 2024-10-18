@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.spco2nat",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z00-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z00-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_carbon_dioxide_natural_analogue_partial_pressure_difference_between_sea_water_and_air"
     },

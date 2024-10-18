@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.npptree",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amntr",
+    "brand-(wip)-[link]": "tavg-z0-hxy-tree",
     "cf-standard-name": {
         "@id": "cf:standard-name/net_primary_productivity_of_biomass_expressed_as_carbon"
     },

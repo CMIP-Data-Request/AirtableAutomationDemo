@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oday.omldamax",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmax-z0-hxy-amn",
+    "brand-(wip)-[link]": "tstat-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_mixed_layer_thickness_defined_by_mixing_scheme"
     },

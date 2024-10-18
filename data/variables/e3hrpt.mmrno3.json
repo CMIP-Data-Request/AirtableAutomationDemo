@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/e3hrpt.mmrno3",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-z0-hxys-apt",
+    "brand-(wip)-[link]": "tpt-z0-hxys-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_fraction_of_nitrate_dry_aerosol_particles_in_air"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/simon.sirdgthick",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amnsirdg",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sir",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_ice_thickness"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/edayz.tntmp",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p39-hy-amna",
+    "brand-(wip)-[link]": "tavg-p39-hy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_air_temperature_due_to_model_physics"
     },

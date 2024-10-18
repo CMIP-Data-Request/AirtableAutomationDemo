@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/6hrplevpt.huss",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-h02-hxy-amn",
+    "brand-(wip)-[link]": "tpt-h02-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/specific_humidity"
     },

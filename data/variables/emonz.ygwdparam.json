@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emonz.ygwdparam",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p39-hy-zmeana",
+    "brand-(wip)-[link]": "tavg-p39-hy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_northward_stress_due_to_gravity_wave_drag"
     },

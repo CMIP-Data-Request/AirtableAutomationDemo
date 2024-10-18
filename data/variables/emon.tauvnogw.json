@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.tauvnogw",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p19-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p19-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },

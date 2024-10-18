@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.prbigthetao",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_redistributed_conservative_temperature"
     },

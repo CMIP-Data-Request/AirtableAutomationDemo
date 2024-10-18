@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/imongre.rlds",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twmn-z0-hxy-amni",
+    "brand-(wip)-[link]": "tavg-z0-hxy-is",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_downwelling_longwave_flux_in_air"
     },

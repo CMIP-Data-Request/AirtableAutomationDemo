@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/ofx.masscello",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-ol-hxy-asm",
+    "brand-(wip)-[link]": "ti-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_mass_per_unit_area"
     },

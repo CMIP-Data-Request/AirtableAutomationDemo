@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.cland",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/mass_content_of_carbon_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products"
     },

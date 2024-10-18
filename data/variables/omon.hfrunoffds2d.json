@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.hfrunoffds2d",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/temperature_flux_due_to_runoff_expressed_as_heat_flux_into_sea_water"
     },

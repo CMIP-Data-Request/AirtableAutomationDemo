@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oyr.dispkexyfo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z0-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_kinetic_energy_dissipation_per_unit_area_due_to_xy_friction"
     },

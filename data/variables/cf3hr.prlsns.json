@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cf3hr.prlsns",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-ah-hxy-amn",
+    "brand-(wip)-[link]": "tpt-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/stratiform_snowfall_flux"
     },

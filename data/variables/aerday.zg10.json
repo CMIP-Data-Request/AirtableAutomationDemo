@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aerday.zg10",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p010-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p010-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/geopotential_height"
     },

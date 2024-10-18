@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/aerday.maxpblz",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmax-z0-hxy-amn",
+    "brand-(wip)-[link]": "tstat-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/atmosphere_boundary_layer_thickness"
     },

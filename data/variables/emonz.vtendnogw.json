@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emonz.vtendnogw",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p39-hy-zmeana",
+    "brand-(wip)-[link]": "tavg-p39-hy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_northward_wind_due_to_nonorographic_gravity_wave_drag"
     },

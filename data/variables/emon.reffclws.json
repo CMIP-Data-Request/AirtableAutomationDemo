@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.reffclws",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-al-hxy-amn",
+    "brand-(wip)-[link]": "tavg-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/effective_radius_of_stratiform_cloud_liquid_water_particles"
     },

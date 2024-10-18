@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.fg13co2",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z00-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z00-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/surface_downward_mass_flux_of_13C_dioxide_abiotic_analogue_expressed_as_13C"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/eday.mrsow",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z0-hxy-amnla",
+    "brand-(wip)-[link]": "tavg-z0-hxy-lnd",
     "cf-standard-name": {
         "@id": "cf:standard-name/volume_fraction_of_condensed_water_in_soil_at_field_capacity"
     },

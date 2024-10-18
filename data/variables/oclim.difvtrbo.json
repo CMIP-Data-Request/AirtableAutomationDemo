@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oclim.difvtrbo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "clim-ol-hxy-amn",
+    "brand-(wip)-[link]": "tclim-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_vertical_tracer_diffusivity_due_to_background"
     },

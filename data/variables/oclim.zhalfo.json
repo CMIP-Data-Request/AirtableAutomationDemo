@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oclim.zhalfo",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "ts-z0-hxy-amn",
+    "brand-(wip)-[link]": "tsum-z0-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/depth_below_geoid"
     },

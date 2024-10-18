@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/imongre.tas",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twmn-h02-hm-amni",
+    "brand-(wip)-[link]": "tavg-h02-hm-is",
     "cf-standard-name": {
         "@id": "cf:standard-name/air_temperature"
     },

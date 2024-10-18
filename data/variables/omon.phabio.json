@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.phabio",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/sea_water_ph_abiotic_analogue_reported_on_total_scale"
     },

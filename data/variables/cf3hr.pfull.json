@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cf3hr.pfull",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-al-hxy-amn",
+    "brand-(wip)-[link]": "tpt-l-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/air_pressure"
     },

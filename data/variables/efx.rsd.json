@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/efx.rsd",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-ah-hm-apt",
+    "brand-(wip)-[link]": "ti-l-hm-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/downwelling_shortwave_flux_in_air"
     },

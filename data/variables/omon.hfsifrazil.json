@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.hfsifrazil",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/heat_flux_into_sea_water_due_to_freezing_of_frazil_ice"
     },

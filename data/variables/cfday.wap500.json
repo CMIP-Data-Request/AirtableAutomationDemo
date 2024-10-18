@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/cfday.wap500",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p0500-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p0500-hxy-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
     },

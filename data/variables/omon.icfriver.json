@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.icfriver",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-z00-hxy-amns",
+    "brand-(wip)-[link]": "tavg-z00-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/tendency_of_ocean_mole_content_of_inorganic_carbon_due_to_runoff_and_sediment_dissolution"
     },

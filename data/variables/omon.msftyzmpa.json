@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/omon.msftyzmpa",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tm-ol-ht-bgzmean",
+    "brand-(wip)-[link]": "tavg-l-ht-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/ocean_y_overturning_mass_streamfunction_due_to_parameterized_mesoscale_eddy_advection"
     },

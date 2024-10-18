@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/oday.fshtrans",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "fx-z0-ht-amn",
+    "brand-(wip)-[link]": "ti-z0-ht-x",
     "cf-standard-name": {
         "@id": "cf:standard-name/"
     },

@@ -1,6 +1,8 @@
 {
     "@id": "dr:data/variables/emon.sw2h",
     "@type": "dr:variable",
+    "brand-(dr)-[link]": "tmn-ol-hxy-amns",
+    "brand-(wip)-[link]": "tavg-l-hxy-sea",
     "cf-standard-name": {
         "@id": "cf:standard-name/isotope_ratio_of_2H_to_1H_in_sea_water_excluding_solutes_and_solids"
     },
