@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amnfi-twmn",
+    "@id": "dr:data/cell-methods/amnfi-twm",
     "@type": "dr:variable",
     "brand-id": "fis",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "sftflf",
     "regex": 1.0,
-    "label": "amnfi-twmn",
+    "label": "amnfi-twm",
     "title": "Weighted Time Mean on Floating Ice Shelf",
     "uid": "a269a4dd-8c9b-11ef-944e-41a8eb05f654"
 }

@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/cell-methods/amngi-twmn",
+    "@id": "dr:data/cell-methods/amngi-twm",
     "@type": "dr:variable",
     "brand-id": "gis",
     "brand-tag": "",
@@ -7,7 +7,7 @@
     "cell-methods-rollup-(from-comments)": "",
     "mask": "sftgrf",
     "regex": 1.0,
-    "label": "amngi-twmn",
+    "label": "amngi-twm",
     "title": "Weighted Time Mean on Grounded Ice Sheet",
     "uid": "a269a4de-8c9b-11ef-944e-41a8eb05f654"
 }

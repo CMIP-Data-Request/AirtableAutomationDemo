@@ -375,7 +375,7 @@
     },
     {
         "Cell Methods":"area: time: mean where floating_ice_shelf (comment: mask=sftflf)",
-        "label":"amnfi-twmn",
+        "label":"amnfi-twm",
         "title":"Weighted Time Mean on Floating Ice Shelf",
         "uid":"a269a4dd-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"fis",
@@ -397,7 +397,7 @@
     },
     {
         "Cell Methods":"area: time: mean where ice_sheet",
-        "label":"amni-twmn",
+        "label":"amni-twm",
         "title":"Weighted Time Mean on Ice Sheet",
         "uid":"a269a4df-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"is",
@@ -694,7 +694,7 @@
     },
     {
         "Cell Methods":"area: time: mean where grounded_ice_sheet (comment: mask=sfgrlf)",
-        "label":"amngi-twmn",
+        "label":"amngi-twm",
         "title":"Weighted Time Mean on Grounded Ice Sheet",
         "uid":"a269a4de-8c9b-11ef-944e-41a8eb05f654",
         "Brand ID":"gis",
