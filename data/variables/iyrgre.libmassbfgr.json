@@ -1,7 +1,7 @@
 {
     "@id": "dr:data/variables/iyrgre.libmassbfgr",
     "@type": "dr:variable",
-    "brand-(dr)-[link]": "twmn-z0-hxy-amngi",
+    "brand-(dr)-[link]": "twm-z0-hxy-amngi",
     "brand-(wip)-[link]": "tavg-z0-hxy-gis",
     "cf-standard-name": {
         "@id": "cf:standard-name/land_ice_basal_specific_mass_balance_flux"

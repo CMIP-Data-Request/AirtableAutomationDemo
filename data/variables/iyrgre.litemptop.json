@@ -1,7 +1,7 @@
 {
     "@id": "dr:data/variables/iyrgre.litemptop",
     "@type": "dr:variable",
-    "brand-(dr)-[link]": "twmn-z0-hxy-amni",
+    "brand-(dr)-[link]": "twm-z0-hxy-amni",
     "brand-(wip)-[link]": "tavg-z0-hxy-is",
     "cf-standard-name": {
         "@id": "cf:standard-name/temperature_at_top_of_ice_sheet_model"

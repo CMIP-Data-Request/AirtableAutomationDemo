@@ -1,7 +1,7 @@
 {
     "@id": "dr:data/variables/iyrgre.hfgeoubed",
     "@type": "dr:variable",
-    "brand-(dr)-[link]": "twmn-z0-hxy-amngi",
+    "brand-(dr)-[link]": "twm-z0-hxy-amngi",
     "brand-(wip)-[link]": "tavg-z0-hxy-gis",
     "cf-standard-name": {
         "@id": "cf:standard-name/upward_geothermal_heat_flux_at_ground_level_in_land_ice"
