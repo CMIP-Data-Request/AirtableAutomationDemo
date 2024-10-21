@@ -15140,7 +15140,8 @@
         "CMOR Variables":[
             "rec0pDuadpAJBllN9",
             "recXvAaOjPCX9qB8s",
-            "reclzYBGOC8PAgSq4"
+            "reclzYBGOC8PAgSq4",
+            "recKg9huqAESyB2Zg"
         ],
         "Description":"Tendency of the eastward wind by parameterized orographic gravity waves.\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",

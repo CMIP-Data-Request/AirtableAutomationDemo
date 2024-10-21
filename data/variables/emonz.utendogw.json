@@ -1,15 +1,15 @@
 {
-    "@id": "dr:data/variables/emon.hus27",
+    "@id": "dr:data/variables/emonz.utendogw",
     "@type": "dr:variable",
-    "brand-(dr)-[link]": "tm-p27-hxy-ax",
-    "brand-(wip)-[link]": "tavg-p27-hxy-x",
+    "brand-(dr)-[link]": "twm-p39-hy-zmeana",
+    "brand-(wip)-[link]": "tavg-p39-hy-x",
     "cf-standard-name": {
-        "@id": "cf:standard-name/specific_humidity"
+        "@id": "cf:standard-name/tendency_of_eastward_wind_due_to_orographic_gravity_wave_drag"
     },
     "cf-standard-name-exists": true,
     "cmip7-variable-groups": "",
-    "compound-name": "Emon.hus27",
-    "description": "Specific humidity is the mass fraction of water vapor in (moist) air.\n",
+    "compound-name": "EmonZ.utendogw",
+    "description": "zonal mean; hence YZT\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/mon"
@@ -22,15 +22,17 @@
     ],
     "positive-direction": "",
     "processing-note": "",
-    "provenance": "HighResMIP [Amon_diag]",
-    "status": "CMIP6 CMOR variable",
+    "provenance": "",
+    "status": "New",
     "table": [
-        "Emon"
+        "EmonZ"
     ],
-    "theme": "",
-    "title": "Specific Humidity",
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "Eastward Acceleration Due to Orographic Gravity Wave Drag",
     "type": "real",
-    "uid": "8bafec36-4a5b-11e6-9cd2-ac72891c3257",
+    "uid": "",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
@@ -45,15 +47,13 @@
     "priority": {
         "priority-1-(cmip6)": "",
         "priority-1-(cmip6)----old": "",
-        "priority-2-(cmip6---old": [
-            "HighResMIP"
-        ],
+        "priority-2-(cmip6---old": "",
         "priority-2-(cmip6)": "",
         "priority-3-(cmip6---old)": "",
         "priority-3-(cmip6)": ""
     },
     "rank": {
-        "min-rank": 9999,
+        "min-rank": null,
         "rank-by-file-count": null,
         "rank-by-submissions": null,
         "rank-by-volume": null
