@@ -1822,7 +1822,7 @@ recKeq7mnvwJZLKqf,CFsubhr.psl,air_pressure_at_mean_sea_level,Sea Level Pressure,
 ",real,['atmos'],['CFsubhr'],['subhrPt'],CMIP6 CMOR variable,,,"cfmip_subhr, CFMIP_cfSites",800753d8-f906-11e6-a176-5404a60d96b5,tpt-z0-hxys-x,tpt-z0-hxys-apt,956,"This table includes the 2-D variables listed in the ""Amon"" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.
 ",CFsubhr ((isd.003)),,['CMIP5'],1436,1061,956,,,,,,,,,,,,,
 recKg9huqAESyB2Zg,EmonZ.utendogw,tendency_of_eastward_wind_due_to_orographic_gravity_wave_drag,Eastward Acceleration Due to Orographic Gravity Wave Drag,"zonal mean; hence YZT
-",real,['atmos'],['EmonZ'],['mon'],New,['Atmosphere'],,,1cfd2c07-8fa0-11ef-b9dd-9b232e140570,tavg-p39-hy-x,twm-p39-hy-zmeana,,,,,,,,,,,,,,,,,,,,,
+",real,['atmos'],['EmonZ'],['mon'],New,['Atmosphere'],,dynvar_basic,1cfd2c07-8fa0-11ef-b9dd-9b232e140570,tavg-p39-hy-x,twm-p39-hy-zmeana,,,,,,,,,,,,,,,,,,,,,
 recKgFxmeu7xJ0JYC,Emon.twap,product_of_lagrangian_tendency_of_air_pressure_and_air_temperature,Product of Air Temperature and Omega,"Product of air temperature and pressure tendency
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,8baf62e8-4a5b-11e6-9cd2-ac72891c3257,tavg-l-hxy-x,twm-al-hxy-amn,555,,HighResMIP [Amon_sparc],['HighResMIP'],,1520,555,1230,,,,,,,,,,,,,
 recKiQQiu4N1zDLNY,Eday.lai,leaf_area_index,Leaf Area Index,"A ratio obtained by dividing the total upper leaf surface area of vegetation by the (horizontal) surface area of the land on which it grows.
