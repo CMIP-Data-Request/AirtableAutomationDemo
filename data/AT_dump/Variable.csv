@@ -4787,7 +4787,7 @@ rect01plwOyBu6vEr,Omon.dpco2abio,surface_carbon_dioxide_abiotic_analogue_partial
 rect2OjN3bLWtOeUb,SImon.siflcondtop,surface_downward_heat_flux_in_sea_ice,Net Conductive Heat Flux in Ice at the Surface,"the net heat conduction flux at the ice surface
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_budget_energy_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",711489d4-faa7-11e6-bfb7-ac72891c3257,tavg-z0-hxy-si,twm-z0-hxy-amnsi,258,,SIMIP [seaicemon],['SIMIP'],,589,998,258,down,,,,,,,,,,,,
 rect2v9bY4az4yQJ4,Oday.thetao,sea_water_potential_temperature,Sea Water Potential Temperature,"Diagnostic should be contributed even for models using conservative temperature as prognostic field.
-",real,['ocean'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,"DCPP_Wider, biodiv_marine_daily, Ocean_acidification_oxygen_extremes, ocean_mesoscale",83bbfb6e-7f07-11ef-9308-b1dd71e64bec,tavg-z0-hxy-x,twm-z0-hxy-amn,,"The variable at the depth of 200 meters is requested. 
+",real,['ocean'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,"DCPP_Wider, biodiv_marine_daily, Ocean_acidification_oxygen_extremes, ocean_mesoscale, Ocean Temperature Extremes",83bbfb6e-7f07-11ef-9308-b1dd71e64bec,tavg-z0-hxy-x,twm-z0-hxy-amn,,"The variable at the depth of 200 meters is requested. 
 ",,,,,,,,,,,In progress,,,,,,,,
 rect3OptBvPC5R71Y,Emon.od443dust,atmosphere_optical_thickness_due_to_dust_ambient_aerosol_particles,Optical Thickness at 443nm Dust,"Total aerosol AOD due to dust aerosol at a wavelength of 443 nanometres.
 ",real,['atmos'],['Emon'],['mon'],CMIP6 CMOR variable,,,,6f6c00c6-9acb-11e6-b7ee-ac72891c3257,tavg-z0-hxy-x,twm-z0-hxy-amn,1417,,PMIP [PMIP-aero-02],,['PMIP'],1475,1417,1599,,,,,,,,,,,,,
