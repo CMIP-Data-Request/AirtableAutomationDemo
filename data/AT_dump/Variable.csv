@@ -3330,7 +3330,7 @@ recavvMjdFU5o8Nra,Omon.soga,sea_water_salinity,Global Mean Sea Water Salinity,"S
 recawvKN2BsaE74Zd,LImon.hfssIs,surface_upward_sensible_heat_flux,Ice Sheet Surface Upward Sensible Heat Flux,"quantity averaged over ice\_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)
 ",real,['landIce'],['LImon'],['mon'],CMIP6 CMOR variable,,,"landice_global_allfreq, paleo_permafrost, tipmip_extended",8121189a-bf17-11e6-b0d8-ac72891c3257,tavg-z0-hxy-is,twm-z0-hxy-amni,788,,ISMIP6 [new_LImon],,['ISMIP6'],1263,1496,788,up,,,,,,,,,,,,
 recaygtc4Xiju54dH,Oday.bigthetao,sea_water_conservative_temperature,Sea Water Conservative Temperature,"Diagnostic should be contributed even for models using conservative temperature as prognostic field.
-",real,['ocean'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,,83bbfb6e-7f07-11ef-9308-b1dd71e64bec,tavg-z0-hxy-x,twm-z0-hxy-amn,,"The variable at the depth of 200 meters is requested. 
+",real,['ocean'],['Oday'],['day'],Under review,['Ocean & sea-ice'],,Ocean Temperature Extremes,83bbfb6e-7f07-11ef-9308-b1dd71e64bec,tavg-z0-hxy-x,twm-z0-hxy-amn,,"The variable at the depth of 200 meters is requested. 
 ",,,,,,,,,,,In progress,,,,,,,,
 recb0EFBGaxQriSpo,IfxGre.lithk,land_ice_thickness,Ice Sheet Thickness,"The thickness of the ice sheet
 ",real,['landIce'],['IfxGre'],['fx'],CMIP6 CMOR variable,,,"landice_greenland_allfreq, tipmip_baseline",d5b36a2e-c78d-11e6-9b25-5404a60d96b5,ti-z0-hxy-is,fx-z0-hxy-amni,1463,,ISMIP6 [IfxGre],['ISMIP6'],,1500,1819,1463,,,,,,,,,,,,,
