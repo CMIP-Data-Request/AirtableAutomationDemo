@@ -6422,7 +6422,8 @@
         "Status":"Existing physical parameter",
         "CMOR Variables":[
             "rec6UYn4xbYHyNV19",
-            "recPsSvM83iT1srnC"
+            "recPsSvM83iT1srnC",
+            "recaygtc4Xiju54dH"
         ],
         "Description":"Sea water conservative temperature (this should be contributed only for models using conservative temperature as prognostic field)\n",
         "is alias (from CF Standard Name)":"0 checked out of 1",

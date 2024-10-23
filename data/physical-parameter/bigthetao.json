@@ -11,6 +11,9 @@
         },
         {
             "@id": "dr:variables/omon.bigthetao"
+        },
+        {
+            "@id": "dr:variables/oday.bigthetao"
         }
     ],
     "comments": "Clearly labelling where there are choices between variables.",

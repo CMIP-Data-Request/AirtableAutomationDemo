@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/oday.bigthetao",
+    "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/sea_water_conservative_temperature"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "",
+    "compound-name": "Oday.bigthetao",
+    "description": "Diagnostic should be contributed even for models using conservative temperature as prognostic field.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/ocean"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "The variable at the depth of 200 meters is requested. \n",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "Oday"
+    ],
+    "theme": [
+        "Ocean & sea-ice"
+    ],
+    "title": "Sea Water Conservative Temperature",
+    "type": "real",
+    "uid": "83bbfb6e-7f07-11ef-9308-b1dd71e64bec",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": "In progress"
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}
