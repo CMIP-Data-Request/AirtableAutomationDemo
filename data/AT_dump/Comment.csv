@@ -88,6 +88,9 @@ rechxH0FNVVqiSxmA,Additional information required for variable C3H6,"For mole fr
 ",In progress,['Atmosphere'],,,,,,
 recjBpq3kPUEKnpXu,more precise definition for fx.mrsofc,"We request to provide a more precise definition of the physical quantity – it should exclude lake water and must refer to soil water only. This is an outcome from a PMIP discussion. Since the variable is not originally part of the ocean and sea ice theme, could this request be forwarded to relevant other entities? Thank you.
 ",In progress,,,,,,,
+recjJoe6G3Prlzkqp,Wrong spatial shape associated to ocean bgc export fluxes,"The spatial shape of the following variables representing 2D fluxes at the ocean bottom should be modified into **Global field (single level)**:
+`Omon.exparagob, Omon.expcalcob, Omon.expcob, Omon.expfeob, Omon.expnob, Omon.exppob, Omon.expsiob`
+",New,"['Ocean & Sea-Ice', 'Earth system']",,,,,Global field (single level),
 reckmYZxiUnoBTQd8,Definition of temperature variables,"In CMIP7, is it possible to clarify the definition of daily near-surface air temperature (tas), and its relationship between daily maximum (tasmax) and minimum (tasmin) temperatures? Does daily mean temperature, i.e., (day.tasmax+day.tasmin)/2, equal to or close to day.tas?
 ",In progress,['Atmosphere'],,,,,,
 recmaxGK1DRVqxbF6,definition of variables Emon.albl and Emon.albo,"The idea of these variables is to gather information on the albedo of the surface that is not covered by ice or by snow - this means that if a grid cell is partly covered by ice or by snow, the value should be computed only on the part of the non-snow or non-ice cover, respectively, ignoring albedo of the snow or ice cover. We may therefore have to update the cell measures accordingly.

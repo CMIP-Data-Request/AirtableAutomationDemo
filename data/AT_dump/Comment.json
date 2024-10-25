@@ -432,6 +432,21 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Wrong spatial shape associated to ocean bgc export fluxes",
+        "Comment":"The spatial shape of the following variables representing 2D fluxes at the ocean bottom should be modified into **Global field (single level)**:\n`Omon.exparagob, Omon.expcalcob, Omon.expcob, Omon.expfeob, Omon.expnob, Omon.exppob, Omon.expsiob`\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice",
+            "Earth system"
+        ],
+        "Data Request Actions":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue URL":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"Global field (single level)",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Definition of temperature variables",
         "Comment":"In CMIP7, is it possible to clarify the definition of daily near-surface air temperature (tas), and its relationship between daily maximum (tasmax) and minimum (tasmin) temperatures? Does daily mean temperature, i.e., (day.tasmax+day.tasmin)\/2, equal to or close to day.tas?\n",
         "Status":"In progress",
