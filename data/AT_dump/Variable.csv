@@ -1647,7 +1647,7 @@ recIbOq1MdRe9CppT,Omon.epsi100,sinking_mole_flux_of_particulate_silicon_in_sea_w
 recIc3Wma4XQ8KzWa,IyrGre.topg,bedrock_altitude,Bedrock Altitude,"This is needed in case bed rock elevation changes in time
 ",real,['landIce'],['IyrGre'],['yr'],CMIP6 CMOR variable,,,landice_greenland_allfreq,d5b3a232-c78d-11e6-9b25-5404a60d96b5,tavg-z0-hxy-is,twm-z0-hxy-amni,1765,,ISMIP6 [IyrGre],['ISMIP6'],,1848,1848,1765,,,,,,,,,,,,,
 recIcTSRfQC4eEtun,CF3hr.prlsns,stratiform_snowfall_flux,Stratiform Snowfall Flux,"large-scale precipitation of all forms of water in the solid phase.
-",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,"cfmip_3hr, snow_allfreq",bab41300-e5dd-11e5-8482-ac72891c3257,tpt-l-hxy-x,tpt-ah-hxy-amn,352,"report on model half-levels
+",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,cfmip_3hr,bab41300-e5dd-11e5-8482-ac72891c3257,tpt-l-hxy-x,tpt-ah-hxy-amn,352,"report on model half-levels
 ",CF3hr ((isd.003)),['CFMIP'],,1293,352,1295,,,,,,,,,,,,,
 recIdB9zZkz78NR1E,AERmon.rlutcso3ref,toa_outgoing_longwave_flux_assuming_clear_sky_and_reference_mole_fraction_of_ozone_in_air,TOA outgoing longwave flux assuming clear sky and reference ozone field ,"This is the outgoing longwave flux at the top-of-atmosphere for clear-sky conditions from a diagnostic call to the radiation scheme using a reference ozone field
 ",real,['aerosol'],['AERmon'],['mon'],Under review,['Atmosphere'],In progress,aerchemmip_2d_monthly,83bbfbf1-7f07-11ef-9308-b1dd71e64bec,tavg-z0-hxy-x,twm-z0-hxy-amn,,,,,,,,,,,,,,,,,,,,,
