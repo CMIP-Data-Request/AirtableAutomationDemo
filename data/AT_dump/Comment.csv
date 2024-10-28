@@ -79,7 +79,8 @@ upward_northward_momentum_flux_in_air_due_to_nonorographic_gravity_waves
 ```
 
 
-",In progress,['Atmosphere'],,,,,,
+",Done,['Atmosphere'],"BD moved comment to Physical Parameters table
+",,,,,
 recgZbGDl0E6GlYT9,"Adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline_daily group","I recommend adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline\_daily group in order to facilitate studies were the surface energy budget needs closed at a daily level, which included understanding the drivers of Polar Amplification. 
 ",In progress,"['Ocean & Sea-Ice', 'Land & Land-Ice', 'Atmosphere', 'CF Working Group']",,,,,Global field (single level),
 rechnk5WOkEN4Uxfk,Request for additional information when reporting variable,"For mole fractions of different VOCs (e.g., C2H4), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this request be captured in the data request?

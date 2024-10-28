@@ -363,11 +363,11 @@
     {
         "Title":"Change in the name of the underlying physical parameter.",
         "Comment":"The following names were proposed via Github \nWestward Reynolds stress from orographic gravity wave parameterization - tauuogw, for the vertical flux of zonal momentum within the orographic GW parameterization.\nNorthward Reynolds stress from orographic gravity wave parameterization - tauvogw, for the vertical flux of meridional momentum within the orographic GW parameterization.\nWestward Reynolds stress from non-orographic gravity wave parameterization - tauunogw, for the vertical wave flux of zonal momentum within the non-orographic GW parameterization.\nNorthward Reynolds stress from non-orographic gravity wave parameterization - tauvnogw, for the vertical wave flux of meridional momentum within the non-orographic GW parameterization.\n\nBut, it was noted that the standard name table already contains similar quantities named differently. To conform with the existing, the new standard names should be:\n```\nupward_westward_momentum_flux_in_air_due_to_orographic_gravity_waves\nupward_northward_momentum_flux_in_air_due_to_orographic_gravity_waves\nupward_westward_momentum_flux_in_air_due_to_nonorographic_gravity_waves\nupward_northward_momentum_flux_in_air_due_to_nonorographic_gravity_waves\n```\n\n\n",
-        "Status":"In progress",
+        "Status":"Done",
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"BD moved comment to Physical Parameters table\n",
         "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
         "GitHub Issue number":"",
