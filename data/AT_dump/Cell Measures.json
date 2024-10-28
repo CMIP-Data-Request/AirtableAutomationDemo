@@ -6,7 +6,7 @@
     },
     {
         "Name":"::MODEL",
-        "Notes":"indicates that the data should\nbe provided at the cell locations used for that variable\nin the model code",
+        "Notes":"indicates that the data should be provided at the cell locations used for that variable in the model code",
         "Title":""
     },
     {

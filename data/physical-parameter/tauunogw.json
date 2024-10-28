@@ -13,13 +13,13 @@
             "@id": "dr:variables/edayz.tauunogw"
         }
     ],
-    "comments": "",
+    "comments": "Change in the name of the underlying physical parameter.",
     "created": "2024-09-05T10:18:30.000Z",
     "data-protection-consent": true,
     "description": "",
     "edited-by-author-teams": "",
     "justification-for-inclusion": "Gravity wave momentum fluxes are the key quantity within the gravity wave parameterization schemes. Their divergence results to the drag on the background flow. Also, they are much easier comparable to observations than the drags themselves.\n",
-    "last-modified-by": "Data Request co-leads",
+    "last-modified-by": "Beth Dingley",
     "name": "tauunogw",
     "name-validation": 1,
     "processing-comment": "",
