@@ -598,11 +598,11 @@
     {
         "Title":"prhmax should be a single level (surface) field only",
         "Comment":"Currently the prhmax fields (Emon.prhmax, Eday.prhmax) are set as a Global Field (model levels) for Structure Title, but we think that it should be temporal maximum rainfall flux at surface, to make it clear that it is just a single level required rather than vertical levels. \n\nThe description of these two variables also need to be made consistent with the field and each other.\n",
-        "Status":"In progress",
+        "Status":"Done",
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"Spatial shape, temporal shape and cell methods adjusted,\n",
         "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
         "GitHub Issue number":"",

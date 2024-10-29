@@ -129,7 +129,8 @@ shrub
 recti5HCQ8d3UmJqt,prhmax should be a single level (surface) field only,"Currently the prhmax fields (Emon.prhmax, Eday.prhmax) are set as a Global Field (model levels) for Structure Title, but we think that it should be temporal maximum rainfall flux at surface, to make it clear that it is just a single level required rather than vertical levels. 
 
 The description of these two variables also need to be made consistent with the field and each other.
-",In progress,['Atmosphere'],,,,,,
+",Done,['Atmosphere'],"Spatial shape, temporal shape and cell methods adjusted,
+",,,,,
 recuKOxbsw9Sh0Iqz,Emon.albsrfc to be added to variable group paleo_land_atmosphere_surface,"Emon.albsrfc to be added to variable group paleo\_land\_atmosphere\_surface
 ",New,"['Atmosphere', 'Ocean & Sea-Ice', 'Land & Land-Ice', 'Earth system']",,,,,,
 recwAcTjm5B1Ga5e2,Adding flag_values and flag_meanings,"The variable Ofx.basin in the CMIP6 data request (also in CMIP5 standard output) had flag\_values and flag\_meanings specified. These were listed in the ""Structure"" record. Ofx.basin is the only CMIP6 variable that uses these CF terms. As the structure record is not being used to define variables in CMIP7, we need to move the information somewhere else. This potentially means adding one or two columns in one of the Air TAble tables. 
