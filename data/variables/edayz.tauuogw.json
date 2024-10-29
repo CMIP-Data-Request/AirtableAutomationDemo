@@ -4,9 +4,9 @@
     "brand-(dr)-[link]": "twm-p39-hy-amna",
     "brand-(wip)-[link]": "tavg-p39-hy-x",
     "cf-standard-name": {
-        "@id": "cf:standard-name/"
+        "@id": "cf:standard-name/upward_eastward_momentum_flux_in_air_due_to_orographic_gravity_waves"
     },
-    "cf-standard-name-exists": false,
+    "cf-standard-name-exists": true,
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.tauuogw",
     "description": "Zonal mean of the vertical flux of zonal momentum within the orographic GW parameterization\n",

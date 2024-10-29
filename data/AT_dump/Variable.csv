@@ -3423,7 +3423,7 @@ recby6boPG7Yuwu7t,AERmonZ.n2o,mole_fraction_of_nitrous_oxide_in_air,Mole Fractio
 ",real,['aerosol'],['AERmonZ'],['mon'],CMIP6 CMOR variable,,,aerchemmip_2dZ_monthly,fda67476-96ec-11e6-b81e-c9e268aff03a,tavg-p39-hy-x,twm-p39-hy-zmeana,1159,,AERmonZ ((isd.003)),,['CMIP5'],1312,1574,1159,,,,,,,,,,,,,
 recc1e8ktxFu1bTq5,SImon.sidmassdyn,tendency_of_sea_ice_amount_due_to_sea_ice_dynamics,Sea-Ice Mass Change from Dynamics,"Total change in sea-ice mass through dynamics-related processes (advection,...) divided by grid-cell area
 ",real,['seaIce'],['SImon'],['mon'],CMIP6 CMOR variable,,,"seaice_budget_mass_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",711e3862-faa7-11e6-bfb7-ac72891c3257,tavg-z0-hxy-sea,tmn-z0-hxy-amns,290,,SIMIP [seaicemon],['SIMIP'],,578,942,290,,,,,,,,,,,,,
-recc3QJhpUQRt9qjs,Emon.tauuogw,,Westward Reynolds stress from orographic gravity wave parameterization,"The vertical flux of zonal momentum within the orographic GW parameterization.
+recc3QJhpUQRt9qjs,Emon.tauuogw,upward_eastward_momentum_flux_in_air_due_to_orographic_gravity_waves,Westward Reynolds stress from orographic gravity wave parameterization,"The vertical flux of zonal momentum within the orographic GW parameterization.
 ",real,['atmos'],['Emon'],['mon'],Under review,['Atmosphere'],In progress,dynvar_advanced,83bbfc85-7f07-11ef-9308-b1dd71e64bec,tavg-p19-hxy-x,twm-p19-hxy-amna,,,,,,,,,,,,,In progress,,,,,,,,
 recc4yr8vkYLNEkkv,day.hursmax,relative_humidity,Daily Maximum Near-Surface Relative Humidity,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.
 ",real,['atmos'],['day'],['day'],CMIP6 CMOR variable,,,"AgModelExpandedDaily, AgWaterCore, AgWaterExt, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CFMIP_baseline",5a071ff2-c77d-11e6-8a33-5404a60d96b5,tstat-h02-hxy-x,tmax-h02-hxy-amn,144,"normally report this at 2 meters above the surface
@@ -4254,7 +4254,7 @@ recmZNRU8eTOFpEiD,Omon.nh4,mole_concentration_of_ammonium_in_sea_water,Dissolved
 ",Omon ((isd.003)),"['C4MIP', 'DCPP', 'OMIP']",['CMIP'],610,101,692,,,['CMIP5'],,,,,,,,,,
 recma4pOTwmwj3itd,CFmon.tnt,tendency_of_air_temperature,Tendency of Air Temperature,"Tendency of Air Temperature
 ",real,['atmos'],['CFmon'],['mon'],CMIP6 CMOR variable,,,"cfmip_monthly, radiativeforcing_monthly, CFMIP_baseline",baba4b30-e5dd-11e5-8482-ac72891c3257,tavg-l-hxy-x,twm-al-hxy-amn,160,,CFmon ((isd.003)),,"['CMIP5', 'PMIP']",615,160,440,,,,,,,,,,,,,
-recmbIkFWyQIsFnXu,EdayZ.tauuogw,,Zonal mean westward Reynolds stress from orographic gravity wave parameterization,"Zonal mean of the vertical flux of zonal momentum within the orographic GW parameterization
+recmbIkFWyQIsFnXu,EdayZ.tauuogw,upward_eastward_momentum_flux_in_air_due_to_orographic_gravity_waves,Zonal mean westward Reynolds stress from orographic gravity wave parameterization,"Zonal mean of the vertical flux of zonal momentum within the orographic GW parameterization
 ",real,['atmos'],['EdayZ'],['day'],Under review,['Atmosphere'],In progress,dynvar_basic,83bbfc8c-7f07-11ef-9308-b1dd71e64bec,tavg-p39-hy-x,twm-p39-hy-amna,,,,,,,,,,,,,,,,,,,,,
 recmbkfHdpYCSlYDw,Oday.intpoc,ocean_mass_content_of_particulate_organic_matter_expressed_as_carbon,Particulate Organic Carbon Content,"Vertically integrated POC
 ",real,['ocnBgchem'],['Oday'],['day'],New,['Earth System'],,biodiv_marine_daily,527f5cc6-8c97-11ef-944e-41a8eb05f654,tavg-z0-hxy-sea,tmn-z0-hxy-amndss,,,,,,,,,,,,,,,,,,,,,
