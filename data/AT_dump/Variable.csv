@@ -3230,7 +3230,7 @@ reca4pmnzHDoCaqOm,ImonGre.litempbotgr,land_ice_basal_temperature,Basal Temperatu
 reca5L8OFm0kQQuwy,CF3hr.ts,surface_temperature,Surface Temperature,"Surface temperature (skin for open ocean)
 ",real,['atmos'],['CF3hr'],['3hrPt'],CMIP6 CMOR variable,,,"cfmip_3hr, transport_impacts_essential",7b309c62-a220-11e6-a33f-ac72891c3257,tpt-z0-hxy-x,tpt-z0-hxy-amn,562,,RFMIP [aero_irf],,"['CFMIP', 'RFMIP']",1145,562,692,,,,,,,,,,,,,
 reca5hubf5YOToB4M,6hrPlev.prhmax,precipitation_flux,Maximum Hourly Precipitation Rate,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics.
-",real,['atmos'],['6hrPlev'],['6hr'],CMIP6 CMOR variable,,,DCPP_Wider,9104b268-267c-11e7-8933-ac72891c3257,ti-l-hxy-x,,675,,DCPP [DCPP-6hr],,,1356,675,1681,,,['DCPP'],,,,,,,,,,
+",real,['atmos'],['6hrPlev'],['6hr'],CMIP6 CMOR variable,,,DCPP_Wider,9104b268-267c-11e7-8933-ac72891c3257,ti-l-hxy-x,tmax-z0-hxy-amn,675,,DCPP [DCPP-6hr],,,1356,675,1681,,,['DCPP'],,,,,,,,,,
 reca5l9Sag5sCWA71,SIday.sitemptop,sea_ice_surface_temperature,Surface Temperature of Sea Ice,"Report surface temperature of snow where snow covers the sea ice.
 ",real,['seaIce'],['SIday'],['day'],CMIP6 CMOR variable,,,"seaice_state_daily_basic, seaice_state_daily_advanced, seaice_budget_energy_daily, DCPP_Wider, seaice_gcos_ecv",d243c692-4a9f-11e6-b84e-ac72891c3257,tavg-z0-hxy-si,twm-z0-hxy-amnsi,264,,SIMIP [seaiceday],,['SIMIP'],501,435,264,,,['DCPP'],,,,,,,,,,
 reca61NxQFHP1zq95,AERday.zg1000,geopotential_height,Geopotential Height at 1000hPa,"Geopotential height on the 1000 hPa surface
