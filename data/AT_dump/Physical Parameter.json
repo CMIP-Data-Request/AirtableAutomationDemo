@@ -14028,6 +14028,45 @@
         "CF Standard Name Proposal Accepted":""
     },
     {
+        "Name":"tauunowgw",
+        "Title":"Eastward Reynolds stress from non-orographic westward gravity wave parameterization",
+        "CF Standard Name":"upward_eastward_momentum_flux_in_air_due_to_nonorographic_westward_gravity_waves",
+        "Units":"Pa",
+        "UID":"",
+        "Provenance":"",
+        "Name Validation":1,
+        "Status":"Under review",
+        "CMOR Variables":[
+            "recs70hJDLbWXosQL",
+            "rec7IsIwWmiaqAMld"
+        ],
+        "Description":"",
+        "is alias (from CF Standard Name)":"0 checked out of 1",
+        "Created":"2024-10-30T11:49:41.000Z",
+        "Last Modified By":"Beth Dingley",
+        "Atmosphere team review status":"In progress",
+        "Tagged author team":[
+            "Atmosphere"
+        ],
+        "Data protection consent":true,
+        "Proposer name":"DynVarMIP",
+        "Proposer email":"petr.sacha@matfyz.cuni.cz",
+        "Justification for inclusion":"Gravity wave momentum fluxes are the key quantity within the gravity wave parameterization schemes. Their divergence results to the drag on the background flow. Also, they are much easier comparable to observations than the drags themselves.\n",
+        "Atmosphere team review status copy 4":"",
+        "Processing Note":"",
+        "Proposed CF Standard Name":"",
+        "Proposed CF Standard Name Description":"https:\/\/github.com\/cf-convention\/vocabularies\/issues\/217",
+        "Processing Comment":"",
+        "Atmosphere review comments copy":"",
+        "Comments":"Change in the name of the underlying physical parameter.",
+        "Edited by author teams":"",
+        "Atmosphere team review status copy 2":"",
+        "Atmosphere team review status copy 5":"",
+        "Atmosphere team review status copy 6":"",
+        "Atmosphere review comments":"",
+        "CF Standard Name Proposal Accepted":""
+    },
+    {
         "Name":"zvelbase",
         "Title":"Upward Component of Land-Ice Basal Velocity",
         "CF Standard Name":"land_ice_basal_upward_velocity",
@@ -48721,9 +48760,9 @@
         "CF Standard Name Proposal Accepted":""
     },
     {
-        "Name":"tauunogw",
-        "Title":"Westward Reynolds stress from non-orographic gravity wave parameterization",
-        "CF Standard Name":"",
+        "Name":"tauunoegw",
+        "Title":"Eastward Reynolds stress from non-orographic eastward gravity wave parameterization",
+        "CF Standard Name":"upward_eastward_momentum_flux_in_air_due_to_nonorographic_eastward_gravity_waves",
         "Units":"Pa",
         "UID":"f86eb6dc-8ca1-11ef-944e-41a8eb05f654",
         "Provenance":"",
@@ -48734,7 +48773,7 @@
             "recM751gnxTnyb1IR"
         ],
         "Description":"",
-        "is alias (from CF Standard Name)":"",
+        "is alias (from CF Standard Name)":"0 checked out of 1",
         "Created":"2024-09-05T10:18:30.000Z",
         "Last Modified By":"Beth Dingley",
         "Atmosphere team review status":"In progress",
@@ -48747,7 +48786,7 @@
         "Justification for inclusion":"Gravity wave momentum fluxes are the key quantity within the gravity wave parameterization schemes. Their divergence results to the drag on the background flow. Also, they are much easier comparable to observations than the drags themselves.\n",
         "Atmosphere team review status copy 4":"",
         "Processing Note":"",
-        "Proposed CF Standard Name":"Westward Reynolds stress from non-orographic gravity wave parameterization",
+        "Proposed CF Standard Name":"",
         "Proposed CF Standard Name Description":"https:\/\/github.com\/cf-convention\/vocabularies\/issues\/217",
         "Processing Comment":"",
         "Atmosphere review comments copy":"",

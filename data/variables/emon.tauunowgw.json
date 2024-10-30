@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/emon.tauunowgw",
+    "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p19-hxy-amna",
+    "brand-(wip)-[link]": "tavg-p19-hxy-x",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/upward_eastward_momentum_flux_in_air_due_to_nonorographic_westward_gravity_waves"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "dynvar_advanced",
+    "compound-name": "Emon.tauunowgw",
+    "description": "Vertical flux of zonal momentum within the non-orographic westward GW parameterization.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "Emon"
+    ],
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "Eastward Reynolds stress from non-orographic westward gravity wave parameterization ",
+    "type": "real",
+    "uid": "",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "In progress",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "@id": "dr:data/physical-parameter/tauunowgw",
+    "@type": "dr:variable",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/0 checked out of 1"
+    },
+    "cf-standard-name-exists": false,
+    "cmor-variables": [
+        {
+            "@id": "dr:variables/edayz.tauunowgw"
+        },
+        {
+            "@id": "dr:variables/emon.tauunowgw"
+        }
+    ],
+    "comments": "Change in the name of the underlying physical parameter.",
+    "created": "2024-10-30T11:49:41.000Z",
+    "data-protection-consent": true,
+    "description": "",
+    "edited-by-author-teams": "",
+    "justification-for-inclusion": "Gravity wave momentum fluxes are the key quantity within the gravity wave parameterization schemes. Their divergence results to the drag on the background flow. Also, they are much easier comparable to observations than the drags themselves.\n",
+    "last-modified-by": "Beth Dingley",
+    "name": "tauunowgw",
+    "name-validation": 1,
+    "processing-comment": "",
+    "processing-note": "",
+    "proposer-email": "petr.sacha@matfyz.cuni.cz",
+    "proposer-name": "DynVarMIP",
+    "provenance": "",
+    "status": "Under review",
+    "tagged-author-team": [
+        "Atmosphere"
+    ],
+    "title": "Eastward Reynolds stress from non-orographic westward gravity wave parameterization",
+    "uid": "",
+    "units": "Pa",
+    "review": {
+        "atmosphere-review-comments": "",
+        "atmosphere-review-comments-copy": "",
+        "atmosphere-team-review-status": "In progress",
+        "atmosphere-team-review-status-copy-2": "",
+        "atmosphere-team-review-status-copy-4": "",
+        "atmosphere-team-review-status-copy-5": "",
+        "atmosphere-team-review-status-copy-6": ""
+    }
+}

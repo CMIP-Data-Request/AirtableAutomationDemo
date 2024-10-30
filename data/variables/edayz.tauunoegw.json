@@ -1,0 +1,61 @@
+{
+    "@id": "dr:data/variables/edayz.tauunoegw",
+    "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-p39-hy-amna",
+    "brand-(wip)-[link]": "tavg-p39-hy-x",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/upward_eastward_momentum_flux_in_air_due_to_nonorographic_eastward_gravity_waves"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "dynvar_basic",
+    "compound-name": "EdayZ.tauunoegw",
+    "description": "Zonal mean vertical wave flux of zonal momentum within the non-orographic eastward GW parameterization.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/day"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "",
+    "status": "Under review",
+    "table": [
+        "EdayZ"
+    ],
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "Zonal mean eastward Reynolds stress from non-orographic eastward gravity wave parameterization ",
+    "type": "real",
+    "uid": "83bbfc8d-7f07-11ef-9308-b1dd71e64bec",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "In progress",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

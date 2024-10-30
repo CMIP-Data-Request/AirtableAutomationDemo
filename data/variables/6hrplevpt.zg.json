@@ -35,7 +35,7 @@
     "review": {
         "atmosphere-author-team-review": "",
         "atmosphere-review-comment": "",
-        "cross-thematic-group-review-comment": "",
+        "cross-thematic-group-review-comment": "This variable is anomalously requested on 27 levels: other 6hrPlevPt atmospheric variables are requested on 3 pressure levels. Adjusted to be consistent [MJ, 30th Oct]",
         "cross-thematic-team-review": "",
         "earth-system-author-team-review": "",
         "impacts-&-adaptation-author-team-review": "",
