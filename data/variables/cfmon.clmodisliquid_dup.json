@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "CFMIP_cosp_extra",
+    "cmip7-variable-groups": "CFMIP_cosp_extra, radiativeforcing_monthly",
     "compound-name": "CFmon.clmodisliquid_dup",
     "description": "Percentage liquid-cloud cover as seen by the MODIS instrument simulator. Dimensions of LWP (cloud liquid water path) and r\\_eff (droplet effective radius).\n",
     "frequency": [
