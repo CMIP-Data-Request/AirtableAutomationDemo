@@ -9,7 +9,7 @@
     "cf-standard-name-exists": true,
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.tauunowgw",
-    "description": "Zonal mean vertical wave flux of zonal momentum within the non-orographic westward GW parameterization.\n",
+    "description": "Zonal mean vertical wave flux of zonal momentum within the non-orographic GW parameterization associated with the westward propagating modes.\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/day"

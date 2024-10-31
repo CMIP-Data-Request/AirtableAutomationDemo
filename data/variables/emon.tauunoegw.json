@@ -9,7 +9,7 @@
     "cf-standard-name-exists": true,
     "cmip7-variable-groups": "dynvar_advanced",
     "compound-name": "Emon.tauunoegw",
-    "description": "Vertical flux of zonal momentum within the non-orographic eastward GW parameterization.\n",
+    "description": "Vertical flux of zonal momentum within the non-orographic GW parameterization associated with the eastward propagating modes.\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/mon"
