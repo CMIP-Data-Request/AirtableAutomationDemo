@@ -9,7 +9,7 @@
     "cf-standard-name-exists": false,
     "cmip7-variable-groups": "radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",
     "compound-name": "CFmon.clmodisliquid",
-    "description": "Percentage liquid-cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the samed used by clisccp (ISCCP simulator).\n",
+    "description": "Percentage liquid-cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the same used by clisccp (ISCCP simulator).\n",
     "frequency": [
         {
             "@id": "mip-cmor-tables:auxillary/frequency/mon"

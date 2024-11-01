@@ -7,8 +7,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -20,9 +20,9 @@
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"The github discussion resolves that changes in dimensions are not needed, but there will be new standard names. [MJ]\n",
+        "GitHub Issue URL":"https:\/\/github.com\/cf-convention\/vocabularies\/issues\/52#issuecomment-2255972930",
         "Coordinates and Dimensions":"",
-        "GitHub Issue URL":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -35,8 +35,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -50,8 +50,8 @@
             "Earth system"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -67,8 +67,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -81,8 +81,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"plev19",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/20",
+        "Coordinates and Dimensions":"plev19",
         "GitHub Issue number":"20",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -95,8 +95,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/29",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"29",
         "Spatial Shape":"Global field (19 pressure levels), Global field (7 pressure levels), Global field (16 altitudes)",
         "Temporal Shape":""
@@ -111,8 +111,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -127,8 +127,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -144,8 +144,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -153,13 +153,13 @@
     {
         "Title":"Consistent calendar",
         "Comment":"In CMIP5 and CMIP6, models utilize various calendars, such as the 365-day, 366-day, 360-day, and Julian calendar, for daily and monthly data. This diversity introduces challenges in pre-processing the data before it can be effectively used for daily analyses.\n",
-        "Status":"In progress",
+        "Status":"Won't do",
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
+        "Data Request Actions":"This is out of scope for the data request [MJ]\n",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -172,8 +172,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"olayer100m, depth0m, depth100m, depth300m, depth700m, depth2000m",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/24",
+        "Coordinates and Dimensions":"olayer100m, depth0m, depth100m, depth300m, depth700m, depth2000m",
         "GitHub Issue number":"24",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -188,8 +188,8 @@
             "CF Working Group"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":"time-point, time-intv"
@@ -202,8 +202,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"Accepted\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/28",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"28",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -216,8 +216,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -230,8 +230,8 @@
             "Land & Land-Ice"
         ],
         "Data Request Actions":"Removed 'grounded' from string. [MJ, 17 July]\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -242,8 +242,8 @@
         "Status":"Done",
         "Author teams to alert":"",
         "Data Request Actions":"Changed\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -254,8 +254,8 @@
         "Status":"Done",
         "Author teams to alert":"",
         "Data Request Actions":"co-leads MJ : reassign temporal shape in variables records and update linked structures. \n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"https:\/\/github.com\/cmip6dr\/cmip7_forward_look\/issues\/48",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -268,8 +268,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -282,8 +282,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -296,8 +296,8 @@
             "Land & Land-Ice"
         ],
         "Data Request Actions":"Proposed changes accepted\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/27",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"27",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -310,8 +310,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -322,8 +322,8 @@
         "Status":"Done",
         "Author teams to alert":"",
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -339,8 +339,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -354,8 +354,8 @@
             "Impacts & Adaptation"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"Global field (single level)",
         "Temporal Shape":""
@@ -368,8 +368,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"BD moved comment to Physical Parameters table\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -377,7 +377,7 @@
     {
         "Title":"Adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline_daily group",
         "Comment":"I recommend adding\u00a0RLUS, RLDS, RSDS, HFLS, and HFSS to baseline\\_daily group in order to facilitate studies were the surface energy budget needs closed at a daily level, which included understanding the drivers of Polar Amplification. \n",
-        "Status":"In progress",
+        "Status":"Won't do",
         "Author teams to alert":[
             "Ocean & Sea-Ice",
             "Land & Land-Ice",
@@ -385,8 +385,8 @@
             "CF Working Group"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"Global field (single level)",
         "Temporal Shape":""
@@ -399,8 +399,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -413,8 +413,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -425,8 +425,8 @@
         "Status":"In progress",
         "Author teams to alert":"",
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -440,8 +440,8 @@
             "Earth system"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"Global field (single level)",
         "Temporal Shape":""
@@ -454,8 +454,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -471,8 +471,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -488,8 +488,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"Done\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":"time-intv"
@@ -505,8 +505,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -519,8 +519,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -533,8 +533,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/31",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"31",
         "Spatial Shape":"Global mean or constant",
         "Temporal Shape":""
@@ -547,8 +547,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -561,8 +561,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"MJ 6 Sep 9:58: delete version which is defined as \"non-orgraphic\", leaving the correct version (\"orographic\").\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -575,8 +575,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -589,8 +589,8 @@
             "Land & Land-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"vegtype",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/21",
+        "Coordinates and Dimensions":"vegtype",
         "GitHub Issue number":"21",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -603,8 +603,8 @@
             "Atmosphere"
         ],
         "Data Request Actions":"Spatial shape, temporal shape and cell methods adjusted,\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -620,8 +620,8 @@
             "Earth system"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -634,8 +634,8 @@
             "CF Working Group"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -646,8 +646,8 @@
         "Status":"Done",
         "Author teams to alert":"",
         "Data Request Actions":"Title changed to be consistent with mask: \"Fixed Area Mean over Ice Sheets\"  [MJ, 17th July)\n",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -660,8 +660,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -674,8 +674,8 @@
             "Ocean & Sea-Ice"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
@@ -688,8 +688,8 @@
             "Earth system"
         ],
         "Data Request Actions":"",
-        "Coordinates and Dimensions":"",
         "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"",
         "Temporal Shape":""
