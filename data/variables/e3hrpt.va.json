@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/northward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "landatm-coupling_3hr_medium",
     "compound-name": "E3hrPt.va",
     "description": "Northward wind on pressure levels\n",
     "frequency": [
