@@ -317,6 +317,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"aerosol variables with incorrect dimensions and cell methods",
+        "Comment":"In CMIP6 these variables were on model levels and had the lambda550nm coordinate attached, i.e. expected dimensions are \"longitude latitude alevel time lambda550nm\"\n\nThe cell\\_methods is currently \" area: mean where crops time: minimum within days time: mean over days\", which is clearly incorrect for aerosol scattering\/extinction data\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Increase levels of EdayZ variables to 39 levels",
         "Comment":"Following a request from DynVarMIP to increase the number of levels for Edayz.ta, for consistency the variables hus, va, ta, and zg were all changed to 39 levels. All variables in the EdayZ table are now on 39 levels.\n",
         "Status":"Done",
@@ -618,6 +632,20 @@
             "Ocean & Sea-Ice",
             "Land & Land-Ice",
             "Earth system"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"3hrPt.bldep dimensions garbled",
+        "Comment":"The dimensions for this variable are \" longitude, latitude, time1, latitude, longitude, depth0m\" rather than the expected  \"longitude, latitude, time1\"\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere"
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",

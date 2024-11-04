@@ -59,6 +59,10 @@ recVpsn2pIh3Dvc6c,Inconsistency between Eday and LImon agesno (Age of Snow),"The
 ",https://github.com/CMIP-Data-Request/Harmonised-Consultation-Phase-1/issues/27,,27,,
 recVud5MIKX02xlbk,Addition of a stratosphere-only 550 OD,"od550so4 only mentions ""ambient"" aerosols: however, this makes the role of stratospheric sulfate (either from volcanoes, for models with interactive aerosols, or from geoengineering experiments - which are in the FastTrack) unclear. It would be useful at this point to separate AOD between od550aer and an od550aerso for the stratosphere (such a variable existed in CMIP6, but was not high priority)
 ",In progress,['Atmosphere'],,,,,,
+recW2I12jiXyOKjlw,aerosol variables with incorrect dimensions and cell methods,"In CMIP6 these variables were on model levels and had the lambda550nm coordinate attached, i.e. expected dimensions are ""longitude latitude alevel time lambda550nm""
+
+The cell\_methods is currently "" area: mean where crops time: minimum within days time: mean over days"", which is clearly incorrect for aerosol scattering/extinction data
+",New,['Atmosphere'],,,,,,
 recX8NUXi2lgkihYa,Increase levels of EdayZ variables to 39 levels,"Following a request from DynVarMIP to increase the number of levels for Edayz.ta, for consistency the variables hus, va, ta, and zg were all changed to 39 levels. All variables in the EdayZ table are now on 39 levels.
 ",Done,,,,,,,
 recd6DlHdYZNiTzyO,definition of various albedo metrics to be discussed / potentially updated,"The idea of these variables is to gather information on the albedo of the ice- or snow-covered surface (for both land and ocean) - this means that if a grid cell is partly covered by ice or by snow, the value should be computed only on the part of the snow or ice cover, respectively, ignoring albedo of the remainder of the land surface. We may therefore have to update the cell measures accordingly.
@@ -135,6 +139,8 @@ The description of these two variables also need to be made consistent with the 
 ",,,,,
 recuKOxbsw9Sh0Iqz,Emon.albsrfc to be added to variable group paleo_land_atmosphere_surface,"Emon.albsrfc to be added to variable group paleo\_land\_atmosphere\_surface
 ",New,"['Atmosphere', 'Ocean & Sea-Ice', 'Land & Land-Ice', 'Earth system']",,,,,,
+recvr4Ew96La0XLUW,3hrPt.bldep dimensions garbled,"The dimensions for this variable are "" longitude, latitude, time1, latitude, longitude, depth0m"" rather than the expected  ""longitude, latitude, time1""
+",New,['Atmosphere'],,,,,,
 recwAcTjm5B1Ga5e2,Adding flag_values and flag_meanings,"The variable Ofx.basin in the CMIP6 data request (also in CMIP5 standard output) had flag\_values and flag\_meanings specified. These were listed in the ""Structure"" record. Ofx.basin is the only CMIP6 variable that uses these CF terms. As the structure record is not being used to define variables in CMIP7, we need to move the information somewhere else. This potentially means adding one or two columns in one of the Air TAble tables. 
 
 1. Add ""Flag Values"" and ""Flag Meanings"" columns in the ""Physical Parameter"" table. These columns would be blank for all other variables, but it is easy to implement.  
