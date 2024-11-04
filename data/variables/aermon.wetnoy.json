@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/minus_tendency_of_atmosphere_mass_content_of_noy_expressed_as_nitrogen_due_to_wet_deposition"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, dynamical_downscaling_ocean_air_sea_biogeochemistry_forcing",
     "compound-name": "AERmon.wetnoy",
     "description": "NOy is the sum of all simulated oxidized nitrogen species, out of NO, NO2, HNO3, HNO4, NO3aerosol, NO3(radical), N2O5, PAN, other organic nitrates.\n",
     "frequency": [

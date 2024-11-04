@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/eastward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cowclip_wind_wave_variables, surgemip_variables, impacts_climserv_hourly_core, urban_impacts_additional",
+    "cmip7-variable-groups": "cowclip_wind_wave_variables, surgemip_variables, impacts_climserv_hourly_core, urban_impacts_additional, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "E1hr.uas",
     "description": "**uas:** eastward component\u00a0of wind at 10 meters above the surface. It measures wind speed in the east-west direction (positive values indicate wind blowing toward the east).\n",
     "frequency": [

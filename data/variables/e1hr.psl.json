@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/air_pressure_at_mean_sea_level"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "surgemip_variables, impacts_climserv_hourly_expanded",
+    "cmip7-variable-groups": "surgemip_variables, impacts_climserv_hourly_expanded, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "E1hr.psl",
     "description": "Sea level pressure\n",
     "frequency": [

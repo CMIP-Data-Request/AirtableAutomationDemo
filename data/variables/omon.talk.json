@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/sea_water_alkalinity_expressed_as_mole_equivalent"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, Ocean_acidification_oxygen_extremes",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, Ocean_acidification_oxygen_extremes, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.talk",
     "description": "total alkalinity equivalent concentration (including carbonate, borate, phosphorus, silicon, and nitrogen components)\n",
     "frequency": [

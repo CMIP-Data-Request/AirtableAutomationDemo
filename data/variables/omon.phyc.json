@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_concentration_of_phytoplankton_expressed_as_carbon_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
+    "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.phyc",
     "description": "sum of phytoplankton carbon component concentrations.  In most (all?) cases this is the sum of phycdiat and phycmisc (i.e., \"Diatom Carbon Concentration\" and \"Non-Diatom Phytoplankton Carbon Concentration\"\n",
     "frequency": [

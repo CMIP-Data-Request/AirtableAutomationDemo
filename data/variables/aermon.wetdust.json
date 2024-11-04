@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/minus_tendency_of_atmosphere_mass_content_of_dust_dry_aerosol_particles_due_to_wet_deposition"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, dynamical_downscaling_ocean_air_sea_biogeochemistry_forcing",
     "compound-name": "AERmon.wetdust",
     "description": "Surface deposition rate of dust (dry mass) due to wet processes\n",
     "frequency": [

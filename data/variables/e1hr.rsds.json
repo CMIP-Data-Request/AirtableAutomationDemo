@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_downwelling_shortwave_flux_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "AgModelHourly, impacts_climserv_hourly_core, urban_impacts_additional, biodiv_microclim_hourly",
+    "cmip7-variable-groups": "AgModelHourly, impacts_climserv_hourly_core, urban_impacts_additional, biodiv_microclim_hourly, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "E1hr.rsds",
     "description": "Hourly downward solar radiation flux at the surface\n",
     "frequency": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mass_concentration_of_miscellaneous_phytoplankton_expressed_as_chlorophyll_in_sea_water"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_ocean_carbon_cycle_tier2",
+    "cmip7-variable-groups": "c4mip_ocean_carbon_cycle_tier2, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.chlmisc",
     "description": "chlorophyll from additional phytoplankton component concentrations alone\n",
     "frequency": [

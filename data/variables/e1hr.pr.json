@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/precipitation_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_subdaily, AgModelHourly, impacts_climserv_hourly_core, urban_impacts_additional, HealthPollutionhourly, biodiv_microclim_hourly, WaterResources_subdaily, hydro_modelling_subdaily",
+    "cmip7-variable-groups": "baseline_subdaily, AgModelHourly, impacts_climserv_hourly_core, urban_impacts_additional, HealthPollutionhourly, biodiv_microclim_hourly, WaterResources_subdaily, hydro_modelling_subdaily, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "E1hr.pr",
     "description": "Total precipitation flux\n",
     "frequency": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "impacts_climserv_hourly_core",
+    "cmip7-variable-groups": "impacts_climserv_hourly_core, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "E1hr.huss",
     "description": "Synoptic Near-Surface Field (2m)\n",
     "frequency": [

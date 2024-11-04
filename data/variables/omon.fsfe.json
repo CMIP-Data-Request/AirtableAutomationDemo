@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tendency_of_ocean_mole_content_of_iron_due_to_deposition_and_runoff_and_sediment_dissolution"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "",
+    "cmip7-variable-groups": "dynamical_downscaling_ocean_air_sea_biogeochemistry_forcing",
     "compound-name": "Omon.fsfe",
     "description": "Iron supply through deposition flux onto sea surface, runoff, coasts, sediments, etc\n",
     "frequency": [
