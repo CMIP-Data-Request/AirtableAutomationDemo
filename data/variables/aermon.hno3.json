@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_fraction_of_nitric_acid_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_3d_monthly",
+    "cmip7-variable-groups": "aerchemmip_3d_monthly, dynamical_downscaling_aerosols_chemistry",
     "compound-name": "AERmon.hno3",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
     "frequency": [

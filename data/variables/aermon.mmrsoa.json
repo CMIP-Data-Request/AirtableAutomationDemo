@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mass_fraction_of_secondary_particulate_organic_matter_dry_aerosol_particles_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, dynamical_downscaling_aerosols_chemistry",
     "compound-name": "AERmon.mmrsoa",
     "description": "Mass fraction in the atmosphere of secondary organic aerosols (particulate organic matter formed within the atmosphere from gaseous precursors; dry mass).\n",
     "frequency": [
