@@ -40,14 +40,20 @@ recHIBzmnOqjL1PdW,Air Pressure at Convective Cloud Base,"cell\_methods should in
 MJ: accepted, but does not apply to instantaneous values.
 ",Done,['Atmosphere'],"Accepted
 ",https://github.com/CMIP-Data-Request/Harmonised-Consultation-Phase-1/issues/28,,28,,
+recHaKHtQwwKhD8cE,Missing wavelength coordinate?,"There are a number of variables which relate to radiation at particular wavelengths. Some of these have a lambda550nm coordinate, some do not. For consistency is it worth attaching one of lambda550nm, lambda440nm, lambda870nmto these variables?
+",New,"['Atmosphere', 'Earth system']",,,lambda550nm,,,
 recLi3Dsi3FEHdL7f,provide Oyr.opottemptend as a decadal variable Odec.opottemptend,"Oyr.opottemptend enables monitoring the heat content in the ocean in a spatially resolved manner. This variable is currently requested by opportunity ID.51. Decadal information would be sufficient for that purpose and would reduce requested data volume to one-tenth, but such a variable would have to be defined.
 ",New,['Ocean & Sea-Ice'],,,,,,
 recONbhbzjml2jK6H,Ice Sheet cell methods error,"The ""area: mean where ice\_sheet"" cell methods string has a title referring to \*\*grounded ice sheets\*\*.
 ",Done,['Land & Land-Ice'],"Removed 'grounded' from string. [MJ, 17 July]
 ",,,,,
+recQjp0xiCmE0uREK,Ocean dimensions in atmosphere variable,"This variable includes dimensions ""olevhalf"" and ""time2"". I suspect that this is a surface variable, but it would be good to confirm whether this is wanted as a climatology (time2 implies this) 
+",New,['Earth system'],,,,,,
 recRRKc3KsrcYrLTo,Change '--' notation in cell measures ,"These three cell measures are indicated with two dashes in their name, this creates issues when exporting the database to excel format. Update names to have two colons instead of two dashes (e.g. ::UGRID instead of --UGRID)
 ",Done,,"Changed
 ",,,,,
+recSPzmsE5jXzme8M,incorrect dimensions on tasmaxCrop,"This variable is a surface variable, but has the alevel dimension and lambda550nm coordinate. Cell methods need checking too
+",New,"['Land & Land-Ice', 'Impacts & Adaptation']",,,,,,
 recSUbe58BCOEY10o,Variables tasmax and tasmin should use a climatology time axis,"Variables tasmax and tasmin should use a climatology time axis but were assigned the time mean axis: see https://github.com/cmip6dr/cmip7\_forward\_look/issues/48
 ",Done,,"co-leads MJ : reassign temporal shape in variables records and update linked structures. 
 ",https://github.com/cmip6dr/cmip7_forward_look/issues/48,,,,
@@ -89,8 +95,12 @@ upward_northward_momentum_flux_in_air_due_to_nonorographic_gravity_waves
 
 ",Done,['Atmosphere'],"BD moved comment to Physical Parameters table
 ",,,,,
+recgVanzd8TEzLTUW,Review of cloud simulator terms,"CMIP6 included output from ISCCP and MISR simulators. MODIS will be added in CMIP7. [Discussion of standard names](https://github.com/cf-convention/vocabularies/issues/52) has revealed errors in the usage of standard names in CMIP6 which need to be corrected. The key issue is that the satellites do not see liquid water path and ice water path: rather, they see liquid water path of ice-topped cloud and liquid water path of liquid-topped clouds.
+",In progress,['Atmosphere'],,,"tau, plev7c",undefined,,
 recgZbGDl0E6GlYT9,"Adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline_daily group","I recommend adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline\_daily group in order to facilitate studies were the surface energy budget needs closed at a daily level, which included understanding the drivers of Polar Amplification. 
 ",Won't do,"['Ocean & Sea-Ice', 'Land & Land-Ice', 'Atmosphere', 'CF Working Group']",,,,,Global field (single level),
+recgilLNmogqgIW3d,Poorly described variable,"Difficult to tell if this is correct. If this is the same as the variable in the Eday table then this needs lambda550nm coordinate too.
+",New,['Earth system'],,,,,,
 rechnk5WOkEN4Uxfk,Request for additional information when reporting variable,"For mole fractions of different VOCs (e.g., C2H4), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this request be captured in the data request?
 ",In progress,['Atmosphere'],,,,,,
 rechxH0FNVVqiSxmA,Additional information required for variable C3H6,"For mole fractions of different VOCs (e.g., C3H6), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this information be captured in the data request?
@@ -122,6 +132,8 @@ recnbcHLfeGkBAPMd,Wrong variable Emon.tauuogw,"One of the two variables of the s
 ",,,,,
 recnhU134qNLfKBLk,Correct MIP table for o3inst?,"This 3D tracer is to be sampled on the first day of each month as an instantaneous field. I'm still waiting to hear whether it's a single time point on that day or a diurnal cycle, but it has been currently placed in the AERmon table. Is this the correct table for this variable?
 ",In progress,['Atmosphere'],,,,,,
+recpViRHAOYrgOsSZ,Poor table choice for ocean variable,"This variable appears to be an ocean variable for which the table Amon is not an appropriate choice.  cell\_methods should probably be ""area: mean where sea time:mean"" and cell\_methods should point at areacello rather than areacella
+",New,['Ocean & Sea-Ice'],,,,,,
 recpeaFGKQVAL5B2N,Change vegtype coordinate ,"The vegtype coordinate uses model-specific categories. 
 To improve the inter-comparability among models, it would be useful to introduce a set of general categories.
 Since some ""fraction"" variables are already defined on some vegetation categories, the set of categories to use in vegtype can be derived from that list.
@@ -144,6 +156,8 @@ The description of these two variables also need to be made consistent with the 
 ",,,,,
 recuKOxbsw9Sh0Iqz,Emon.albsrfc to be added to variable group paleo_land_atmosphere_surface,"Emon.albsrfc to be added to variable group paleo\_land\_atmosphere\_surface
 ",New,"['Atmosphere', 'Ocean & Sea-Ice', 'Land & Land-Ice', 'Earth system']",,,,,,
+recvlEsgEzHJRoM0h,Rate of change variables with units that don't include time,"These variables appear to be a change in quantity over a day, but the units are just kg m-2.  This was the same at CMIP6, but should the units be kg m-2 day-1 or similar
+",New,['Land & Land-Ice'],,,,,,
 recvr4Ew96La0XLUW,3hrPt.bldep dimensions garbled,"The dimensions for this variable are "" longitude, latitude, time1, latitude, longitude, depth0m"" rather than the expected  ""longitude, latitude, time1""
 ",New,['Atmosphere'],,,,,,
 recwAcTjm5B1Ga5e2,Adding flag_values and flag_meanings,"The variable Ofx.basin in the CMIP6 data request (also in CMIP5 standard output) had flag\_values and flag\_meanings specified. These were listed in the ""Structure"" record. Ofx.basin is the only CMIP6 variable that uses these CF terms. As the structure record is not being used to define variables in CMIP7, we need to move the information somewhere else. This potentially means adding one or two columns in one of the Air TAble tables. 

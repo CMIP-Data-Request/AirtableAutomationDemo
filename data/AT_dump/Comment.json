@@ -223,6 +223,21 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Missing wavelength coordinate?",
+        "Comment":"There are a number of variables which relate to radiation at particular wavelengths. Some of these have a lambda550nm coordinate, some do not. For consistency is it worth attaching one of lambda550nm, lambda440nm, lambda870nmto these variables?\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere",
+            "Earth system"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"lambda550nm",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"provide Oyr.opottemptend as a decadal variable Odec.opottemptend",
         "Comment":"Oyr.opottemptend enables monitoring the heat content in the ocean in a spatially resolved manner. This variable is currently requested by opportunity ID.51. Decadal information would be sufficient for that purpose and would reduce requested data volume to one-tenth, but such a variable would have to be defined.\n",
         "Status":"New",
@@ -251,11 +266,40 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Ocean dimensions in atmosphere variable",
+        "Comment":"This variable includes dimensions \"olevhalf\" and \"time2\". I suspect that this is a surface variable, but it would be good to confirm whether this is wanted as a climatology (time2 implies this) \n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Earth system"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Change '--' notation in cell measures ",
         "Comment":"These three cell measures are indicated with two dashes in their name, this creates issues when exporting the database to excel format. Update names to have two colons instead of two dashes (e.g. ::UGRID instead of --UGRID)\n",
         "Status":"Done",
         "Author teams to alert":"",
         "Data Request Actions":"Changed\n",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"incorrect dimensions on tasmaxCrop",
+        "Comment":"This variable is a surface variable, but has the alevel dimension and lambda550nm coordinate. Cell methods need checking too\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Land & Land-Ice",
+            "Impacts & Adaptation"
+        ],
+        "Data Request Actions":"",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
@@ -403,6 +447,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Review of cloud simulator terms",
+        "Comment":"CMIP6 included output from ISCCP and MISR simulators. MODIS will be added in CMIP7. [Discussion of standard names](https:\/\/github.com\/cf-convention\/vocabularies\/issues\/52) has revealed errors in the usage of standard names in CMIP6 which need to be corrected. The key issue is that the satellites do not see liquid water path and ice water path: rather, they see liquid water path of ice-topped cloud and liquid water path of liquid-topped clouds.\n",
+        "Status":"In progress",
+        "Author teams to alert":[
+            "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"tau, plev7c",
+        "GitHub Issue number":"undefined",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline_daily group",
         "Comment":"I recommend adding\u00a0RLUS, RLDS, RSDS, HFLS, and HFSS to baseline\\_daily group in order to facilitate studies were the surface energy budget needs closed at a daily level, which included understanding the drivers of Polar Amplification. \n",
         "Status":"Won't do",
@@ -417,6 +475,20 @@
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
         "Spatial Shape":"Global field (single level)",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"Poorly described variable",
+        "Comment":"Difficult to tell if this is correct. If this is the same as the variable in the Eday table then this needs lambda550nm coordinate too.\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Earth system"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
         "Temporal Shape":""
     },
     {
@@ -610,6 +682,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Poor table choice for ocean variable",
+        "Comment":"This variable appears to be an ocean variable for which the table Amon is not an appropriate choice.  cell\\_methods should probably be \"area: mean where sea time:mean\" and cell\\_methods should point at areacello rather than areacella\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Change vegtype coordinate ",
         "Comment":"The vegtype coordinate uses model-specific categories. \nTo improve the inter-comparability among models, it would be useful to introduce a set of general categories.\nSince some \"fraction\" variables are already defined on some vegetation categories, the set of categories to use in vegtype can be derived from that list.\nIn particular, they could be:\nBroadleaf Deciduous\nBroadleaf Evergreen\nNeedleleaf Deciduous\nNeedleleaf Evergreen\ngrass\ncrop\nshrub \n",
         "Status":"In progress",
@@ -660,6 +746,20 @@
             "Ocean & Sea-Ice",
             "Land & Land-Ice",
             "Earth system"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"Rate of change variables with units that don't include time",
+        "Comment":"These variables appear to be a change in quantity over a day, but the units are just kg m-2.  This was the same at CMIP6, but should the units be kg m-2 day-1 or similar\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Land & Land-Ice"
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
