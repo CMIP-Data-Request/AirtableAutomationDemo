@@ -88,6 +88,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Missing longitude: mean in zonal mean variables",
+        "Comment":"cell methods are missing longitude: mean and cell methods need checking (not sure areacella can be used with any zonal mean variable?)\nThis also affects EdayZ.tauunogw, but this variable may have been renamed already.\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Variables on atmospheric pressure levels.",
         "Comment":"Atmospheric variables which have been requested on pressure levels have been assigned cell methods containing \"area: mean\". This should ideally be \\`area: mean where air\\` to make it clear that the mean is only taken over the atmospheric portion of the cell.\n",
         "Status":"New",
@@ -99,6 +113,20 @@
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"29",
         "Spatial Shape":"Global field (19 pressure levels), Global field (7 pressure levels), Global field (16 altitudes)",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"wrong dimensions for fx.zfull",
+        "Comment":"fx.zfull has dimensions involving soil levels and time rather than \"latitude longitude alevel\"\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
         "Temporal Shape":""
     },
     {
@@ -266,6 +294,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Ocean Surface variable naming",
+        "Comment":"The variables Oday.uo and Oday.vo appear to be surface variables from their description and dimensions, but for consistency with other surface variables (e.g. tos, sos, zos) and to avoid confusion with 3D variables it might be better to name them Oday.uos and Oday.vos.\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Ocean dimensions in atmosphere variable",
         "Comment":"This variable includes dimensions \"olevhalf\" and \"time2\". I suspect that this is a surface variable, but it would be good to confirm whether this is wanted as a climatology (time2 implies this) \n",
         "Status":"New",
@@ -324,6 +366,21 @@
         "Status":"In progress",
         "Author teams to alert":[
             "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"olevel dimension in variable describing ocean floor",
+        "Comment":"These variables currently have the dimension olevel, but are at the ocean bottom. I think this dimension should be removed and while we could add an ocean\\_floor coordinate I don't know whether this would be appropriate given that we don't do this for ocean surface or top of atmosphere variables.\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice",
+            "Earth system"
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
@@ -759,6 +816,20 @@
             "Atmosphere"
         ],
         "Data Request Actions":"Spatial shape, temporal shape and cell methods adjusted,\n",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
+        "Title":"Issues with Ofx variables",
+        "Comment":"Several of the Ofx variables have invalid cell\\_methods (\"fixed\"), Ofx.sftof has cell measures of UGRID, which while possibly valid is inconsistent with the rest of the Ofx variables , Ofx.thkcellto appears to be a \"time varying thickness at t points\" variable without a time dimension in a table for fixed (in time) variables\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice"
+        ],
+        "Data Request Actions":"",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
