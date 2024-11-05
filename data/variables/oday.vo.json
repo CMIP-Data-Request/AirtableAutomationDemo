@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Same as vo\t\t\n",
     "provenance": "",

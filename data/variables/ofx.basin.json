@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Report on the same grid as the temperature field. flag\\_values=0,1,2,3,4,5,6,7,8,9,10 corresponding to flag\\_meanings=global\\_land, southern\\_ocean, atlantic\\_ocean, pacific\\_ocean, arctic\\_ocean, indian\\_ocean, mediterranean\\_sea, black\\_sea, hudson\\_bay, baltic\\_sea, red\\_sea.\n",
     "provenance": "Ofx ((isd.003))",

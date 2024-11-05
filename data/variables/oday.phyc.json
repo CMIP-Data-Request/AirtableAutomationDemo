@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "The variable at the depth of 200 meters is requested\n",
     "provenance": "",

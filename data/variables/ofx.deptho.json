@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/sea_floor_depth_below_geoid"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, paleo_fx, biodiv_marine_daily, omip_geometry_physics",
+    "cmip7-variable-groups": "baseline_fixed, paleo_fx, biodiv_marine_daily, omip_geometry_physics, ocean_grid",
     "compound-name": "Ofx.deptho",
     "description": "Ocean bathymetry. Reported here is the sea floor depth for present day relative to z=0 geoid. Reported as missing for land grid cells.\n",
     "frequency": [
@@ -19,6 +19,10 @@
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
+    ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
     ],
     "positive-direction": "",
     "processing-note": "save both native and spherical\n",

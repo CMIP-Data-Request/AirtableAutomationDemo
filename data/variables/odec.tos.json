@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Note change from CMIP5 K to CMIP6 C. Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",
     "provenance": "Odec ((isd.003))",

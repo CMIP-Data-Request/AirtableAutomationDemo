@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Unsure which cell measures to use here!\n",
     "provenance": "",

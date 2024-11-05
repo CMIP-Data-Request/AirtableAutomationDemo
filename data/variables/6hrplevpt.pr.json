@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "This variable is being requested as instantaneous fields every 6 hours. Was unsure which Table to select! I think I want something like 6hrPt rather than 6hrPlevPt\n",
     "provenance": "",

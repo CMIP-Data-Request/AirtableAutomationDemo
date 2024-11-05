@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "For models which do not have a Cartesian lat-long grid, this transport should be approximated as the transport across zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution.\n",
     "provenance": "DCPP [DCPP-mon]",

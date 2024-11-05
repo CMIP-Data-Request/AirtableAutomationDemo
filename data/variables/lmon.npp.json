@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/land"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "down",
     "processing-note": "needed for any model that does not compute GPP\n",
     "provenance": "Lmon ((isd.003))",

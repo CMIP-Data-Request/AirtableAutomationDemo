@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "",
     "provenance": "",

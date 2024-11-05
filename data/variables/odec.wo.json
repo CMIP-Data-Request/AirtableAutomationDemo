@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "Odec ((isd.003))",

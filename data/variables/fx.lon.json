@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Note that the CF convention and CMOR2 require that this field will be included in each file that contains a variable that is a function of the \"site\" dimension, so there is no need to save this field by itself.  It is included here simply to indicate that longitudes should be stored for the site grid in each file written.\n",
     "provenance": "CFsubhr ((isd.003))",

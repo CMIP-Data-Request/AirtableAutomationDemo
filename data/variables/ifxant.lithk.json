@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/landice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "",
     "provenance": "ISMIP6 [IfxAnt]",

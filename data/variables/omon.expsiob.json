@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "down",
     "processing-note": "Variable value should be reported as the flux exiting the bottom of the deepest ocean layer\n",
     "provenance": "",

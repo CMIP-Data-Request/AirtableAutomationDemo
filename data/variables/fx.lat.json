@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "the above comment also applies to latitude.\n",
     "provenance": "CFsubhr ((isd.003))",

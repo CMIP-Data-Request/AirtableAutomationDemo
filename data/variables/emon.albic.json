@@ -23,6 +23,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "",
     "provenance": "",

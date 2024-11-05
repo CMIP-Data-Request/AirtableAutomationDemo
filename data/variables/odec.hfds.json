@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "down",
     "processing-note": "Report on native horizontal grid as well as remapped onto a latitude/longitude grid.\n",
     "provenance": "Odec ((isd.003))",

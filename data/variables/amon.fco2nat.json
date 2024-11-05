@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Report from all simulations (both emission-driven and concentration-driven) performed by models with fully interactive and responsive carbon cycles.\n",
     "provenance": "Amon ((isd.003))",

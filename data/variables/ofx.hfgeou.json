@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "up",
     "processing-note": "If this field is time-dependent then save it instead as one of your Omon fields (see the Omon table)\n",
     "provenance": "Ofx ((isd.003))",

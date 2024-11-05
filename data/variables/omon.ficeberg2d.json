@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "If only the vertically integrated melt water flux is available, report as this 2-d field; otherwise ficeberg should be used.\n",
     "provenance": "Omon ((isd.003))",

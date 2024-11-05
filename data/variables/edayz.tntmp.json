@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "We ask the modeling centers to provide all the simulation specific settings of the underlying parameterizations (e.g. in the metadata).\n",
     "provenance": "",

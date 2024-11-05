@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "down",
     "processing-note": "Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",
     "provenance": "CFmon ((isd.003))",

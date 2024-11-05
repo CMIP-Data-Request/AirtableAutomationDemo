@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "7 pressure levels x 7 optical depth levels. THIS VARIABLE SHOULD HAVE NO EXTRA COORDINATE - \"p1000\" is selected simply to submit this form. [BD removed the p1000 coordinate on 4/9/24]\n",
     "provenance": "",

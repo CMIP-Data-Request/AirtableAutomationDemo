@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Full depth mean, apart from Pacific Equatorial Undercurrent, which is only top 350m.\n",
     "provenance": "Omon ((isd.003))",

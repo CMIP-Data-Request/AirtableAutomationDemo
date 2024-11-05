@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/ocean_volume"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_coordinates, ocean_grid",
+    "cmip7-variable-groups": "REJECTED_ocean_coordinates, ocean_grid",
     "compound-name": "Oyr.volcello",
     "description": "For oceans with more than 1 mesh (e.g. staggered grids), report areas that apply to surface vertical fluxes of energy. If this field is time-dependent then save it instead as one of your Omon and Odec fields\n",
     "frequency": [
@@ -19,6 +19,10 @@
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
+    ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "a 3-d field: For oceans with more than 1 mesh, report on grid that applies to temperature\n",

@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "On behalf of the DCPP Team, I would like to propose a few variables that the colleagues will need in order to study extreme events in the decadal climate prediction experiments. \n",
     "provenance": "",

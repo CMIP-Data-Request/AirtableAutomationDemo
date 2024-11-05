@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cell_thickness"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "ocean_coordinates, ocean_grid",
+    "cmip7-variable-groups": "REJECTED_ocean_coordinates, ocean_grid",
     "compound-name": "Odec.thkcello",
     "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.\n",
     "frequency": [
@@ -19,6 +19,10 @@
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
+    ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",

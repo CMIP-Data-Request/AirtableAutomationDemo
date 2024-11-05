@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "7 IWP levels x 6 effective radius levels. NOTE: \"p1000\" is chosen as a coordinate to enable form submission and should be ignored.  An extra dimension of IWP should also be added to this request (although it is not an option in the form). Metric is further described in [Pincus 2023](https://essd.copernicus.org/articles/15/2483/2023/essd-15-2483-2023-discussion.html).\n\n[BD removed the p1000 coordinate on 4/9/24]\n",
     "provenance": "",

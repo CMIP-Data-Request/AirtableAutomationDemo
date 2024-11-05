@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Identical to AERmon.tntrs but for clear-sky.\n",
     "provenance": "",

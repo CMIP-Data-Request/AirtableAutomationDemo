@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Report on the ocean grid.  This variable appears in WGOMD Table 2.2\n",
     "provenance": "day ((isd.003))",

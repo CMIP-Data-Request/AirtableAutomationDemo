@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Difference between atmospheric and oceanic partial pressure of CO2 (positive meaning ocean > atmosphere) - natural component\n",
     "provenance": "Omon ((isd.003))",

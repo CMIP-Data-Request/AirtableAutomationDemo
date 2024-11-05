@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "down",
     "processing-note": "Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "Oyr ((isd.003))",

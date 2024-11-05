@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Report only for simulations (e.g., prescribed concentration pi-control run), in which the CO2 does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as co2massClim, not co2mass.  If CO2 is spatially nonuniform, omit this field, but report Mole Fraction of CO2 (see the table entry before the previous one).\n",
     "provenance": "Amon ((isd.003))",

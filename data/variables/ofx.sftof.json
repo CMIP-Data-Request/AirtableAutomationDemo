@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Should this be recorded as a function of depth?  Report on the same grid that ocean fields are reported (i.e., the ocean native grid, or the grid that ocean data has been provided to CMIP.  For completeness, provide this even if the ocean grid is the same as the atmospheric grid.\n",
     "provenance": "Ofx ((isd.003))",

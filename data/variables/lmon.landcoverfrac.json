@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/land"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "need to explain how to define vegtype.  To facilitate model comparison, it is also requested that the aggregated land cover types called for in lines 28 to 35 be archived (but not in this variable).  Note that if this variable is independent of time, it should be stored only for a single time (user choice).   Note that the \"types\" will be model dependent and for each type there should be a full description of the PFT (plant functional type).\n",
     "provenance": "Lmon ((isd.003))",

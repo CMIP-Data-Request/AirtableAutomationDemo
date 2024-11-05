@@ -23,6 +23,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "If this does not change over time (except possibly to vary identically over each annual cycle), report instead the variable described in the next table entry.  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
     "provenance": "Amon ((isd.003))",

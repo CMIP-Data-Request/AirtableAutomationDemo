@@ -23,6 +23,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "If only the vertically integrated heat flux is available, report as this 2-d field; otherwise hfsifrazil should be used.\n",
     "provenance": "Omon ((isd.003))",

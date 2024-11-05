@@ -23,6 +23,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "The priority set by the WGOMD was 2 for this field.  The sea-ice folks requested that the priority be raised to 1. Report on native horizontal grid.\n",
     "provenance": "Omon ((isd.003))",

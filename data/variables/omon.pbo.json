@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "CMIP5 had units of dbar.  CMIP6 uses Pa. Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",
     "provenance": "Omon ((isd.003))",

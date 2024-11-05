@@ -32,6 +32,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/landice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "This follows the requested definition of Emon.alb, but we request data at daily resolution\n",
     "provenance": "",

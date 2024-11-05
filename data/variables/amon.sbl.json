@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/landice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "This differs from sbl appearing in table Limon in that the flux is averaged over the entire grid cell, not just the land portion.\n",
     "provenance": "Amon ((isd.003))",

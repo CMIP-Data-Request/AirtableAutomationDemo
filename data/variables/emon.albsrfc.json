@@ -32,6 +32,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "There is a variable AERmon.albsrfc, but I am not sure whether the definition applies to the description above; furthermore, the variable would also be of relevance outside of the AER focus, hence we may consider whether it should go into another category as well (I had Emon in mind.); Whether this variable should be provided at atmosphere/land or ocean grid, and the respective grid cell metrics, must be discussed.\n",
     "provenance": "",

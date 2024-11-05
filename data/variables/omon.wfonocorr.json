@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "This should be the sum of the various processes contributing to water fluxes. Report on native horizontal grid as well as mapped onto sphere.\n",
     "provenance": "Omon ((isd.003))",

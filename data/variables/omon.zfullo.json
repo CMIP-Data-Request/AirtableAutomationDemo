@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "This 3-d time dependent field should only be saved for models where it cannot be calculated from the vertical coordinate information stored in the file.\n",
     "provenance": "Omon ((isd.003))",

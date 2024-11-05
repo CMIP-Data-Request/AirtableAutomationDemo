@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "Defined as missing variable if there is no sea ice and when downwelling shortwave radiation is below 10 W/m2.\n",
     "provenance": "",

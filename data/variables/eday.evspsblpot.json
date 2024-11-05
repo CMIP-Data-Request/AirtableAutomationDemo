@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/land"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review",
+        "Accepted"
+    ],
     "positive-direction": "",
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",

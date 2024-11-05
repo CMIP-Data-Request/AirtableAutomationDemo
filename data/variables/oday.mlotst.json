@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "The density to be used is sigma0, referenced at the surface. The mixed layer thickness is approximated by interpolating between the model level where the density exceeds density at 10m by 0.03 kg.m-3 and the level just above.  \n",
     "provenance": "",

@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "down",
     "processing-note": "",
     "provenance": "day ((isd.003))",

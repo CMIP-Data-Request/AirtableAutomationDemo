@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "I've selected 6hrPlevPt for the table as there didn't seem to be another option that was appropriate but I think it should just be 6hrPt.\n",
     "provenance": "",

@@ -20,6 +20,7 @@
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Integrated depth and longitude section of temperature multiplied by velocity at 25.7N from the Florida coast (~80.5W) to the Bahamas (~77.4W), If the east coast isn't resolved go up to ~77.4W.\n",
     "provenance": "",

@@ -20,6 +20,9 @@
             "@id": "mip-cmor-tables:auxillary/realm/land"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Under review"
+    ],
     "positive-direction": "down",
     "processing-note": "",
     "provenance": "PMIP [PMIP-Lmon-02]",

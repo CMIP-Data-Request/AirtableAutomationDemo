@@ -20,6 +20,10 @@
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
         }
     ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
     "positive-direction": "",
     "processing-note": "7 pressure levels x 7 optical depth levels (x latitude x longitude x time). NOTE: please disregard the _Coordinates_ input; it is only to ensure form can be submitted.\n",
     "provenance": "",
