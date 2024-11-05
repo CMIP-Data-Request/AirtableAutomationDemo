@@ -179,6 +179,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"UTLS variables",
+        "Comment":"There are a number of new variables marked UTLS. They all have dimensions that imply that they are simple time series with no spatial dimensions at all. Looking at description I suspect that this is incorrect. This may be down to the spatial shape record having no associated dimensions\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"\"Global field (3 pressure levels, UTLS)\"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Inconsistent way sfcWind and sfcWindmax are provided",
         "Comment":"I'm preparing a paper, where I'll touch on the issue (Malinina in prep, Attribution of the 2022 extratropical storm Fiona), but I have noticed that the way the sfcWind has been provided in the day table is all over the map, sometimes it is the real sfcWind (instantaneous norm of uas and vas components), sometimes it's a norm of 3hr\/6hr uas and vas components and sometimes it is norm of daily uas and vas. Comparing models between each other or with observations becomes useless, because based on the method sfcWind is obtained, there can be up to 25% difference. \n\nAdditionally, it is unclear how sfcWindmax is obtained, is it instantaneous? Is it for the model time step? Since CMIP6 docs are down, I had to track the modelling centers to ask this questions and everyone has a different opinions even within one center. Again this makes multi-model ensembles very uncertain and both daily and sub-daily sfcWind and sfcWindmax are incredibly important for adaptation.\n",
         "Status":"In progress",
