@@ -534,6 +534,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Variables at 200m depth in ocean not clearly indicated as such",
+        "Comment":"The variables at 200m depth are not clearly defined as such and could easily be misinterpreted as being at the surface (only mention is in the processing note).\n\nEach of these should probably have a depth200m dimension added and I'd seriously consider renaming them (note that we tend to have \"os\" on the end of ocean surface variables so you could add \"o200\" to the names for these variables\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"more precise definition for fx.mrsofc",
         "Comment":"We request to provide a more precise definition of the physical quantity \u2013 it should exclude lake water and must refer to soil water only. This is an outcome from a PMIP discussion. Since the variable is not originally part of the ocean and sea ice theme, could this request be forwarded to relevant other entities? Thank you.\n",
         "Status":"In progress",

@@ -107,6 +107,10 @@ rechnk5WOkEN4Uxfk,Request for additional information when reporting variable,"Fo
 ",In progress,['Atmosphere'],,,,,,
 rechxH0FNVVqiSxmA,Additional information required for variable C3H6,"For mole fractions of different VOCs (e.g., C3H6), the list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. How can this information be captured in the data request?
 ",In progress,['Atmosphere'],,,,,,
+recilqQBezuXlMBFa,Variables at 200m depth in ocean not clearly indicated as such,"The variables at 200m depth are not clearly defined as such and could easily be misinterpreted as being at the surface (only mention is in the processing note).
+
+Each of these should probably have a depth200m dimension added and I'd seriously consider renaming them (note that we tend to have ""os"" on the end of ocean surface variables so you could add ""o200"" to the names for these variables
+",New,['Ocean & Sea-Ice'],,,,,,
 recjBpq3kPUEKnpXu,more precise definition for fx.mrsofc,"We request to provide a more precise definition of the physical quantity – it should exclude lake water and must refer to soil water only. This is an outcome from a PMIP discussion. Since the variable is not originally part of the ocean and sea ice theme, could this request be forwarded to relevant other entities? Thank you.
 ",In progress,,,,,,,
 recjJoe6G3Prlzkqp,Wrong spatial shape associated to ocean bgc export fluxes,"The spatial shape of the following variables representing 2D fluxes at the ocean bottom should be modified into **Global field (single level)**:
