@@ -624,6 +624,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Missing pressure coordinate for some single level variables",
+        "Comment":"There are coordinates for certain variables on pressure levels but not others. I would expect each of these to have a coordinate dimension defining the pressure level indicated in the variable name\n\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Atmosphere"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"p100, p500, p850, p700",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"prhmax should be a single level (surface) field only",
         "Comment":"Currently the prhmax fields (Emon.prhmax, Eday.prhmax) are set as a Global Field (model levels) for Structure Title, but we think that it should be temporal maximum rainfall flux at surface, to make it clear that it is just a single level required rather than vertical levels. \n\nThe description of these two variables also need to be made consistent with the field and each other.\n",
         "Status":"Done",

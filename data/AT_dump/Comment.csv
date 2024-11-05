@@ -134,6 +134,9 @@ grass
 crop
 shrub 
 ",In progress,['Land & Land-Ice'],,https://github.com/CMIP-Data-Request/Harmonised-Consultation-Phase-1/issues/21,vegtype,21,,
+recsfsbi6YlsgrjJ1,Missing pressure coordinate for some single level variables,"There are coordinates for certain variables on pressure levels but not others. I would expect each of these to have a coordinate dimension defining the pressure level indicated in the variable name
+
+",New,['Atmosphere'],,,"p100, p500, p850, p700",,,
 recti5HCQ8d3UmJqt,prhmax should be a single level (surface) field only,"Currently the prhmax fields (Emon.prhmax, Eday.prhmax) are set as a Global Field (model levels) for Structure Title, but we think that it should be temporal maximum rainfall flux at surface, to make it clear that it is just a single level required rather than vertical levels. 
 
 The description of these two variables also need to be made consistent with the field and each other.
