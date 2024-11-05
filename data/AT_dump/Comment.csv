@@ -35,7 +35,8 @@ recA7wn34KAC60pJ4,Consistent calendar,"In CMIP5 and CMIP6, models utilize variou
 recCxlzsKIkUQlUpI,Ocean layers,"OMDP would like to specify a set of levels which are consistent with the literature (to keep these low dimensional). 
 ",New,['Ocean & Sea-Ice'],,https://github.com/CMIP-Data-Request/Harmonised-Consultation-Phase-1/issues/24,"olayer100m, depth0m, depth100m, depth300m, depth700m, depth2000m",24,,
 recEXEZ4QOYwo6mIA,UTLS variables,"There are a number of new variables marked UTLS. They all have dimensions that imply that they are simple time series with no spatial dimensions at all. Looking at description I suspect that this is incorrect. This may be down to the spatial shape record having no associated dimensions
-",New,['Atmosphere'],,,,,"""Global field (3 pressure levels, UTLS)""",
+",New,['Atmosphere'],"
+",,,,"""Global field (3 pressure levels, UTLS)""",
 recGexXbTyKuX1o6m,Inconsistent way sfcWind and sfcWindmax are provided,"I'm preparing a paper, where I'll touch on the issue (Malinina in prep, Attribution of the 2022 extratropical storm Fiona), but I have noticed that the way the sfcWind has been provided in the day table is all over the map, sometimes it is the real sfcWind (instantaneous norm of uas and vas components), sometimes it's a norm of 3hr/6hr uas and vas components and sometimes it is norm of daily uas and vas. Comparing models between each other or with observations becomes useless, because based on the method sfcWind is obtained, there can be up to 25% difference. 
 
 Additionally, it is unclear how sfcWindmax is obtained, is it instantaneous? Is it for the model time step? Since CMIP6 docs are down, I had to track the modelling centers to ask this questions and everyone has a different opinions even within one center. Again this makes multi-model ensembles very uncertain and both daily and sub-daily sfcWind and sfcWindmax are incredibly important for adaptation.
@@ -79,7 +80,8 @@ recVud5MIKX02xlbk,Addition of a stratosphere-only 550 OD,"od550so4 only mentions
 recW2I12jiXyOKjlw,aerosol variables with incorrect dimensions and cell methods,"In CMIP6 these variables were on model levels and had the lambda550nm coordinate attached, i.e. expected dimensions are ""longitude latitude alevel time lambda550nm""
 
 The cell\_methods is currently "" area: mean where crops time: minimum within days time: mean over days"", which is clearly incorrect for aerosol scattering/extinction data
-",New,['Atmosphere'],,,,,,
+",New,['Atmosphere'],"
+",,,,,
 recWymodJMt0AGRKl,Ice sheet variables with changes to dimensions from CMIP6,"These variables have different dimensions and cell methods in CMIP6. They were simple time series, no spatial dimensions and the cell methods were ""area: sum where ice\_sheet time: mean"". Currently they have dimensions of ""longitude latitude time"" which is inconsistent with the rest of the ice sheet variables.
 ",New,['Land & Land-Ice'],,,,,,
 recX8NUXi2lgkihYa,Increase levels of EdayZ variables to 39 levels,"Following a request from DynVarMIP to increase the number of levels for Edayz.ta, for consistency the variables hus, va, ta, and zg were all changed to 39 levels. All variables in the EdayZ table are now on 39 levels.
@@ -176,7 +178,8 @@ recuKOxbsw9Sh0Iqz,Emon.albsrfc to be added to variable group paleo_land_atmosphe
 recvlEsgEzHJRoM0h,Rate of change variables with units that don't include time,"These variables appear to be a change in quantity over a day, but the units are just kg m-2.  This was the same at CMIP6, but should the units be kg m-2 day-1 or similar
 ",New,['Land & Land-Ice'],,,,,,
 recvr4Ew96La0XLUW,3hrPt.bldep dimensions garbled,"The dimensions for this variable are "" longitude, latitude, time1, latitude, longitude, depth0m"" rather than the expected  ""longitude, latitude, time1""
-",New,['Atmosphere'],,,,,,
+",New,['Atmosphere'],"[@Data Request co-leads](https://airtable.com/appBWxP0SS7K1hweJ/menhGTxtCIl5WDnO8/usrBDjCiqPQO9Hhgi?recordId=recvr4Ew96La0XLUW&fieldId=fld7aMKDm85T2sING) Martin this might be an issue with the formula for Dimensions. Can you check?
+",,,,,
 recwAcTjm5B1Ga5e2,Adding flag_values and flag_meanings,"The variable Ofx.basin in the CMIP6 data request (also in CMIP5 standard output) had flag\_values and flag\_meanings specified. These were listed in the ""Structure"" record. Ofx.basin is the only CMIP6 variable that uses these CF terms. As the structure record is not being used to define variables in CMIP7, we need to move the information somewhere else. This potentially means adding one or two columns in one of the Air TAble tables. 
 
 1. Add ""Flag Values"" and ""Flag Meanings"" columns in the ""Physical Parameter"" table. These columns would be blank for all other variables, but it is easy to implement.  

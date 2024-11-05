@@ -213,7 +213,7 @@
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
@@ -438,7 +438,7 @@
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
@@ -874,7 +874,7 @@
         "Author teams to alert":[
             "Atmosphere"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"[@Data Request co-leads](https:\/\/airtable.com\/appBWxP0SS7K1hweJ\/menhGTxtCIl5WDnO8\/usrBDjCiqPQO9Hhgi?recordId=recvr4Ew96La0XLUW&fieldId=fld7aMKDm85T2sING) Martin this might be an issue with the formula for Dimensions. Can you check?\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
