@@ -71,6 +71,8 @@ recW2I12jiXyOKjlw,aerosol variables with incorrect dimensions and cell methods,"
 
 The cell\_methods is currently "" area: mean where crops time: minimum within days time: mean over days"", which is clearly incorrect for aerosol scattering/extinction data
 ",New,['Atmosphere'],,,,,,
+recWymodJMt0AGRKl,Ice sheet variables with changes to dimensions from CMIP6,"These variables have different dimensions and cell methods in CMIP6. They were simple time series, no spatial dimensions and the cell methods were ""area: sum where ice\_sheet time: mean"". Currently they have dimensions of ""longitude latitude time"" which is inconsistent with the rest of the ice sheet variables.
+",New,['Land & Land-Ice'],,,,,,
 recX8NUXi2lgkihYa,Increase levels of EdayZ variables to 39 levels,"Following a request from DynVarMIP to increase the number of levels for Edayz.ta, for consistency the variables hus, va, ta, and zg were all changed to 39 levels. All variables in the EdayZ table are now on 39 levels.
 ",Done,,,,,,,
 recd6DlHdYZNiTzyO,definition of various albedo metrics to be discussed / potentially updated,"The idea of these variables is to gather information on the albedo of the ice- or snow-covered surface (for both land and ocean) - this means that if a grid cell is partly covered by ice or by snow, the value should be computed only on the part of the snow or ice cover, respectively, ignoring albedo of the remainder of the land surface. We may therefore have to update the cell measures accordingly.
@@ -96,7 +98,7 @@ upward_northward_momentum_flux_in_air_due_to_nonorographic_gravity_waves
 ",Done,['Atmosphere'],"BD moved comment to Physical Parameters table
 ",,,,,
 recgVanzd8TEzLTUW,Review of cloud simulator terms,"CMIP6 included output from ISCCP and MISR simulators. MODIS will be added in CMIP7. [Discussion of standard names](https://github.com/cf-convention/vocabularies/issues/52) has revealed errors in the usage of standard names in CMIP6 which need to be corrected. The key issue is that the satellites do not see liquid water path and ice water path: rather, they see liquid water path of ice-topped cloud and liquid water path of liquid-topped clouds.
-",In progress,['Atmosphere'],,,"tau, plev7c",undefined,,
+",In progress,['Atmosphere'],,https://github.com/CMIP-Data-Request/Harmonised-Consultation-Phase-1/issues/33,"tau, plev7c",undefined,,
 recgZbGDl0E6GlYT9,"Adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline_daily group","I recommend adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline\_daily group in order to facilitate studies were the surface energy budget needs closed at a daily level, which included understanding the drivers of Polar Amplification. 
 ",Won't do,"['Ocean & Sea-Ice', 'Land & Land-Ice', 'Atmosphere', 'CF Working Group']",,,,,Global field (single level),
 recgilLNmogqgIW3d,Poorly described variable,"Difficult to tell if this is correct. If this is the same as the variable in the Eday table then this needs lambda550nm coordinate too.

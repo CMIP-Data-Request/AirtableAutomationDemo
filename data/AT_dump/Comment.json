@@ -389,6 +389,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"Ice sheet variables with changes to dimensions from CMIP6",
+        "Comment":"These variables have different dimensions and cell methods in CMIP6. They were simple time series, no spatial dimensions and the cell methods were \"area: sum where ice\\_sheet time: mean\". Currently they have dimensions of \"longitude latitude time\" which is inconsistent with the rest of the ice sheet variables.\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Land & Land-Ice"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Increase levels of EdayZ variables to 39 levels",
         "Comment":"Following a request from DynVarMIP to increase the number of levels for Edayz.ta, for consistency the variables hus, va, ta, and zg were all changed to 39 levels. All variables in the EdayZ table are now on 39 levels.\n",
         "Status":"Done",
@@ -454,7 +468,7 @@
             "Atmosphere"
         ],
         "Data Request Actions":"",
-        "GitHub Issue URL":"",
+        "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/33",
         "Coordinates and Dimensions":"tau, plev7c",
         "GitHub Issue number":"undefined",
         "Spatial Shape":"",
