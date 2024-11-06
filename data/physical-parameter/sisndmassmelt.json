@@ -16,11 +16,13 @@
     "description": "the rate of change of snow mass through melt divided by sea-ice area\n",
     "edited-by-author-teams": true,
     "justification-for-inclusion": "",
-    "last-modified-by": "Automations",
+    "last-modified-by": "dr-oceans",
     "name": "sisndmassmelt",
     "name-validation": 1,
     "processing-comment": "",
-    "processing-note": "",
+    "processing-note": [
+        "si"
+    ],
     "proposer-email": "",
     "proposer-name": "",
     "provenance": "CMIP6 endorsement [SIMIP]",

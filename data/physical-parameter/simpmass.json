@@ -17,13 +17,15 @@
     "created": "2024-07-12T09:06:25.000Z",
     "data-protection-consent": "",
     "description": "Meltpond Depth\n",
-    "edited-by-author-teams": "",
+    "edited-by-author-teams": true,
     "justification-for-inclusion": "",
-    "last-modified-by": "Data Request co-leads",
+    "last-modified-by": "Automations",
     "name": "simpmass",
     "name-validation": 1,
     "processing-comment": "",
-    "processing-note": "",
+    "processing-note": [
+        "si"
+    ],
     "proposer-email": "",
     "proposer-name": "",
     "provenance": "CMIP6 endorsement [SIMIP]",

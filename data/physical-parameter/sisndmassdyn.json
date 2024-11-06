@@ -16,11 +16,13 @@
     "description": "The rate of change of snow mass through advection with sea ice divided by sea-ice area\n",
     "edited-by-author-teams": true,
     "justification-for-inclusion": "",
-    "last-modified-by": "Automations",
+    "last-modified-by": "dr-oceans",
     "name": "sisndmassdyn",
     "name-validation": 1,
     "processing-comment": "",
-    "processing-note": "",
+    "processing-note": [
+        "si"
+    ],
     "proposer-email": "",
     "proposer-name": "",
     "provenance": "CMIP6 endorsement [SIMIP]",

@@ -21,8 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "For models which do not have a Cartesian lat-long grid, this transport can be approximated as thetransport across zig-zag paths corresponding to latitudes with spacing between latitudes appropriate tothe model's resolution, as is done for the ocean meridional overturning mass streamfunction.\n",

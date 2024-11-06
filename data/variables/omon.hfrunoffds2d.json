@@ -21,7 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "If only the vertically integrated runoff flux is available, report as this 2-d field; otherwise hfrunoffds should be used.\n",

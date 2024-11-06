@@ -21,7 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "Function of latitude, Z, basin.  For models not on a cartesian grid, this transport should be approximated as the transport across zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution.\n",

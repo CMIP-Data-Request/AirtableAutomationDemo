@@ -20,7 +20,9 @@
     "name": "sisndmasswindrif",
     "name-validation": 1,
     "processing-comment": "",
-    "processing-note": "",
+    "processing-note": [
+        "si"
+    ],
     "proposer-email": "",
     "proposer-name": "",
     "provenance": "CMIP6 endorsement [SIMIP]",
