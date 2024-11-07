@@ -404,6 +404,20 @@
         "Temporal Shape":""
     },
     {
+        "Title":"update description\/processing notes of mlotst in Omon.mlotst, Omon_mlotstmax, Omon.mlotstmin, Omon.mlotstsq",
+        "Comment":"Change description of Omon.mlotst, Omon\\_mlotstmax, Omon.mlotstmin, Omon.mlotstsq the correct one (description existing for Oday.mlotst): (maximum of, minimum of, square of, depending on variable) Thickness of the layer bounded by the depth at which potential density Sigma0 exceeds density at 10m by 0.03 kg.m-3\n\nEventually, consider for both Oday.mlotst and Omon.mlotst to make this description more explicit by saying \"Thickness of the layer bounded by the depth at which potential density referenced to the surface (sigma0) exceeds the sigma0 value at 10m by 0.03 kg.m-3\"\n\nThe processing note should be corrected for Omon.mlotst, mlotstmax, mlotstmin, mlotstsq,  it is OK for Oday.mlotst :\nThe density to be used is sigma0, referenced at the surface. The mixed layer thickness is approximated by interpolating between the model level where the density exceeds density at 10m by 0.03 kg.m-3 and the level just above.\n\n",
+        "Status":"New",
+        "Author teams to alert":[
+            "Ocean & Sea-Ice"
+        ],
+        "Data Request Actions":"",
+        "GitHub Issue URL":"",
+        "Coordinates and Dimensions":"",
+        "GitHub Issue number":"",
+        "Spatial Shape":"",
+        "Temporal Shape":""
+    },
+    {
         "Title":"Inconsistency between Eday and LImon agesno (Age of Snow)",
         "Comment":"The Eday version uses cell\\_methods \"area: mean where land time: mean\", the LImon has the better value \"area: time: mean where land (weighted by snow mass on land)\". Karl suggested improving to \"area: time: mean where land (weighted by snow mass on land)\"\n\n",
         "Status":"New",

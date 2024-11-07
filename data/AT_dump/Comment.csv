@@ -71,6 +71,14 @@ recSeYgSmJA4tS7VN,olevel dimension in variable describing ocean floor,"These var
 ",New,"['Ocean & Sea-Ice', 'Earth system']",,,,,,
 recTGUYLqPhuFgChn,Artificial tracer with a 90-day lifetime,"This 3D tracer is to be sampled on the first day of each month as an instantaneous field. I'm still waiting to hear whether it's a single time point on that day or a diurnal cycle, but it has been currently placed in the AERmon table. Is this the correct table for this variable?
 ",In progress,['Atmosphere'],,,,,,
+recTISHYNqehpAEPP,"update description/processing notes of mlotst in Omon.mlotst, Omon_mlotstmax, Omon.mlotstmin, Omon.mlotstsq","Change description of Omon.mlotst, Omon\_mlotstmax, Omon.mlotstmin, Omon.mlotstsq the correct one (description existing for Oday.mlotst): (maximum of, minimum of, square of, depending on variable) Thickness of the layer bounded by the depth at which potential density Sigma0 exceeds density at 10m by 0.03 kg.m-3
+
+Eventually, consider for both Oday.mlotst and Omon.mlotst to make this description more explicit by saying ""Thickness of the layer bounded by the depth at which potential density referenced to the surface (sigma0) exceeds the sigma0 value at 10m by 0.03 kg.m-3""
+
+The processing note should be corrected for Omon.mlotst, mlotstmax, mlotstmin, mlotstsq,  it is OK for Oday.mlotst :
+The density to be used is sigma0, referenced at the surface. The mixed layer thickness is approximated by interpolating between the model level where the density exceeds density at 10m by 0.03 kg.m-3 and the level just above.
+
+",New,['Ocean & Sea-Ice'],,,,,,
 recVpsn2pIh3Dvc6c,Inconsistency between Eday and LImon agesno (Age of Snow),"The Eday version uses cell\_methods ""area: mean where land time: mean"", the LImon has the better value ""area: time: mean where land (weighted by snow mass on land)"". Karl suggested improving to ""area: time: mean where land (weighted by snow mass on land)""
 
 ",New,['Land & Land-Ice'],"Proposed changes accepted
