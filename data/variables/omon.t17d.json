@@ -1,5 +1,5 @@
 {
-    "@id": "dr:data/variables/amon.t17d",
+    "@id": "dr:data/variables/omon.t17d",
     "@type": "dr:variable",
     "brand-(dr)-[link]": "twm-z0-hxy-amn",
     "brand-(wip)-[link]": "tavg-z0-hxy-x",
@@ -8,7 +8,7 @@
     },
     "cf-standard-name-exists": true,
     "cmip7-variable-groups": "marine_bgc_fisheries",
-    "compound-name": "Amon.t17d",
+    "compound-name": "Omon.t17d",
     "description": "**depth\\_of\\_isosurface\\_of\\_sea\\_water\\_potential\\_temperature at 17C**\n",
     "frequency": [
         {
@@ -28,7 +28,7 @@
     "provenance": "",
     "status": "Under review",
     "table": [
-        "Amon"
+        "Omon"
     ],
     "theme": [
         "Impacts & adaptation"

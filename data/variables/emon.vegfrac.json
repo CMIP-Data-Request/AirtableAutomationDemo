@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, ref_impacts_and_adaptation",
     "compound-name": "Emon.vegFrac",
     "description": "Percentage of grid cell that is covered by vegetation.This SHOULD be the sum of tree, grass (natural and pasture), crop and shrub fractions.\n",
     "frequency": [

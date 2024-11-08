@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Essential, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, paleo_permafrost",
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Essential, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, paleo_permafrost, ref_impacts_and_adaptation",
     "compound-name": "Amon.huss",
     "description": "Near-surface (usually, 2 meter) specific humidity.\n",
     "frequency": [

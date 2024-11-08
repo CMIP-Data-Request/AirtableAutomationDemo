@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_fraction_of_carbon_dioxide_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, ref_earth_system",
     "compound-name": "Amon.co2",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
     "frequency": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_mass_content_of_water_vapor"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
     "compound-name": "Amon.prw",
     "description": "vertically integrated through the atmospheric column\n",
     "frequency": [

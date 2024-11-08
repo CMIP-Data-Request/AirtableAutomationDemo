@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/soil_mass_content_of_carbon"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier1",
+    "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier1, ref_land_and_landice",
     "compound-name": "Emon.cSoilAbove1m",
     "description": "Report missing data over ocean grid cells. For fractional land report value averaged over the land fraction.\n",
     "frequency": [

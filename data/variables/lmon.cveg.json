@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/vegetation_carbon_content"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, FireMIP_monthly",
+    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, FireMIP_monthly, ref_land_and_landice",
     "compound-name": "Lmon.cVeg",
     "description": "Carbon mass per unit area in vegetation.\n",
     "frequency": [

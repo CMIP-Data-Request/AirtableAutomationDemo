@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_all_land_processes"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DAMIP_monthly, DCPP_Essential, DCPP_Wider, FireMIP_monthly, ref_earth_system",
+    "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DAMIP_monthly, DCPP_Essential, DCPP_Wider, FireMIP_monthly, ref_earth_system, ref_land_and_landice",
     "compound-name": "Lmon.nbp",
     "description": "This is the net mass flux of carbon between land and atmosphere calculated as photosynthesis MINUS the sum of  plant and soil respiration, carbonfluxes  from fire, harvest, grazing  and land use change. Positive flux  is into the land.\n",
     "frequency": [

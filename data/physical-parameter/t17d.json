@@ -7,7 +7,7 @@
     "cf-standard-name-exists": false,
     "cmor-variables": [
         {
-            "@id": "dr:variables/amon.t17d"
+            "@id": "dr:variables/omon.t17d"
         }
     ],
     "comments": "",

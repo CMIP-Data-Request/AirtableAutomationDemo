@@ -323,7 +323,7 @@
     },
     {
         "Title":"alternative to ocean barotropic streamfunction, msftbarot",
-        "Comment":"The barotropic flow is slightly divergent in most modern ocean models, so it cannot be represented by a streamfunction. Griffies et al (2016) note this and suggest submitting an approximate barotropic streamfunction, \u222b U dy\u00a0in the +y-ward direction starting from inside Antarctica, where U = \u222b \u03c1 u dz is the vertically integrated x-ward transport. The better approach, they note, is to solve an elliptic boundary value problem, i.e. do a Helmholtz decomposition and then provide just the scalar field for the non-divergent part. If the rationale for not doing that is to keep things simple for ocean modellers, then I propose we provide the barotropic transports U and V = \u222b \u03c1 v dz instead of \\`msftbarot\\` (which is even easier, though 2x the data). Then, subsequent analysis can use either the approximation \\`msftbarot\\` or the streamfunction part of the Helmholtz decomposition computed from U and V after the fact.\n",
+        "Comment":"\u307b\u3068\u3093\u3069\u306e\u6700\u65b0\u6d77\u6d0b\u30e2\u30c7\u30eb\u3067\u306f\u3001\u30d0\u30ed\u30c8\u30ed\u30d4\u30c3\u30af\u306a\u6d41\u308c\u306f\u308f\u305a\u304b\u306b\u767a\u6563\u3057\u3066\u3044\u308b\u305f\u3081\u3001\u6d41\u7dda\u95a2\u6570\u3067\u8868\u3059\u3053\u3068\u306f\u3067\u304d\u306a\u3044\u3002 Griffies\u3089(2016)\u306f\u3053\u306e\u3053\u3068\u306b\u6ce8\u76ee\u3057\u3001\u5357\u6975\u5927\u9678\u5185\u90e8\u304b\u3089\u59cb\u307e\u308b+y-\u65b9\u5411\u306e\u8fd1\u4f3c\u7684\u306a\u30d0\u30ed\u30c8\u30ed\u30d4\u30c3\u30af\u6d41\u7dda\u95a2\u6570\u222bU dy\u3092\u63d0\u51fa\u3059\u308b\u3053\u3068\u3092\u63d0\u6848\u3057\u3066\u3044\u308b\u3002 \u3088\u308a\u826f\u3044\u30a2\u30d7\u30ed\u30fc\u30c1\u306f\u3001\u6955\u5186\u5883\u754c\u5024\u554f\u984c\u3092\u89e3\u304f\u3053\u3068\u3001\u3059\u306a\u308f\u3061\u30d8\u30eb\u30e0\u30db\u30eb\u30c4\u5206\u89e3\u3092\u884c\u3044\u3001\u975e\u767a\u6563\u90e8\u5206\u306e\u30b9\u30ab\u30e9\u30fc\u5834\u3060\u3051\u3092\u63d0\u4f9b\u3059\u308b\u3053\u3068\u3067\u3042\u308b\u3002 \u3082\u3057\u305d\u3046\u3057\u306a\u3044\u6839\u62e0\u304c\u6d77\u6d0b\u30e2\u30c7\u30e9\u30fc\u306e\u305f\u3081\u306b\u7269\u4e8b\u3092\u30b7\u30f3\u30d7\u30eb\u306b\u4fdd\u3064\u305f\u3081\u3067\u3042\u308c\u3070\u3001\u79c1\u306f\\`msftbarot\\`\u306e\u4ee3\u308f\u308a\u306b\u6c17\u5727\u8f38\u9001U\u3068V = \u222b \u03c1 v dz\u3092\u63d0\u4f9b\u3059\u308b\u3053\u3068\u3092\u63d0\u6848\u3059\u308b\uff082\u500d\u306e\u30c7\u30fc\u30bf\u3067\u306f\u3042\u308b\u304c\u3001\u3053\u308c\u306f\u3055\u3089\u306b\u7c21\u5358\u3067\u3042\u308b\uff09\u3002 \u305d\u3046\u3059\u308c\u3070\u3001\u305d\u306e\u5f8c\u306e\u89e3\u6790\u3067\u306f\u3001\u8fd1\u4f3c\u5024\\`msftbarot\\`\u304b\u3001U\u3068V\u304b\u3089\u8a08\u7b97\u3055\u308c\u305f\u30d8\u30eb\u30e0\u30db\u30eb\u30c4\u5206\u89e3\u306e\u6d41\u7dda\u95a2\u6570\u90e8\u5206\u3092\u4f7f\u3046\u3053\u3068\u304c\u3067\u304d\u308b\u3002\n",
         "Status":"New",
         "Author teams to alert":[
             "Ocean & Sea-Ice"
@@ -391,12 +391,12 @@
     {
         "Title":"olevel dimension in variable describing ocean floor",
         "Comment":"These variables currently have the dimension olevel, but are at the ocean bottom. I think this dimension should be removed and while we could add an ocean\\_floor coordinate I don't know whether this would be appropriate given that we don't do this for ocean surface or top of atmosphere variables.\n",
-        "Status":"New",
+        "Status":"Done",
         "Author teams to alert":[
             "Ocean & Sea-Ice",
             "Earth system"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"MK changed Spatial Shape as commented by Tomas Lavato above.\n\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
@@ -621,11 +621,12 @@
     {
         "Title":"Variables at 200m depth in ocean not clearly indicated as such",
         "Comment":"The variables at 200m depth are not clearly defined as such and could easily be misinterpreted as being at the surface (only mention is in the processing note).\n\nEach of these should probably have a depth200m dimension added and I'd seriously consider renaming them (note that we tend to have \"os\" on the end of ocean surface variables so you could add \"o200\" to the names for these variables\n",
-        "Status":"New",
+        "Status":"In progress",
         "Author teams to alert":[
-            "Ocean & Sea-Ice"
+            "Ocean & Sea-Ice",
+            "Earth system"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"MK added Earth System for Teams to be alerted.\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
@@ -652,7 +653,7 @@
             "Ocean & Sea-Ice",
             "Earth system"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"MK changed Spatial Shape according to the comment.\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
@@ -797,11 +798,11 @@
     {
         "Title":"Poor table choice for ocean variable",
         "Comment":"This variable appears to be an ocean variable for which the table Amon is not an appropriate choice.  cell\\_methods should probably be \"area: mean where sea time:mean\" and cell\\_methods should point at areacello rather than areacella\n",
-        "Status":"New",
+        "Status":"Done",
         "Author teams to alert":[
             "Ocean & Sea-Ice"
         ],
-        "Data Request Actions":"",
+        "Data Request Actions":"MK changed Table.\n",
         "GitHub Issue URL":"",
         "Coordinates and Dimensions":"",
         "GitHub Issue number":"",
