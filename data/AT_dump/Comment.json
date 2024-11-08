@@ -647,7 +647,7 @@
     {
         "Title":"Wrong spatial shape associated to ocean bgc export fluxes",
         "Comment":"The spatial shape of the following variables representing 2D fluxes at the ocean bottom should be modified into **Global field (single level)**:\n`Omon.exparagob, Omon.expcalcob, Omon.expcob, Omon.expfeob, Omon.expnob, Omon.exppob, Omon.expsiob`\n",
-        "Status":"New",
+        "Status":"Done",
         "Author teams to alert":[
             "Ocean & Sea-Ice",
             "Earth system"
