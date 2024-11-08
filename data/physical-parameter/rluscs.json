@@ -6,7 +6,9 @@
     },
     "cf-standard-name-exists": false,
     "cmor-variables": [
-        "test"
+        {
+            "@id": "dr:variables/amon.rluscs"
+        }
     ],
     "comments": "",
     "created": "2024-09-11T23:51:07.000Z",

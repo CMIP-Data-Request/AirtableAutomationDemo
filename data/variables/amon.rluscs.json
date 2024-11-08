@@ -1,0 +1,64 @@
+{
+    "@id": "dr:data/variables/amon.rluscs",
+    "@type": "dr:variable",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/surface_upwelling_longwave_flux_assuming_clear_sky"
+    },
+    "cf-standard-name-exists": false,
+    "cmip7-variable-groups": "radiativeforcing_monthly",
+    "compound-name": "Amon.rluscs",
+    "description": "Surface Upwelling Clear-sky Longwave Radiation\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/mon"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted"
+    ],
+    "positive-direction": "up",
+    "processing-note": "",
+    "provenance": "Amon ((isd.003))",
+    "status": "Under review",
+    "table": [
+        "Amon"
+    ],
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "Surface Upwelling Clear-Sky Longwave Radiation",
+    "type": "real",
+    "uid": "",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": "",
+        "priority-2-(cmip6---old": "",
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
+    }
+}

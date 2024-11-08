@@ -7,7 +7,7 @@
     "cf-standard-name-exists": false,
     "cmor-variables": [
         {
-            "@id": "dr:variables/3hr.vas"
+            "@id": "dr:variables/3hrpt.vas"
         },
         {
             "@id": "dr:variables/6hrplev.vas"

@@ -1,0 +1,69 @@
+{
+    "@id": "dr:data/variables/3hrpt.vas",
+    "@type": "dr:variable",
+    "brand-(dr)-[link]": "tpt-h010-hxy-amn",
+    "brand-(wip)-[link]": "tpt-h010-hxy-x",
+    "cf-standard-name": {
+        "@id": "cf:standard-name/northward_wind"
+    },
+    "cf-standard-name-exists": true,
+    "cmip7-variable-groups": "baseline_subdaily, cowclip_wind_wave_variables, urban_impacts_essential, Impact_energy_river_temperature",
+    "compound-name": "3hrPt.vas",
+    "description": "This is sampled synoptically.\n",
+    "frequency": [
+        {
+            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
+        }
+    ],
+    "modeling-realm": [
+        {
+            "@id": "mip-cmor-tables:auxillary/realm/atmos"
+        }
+    ],
+    "opportunity-status-(from-cmip7-variable-groups)": [
+        "Accepted",
+        "Under review"
+    ],
+    "positive-direction": "",
+    "processing-note": "",
+    "provenance": "3hr ((isd.003))",
+    "status": "CMIP6 CMOR variable",
+    "table": [
+        "3hrPt"
+    ],
+    "theme": "",
+    "title": "Northward Near-Surface Wind",
+    "type": "real",
+    "uid": "babbdec8-e5dd-11e5-8482-ac72891c3257",
+    "variable-is-included-in-esm-bcv-v1.3": "",
+    "review": {
+        "atmosphere-author-team-review": "",
+        "atmosphere-review-comment": "",
+        "cross-thematic-group-review-comment": "",
+        "cross-thematic-team-review": "",
+        "earth-system-author-team-review": "",
+        "impacts-&-adaptation-author-team-review": "",
+        "land-&-land-ice-author-team-review": "",
+        "ocean-&-sea-ice-author-team-review": ""
+    },
+    "priority": {
+        "priority-1-(cmip6)": "",
+        "priority-1-(cmip6)----old": [
+            "CFMIP",
+            "CMIP5",
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6---old": [
+            "VIACSAB"
+        ],
+        "priority-2-(cmip6)": "",
+        "priority-3-(cmip6---old)": "",
+        "priority-3-(cmip6)": ""
+    },
+    "rank": {
+        "min-rank": 46,
+        "rank-by-file-count": 159,
+        "rank-by-submissions": 154,
+        "rank-by-volume": 46
+    }
+}
