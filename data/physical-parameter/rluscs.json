@@ -5,7 +5,9 @@
         "@id": "cf:standard-name/1 checked out of 1"
     },
     "cf-standard-name-exists": false,
-    "cmor-variables": "",
+    "cmor-variables": [
+        "test"
+    ],
     "comments": "",
     "created": "2024-09-11T23:51:07.000Z",
     "data-protection-consent": true,
