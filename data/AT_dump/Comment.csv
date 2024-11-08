@@ -57,6 +57,8 @@ recP1whko4VTHdkF0,Ocean Surface variable naming,"The variables Oday.uo and Oday.
 ",New,['Ocean & Sea-Ice'],,,,,,
 recQjp0xiCmE0uREK,Ocean dimensions in atmosphere variable,"This variable includes dimensions ""olevhalf"" and ""time2"". I suspect that this is a surface variable, but it would be good to confirm whether this is wanted as a climatology (time2 implies this) 
 ",New,['Earth system'],,,,,,
+recRGKSaYH2fODfl6,"alternative to ocean barotropic streamfunction, msftbarot","The barotropic flow is slightly divergent in most modern ocean models, so it cannot be represented by a streamfunction. Griffies et al (2016) note this and suggest submitting an approximate barotropic streamfunction, ∫ U dy in the +y-ward direction starting from inside Antarctica, where U = ∫ ρ u dz is the vertically integrated x-ward transport. The better approach, they note, is to solve an elliptic boundary value problem, i.e. do a Helmholtz decomposition and then provide just the scalar field for the non-divergent part. If the rationale for not doing that is to keep things simple for ocean modellers, then I propose we provide the barotropic transports U and V = ∫ ρ v dz instead of \`msftbarot\` (which is even easier, though 2x the data). Then, subsequent analysis can use either the approximation \`msftbarot\` or the streamfunction part of the Helmholtz decomposition computed from U and V after the fact.
+",New,['Ocean & Sea-Ice'],,,,,,
 recRRKc3KsrcYrLTo,Change '--' notation in cell measures ,"These three cell measures are indicated with two dashes in their name, this creates issues when exporting the database to excel format. Update names to have two colons instead of two dashes (e.g. ::UGRID instead of --UGRID)
 ",Done,,"Changed
 ",,,,,
