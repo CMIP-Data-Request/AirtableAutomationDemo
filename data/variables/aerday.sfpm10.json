@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_daily, AgAirPollution, HealthPollutionDaily",
     "compound-name": "AERday.sfpm10",
     "description": "This is the daily mean PM10 mass mixing ratio in lowest model layer\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

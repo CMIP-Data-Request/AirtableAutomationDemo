@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.edt",
     "description": "Vertical diffusion coefficient for temperature due to parametrised eddies\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

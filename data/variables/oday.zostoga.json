@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Sea_level_extremes",
     "compound-name": "Oday.zostoga",
     "description": "Global Average Thermosteric Sea Level Change\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

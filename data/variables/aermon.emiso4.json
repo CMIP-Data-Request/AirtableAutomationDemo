@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.emiso4",
     "description": "Direct primary emission does not include secondary sulfate production. Integrate 3D emission field vertically to 2d field.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

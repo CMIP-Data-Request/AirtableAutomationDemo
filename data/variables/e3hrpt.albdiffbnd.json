@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.albdiffbnd",
     "description": "The fraction of the surface diffuse downwelling shortwave radiation flux which is reflected. If the diffuse radiation is isotropic, this term is equivalent to the integral of surface bidirectional reflectance over all incident angles and over all outgoing angles in the hemisphere above the surface. Reported in spectral frequency bands.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

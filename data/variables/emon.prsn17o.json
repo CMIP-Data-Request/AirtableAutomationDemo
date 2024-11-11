@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.prsn17O",
     "description": "Precipitation mass flux of water molecules that contain the oxygen-17 isotope (H2 17O), including solid phase only.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

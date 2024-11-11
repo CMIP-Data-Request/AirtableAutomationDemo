@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.fgo2",
     "description": "Gas exchange flux of O2 (positive into ocean)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "down",
     "processing-note": "",

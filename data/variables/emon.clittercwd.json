@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2",
     "compound-name": "Emon.cLitterCwd",
     "description": "\"Content\" indicates a quantity per unit area. \"Wood debris\" means dead organic matter composed of coarse wood. It is distinct from fine litter. The precise distinction between \"fine\" and \"coarse\" is model dependent.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

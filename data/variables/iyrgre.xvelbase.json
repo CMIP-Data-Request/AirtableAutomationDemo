@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "IyrGre.xvelbase",
     "description": "A velocity is a vector quantity. \"x\" indicates a vector component along the grid x-axis, positive with increasing x. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. \"basal\" means the lower boundary of the land ice.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

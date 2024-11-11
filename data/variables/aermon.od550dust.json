@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_2d_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550dust",
     "description": "Total aerosol AOD due to dust aerosol at a wavelength of 550 nanometres.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "AERmon.tntrlcs",
     "description": "clear-sky longwave heating rates\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Identical to AERmon.tntrl but for clear-sky radiation.\n",

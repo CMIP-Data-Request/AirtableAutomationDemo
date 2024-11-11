@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "radiativeforcing_monthly",
     "compound-name": "Amon.rluscs",
     "description": "Surface Upwelling Clear-sky Longwave Radiation\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

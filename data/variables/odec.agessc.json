@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Odec.agessc",
     "description": "Time elapsed since water was last in surface layer of the ocean.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",

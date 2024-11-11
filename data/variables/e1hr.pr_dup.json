@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E1hr.pr_dup",
     "description": "Hourly precipitation rate at the surface.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

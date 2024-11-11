@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.o3loss",
     "description": "ONLY provide the sum of the following reactions: (i) O(1D)+H2O; (ii) O3+HO2; (iii) O3+OH; (iv) O3+alkenes (isoprene, ethene,...)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

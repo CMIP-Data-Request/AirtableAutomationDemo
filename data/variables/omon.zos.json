@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, Hadley_Walker_Circulations, DCPP_Essential, paleo_ocean, SO_BGC-cloud_ocean_monthly, fish_model_core_mon, transport_impacts_essential, omip_scalar_fields, dynamical_downscaling_ocean_core, tipmip_baseline, omip_scalars_high_priority",
     "compound-name": "Omon.zos",
     "description": "This is the dynamic sea level, so should have zero global area mean. It should not include inverse barometer depressions from sea ice.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

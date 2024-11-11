@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_basic, paleo_cryosphere, ref_ocean_and_seaice, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sivol",
     "description": "Total volume of sea ice divided by grid-cell area (this used to be called ice thickness in CMIP5)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

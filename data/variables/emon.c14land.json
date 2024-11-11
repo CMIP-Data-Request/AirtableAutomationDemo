@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
     "compound-name": "Emon.c14Land",
     "description": "Carbon-14 mass content per unit area in vegetation (any living plants e.g. trees, shrubs, grass), litter (dead plant material in or above the soil), soil, and forestry and agricultural products (e.g. paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Eday.es",
     "description": "liquid\\_water\\_evaporation\\_flux\\_from\\_soil\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

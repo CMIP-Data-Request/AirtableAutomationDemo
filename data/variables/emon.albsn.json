@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "Emon.albsn",
     "description": "Albedo of snow - this is similar to Eday.albsn, but providing monthly averages\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

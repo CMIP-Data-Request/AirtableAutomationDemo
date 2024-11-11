@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential, omip_scalar_fields, omip_transports_high_priority",
     "compound-name": "Omon.msftbarot",
     "description": "Streamfunction or its approximation for free surface models. See OMDP document for details.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

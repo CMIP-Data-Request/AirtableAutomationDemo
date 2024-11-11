@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost, tipmip_baseline",
     "compound-name": "LImon.sftgrf",
     "description": "Percentage of grid cell covered by grounded ice sheet\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

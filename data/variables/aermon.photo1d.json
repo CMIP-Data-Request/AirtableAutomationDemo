@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.photo1d",
     "description": "proposed name: photolysis\\_rate\\_of\\_ozone\\_to\\_O1D\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

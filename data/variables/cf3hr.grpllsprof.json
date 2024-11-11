@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.grpllsprof",
     "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud. Graupel consists of heavily rimed snow particles, often called snow pellets; often indistinguishable from very small soft hail except when the size convention that hail must have a diameter greater than 5 mm is adopted. Reference: American Meteorological Society Glossary <http://glossary.ametsoc.org/wiki/Graupel>. There are also separate standard names for hail. Standard names for \"graupel\\_and\\_hail\" should be used to describe data produced by models that do not distinguish between hail and graupel.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "report on model half-levels\n",

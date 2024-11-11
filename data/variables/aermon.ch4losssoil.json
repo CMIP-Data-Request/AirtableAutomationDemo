@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, land_ch4_fluxes",
     "compound-name": "AERmon.ch4losssoil",
     "description": "This is the loss rate of methane from the atmosphere due to soil sink\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

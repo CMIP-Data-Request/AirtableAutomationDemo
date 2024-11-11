@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.concdust",
     "description": "Mass concentration means mass per unit volume and is used in the construction mass\\_concentration\\_of\\_X\\_in\\_Y, where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox\\_expressed\\_as\\_nitrogen\". \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

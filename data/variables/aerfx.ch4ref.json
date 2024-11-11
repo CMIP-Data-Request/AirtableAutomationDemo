@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_fixed",
     "compound-name": "AERfx.ch4ref",
     "description": "This is the methane mole fraction that is used in a diagnostic call to the model's radiation scheme. It is only applicable when a methane double call is active in the model.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

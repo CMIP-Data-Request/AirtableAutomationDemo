@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_daily, dynvar_basic, statistical_downscaling_core_daily_please_delete, statistical_downscaling_core_daily",
     "compound-name": "Eday.ua",
     "description": "Zonal wind (positive in a eastward direction).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

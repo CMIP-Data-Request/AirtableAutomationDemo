@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_subdaily, clouds_basic_average, landatm_coupling_3hA, synoptic_systems_high_priority, urban_impacts_essential, ISIMIP3hourlyAtmos",
     "compound-name": "3hr.pr",
     "description": "at surface; includes both liquid and solid phases.  This is the 3-hour mean precipitation flux.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

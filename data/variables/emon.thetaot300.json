@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential",
     "compound-name": "Emon.thetaot300",
     "description": "Upper 300m, 2D field\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

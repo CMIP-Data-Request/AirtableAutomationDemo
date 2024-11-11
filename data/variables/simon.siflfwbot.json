@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_freshwater_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.siflfwbot",
     "description": "Total flux of fresh water from water into sea ice divided by grid-cell area; This flux is negative during ice growth (liquid water mass decreases, hence upward flux of freshwater), positive during ice melt (liquid water mass increases, hence downward flux of freshwater)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

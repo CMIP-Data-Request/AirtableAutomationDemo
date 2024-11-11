@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.lwtoaasdust",
     "description": "Instantaneous forcing is the radiative flux change caused instantaneously by an imposed change in radiative forcing agent (greenhouse gases, aerosol, solar radiation, etc.).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

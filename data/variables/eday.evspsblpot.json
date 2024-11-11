@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "temperature_variability_daily_highpriority, temperature_variability_daily_lowpriority, AgWaterCore, AgWaterExt, biodiv_land_daily, WaterResources_daily, hydro_modelling_daily, hydro_modelling_subdaily",
     "compound-name": "Eday.evspsblpot",
     "description": "water\\_potential\\_evapotranspiration\\_flux\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

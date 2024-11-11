@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_cosp_extra, radiativeforcing_monthly",
     "compound-name": "CFmon.clmodisice_dup",
     "description": "Percentage ice-cloud cover as seen by the MODIS instrument simulator. Dimensions of cloud IWP (cloud ice water path) and r\\_eff (effective droplet size).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

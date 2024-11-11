@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.ttop",
     "description": "cloud\\_top refers to the top of the highest cloud. Air temperature is the bulk temperature of the air, not the surface (skin) temperature.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.zhalf",
     "description": "This is actual height above mean sea level, not geopotential height.  This is actual height above mean sea level, not geopotential height.  Includes both the top of the model atmosphere and surface levels.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

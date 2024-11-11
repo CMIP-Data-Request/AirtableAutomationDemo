@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_CFsites, WaterResources_subdaily",
     "compound-name": "E3hrPt.mmrso4",
     "description": "This variable is for instantaneous surface mass mixing ratio of sulfate aerosol at CF sites, sampled every 3 hours\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

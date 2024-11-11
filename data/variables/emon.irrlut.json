@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "AgTile, landuse",
     "compound-name": "Emon.irrLut",
     "description": "Mass flux of water due to irrigation.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

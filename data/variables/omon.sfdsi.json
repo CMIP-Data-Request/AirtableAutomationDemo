@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.sfdsi",
     "description": "This field is physical, and it arises since sea ice has a nonzero salt content, so it exchanges salt with the liquid ocean upon melting and freezing.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

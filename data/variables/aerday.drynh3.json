@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Deposition variables requested by ISIMIP",
     "compound-name": "AERday.drynh3",
     "description": "Daily Dry Deposition Rate of NH3 at surface\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

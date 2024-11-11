@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleodata_assimilation, paleo_stable_isotopes",
     "compound-name": "Emon.sw2H",
     "description": "Ratio of abundance of hydrogen-2 (2H) atoms to hydrogen-1 (1H) atoms in sea water\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_advanced",
     "compound-name": "SIday.sisali",
     "description": "Mean sea-ice salinity of all sea ice in grid cell\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

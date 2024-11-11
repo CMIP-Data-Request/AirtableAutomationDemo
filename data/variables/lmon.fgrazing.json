@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Lmon.fGrazing",
     "description": "Carbon mass flux per unit area due to grazing on land\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "",

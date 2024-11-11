@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrLev.pfull",
     "description": "Air Pressure (required only if pressure on model levels cannot be derived from other fields, e.g. for a non-hydrostatic model)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

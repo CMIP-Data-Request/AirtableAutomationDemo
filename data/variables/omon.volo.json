@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, omip_scalar_fields, tipmip_extended, omip_scalars_high_priority",
     "compound-name": "Omon.volo",
     "description": "Total volume of liquid sea water.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

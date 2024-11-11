@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.fahLut",
     "description": "Anthropogenic heat flux generated from non-renewable human primary energy consumption, including energy use by vehicles, commercial and residential buildings, industry, and power plants.  Primary energy refers to energy in natural resources, fossil and nonfossil, before conversion into other forms, such as electricity.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "",

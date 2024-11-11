@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, biodiv_freshwater_daily",
     "compound-name": "Eday.mrtws",
     "description": "canopy\\_and\\_surface\\_and\\_subsurface\\_water\\_amount\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

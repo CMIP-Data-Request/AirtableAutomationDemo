@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
     "compound-name": "Emon.rac13",
     "description": "Flux of carbon-13 into the atmosphere due to plant respiration. Plant respiration is the sum of respiration by parts of plants both above and below the soil. It is assumed that all the respired carbon dioxide is emitted to the atmosphere. \n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

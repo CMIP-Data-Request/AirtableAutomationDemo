@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, AgCarbon, FireMIP_monthly, ref_land_and_landice, paleo_permafrost",
     "compound-name": "Emon.cSoil",
     "description": "Carbon mass in the full depth of the soil model.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

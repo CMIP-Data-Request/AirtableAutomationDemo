@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_sediments",
     "compound-name": "Omon.expsiob",
     "description": "Downward sinking flux of particulate silicon at seafloor\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

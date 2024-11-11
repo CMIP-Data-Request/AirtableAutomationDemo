@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "temperature_variability_daily_lowpriority, aerchemmip_2d_daily",
     "compound-name": "AERday.maxpblz",
     "description": "maximum boundary layer height during the day (add cell\\_methods attribute: \"time: maximum\")\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

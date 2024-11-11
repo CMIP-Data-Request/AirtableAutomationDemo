@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, dynamical_downscaling_aerosols_chemistry",
     "compound-name": "AERmon.mmrnh4",
     "description": "Dry mass fraction of ammonium aerosol particles in air.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

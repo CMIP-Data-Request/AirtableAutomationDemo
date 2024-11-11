@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_marine_daily",
     "compound-name": "Oday.expcob",
     "description": "Downward sinking flux of particulate organic carbon at seafloor\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

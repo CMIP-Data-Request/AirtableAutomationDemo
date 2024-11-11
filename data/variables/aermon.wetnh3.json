@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.wetnh3",
     "description": "Surface deposition rate of ammonia (NH3) due to wet processes\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.opottempdiff",
     "description": "Tendency of heat content for a grid cell from parameterized dianeutral mixing. Reported only for models that use potential temperature as prognostic field.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_mesoscale, poleward_heat_transports, paleo_ocean_transports, tipmip_extended, omip_transports_medium_priority",
     "compound-name": "Omon.hfy",
     "description": "Contains all contributions to \"y-ward\" heat transport from resolved and parameterized processes. Use Celsius for temperature scale.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

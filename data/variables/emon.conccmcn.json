@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.conccmcn",
     "description": "includes all particles with diameter larger than 1 micron\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

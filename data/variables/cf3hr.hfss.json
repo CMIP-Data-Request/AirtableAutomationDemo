@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.hfss",
     "description": "The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "",

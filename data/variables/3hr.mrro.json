@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "WaterResources_subdaily",
     "compound-name": "3hr.mrro",
     "description": "the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell divided by the land area in the grid cell, averaged over the 3-hour interval.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

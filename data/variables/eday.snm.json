@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "hydrology, snow_allfreq",
     "compound-name": "Eday.snm",
     "description": "surface\\_snow\\_and\\_ice\\_melt\\_flux\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

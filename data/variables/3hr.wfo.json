@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr",
     "compound-name": "3hr.wfo",
     "description": "Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum \\*wfonocorr\\* and \\*wfcorr\\*.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

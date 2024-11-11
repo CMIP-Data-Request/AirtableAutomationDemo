@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.c2h4",
     "description": "The is the mole fraction of ethene (C2H4) in air\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

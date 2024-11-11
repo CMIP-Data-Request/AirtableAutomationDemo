@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_advanced",
     "compound-name": "SIday.sifb",
     "description": "Mean height of sea-ice surface (=snow-ice interface when snow covered) above sea level\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

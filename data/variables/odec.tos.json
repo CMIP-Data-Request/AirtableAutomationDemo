@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Odec.tos",
     "description": "This may differ from \"surface temperature\" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Note change from CMIP5 K to CMIP6 C. Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",

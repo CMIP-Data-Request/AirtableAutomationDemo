@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline, paleo_permafrost, tipmip_extended",
     "compound-name": "Emon.mrsol",
     "description": "in each soil layer, the mass of water in all phases, including ice.  Reported as \"missing\" for grid cells occupied entirely by \"sea\"\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

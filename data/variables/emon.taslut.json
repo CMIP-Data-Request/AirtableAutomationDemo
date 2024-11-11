@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landuse",
     "compound-name": "Emon.tasLut",
     "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

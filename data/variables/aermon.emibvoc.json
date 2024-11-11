@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.emibvoc",
     "description": "Integrate 3D emission field vertically to 2d field.\\_If\\_ fixed molecular weight of NMVOC is not available in model, please provide in units of kilomole m-2 s-1 (i.e. kg m-2 s-1 as if model NMVOC had molecular weight of 1) and add a comment to your file.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

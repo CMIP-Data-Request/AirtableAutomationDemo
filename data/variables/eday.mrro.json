@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_land_atmosphere_surface, HealthFloodingDaily",
     "compound-name": "Eday.mrro",
     "description": "This follows Emon.mrro, but at daily resolution where this variable does not yet exist\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

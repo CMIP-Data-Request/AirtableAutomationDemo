@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, DCPP_Essential, marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1",
     "compound-name": "Omon.intpp",
     "description": "Vertically integrated total primary (organic carbon) production by phytoplankton.  This should equal the sum of intpdiat+intpphymisc, but those individual components may be unavailable in some models.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

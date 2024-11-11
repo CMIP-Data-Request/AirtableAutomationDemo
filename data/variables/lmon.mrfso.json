@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DCPP_Essential, CFMIP_baseline",
     "compound-name": "Lmon.mrfso",
     "description": "the mass (summed over all all layers) of frozen water.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2dZ_monthly",
     "compound-name": "AERmonZ.hcl",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.  The chemical formula of hydrogen chloride is HCl.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

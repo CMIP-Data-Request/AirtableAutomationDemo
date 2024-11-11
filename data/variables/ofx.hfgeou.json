@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, omip_geometry_physics",
     "compound-name": "Ofx.hfgeou",
     "description": "Upward geothermal heat flux per unit area on the sea floor\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

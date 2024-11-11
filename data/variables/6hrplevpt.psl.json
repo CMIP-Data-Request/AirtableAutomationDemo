@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "synoptic_systems_high_priority, cordex [test], statistical_downscaling_core_6hourly, dynamical_downscaling_core, global_emulators",
     "compound-name": "6hrPlevPt.psl",
     "description": "Sea Level Pressure\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

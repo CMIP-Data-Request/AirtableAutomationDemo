@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IyrAnt.orog",
     "description": "This is needed in case the ice sheet elevation changes in time\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynamical_downscaling_core, global_emulators",
     "compound-name": "6hrLev.ta",
     "description": "Air Temperature\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

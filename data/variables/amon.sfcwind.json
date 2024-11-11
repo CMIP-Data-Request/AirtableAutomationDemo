@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, Hadley_Walker_Circulations, paleodata_assimilation, DCPP_Essential, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, paleo_permafrost, ref_impacts_and_adaptation",
     "compound-name": "Amon.sfcWind",
     "description": "This is the mean of the speed, not the speed computed from the mean u and v components of wind\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

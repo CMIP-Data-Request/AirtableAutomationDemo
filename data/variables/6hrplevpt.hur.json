@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlevPt.hur",
     "description": "Variable hur but at 70 hPa and 6 hourly instantanous\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

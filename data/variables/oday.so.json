@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_marine_daily, Ocean_acidification_oxygen_extremes, ocean_mesoscale",
     "compound-name": "Oday.so",
     "description": "Sea water salinity is the salt content of sea water, often on the Practical Salinity Scale of 1978. However, the unqualified term 'salinity' is generic and does not necessarily imply any particular method of calculation.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

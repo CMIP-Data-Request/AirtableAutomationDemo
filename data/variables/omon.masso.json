@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_scalar_fields, tipmip_extended, omip_scalars_high_priority",
     "compound-name": "Omon.masso",
     "description": "Total mass of liquid sea water. For Boussinesq models, report this diagnostic as Boussinesq reference density times total volume.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

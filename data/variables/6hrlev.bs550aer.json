@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily",
     "compound-name": "6hrLev.bs550aer",
     "description": "Aerosol  Backscatter at wavelength 550nm and scattering angle 180 degrees, computed from extinction and lidar ratio\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

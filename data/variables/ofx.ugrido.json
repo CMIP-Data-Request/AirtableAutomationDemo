@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Ofx.ugrido",
     "description": "Provide for models with unstructured grids only\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

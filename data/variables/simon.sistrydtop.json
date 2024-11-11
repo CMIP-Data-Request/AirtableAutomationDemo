@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere, DCPP_Wider, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sistrydtop",
     "description": "Y-component of atmospheric stress on sea ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

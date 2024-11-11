@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily",
     "compound-name": "6hrPlevPt.rv850",
     "description": "Relative vorticity is the upward component of the vorticity vector i.e. the component which arises from horizontal velocity.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

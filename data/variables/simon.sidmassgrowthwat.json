@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_mass_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sidmassgrowthwat",
     "description": "The rate of change of sea ice mass due to sea ice formation in supercooled water (often through frazil formation) divided by grid-cell area. Together, sidmassgrowthwat and sidmassgrowthbot should give total ice growth\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "3hr.tauvo",
     "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

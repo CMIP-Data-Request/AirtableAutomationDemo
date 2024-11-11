@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.fLulccProductLut",
     "description": "This annual mean flux refers to the transfer of carbon primarily through harvesting land use into anthropogenic product pools, e.g.,deforestation or wood harvesting from primary or secondary lands, food harvesting on croplands, harvesting (grazing) by animals on pastures.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_CFsites",
     "compound-name": "E3hrPt.so2",
     "description": "This variable represents the instantaneous surface so2 volume mixing ration at CF sites, sampled every 3 hours\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

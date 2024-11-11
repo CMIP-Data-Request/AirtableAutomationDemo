@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier2, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.phypico",
     "description": "carbon concentration from the picophytoplankton (<2 um) component alone\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

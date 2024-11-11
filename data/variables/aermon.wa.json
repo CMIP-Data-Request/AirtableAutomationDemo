@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.wa",
     "description": "A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Upward air velocity is the vertical component of the 3D air velocity vector. The standard name downward\\_air\\_velocity may be used for a vector component with the opposite sign convention.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

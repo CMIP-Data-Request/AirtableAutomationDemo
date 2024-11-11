@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline, paleo_permafrost, dynamical_downscaling_soil",
     "compound-name": "Lmon.tsl",
     "description": "Temperature of each soil layer.  Reported as \"missing\" for grid cells occupied entirely by \"sea\".\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

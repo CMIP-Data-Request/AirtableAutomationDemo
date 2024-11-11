@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Wider, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, ref_land_and_landice, ref_impacts_and_adaptation",
     "compound-name": "Lmon.lai",
     "description": "A ratio obtained by dividing the total upper leaf surface area of vegetation by the (horizontal) surface area of the land on which it grows.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, paleodata_assimilation, paleo_atmosphere, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
     "compound-name": "Amon.wap",
     "description": "commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

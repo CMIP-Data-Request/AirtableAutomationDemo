@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "clouds_basic_average, SO_BGC-cloud_atmos_composition_monthly, aerchemmip_2d_monthly",
     "compound-name": "AERmon.cod",
     "description": "The optical thickness is the integral along the path of radiation of a volume scattering/absorption/attenuation coefficient. The radiative flux is reduced by a factor exp(-optical\\_thickness) on traversing the path. A coordinate variable of radiation\\_wavelength or radiation\\_frequency can be specified to indicate that the optical thickness applies at specific wavelengths or frequencies. The atmosphere optical thickness applies to radiation passing through the entire atmosphere. \"Cloud\" means the component of extinction owing to the presence of liquid or ice water particles. The specification of a physical process by the phrase due\\_to\\_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity named by omitting the phrase.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

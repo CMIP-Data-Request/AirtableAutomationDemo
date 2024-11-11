@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.h2o",
     "description": "includes all phases of water\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

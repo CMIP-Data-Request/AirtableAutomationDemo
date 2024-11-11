@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Vegetation_type , plant_phenology",
     "compound-name": "Eday.raVgt",
     "description": "Carbon mass flux per unit area into atmosphere due to autotrophic respiration on land (respiration by producers) [see rh for heterotrophic production]. Calculated on vegetation type.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "ImonAnt.lifmassbf",
     "description": "Total mass balance at the ice front (or vertical margin). It includes both iceberg calving and melt on vertical ice front\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

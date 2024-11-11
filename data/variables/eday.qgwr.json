@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology",
     "compound-name": "Eday.qgwr",
     "description": "water\\_flux\\_from\\_soil\\_layer\\_to\\_groundwater\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

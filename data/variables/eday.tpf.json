@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "hydrology",
     "compound-name": "Eday.tpf",
     "description": "permafrost\\_layer\\_thickness\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

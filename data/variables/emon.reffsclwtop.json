@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly",
     "compound-name": "Emon.reffsclwtop",
     "description": "This variable represents the monthly mean Cloud-Top Effective Droplet Radius in Stratiform Cloud\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

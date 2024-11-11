@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "IyrGre.lithk",
     "description": "This is needed in case ice sheet thickness changes in time\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

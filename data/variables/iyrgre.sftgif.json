@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "IyrGre.sftgif",
     "description": "This is needed in case the ice sheet area changes in time\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

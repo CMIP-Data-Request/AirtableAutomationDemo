@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier2",
     "compound-name": "Emon.mrtws",
     "description": "requested for C4MIP, OCMIP/OMIP, LUMIP, ScenarioMIP, DECK, DAMIP, GeoMIP, LS3MIP, ??\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly",
     "compound-name": "AERmon.mmrpm10",
     "description": "Mass fraction atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

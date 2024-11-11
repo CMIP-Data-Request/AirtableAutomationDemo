@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr",
     "compound-name": "3hr.hfds",
     "description": "This is the net flux of heat entering the liquid water column through its upper surface (excluding any \"flux adjustment\") .\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

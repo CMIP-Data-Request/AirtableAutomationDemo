@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.clisccp",
     "description": "ISCCP 7x7\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

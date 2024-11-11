@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "urban_impacts_additional",
     "compound-name": "E1hr.bldep",
     "description": "Boundary Layer depth\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_daily, temperature_variability_daily_lowpriority, aerchemmip_3d_daily, CFMIP_baseline, cordex [test], global_emulators",
     "compound-name": "day.hus",
     "description": "Specific humidity is the mass fraction of water vapor in (moist) air.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

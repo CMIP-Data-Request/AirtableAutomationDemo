@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "impacts_climserv_hourly_core, impact_offshore_wind_installation, cowclip_wind_wave_variables",
     "compound-name": "E1hr.ua100m",
     "description": "Zonal wind at 100m\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

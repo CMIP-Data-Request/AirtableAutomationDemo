@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oyr.bddtalk",
     "description": "Net of biological terms in time rate of change of alkalinity\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

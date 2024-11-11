@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_transports_low_priority",
     "compound-name": "Omon.msftyzmpa",
     "description": "CMIP5 called this \"due to Bolus Advection\".  Name change respects the more general physics of the mesoscale parameterizations.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

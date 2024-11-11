@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily",
     "compound-name": "6hrPlevPt.pr",
     "description": "This is the total precipitation at the surface\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

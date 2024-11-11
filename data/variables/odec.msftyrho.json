@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_transports_high_priority",
     "compound-name": "Odec.msftyrho",
     "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

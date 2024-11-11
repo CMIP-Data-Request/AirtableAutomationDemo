@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_grid",
     "compound-name": "Ofx.dyvo",
     "description": "The width of the ocean model gridbox in at the v-point (dy)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

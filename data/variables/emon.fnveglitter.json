@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, c4mip_land_nitrogen_cycle_tier1",
     "compound-name": "Emon.fNVegLitter",
     "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Litter\" is dead plant material in or above the soil. \"Vegetation\" means any living plants e.g. trees, shrubs, grass.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

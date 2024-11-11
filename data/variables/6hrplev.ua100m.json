@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlev.ua100m",
     "description": "Zonal wind at 100m\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.dissicnat",
     "description": "Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration at preindustrial atmospheric xCO2\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  \"Tracer\"  concentations should be reported even if they are diagnosed rather than prognostically calculated.\n",

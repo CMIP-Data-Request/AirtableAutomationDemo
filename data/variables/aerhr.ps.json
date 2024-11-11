@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily",
     "compound-name": "AERhr.ps",
     "description": "surface pressure (not mean sea-level pressure), 2-D field to calculate the 3-D pressure field from hybrid coordinates\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

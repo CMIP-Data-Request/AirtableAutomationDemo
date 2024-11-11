@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",
     "compound-name": "Lmon.evspsblsoi",
     "description": "includes sublimation.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

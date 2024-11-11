@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "fish_model_expand_mon, ref_ocean_and_seaice",
     "compound-name": "Amon.thetao",
     "description": "The depth of the 17\u00b0C isosurface of sea water potential temperature serves as the threshold for the survival of various fish species.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

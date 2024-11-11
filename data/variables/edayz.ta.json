@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.ta",
     "description": "Zonal mean temperature of air with the extended number of vertical levels.\n\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

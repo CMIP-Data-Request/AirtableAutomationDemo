@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline",
     "compound-name": "Eday.rsdscsdiff",
     "description": "Surface downwelling solar irradiance from diffuse radiation for UV calculations in clear sky conditions\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

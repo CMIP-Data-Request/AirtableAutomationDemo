@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_seaice",
     "compound-name": "SImon.sisi",
     "description": "Mole amount means moles of substance per unit area\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

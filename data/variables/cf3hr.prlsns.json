@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.prlsns",
     "description": "large-scale precipitation of all forms of water in the solid phase.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "report on model half-levels\n",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, c4mip_land_carbon_cycle_tier1",
     "compound-name": "Emon.fAnthDisturb",
     "description": "Anthropogenic flux of carbon as carbon dioxide into the atmosphere. That is, emissions influenced, caused, or created by human activity. Anthropogenic emission of carbon dioxide includes fossil fuel use, cement production, agricultural burning and sources associated with anthropogenic land use change, except forest regrowth.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

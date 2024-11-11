@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Synoptic_systems_low_priority",
     "compound-name": "6hrPlevPt.hur100",
     "description": "Relative humidity at 100 hPa\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

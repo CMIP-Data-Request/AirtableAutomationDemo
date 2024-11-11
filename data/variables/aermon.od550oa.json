@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550oa",
     "description": "total organic aerosol AOD, comprises all organic aerosols, primary + secondary ; natural + anthropogenic including biomasss burning organic aerosol\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

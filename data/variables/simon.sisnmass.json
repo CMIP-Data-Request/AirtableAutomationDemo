@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_mass_monthly, seaice_state_monthly_basic, hydrology, CFMIP_baseline, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sisnmass",
     "description": "(in OImon, sim included snow and sea ice mass)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
     "compound-name": "Emon.netAtmosLandC13Flux",
     "description": "Flux of carbon 31as carbon dioxide into the land. This flux should be reproducible by differencing the sum of all carbon pools (cVeg, cLitter, cSoil, and cProducts or equivalently cLand) from one time step to the next, except in the case of lateral transfer of carbon due to harvest, riverine transport of dissolved organic and/or inorganic carbon, or any other process (in which case the lateral\\_carbon\\_transfer\\_over\\_land term, see below, will be zero data).-\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

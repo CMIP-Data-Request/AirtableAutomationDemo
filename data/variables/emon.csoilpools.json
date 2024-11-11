@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2",
     "compound-name": "Emon.cSoilPools",
     "description": "For models with multiple soil carbon pools, report each pool here. If models also have vertical discretisation these should be aggregated\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

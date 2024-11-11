@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Ocean_KE_vorticity_extremes, Ocean_KE_vorticity_extremes, biodiv_marine_daily, ocean_mesoscale",
     "compound-name": "Oday.uo",
     "description": "This is just uo at high frequency so as to compute KE and vorticity.\t\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

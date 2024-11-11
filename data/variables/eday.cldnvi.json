@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline, FireMIP_daily",
     "compound-name": "Eday.cldnvi",
     "description": "Droplets are liquid only.  Values are weighted by liquid cloud fraction in each layer when vertically integrating, and for monthly means the samples are weighted by total liquid cloud fraction (as seen from TOA).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

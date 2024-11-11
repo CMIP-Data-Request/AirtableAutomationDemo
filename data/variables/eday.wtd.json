@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, biodiv_freshwater_daily",
     "compound-name": "Eday.wtd",
     "description": "depth\\_of\\_soil\\_moisture\\_saturation\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

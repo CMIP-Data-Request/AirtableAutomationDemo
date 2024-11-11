@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.chepsoa",
     "description": "If model lumps SOA emissions with POA, then the sum of POA and SOA emissions is reported as OA emissions. \"mass\" refers to the mass of primary organic matter, not mass of organic carbon alone.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

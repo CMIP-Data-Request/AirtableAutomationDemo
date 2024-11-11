@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "ImonGre.orog",
     "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

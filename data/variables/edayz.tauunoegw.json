@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.tauunoegw",
     "description": "Zonal mean vertical wave flux of zonal momentum within the non-orographic GW parameterization associated with the eastward propagating modes.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

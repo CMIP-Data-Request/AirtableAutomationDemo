@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_ocean_3D, omip_budgets",
     "compound-name": "Oyr.opottemptend",
     "description": "Tendency of heat content for a grid cell from all processes. Reported only for models that use potential temperature as prognostic field.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

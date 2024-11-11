@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.rsucsafbnd",
     "description": "Calculated in the absence of aerosols and clouds (following Ghan). This requires a double-call in the radiation code with precisely the same meteorology.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "",

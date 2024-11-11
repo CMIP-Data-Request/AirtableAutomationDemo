@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, c4mip_ocean_carbon_cycle_tier2, marine_bgc_fishmip",
     "compound-name": "Omon.intppdiat",
     "description": "Vertically integrated primary (organic carbon) production by the diatom phytoplankton component alone\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

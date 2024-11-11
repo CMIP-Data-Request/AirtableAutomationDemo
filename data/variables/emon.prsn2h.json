@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleodata_assimilation, paleo_stable_isotopes",
     "compound-name": "Emon.prsn2h",
     "description": "Precipitation mass flux of water molecules that contain one atom of the hydrogen-2 isotope (1H 2H O), including solid phase only.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

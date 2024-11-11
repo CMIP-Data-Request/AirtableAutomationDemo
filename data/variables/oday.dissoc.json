@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_fisheries",
     "compound-name": "Oday.dissoc",
     "description": "Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.vsfcorr",
     "description": "It is set to zero in models which receive a real water flux.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

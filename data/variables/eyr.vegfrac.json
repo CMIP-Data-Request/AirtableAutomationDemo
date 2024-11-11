@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, land",
     "compound-name": "Eyr.vegFrac",
     "description": "Percentage of grid cell that is covered by vegetation.This SHOULD be the sum of tree, grass (natural and pasture), crop and shrub fractions.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

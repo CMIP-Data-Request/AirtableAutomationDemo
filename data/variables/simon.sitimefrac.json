@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, SO_BGC-cloud_ocean_monthly, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sitimefrac",
     "description": "Fraction of time steps of the averaging period during which sea ice is present (siconc >0 ) in a grid cell\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

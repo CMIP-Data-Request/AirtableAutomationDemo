@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Eday.sootsn",
     "description": "soot\\_content\\_of\\_surface\\_snow\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

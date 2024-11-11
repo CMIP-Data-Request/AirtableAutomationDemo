@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, ref_impacts_and_adaptation",
     "compound-name": "Amon.tasmin",
     "description": "monthly mean of the daily-minimum near-surface air temperature.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

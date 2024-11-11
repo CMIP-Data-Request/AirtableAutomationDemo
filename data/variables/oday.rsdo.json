@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_marine_daily",
     "compound-name": "Oday.rsdo",
     "description": "Downwelling Shortwave Radiation in Sea Water\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

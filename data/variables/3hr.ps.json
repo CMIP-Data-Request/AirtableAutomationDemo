@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landatm_coupling_3hA, ISIMIP3hourlyAtmos",
     "compound-name": "3hr.ps",
     "description": "sampled synoptically to diagnose atmospheric tides, this is better than mean sea level pressure.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

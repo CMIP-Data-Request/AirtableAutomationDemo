@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential, fish_model_core_mon, marine_bgc_fisheries",
     "compound-name": "Emon.t20d",
     "description": "20C isotherm depth\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

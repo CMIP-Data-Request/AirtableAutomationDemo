@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_area_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sidconcdyn",
     "description": "Total change in sea-ice area fraction through dynamics-related processes (advection, divergence...)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

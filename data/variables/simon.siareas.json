@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_global_monthly_basic, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.siareas",
     "description": "total area of sea ice in the Southern hemisphere\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

@@ -1,0 +1,50 @@
+[
+    {
+        "id":"ocean",
+        "Name":"Ocean",
+        "Other Name":"Ocean",
+        "UID":"527f5cd5-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"land",
+        "Name":"Land Surface",
+        "Other Name":"Land Surface",
+        "UID":"527f5cd3-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"atmos",
+        "Name":"Atmospheric",
+        "Other Name":"Atmosphere",
+        "UID":"527f5cd0-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"landIce",
+        "Name":"Land Ice",
+        "Other Name":"Land Ice",
+        "UID":"527f5cd4-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"atmosChem",
+        "Name":"Atmospheric Chemistry",
+        "Other Name":"Atmospheric Chemistry",
+        "UID":"527f5cd2-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"seaIce",
+        "Name":"Sea Ice",
+        "Other Name":"Sea Ice",
+        "UID":"527f5cd7-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"ocnBgchem",
+        "Name":"Ocean Biogeochemistry",
+        "Other Name":"Ocean Biogeochemistry",
+        "UID":"527f5cd6-8c97-11ef-944e-41a8eb05f654"
+    },
+    {
+        "id":"aerosol",
+        "Name":"Aerosol",
+        "Other Name":"Aerosol",
+        "UID":"527f5cd1-8c97-11ef-944e-41a8eb05f654"
+    }
+]

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DAMIP_monthly, DCPP_Essential, DCPP_Wider, FireMIP_monthly, ref_earth_system, ref_land_and_landice",
     "compound-name": "Lmon.nbp",
     "description": "This is the net mass flux of carbon between land and atmosphere calculated as photosynthesis MINUS the sum of  plant and soil respiration, carbonfluxes  from fire, harvest, grazing  and land use change. Positive flux  is into the land.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

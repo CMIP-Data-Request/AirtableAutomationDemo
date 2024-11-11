@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.rtmt",
     "description": "i.e., at the top of that portion of the atmosphere where dynamics are explicitly treated by the model. This is reported only if it differs from the net downward radiative flux at the top of the atmosphere.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

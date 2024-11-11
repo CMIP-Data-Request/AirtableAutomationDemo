@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.stratch4loss",
     "description": "This is the loss rate of stratospheric methane by all chemical destruction. The distinction between the stratosphere and troposphere should be consistent with the tropopause as used in the calculation of the tropopause pressure (ptp).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

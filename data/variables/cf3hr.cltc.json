@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.cltc",
     "description": "For the whole atmospheric column, as seen from the surface or the top of the atmosphere. Includes only convective cloud.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Besides the quantities from the Amon table, this is the only other 2-D field in this table.\n",

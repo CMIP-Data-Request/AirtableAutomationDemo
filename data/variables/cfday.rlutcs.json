@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, CFMIP_baseline",
     "compound-name": "CFday.rlutcs",
     "description": "Upwelling clear-sky longwave radiation at top of atmosphere\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

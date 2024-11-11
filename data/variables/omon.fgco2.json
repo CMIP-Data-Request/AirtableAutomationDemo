@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, DCPP_Essential, marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly, ref_earth_system, co2_emissions_concentration_mapping",
     "compound-name": "Omon.fgco2",
     "description": "Gas exchange flux of CO2 (positive into ocean)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

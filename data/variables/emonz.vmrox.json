@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "EmonZ.vmrox",
     "description": "zonal mean; hence YZT\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

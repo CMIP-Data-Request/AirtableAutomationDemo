@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_land_atmosphere_surface, DCPP_Wider",
     "compound-name": "Emon.tdps",
     "description": "Dew point temperature is the temperature at which a parcel of air reaches saturation upon being cooled at constant pressure and specific humidity.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

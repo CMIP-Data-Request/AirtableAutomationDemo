@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_3d_monthly",
     "compound-name": "AERmon.o3ste",
     "description": "Ozone tracer intended to map out strat-trop exchange (STE) of ozone.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

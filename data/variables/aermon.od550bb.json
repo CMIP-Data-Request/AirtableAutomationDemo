@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550bb",
     "description": "total organic aerosol AOD due to biomass burning (excluding so4, nitrate BB components)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

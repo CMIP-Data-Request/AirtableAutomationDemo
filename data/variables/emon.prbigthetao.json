@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.prbigthetao",
     "description": "A passive tracer in an ocean model which is subject to an externally imposed perturbative surface heat flux. The passive tracer is initialised to the conservative temperature in the control climate before the perturbation is imposed. Its surface flux is the heat flux from the atmosphere, not including the imposed perturbation, and is converted to a passive tracer increment as if it were being added to conservative temperature. The passive tracer is transported within the ocean as if it were conservative temperature. \n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

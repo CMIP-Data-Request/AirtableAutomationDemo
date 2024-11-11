@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleo_radiation_fluxes, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
     "compound-name": "Amon.rsutcs",
     "description": "Calculated in the absence of clouds.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

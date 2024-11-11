@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "AgModelHourly, impacts_climserv_hourly_core, urban_impacts_additional, HealthPollutionhourly, biodiv_microclim_hourly, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "E1hr.tas",
     "description": "Hourly Temperature at 2m above the surface\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

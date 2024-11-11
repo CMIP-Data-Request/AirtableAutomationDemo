@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere",
     "compound-name": "SImon.siforcetiltx",
     "description": "X-component of force on sea ice caused by sea-surface tilt\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.sfriver",
     "description": "This field is physical, and it arises when rivers carry a nonzero salt content.  Often this is zero, with rivers assumed to be fresh.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

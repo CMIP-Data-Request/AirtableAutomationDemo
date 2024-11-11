@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2, paleo_permafrost, tipmip_extended",
     "compound-name": "Emon.cSoilLevels",
     "description": "for models with vertically discretised soil carbon, report total soil carbon for each level\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

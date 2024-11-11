@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_met_monthly, CFMIP_baseline",
     "compound-name": "Amon.pfull",
     "description": "Air pressure on model levels\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

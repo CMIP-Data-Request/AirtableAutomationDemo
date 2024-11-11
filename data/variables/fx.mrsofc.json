@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, paleo_fx, AgWaterExt, HealthFloodingDaily",
     "compound-name": "fx.mrsofc",
     "description": "reported \"where land\": divide the total water holding capacity of all the soil in the grid cell by the land area in the grid cell;  reported as \"missing\" where the land fraction is 0.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

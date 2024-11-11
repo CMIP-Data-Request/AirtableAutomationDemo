@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, seaice_budget_area_monthly, seaice_state_monthly_basic, DAMIP_monthly, CVDP_input, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_cryosphere, ref_ocean_and_seaice, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, cordex [test], paleo_cryosphere_high_priority, global_emulators",
     "compound-name": "SImon.siconc",
     "description": "Percentage of grid cell covered by sea ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

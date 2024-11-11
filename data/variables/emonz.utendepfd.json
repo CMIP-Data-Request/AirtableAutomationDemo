@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic, DCPP_Wider",
     "compound-name": "EmonZ.utendepfd",
     "description": "Tendency of the zonal mean zonal wind due to the divergence of the Eliassen-Palm flux.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

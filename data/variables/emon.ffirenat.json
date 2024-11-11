@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, aerchemmip_2d_monthly, c4mip_land_carbon_cycle_tier1, tipmip_extended",
     "compound-name": "Emon.fFireNat",
     "description": "CO2 emissions from natural fires\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oclim.difmxylo2d",
     "description": "Lateral Laplacian viscosity applied to the momentum equations.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "2-d time dependent field\n",

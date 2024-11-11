@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, CFMIP_baseline, snow_allfreq, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sitempsnic",
     "description": "Report surface temperature of ice where snow thickness is zero\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

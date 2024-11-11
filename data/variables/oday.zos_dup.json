@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oday.zos_dup",
     "description": "This is the dynamic sea level, so should have zero global area mean. It should not include inverse barometer depressions from sea ice.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

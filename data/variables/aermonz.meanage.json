@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic, aerchemmip_2dZ_monthly",
     "compound-name": "AERmonZ.meanage",
     "description": "The mean age of air is defined as the mean time that a stratospheric air mass has been out of contact with the well-mixed troposphere.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

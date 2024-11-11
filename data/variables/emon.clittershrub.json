@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.cLitterShrub",
     "description": "\"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Content\" indicates a quantity per unit area. The sum of the quantities with standard names surface\\_litter\\_mass\\_content\\_of\\_carbon and subsurface\\_litter\\_mass\\_content\\_of\\_carbon has the standard name litter\\_mass\\_content\\_of\\_carbon.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

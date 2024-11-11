@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly",
     "compound-name": "Omon.dissicos",
     "description": "Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

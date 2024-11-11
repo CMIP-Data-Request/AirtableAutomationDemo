@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",
     "compound-name": "Lmon.tran",
     "description": "Transpiration (may include dew formation as a negative flux).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "synoptic_systems_high_priority",
     "compound-name": "6hrPlevPt.vas",
     "description": "Near surface northward wind\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

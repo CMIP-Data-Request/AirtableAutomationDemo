@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_daily, seaice_state_daily_basic, cowclip_wind_wave_variables, DCPP_Wider, biodiv_marine_daily, CFMIP_baseline, cordex [test], seaice_gcos_ecv, dynamical_downscaling_core, global_emulators",
     "compound-name": "SIday.siconc",
     "description": "Percentage of grid cell covered by sea ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

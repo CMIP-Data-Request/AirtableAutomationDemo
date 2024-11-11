@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "urban_impacts_essential, landatm_coupling_3hA",
     "compound-name": "3hrPt.bldep",
     "description": "Boundary Layer Depth every 3 hours\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

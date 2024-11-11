@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_daily, clouds_basic_average, temperature_variability_daily_highpriority, synoptic_systems_high_priority, dynvar_basic, DAMIP_daily, aerchemmip_2d_daily, DCPP_Essential, paleo_land_atmosphere_surface, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, ISIMIPMinimalAtmos, CFMIP_baseline, cordex [test], paleo_permafrost, tipmip_baseline, landice_glaciers_allfreq, global_emulators",
     "compound-name": "day.tas",
     "description": "near-surface (usually, 2 meter) air temperature\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

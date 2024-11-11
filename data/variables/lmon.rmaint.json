@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Lmon.rMaint",
     "description": "Maintenance respiration is defined as the carbon cost to support the metabolic activity of existing live tissue.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "This flux and rGrowth provide a breakdown of the higher priority \"Autotrophic (Plant) Respiration\" [ra]; thus the sum should be identical to that.\n",

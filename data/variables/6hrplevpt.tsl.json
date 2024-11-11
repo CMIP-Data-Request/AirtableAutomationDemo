@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlevPt.tsl",
     "description": "Temperature of single near-surface soil layer.  Reported as \"missing\" for grid cells occupied entirely by \"sea\".\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

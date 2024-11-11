@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "temperature_variability_daily_lowpriority, DAMIP_daily, paleo_land_atmosphere_surface, HealthFloodingDaily, biodiv_freshwater_daily, impact_energy_hydropower, WaterResources_daily",
     "compound-name": "Eday.mrros",
     "description": "surface\\_runoff\\_flux\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

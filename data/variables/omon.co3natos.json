@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.co3natos",
     "description": "Near surface mole concentration (number of moles per unit volume: molarity) of the natural-analogue carbonate anion (CO3). A natural analogue is used to simulate the effect on a modelled variable of imposing preindustrial atmospheric carbon dioxide concentrations, even when the model as a whole may be subjected to varying forcings. \n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

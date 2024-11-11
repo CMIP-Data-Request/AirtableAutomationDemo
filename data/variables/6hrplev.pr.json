@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider",
     "compound-name": "6hrPlev.pr",
     "description": "includes both liquid and solid phases\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

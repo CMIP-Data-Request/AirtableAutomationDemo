@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.ps",
     "description": "not, in general, the same as mean sea-level pressure\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

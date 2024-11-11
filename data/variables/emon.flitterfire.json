@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2",
     "compound-name": "Emon.fLitterFire",
     "description": "Required for unambiguous separation of vegetation and soil + litter turnover times, since total fire flux draws from both sources\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

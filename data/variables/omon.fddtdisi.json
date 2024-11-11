@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.fddtdisi",
     "description": "vertical integral of net time rate of change of dissolved inorganic silicon\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "integral over upper 100 m only.\n",

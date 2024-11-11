@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_global_monthly_basic, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.siextentn",
     "description": "Total area of all Northern-Hemisphere grid cells that are covered by at least 15 % areal fraction of sea ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

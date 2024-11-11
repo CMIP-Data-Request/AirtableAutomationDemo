@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.aerasymbnd",
     "description": "The asymmetry factor is the angular integral of the aerosol scattering phase function weighted by the cosine of the angle with the incident radiation flux. The asymmetry coefficient is here an integral over all wavelength bands.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

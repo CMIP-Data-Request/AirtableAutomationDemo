@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "AgLandUse",
     "compound-name": "Lmon.c4PftFrac",
     "description": "Percentage of entire grid cell  that is covered by C4 PFTs (including grass and crops).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

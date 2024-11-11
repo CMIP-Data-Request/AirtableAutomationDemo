@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sitempbot",
     "description": "Report temperature at interface, NOT temperature within lowermost model layer\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

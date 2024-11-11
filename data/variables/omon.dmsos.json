@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, marine_bgc_baseline",
     "compound-name": "Omon.dmsos",
     "description": "Mole concentration of dimethyl sulphide in water in the near surface layer\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

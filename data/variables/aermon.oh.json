@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly, dynamical_downscaling_aerosols_chemistry",
     "compound-name": "AERmon.oh",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, hydrology, CFMIP_baseline, dynamical_downscaling_core",
     "compound-name": "fx.sftlf",
     "description": "Percentage of horizontal area occupied by land.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

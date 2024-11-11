@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
     "compound-name": "Emon.c13Soil",
     "description": "Carbon-13 mass content per unit area in soil.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

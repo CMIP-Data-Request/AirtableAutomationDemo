@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hr.gpp",
     "description": "only requested for DECK HIST, 1980-present\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

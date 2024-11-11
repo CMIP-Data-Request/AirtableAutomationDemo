@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "hydrology",
     "compound-name": "Eday.pflw",
     "description": "liquid\\_water\\_content\\_of\\_permafrost\\_layer\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

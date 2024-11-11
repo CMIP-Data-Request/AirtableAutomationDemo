@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IfxAnt.topg",
     "description": "The bedrock topography beneath the land ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

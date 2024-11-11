@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "Emon.reffccwctop",
     "description": "This variable represents the monthly mean Cloud-Top Effective Radius of Liquid or Ice Cloud at Liquid or Ice Cloud Top\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

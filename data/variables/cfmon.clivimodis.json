@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra, cosp_output",
     "compound-name": "CFmon.clivimodis",
     "description": "Mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column) as seen by the MODIS instrument simulator.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

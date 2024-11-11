@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_circulation_transects_monthly, omip_transports_medium_priority",
     "compound-name": "Omon.mfo",
     "description": "Transport across\\_line means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. The transport should be evaluated for the full depth of the ocean, except for the Pacific Equatorial Undercurrent, which is averaged from the surface to 350m.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

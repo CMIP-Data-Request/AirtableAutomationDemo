@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline",
     "compound-name": "Amon.o3Clim",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

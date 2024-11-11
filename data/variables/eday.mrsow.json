@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_freshwater_daily",
     "compound-name": "Eday.mrsow",
     "description": "relative\\_soil\\_moisture\\_content\\_above\\_field\\_capacity\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

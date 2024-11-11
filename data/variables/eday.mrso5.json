@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "HealthFloodingDaily",
     "compound-name": "Eday.mrso5",
     "description": "Soil moisture in the top 5 cm of the soil column\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

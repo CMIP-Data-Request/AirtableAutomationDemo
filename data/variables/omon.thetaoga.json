@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, marine_bgc_baseline, paleo_ocean, omip_scalar_fields, omip_scalars_high_priority",
     "compound-name": "Omon.thetaoga",
     "description": "Diagnostic should be contributed even for models using conservative temperature as prognostic field\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

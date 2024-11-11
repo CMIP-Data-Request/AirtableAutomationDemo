@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oyr.fg14co2abio",
     "description": "Gas exchange flux of abiotic 14CO2 (positive into ocean)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "down",
     "processing-note": "",

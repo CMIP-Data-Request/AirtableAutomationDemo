@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier1",
     "compound-name": "Omon.detoc",
     "description": "sum of detrital organic carbon component concentrations\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

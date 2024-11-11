@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_pp_uncertainty",
     "compound-name": "Omon.limirrmisc",
     "description": "Growth limitation of miscellaneous phytoplankton due to solar irradiance. \"Growth limitation due to solar irradiance\" means the ratio of the growth rate of a species population in the environment (where the amount of sunlight reaching a location may be limited) to the theoretical growth rate if there were no such limit on solar irradiance.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

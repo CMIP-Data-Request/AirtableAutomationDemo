@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_permafrost",
     "compound-name": "Emon.depdust",
     "description": "Fdry mass deposition rate of dust\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

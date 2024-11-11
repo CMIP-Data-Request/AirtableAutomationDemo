@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_cosp_extra",
     "compound-name": "Emon.jpdftaureicemodis",
     "description": "MODIS Optical Thickness-Particle Size joint distribution, ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

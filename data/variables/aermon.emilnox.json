@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.emilnox",
     "description": "Integrate the NOx production for lightning over model layer. proposed name: tendency\\_of\\_atmosphere\\_mass\\_content\\_of\\_nox\\_from\\_lightning\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

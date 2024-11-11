@@ -1,37 +1,35 @@
-,Title,Name,Number of Levels,Level Flag,Comments
-rec1eFSEpR5EWjdLK,Global field (single level),XY-na,1,True,
-rec3ANEmWx0SvZauH,Atmospheric zonal mean (on 39 pressure levels),Y-P39,39,True,
-rec4PzMqaxeaIzKGE,Global field on soil levels,XY-S,0,False,
-rec7IZ96iKsfUAoc6,Global field on 40 altitude levels,XY-H40,40,True,
-rec7Lk3SNdOoDkLtc,Site (specific locations requested by CFMIP),S-na,1,True,
-rec7yqH9QMCpDQIBO,Global ocean field on model half levels,XY-OH,0,False,
-recAJTPKQTjvOpsr8,Global field (19 pressure levels),XY-P19,19,True,
-recEA2Ck7lYZ9vsDg,Global field (27 pressure levels),XY-P27,27,True,
-recLtudL7wadnHVj9,Global field (7 pressure levels),XY-P7,7,True,
-recN2wo4q8OuTtLLM,"Global field (3 pressure levels, UTLS)",XY-P3u,3,True,
-recVqSrjNkJ9AnYd2,Ocean transect,TR-na,1,True,
-recXxlzrtmZD80Ikk,Ocean basin meridional section (on model grid),GYB-O,0,False,"This shape is intended for meridional transport diagnostics which should be approximated as the transport along zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution
-"
-recc6uQw5RAS1YKKc,Global ocean field on model levels,XY-O,0,False,
-reccddsLt8GE3GaGY,Global field (8 pressure levels),XY-P8,8,True,
-recd6PFupchoaGYcm,Zonal mean (on surface),Y-na,1,True,
-recdirlYkySYqqmS5,Global field (4 pressure levels),XY-P4,4,True,
-recdtmJglIZQxYssq,Global field (16 altitudes),XY-H16,16,True,
-rece7NrwMj9ACYd39,Global field on model atmosphere levels,XY-A,0,False,
-receDU0UG8Nabr4KI,Ocean basin meridional section,YB-O,0,False,
-recg3DxJDy8bPmMU0,Polar stereographic grid (Greenland),XYG-na,1,True,
-recgfBKgP5fAzAPDO,Global field on model atmosphere half-levels,XY-AH,0,False,
-recggLMrS4AGjFZXo,Atmospheric profiles at specified sites,S-A,0,False,
-recitfMOfs8m5A28Y,Atmospheric profile (model half-levels),na-AH,0,False,
-recixfTxsVFYfdFcK,Ocean basin meridional section (on model grid and density surfaces),GYB-R,0,False,"This shape is intended for meridional transport diagnostics which should be approximated as the transport along zig-zag paths corresponding to latitudes with spacing between latitudes appropriate to the model's resolution
-"
-recnm68NIoJyvFFUI,Ocean transect for sea-ice fluxes,TRS-na,1,True,
-recoDb6p8Qjm7VaLZ,Global mean or constant,na-na,1,True,
-recqRWhcszcN9wxYj,Ocean basin zonal mean,YB-na,1,True,
-rect2dNvge0jEDJRX,Atmospheric zonal mean (on 19 pressure levels),Y-P19,19,True,
-recuPtyiGhxHHBy0j,Ocean basin meridional section (on density surfaces),YB-R,0,False,
-recv6ILTuZG9eZYFz,Polar stereographic grid (Antarctic),XYA-na,1,True,
-recx9BylPVPNwyNPY,Atmospheric profiles (half levels) at specified sites,S-AH,0,False,
-recxjo3T8qgdutrxH,Global field (3 pressure levels),XY-P3,3,True,
-recyKtKcf7G4B86os,Global field (7 pressure tropospheric levels),XY-P7T,7,True,
-reczCoqq0LmS0Kbv7,Zonal mean (on model levels),Y-A,0,False,
+,Title,Name,Number of Levels,Level Flag
+rec1eFSEpR5EWjdLK,Global field (single level),XY-na,1,True
+rec3ANEmWx0SvZauH,Atmospheric zonal mean (on 39 pressure levels),Y-P39,39,True
+rec4PzMqaxeaIzKGE,Global field on soil levels,XY-S,0,False
+rec7IZ96iKsfUAoc6,Global field on 40 altitude levels,XY-H40,40,True
+rec7Lk3SNdOoDkLtc,Site (specific locations requested by CFMIP),S-na,1,True
+rec7yqH9QMCpDQIBO,Global ocean field on model half levels,XY-OH,0,False
+recAJTPKQTjvOpsr8,Global field (19 pressure levels),XY-P19,19,True
+recEA2Ck7lYZ9vsDg,Global field (27 pressure levels),XY-P27,27,True
+recLtudL7wadnHVj9,Global field (7 pressure levels),XY-P7,7,True
+recN2wo4q8OuTtLLM,"Global field (3 pressure levels, UTLS)",XY-P3u,3,True
+recVqSrjNkJ9AnYd2,Ocean transect,TR-na,1,True
+recXxlzrtmZD80Ikk,Ocean basin meridional section (on model grid),GYB-O,0,False
+recc6uQw5RAS1YKKc,Global ocean field on model levels,XY-O,0,False
+reccddsLt8GE3GaGY,Global field (8 pressure levels),XY-P8,8,True
+recd6PFupchoaGYcm,Zonal mean (on surface),Y-na,1,True
+recdirlYkySYqqmS5,Global field (4 pressure levels),XY-P4,4,True
+recdtmJglIZQxYssq,Global field (16 altitudes),XY-H16,16,True
+rece7NrwMj9ACYd39,Global field on model atmosphere levels,XY-A,0,False
+receDU0UG8Nabr4KI,Ocean basin meridional section,YB-O,0,False
+recg3DxJDy8bPmMU0,Polar stereographic grid (Greenland),XYG-na,1,True
+recgfBKgP5fAzAPDO,Global field on model atmosphere half-levels,XY-AH,0,False
+recggLMrS4AGjFZXo,Atmospheric profiles at specified sites,S-A,0,False
+recitfMOfs8m5A28Y,Atmospheric profile (model half-levels),na-AH,0,False
+recixfTxsVFYfdFcK,Ocean basin meridional section (on model grid and density surfaces),GYB-R,0,False
+recnm68NIoJyvFFUI,Ocean transect for sea-ice fluxes,TRS-na,1,True
+recoDb6p8Qjm7VaLZ,Global mean or constant,na-na,1,True
+recqRWhcszcN9wxYj,Ocean basin zonal mean,YB-na,1,True
+rect2dNvge0jEDJRX,Atmospheric zonal mean (on 19 pressure levels),Y-P19,19,True
+recuPtyiGhxHHBy0j,Ocean basin meridional section (on density surfaces),YB-R,0,False
+recv6ILTuZG9eZYFz,Polar stereographic grid (Antarctic),XYA-na,1,True
+recx9BylPVPNwyNPY,Atmospheric profiles (half levels) at specified sites,S-AH,0,False
+recxjo3T8qgdutrxH,Global field (3 pressure levels),XY-P3,3,True
+recyKtKcf7G4B86os,Global field (7 pressure tropospheric levels),XY-P7T,7,True
+reczCoqq0LmS0Kbv7,Zonal mean (on model levels),Y-A,0,False

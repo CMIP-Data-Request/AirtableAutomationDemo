@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.lwsrfasdust",
     "description": "The direct radiative effect refers to the instantaneous radiative impact on the Earth's energy balance, excluding secondary effects such as changes in cloud cover.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

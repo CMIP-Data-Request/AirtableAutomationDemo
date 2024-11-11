@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_stable_isotopes",
     "compound-name": "Emon.sw17O",
     "description": "Ratio of abundance of oxygen-17 (17O) atoms to oxygen-16 (16O) atoms in sea water\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

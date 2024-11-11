@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_daily",
     "compound-name": "SIday.sifllattop",
     "description": "the net latent heat flux over sea ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

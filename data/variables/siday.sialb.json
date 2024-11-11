@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_gcos_ecv",
     "compound-name": "SIday.sialb",
     "description": "Mean surface albedo of entire ice-covered part of grid cell, defined as upward divided by downwelling shortwave broadband radiation.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

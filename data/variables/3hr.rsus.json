@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landatm_coupling_3hA, urban_impacts_essential, landatm-coupling_3hr_medium",
     "compound-name": "3hr.rsus",
     "description": "This is the 3-hour mean flux.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

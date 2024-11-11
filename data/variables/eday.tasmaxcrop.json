@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "AgTile",
     "compound-name": "Eday.tasmaxCrop",
     "description": "maximum near-surface (usually, 2 meter) air temperature (add cell\\_method attribute \"time: max\")\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

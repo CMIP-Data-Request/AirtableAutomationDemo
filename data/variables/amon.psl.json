@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, CVDP_input, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, FireMIP_monthly, CFMIP_baseline, ref_atmosphere, tipmip_baseline",
     "compound-name": "Amon.psl",
     "description": "not, in general, the same as surface pressure\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

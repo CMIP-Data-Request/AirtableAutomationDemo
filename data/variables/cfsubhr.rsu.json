@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.rsu",
     "description": "Upwelling shortwave radiation  (includes also the fluxes at the surface and top of atmosphere)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

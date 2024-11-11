@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_carbon_cycle_tier2",
     "compound-name": "Emon.raRoot",
     "description": "Total autotrophic respiration from all belowground plant parts.  This has benchmarking value because the sum of Rh and root respiration can be compared to observations of total soil respiration.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

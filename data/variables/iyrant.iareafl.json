@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IyrAnt.iareafl",
     "description": "Antarctica\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/landice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "Emon.albo",
     "description": "similar to the proposal of surface albedo of land without ice, but for ocean that is not covered by ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

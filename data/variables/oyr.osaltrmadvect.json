@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.osaltrmadvect",
     "description": "Tendency of salt content for a grid cell from residual mean  (sum of Eulerian mean + parameterized eddy-induced)  advection.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

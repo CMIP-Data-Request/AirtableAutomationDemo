@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, REJECTED_ocean_coordinates, ocean_grid, marine_bgc_baseline, paleo_fx, omip_geometry_physics",
     "compound-name": "Ofx.thkcello",
     "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_fx, hydrology, paleo_permafrost",
     "compound-name": "fx.sftlkf",
     "description": "This variable describes the fraction of a land surface grid cell that is characterized as lake. It shall complement variable fx.sftlf that defines the fraction of land for a grid cell, while information of the lake fraction could only be indirectly derived (e.g. via LMon.LandCoverFrac). For grid cells fully covered by lake the value should be 1, for grid cells without lake coverage the value should be zero.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Ocean_acidification_oxygen_extremes",
     "compound-name": "Omon.aragos",
     "description": "sum of particulate aragonite components (e.g. Phytoplankton, Detrital, etc.)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

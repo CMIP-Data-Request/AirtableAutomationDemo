@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, Sea_level_extremes, omip_scalar_fields, omip_scalars_low_priority",
     "compound-name": "Omon.zossq",
     "description": "Surface ocean geoid defines z=0.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

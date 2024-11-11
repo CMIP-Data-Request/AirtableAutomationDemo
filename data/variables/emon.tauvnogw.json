@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_advanced",
     "compound-name": "Emon.tauvnogw",
     "description": "\u00a0Vertical flux of meridional momentum within the non-orographic GW parameterization.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

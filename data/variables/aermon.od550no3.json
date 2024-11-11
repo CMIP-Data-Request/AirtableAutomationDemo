@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550no3",
     "description": "Total aerosol AOD due to nitrate aerosol at a wavelength of 550 nanometres.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

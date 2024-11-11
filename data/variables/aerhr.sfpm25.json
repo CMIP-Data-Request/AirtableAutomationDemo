@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily, HealthPollutionhourly",
     "compound-name": "AERhr.sfpm25",
     "description": "Mass fraction of atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 2.5 micrometers. To specify the relative humidity and temperature at which the particle size applies, provide scalar coordinate variables with the standard names of \"relative\\_humidity\" and \"air\\_temperature\".\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

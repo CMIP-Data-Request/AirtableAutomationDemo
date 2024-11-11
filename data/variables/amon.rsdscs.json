@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, aerchemmip_2d_monthly, paleo_radiation_fluxes, SO_BGC-cloud_met_monthly, CFMIP_baseline, clouds_basic_average",
     "compound-name": "Amon.rsdscs",
     "description": "Surface solar irradiance clear sky for UV calculations\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

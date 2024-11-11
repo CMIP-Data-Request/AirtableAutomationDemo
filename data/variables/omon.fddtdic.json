@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.fddtdic",
     "description": "\"Content\" indicates a quantity per unit area.  \"tendency\\_of\\_X\" means derivative of X with respect to time. \"Dissolved inorganic carbon\" describes a family of chemical species in solution, including carbon dioxide, carbonic acid and the carbonate and bicarbonate anions. \"Dissolved inorganic carbon\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models.  Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "integral over upper 100 m only.\n",

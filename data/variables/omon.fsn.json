@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynamical_downscaling_ocean_air_sea_biogeochemistry_forcing",
     "compound-name": "Omon.fsn",
     "description": "Flux of nitrogen into the ocean due to deposition (sum of dry and wet deposition), fixation (the production of ammonia from nitrogen gas by diazotrophs) and runoff (liquid water which drains from land).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

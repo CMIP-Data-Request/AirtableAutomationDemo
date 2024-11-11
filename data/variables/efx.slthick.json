@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, paleo_fx",
     "compound-name": "Efx.slthick",
     "description": "Thickness of Soil Layers\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

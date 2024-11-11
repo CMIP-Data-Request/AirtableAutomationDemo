@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_transports_high_priority",
     "compound-name": "Omon.hfbasinpmdiff",
     "description": "Contributions to heat transport from parameterized mesoscale eddy-induced diffusive transport (i.e., neutral diffusion). Diagnosed here as a function of latitude and basin.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Deposition variables requested by ISIMIP",
     "compound-name": "3hr.wetnoy",
     "description": "3-hourly Wet Deposition Rate of NOy\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

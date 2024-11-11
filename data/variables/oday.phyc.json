@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, biodiv_marine_daily",
     "compound-name": "Oday.phyc",
     "description": "sum of phytoplankton carbon component concentrations. In most (all?) cases this is the sum of phycdiat and phycmisc (i.e., \"Diatom Carbon Concentration\" and \"Non-Diatom Phytoplankton Carbon Concentration\"\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

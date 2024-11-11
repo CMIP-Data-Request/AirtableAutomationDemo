@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_daily",
     "compound-name": "SIday.siflcondtop",
     "description": "the net heat conduction flux at the ice surface\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

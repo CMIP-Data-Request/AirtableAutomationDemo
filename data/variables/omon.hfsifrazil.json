@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.hfsifrazil",
     "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase due\\_to\\_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Frazil\" consists of needle like crystals of ice, typically between three and four millimeters in diameter, which form as sea water begins to freeze. Salt is expelled during the freezing process and frazil ice consists of nearly pure fresh water.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "In general this should be reported as a function of depth, (i.e.,  it will be a function of the generic \"XYZ\" dimensions).  Include enough depth levels to represent  the non-zero values of this field everywhere on the globe. Report on native horizontal grid. If a function of depth, perform online remapping to depth or pressure, if not native vertical grid.\n",

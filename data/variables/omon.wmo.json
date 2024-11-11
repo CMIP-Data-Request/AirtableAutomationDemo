@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, aerchemmip_3d_monthly, DCPP_Wider, SO_BGC-cloud_ocean_monthly, omip_transports_high_priority",
     "compound-name": "Omon.wmo",
     "description": "Upward mass transport from residual mean (resolved plus parameterized) advective transport.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

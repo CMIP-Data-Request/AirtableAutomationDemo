@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr, clouds_basic_instantaneous",
     "compound-name": "CF3hr.rlds",
     "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"longwave\" means longwave radiation. Downwelling radiation is radiation from above. It does not mean \"net downward\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

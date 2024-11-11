@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_daily, dynvar_basic, aerchemmip_2d_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, cordex [test], global_emulators",
     "compound-name": "day.vas",
     "description": "Northward component of the near surface wind\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

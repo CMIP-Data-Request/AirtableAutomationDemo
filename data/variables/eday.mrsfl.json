@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, biodiv_freshwater_daily, paleo_permafrost",
     "compound-name": "Eday.mrsfl",
     "description": "in each soil layer, the mass of water in ice phase.  Reported as \"missing\" for grid cells occupied entirely by \"sea\"\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, surgemip_variables, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, marine_bgc_baseline, paleo_ocean, fish_model_core_mon, omip_scalar_fields, dynamical_downscaling_ocean_core, tipmip_baseline, omip_scalars_high_priority, ref_ocean_and_seaice",
     "compound-name": "Omon.sos",
     "description": "Sea water salinity is the salt content of sea water, often on the Practical Salinity Scale of 1978. However, the unqualified term 'salinity' is generic and does not necessarily imply any particular method of calculation. The units of salinity are dimensionless and the units attribute should normally be given as 1e-3 or 0.001 i.e. parts per thousand. \n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

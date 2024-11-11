@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.ch3coch3",
     "description": "Mole fraction is used in the construction \"mole\\_fraction\\_of\\_X\\_in\\_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox\\_expressed\\_as\\_nitrogen\". Acetone is an organic molecule with the chemical formula CH3CH3CO. The IUPAC name for acetone is propan-2-one. Acetone is a member of the group of organic compounds known as ketones. There are standard names for the ketone group as well as for some of the individual species.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

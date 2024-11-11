@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "impact_energy_building_demand, paleo_permafrost",
     "compound-name": "Eday.tsl",
     "description": "Temperature of each soil layer.  Reported as \"missing\" for grid cells occupied entirely by \"sea\".\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

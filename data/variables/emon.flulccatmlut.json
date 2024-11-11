@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landuse",
     "compound-name": "Emon.fLulccAtmLut",
     "description": "This annual mean flux refers to the transfer of carbon directly to the atmosphere due to any land-use or land-cover change activities.  Include carbon transferred due to deforestation or agricultural directly into atmosphere, and  emissions form anthropogenic pools into atmosphere\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

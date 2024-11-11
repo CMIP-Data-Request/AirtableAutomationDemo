@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, surgemip_variables, CVDP_input, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, marine_bgc_baseline, paleo_ocean, ref_ocean_and_seaice, SO_BGC-cloud_ocean_monthly, fish_model_core_mon, FireMIP_monthly, cordex [test], omip_scalar_fields, dynamical_downscaling_ocean_core, tipmip_baseline, omip_scalars_high_priority, global_emulators",
     "compound-name": "Omon.tos",
     "description": "This may differ from \"surface temperature\" in regions of sea ice or floating ice shelves. For models using conservative temperature as the prognostic field, they should report the top ocean layer as surface potential temperature, which is the same as surface in situ temperature.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

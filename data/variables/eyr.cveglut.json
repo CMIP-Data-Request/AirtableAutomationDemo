@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landuse",
     "compound-name": "Eyr.cVegLut",
     "description": "end of year values (not annual mean)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,14 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_basic, surgemip_variables, DCPP_Wider, CFMIP_baseline, seaice_gcos_ecv",
     "compound-name": "SIday.sithick",
     "description": "Actual (floe) thickness of sea ice (NOT volume divided by grid area as was done in CMIP5)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        },
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

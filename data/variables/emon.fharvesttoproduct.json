@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, c4mip_land_carbon_cycle_tier1",
     "compound-name": "Emon.fHarvestToProduct",
     "description": "be it food or wood harvest, any carbon that is subsequently stored is reported here\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

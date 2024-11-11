@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.rsutcso3ref",
     "description": "This represents the top-of-atmosphere outgoing shortwave radiative flux assuming clear-sky conditions when a reference ozone field is used in a diagnostic call to the radiation scheme\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

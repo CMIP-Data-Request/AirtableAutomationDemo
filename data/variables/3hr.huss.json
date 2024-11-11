@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_subdaily, landatm_coupling_3hA, ISIMIP3hourlyAtmos, landatm-coupling_3hr_medium",
     "compound-name": "3hr.huss",
     "description": "This is sampled synoptically.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_subdaily, synoptic_systems_high_priority, statistical_downscaling_core_6hourly",
     "compound-name": "6hrPlevPt.ua",
     "description": "Zonal wind (positive in a eastward direction).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

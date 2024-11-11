@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Wider, omip_scalar_fields, dynamical_downscaling_ocean_core, omip_scalars_high_priority",
     "compound-name": "Omon.zostoga",
     "description": "There is no CMIP6 request for zosga nor zossga.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

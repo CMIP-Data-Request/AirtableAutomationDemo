@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr",
     "compound-name": "3hr.sfdsi",
     "description": "This field is physical, and it arises since sea ice has a nonzero salt content, so it exchanges salt with the liquid ocean upon melting and freezing.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

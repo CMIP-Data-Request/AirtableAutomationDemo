@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly, Ocean_acidification_oxygen_extremes, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.dissic",
     "description": "Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

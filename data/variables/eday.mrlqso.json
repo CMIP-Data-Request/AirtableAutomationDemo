@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Eday.mrlqso",
     "description": "mass\\_fraction\\_of\\_unfrozen\\_water\\_in\\_soil\\_layer\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

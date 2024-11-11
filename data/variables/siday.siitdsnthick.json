@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, seaice_state_daily_advanced",
     "compound-name": "SIday.siitdsnthick",
     "description": "K=ice depth bands\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

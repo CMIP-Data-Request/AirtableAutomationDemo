@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "AERday.zg100",
     "description": "Geopotential height on the 100 hPa surface\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_carbon_isotopic_variables",
     "compound-name": "Emon.fg14co2",
     "description": "Gas exchange flux of carbon-14 as CO2 (positive into ocean)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

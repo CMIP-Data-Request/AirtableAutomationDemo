@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Deposition variables requested by ISIMIP",
     "compound-name": "AERday.wetnh3",
     "description": "Daily Wet Deposition Rate of NH3\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

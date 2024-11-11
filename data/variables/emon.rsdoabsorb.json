@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.rsdoabsorb",
     "description": "\"shortwave\" means shortwave radiation. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model\\_level\\_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Net absorbed radiation is the difference between absorbed and emitted radiation.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

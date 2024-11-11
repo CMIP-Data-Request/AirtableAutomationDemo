@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_fx",
     "compound-name": "fx.depthsl",
     "description": "This shall provide the total depth of soil, summed up over all soil layers, that may differ between  models; the idea is to be able to identify differences in treatment of soils across climate models.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

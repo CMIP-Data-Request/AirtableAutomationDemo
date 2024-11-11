@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, land_ch4_fluxes",
     "compound-name": "AERmon.emilkch4",
     "description": "This is the emission rate of methane (CH4) into the atmosphere from freshwater lakes\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

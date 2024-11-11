@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, CFMIP_baseline",
     "compound-name": "AERmon.ztp",
     "description": "2D monthly mean thermal tropopause calculated using WMO tropopause definition on 3d temperature\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

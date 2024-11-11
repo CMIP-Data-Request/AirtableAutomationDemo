@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oclim.difvmfdo",
     "description": "Vertical/dianeutral diffusivity applied to momentum due to form drag (i.e. resulting from a model scheme representing  mesoscale eddy-induced form drag).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

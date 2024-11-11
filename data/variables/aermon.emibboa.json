@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly",
     "compound-name": "AERmon.emibboa",
     "description": "The is the total emission rate of particulate organic matter (organic aerosol) into the atmosphere from all biomass burning (natural and anthropogenic)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, poleward_heat_transports, DCPP_Essential, paleo_ocean_transports, tipmip_extended, omip_transports_high_priority",
     "compound-name": "Omon.hfbasin",
     "description": "Contains contributions from all physical processes affecting the northward heat transport, including resolved advection, parameterized advection, lateral diffusion, etc. Diagnosed here as a function of latitude and basin.   Use Celsius for temperature scale.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

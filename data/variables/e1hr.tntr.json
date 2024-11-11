@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E1hr.tntr",
     "description": "Model levels or plev\\_27\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

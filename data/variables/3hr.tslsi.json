@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landatm_coupling_3hA",
     "compound-name": "3hr.tslsi",
     "description": "Surface temperature of all surfaces except open ocean, sampled synoptically.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

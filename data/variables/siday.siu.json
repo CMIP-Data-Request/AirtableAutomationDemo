@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_basic, surgemip_variables, CFMIP_baseline, seaice_gcos_ecv",
     "compound-name": "SIday.siu",
     "description": "The x-velocity of ice on native model grid\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

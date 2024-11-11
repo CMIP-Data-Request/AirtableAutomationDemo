@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.opottemppadvect",
     "description": "Tendency of heat content for a grid cell from parameterized eddy advection (any form of eddy advection). Reported only for models that use potential temperature as prognostic field.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

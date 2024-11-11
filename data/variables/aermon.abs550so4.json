@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_2d_monthly",
     "compound-name": "AERmon.abs550so4",
     "description": "This is the sulphate aerosol optical depth at 550nm due to absorption\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/aerosol"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

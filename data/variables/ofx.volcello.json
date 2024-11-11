@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "REJECTED_ocean_coordinates, marine_bgc_baseline, omip_geometry_physics, ocean_grid",
     "compound-name": "Ofx.volcello",
     "description": "For oceans with more than 1 mesh (e.g. staggered grids), report areas that apply to surface vertical fluxes of energy. If this field is time-dependent then save it instead as one of your Omon and Odec fields\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

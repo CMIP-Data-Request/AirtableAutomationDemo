@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Ocean Temperature Extremes",
     "compound-name": "Oday.bigthetao",
     "description": "Diagnostic should be contributed even for models using conservative temperature as prognostic field.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

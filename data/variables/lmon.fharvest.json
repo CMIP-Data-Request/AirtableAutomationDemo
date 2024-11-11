@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Lmon.fHarvest",
     "description": "Carbon mass flux per unit area due to crop harvesting\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "",

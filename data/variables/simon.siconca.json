@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_basic, DAMIP_monthly, CVDP_input, aerchemmip_2d_monthly",
     "compound-name": "SImon.siconca",
     "description": "Percentage of grid cell covered by sea ice\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

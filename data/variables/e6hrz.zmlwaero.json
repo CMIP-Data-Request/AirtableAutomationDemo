@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E6hrZ.zmlwaero",
     "description": "longwave heating rate due to volcanic aerosols to be diagnosed through double radiation call, zonal average values required\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

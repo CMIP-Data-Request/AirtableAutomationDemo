@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.albdirbnd",
     "description": "The fraction of the surface direct downwelling shortwave radiation flux which is reflected. It is equivalent to the surface bidirectional reflectance at the incident angle of the incoming solar radiation and integrated over all outgoing angles in the hemisphere above the surface.  Reported in spectral frequency bands.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

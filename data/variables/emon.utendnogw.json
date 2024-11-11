@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_advanced",
     "compound-name": "Emon.utendnogw",
     "description": "Tendency of the eastward wind by parameterized nonorographic gravity waves.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],

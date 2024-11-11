@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Synoptic_systems_low_priority",
     "compound-name": "6hrPlevPt.zg700",
     "description": "700 hPa geopotential height at 6 hourly instantaneous frequency\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.rsdo",
     "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\".  When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\".  In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\".  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  \"shortwave\" means shortwave radiation.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "down",
     "processing-note": "In general the shortwave flux should be reported as a function of ocean depth, (i.e.,  it will be a function of the generic \"XYZ\" dimensions).  Include enough depth levels to represent  the non-zero values of this field everywhere on the globe. Report on native horizontal grid. If a function of depth, perform online remapping to depth or pressure, if not native vertical grid.\n",

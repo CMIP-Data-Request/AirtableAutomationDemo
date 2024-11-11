@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_mass_monthly, CFMIP_baseline, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sidmassevapsubl",
     "description": "The rate of change of sea-ice mass change through evaporation and sublimation divided by grid-cell area\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

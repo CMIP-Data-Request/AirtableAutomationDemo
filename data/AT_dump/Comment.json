@@ -8,10 +8,7 @@
         ],
         "Data Request Actions":"\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Add LWP and IWP dimensions",
@@ -22,10 +19,7 @@
         ],
         "Data Request Actions":"The github discussion resolves that changes in dimensions are not needed, but there will be new standard names. [MJ]\n",
         "GitHub Issue URL":"https:\/\/github.com\/cf-convention\/vocabularies\/issues\/52#issuecomment-2255972930",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Reference level should be 10m for ocean mixed layer depth mlotst",
@@ -36,10 +30,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"CMIP7 SSP245 scenario",
@@ -51,10 +42,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Emon.albsn to be added to variable group paleo_cryosphere",
@@ -68,10 +56,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Visibility of pressure level information. ",
@@ -82,10 +67,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/20",
-        "Coordinates and Dimensions":"plev19",
-        "GitHub Issue number":"20",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":"20"
     },
     {
         "Title":"Missing longitude: mean in zonal mean variables",
@@ -96,10 +78,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Variables on atmospheric pressure levels.",
@@ -110,10 +89,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/29",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"29",
-        "Spatial Shape":"Global field (19 pressure levels), Global field (7 pressure levels), Global field (16 altitudes)",
-        "Temporal Shape":""
+        "GitHub Issue number":"29"
     },
     {
         "Title":"wrong dimensions for fx.zfull",
@@ -124,10 +100,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"fx.depthsl to be added to variable group paleo_fx",
@@ -140,10 +113,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"more precised definition of fx.mrsofc wanted",
@@ -156,10 +126,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"fx.lithk to be added to variable group paleo_fx",
@@ -173,10 +140,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Consistent calendar",
@@ -187,10 +151,7 @@
         ],
         "Data Request Actions":"This is out of scope for the data request [MJ]\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Ocean layers",
@@ -201,10 +162,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/24",
-        "Coordinates and Dimensions":"olayer100m, depth0m, depth100m, depth300m, depth700m, depth2000m",
-        "GitHub Issue number":"24",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":"24"
     },
     {
         "Title":"UTLS variables",
@@ -215,10 +173,7 @@
         ],
         "Data Request Actions":"\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"\"Global field (3 pressure levels, UTLS)\"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Inconsistent way sfcWind and sfcWindmax are provided",
@@ -231,10 +186,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":"time-point, time-intv"
+        "GitHub Issue number":""
     },
     {
         "Title":"Air Pressure at Convective Cloud Base",
@@ -245,10 +197,7 @@
         ],
         "Data Request Actions":"Accepted\n",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/28",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"28",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":"28"
     },
     {
         "Title":"Missing wavelength coordinate?",
@@ -260,10 +209,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"lambda550nm",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"provide Oyr.opottemptend as a decadal variable Odec.opottemptend",
@@ -274,10 +220,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Ice Sheet cell methods error",
@@ -288,10 +231,7 @@
         ],
         "Data Request Actions":"Removed 'grounded' from string. [MJ, 17 July]\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Ocean Surface variable naming",
@@ -302,10 +242,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Ocean dimensions in atmosphere variable",
@@ -316,10 +253,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"alternative to ocean barotropic streamfunction, msftbarot",
@@ -330,10 +264,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Change '--' notation in cell measures ",
@@ -342,10 +273,7 @@
         "Author teams to alert":"",
         "Data Request Actions":"Changed\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"incorrect dimensions on tasmaxCrop",
@@ -357,10 +285,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Variables tasmax and tasmin should use a climatology time axis",
@@ -369,10 +294,7 @@
         "Author teams to alert":"",
         "Data Request Actions":"co-leads MJ : reassign temporal shape in variables records and update linked structures. \n",
         "GitHub Issue URL":"https:\/\/github.com\/cmip6dr\/cmip7_forward_look\/issues\/48",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Additional information required as part of data request for C4H10",
@@ -383,10 +305,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"olevel dimension in variable describing ocean floor",
@@ -398,10 +317,7 @@
         ],
         "Data Request Actions":"MK changed Spatial Shape as commented by Tomas Lavato above\n\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Artificial tracer with a 90-day lifetime",
@@ -412,10 +328,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"update description\/processing notes of mlotst in Omon.mlotst, Omon_mlotstmax, Omon.mlotstmin, Omon.mlotstsq",
@@ -426,10 +339,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Inconsistency between Eday and LImon agesno (Age of Snow)",
@@ -440,10 +350,7 @@
         ],
         "Data Request Actions":"Proposed changes accepted\n",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/27",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"27",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":"27"
     },
     {
         "Title":"Addition of a stratosphere-only 550 OD",
@@ -454,10 +361,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"aerosol variables with incorrect dimensions and cell methods",
@@ -468,10 +372,7 @@
         ],
         "Data Request Actions":"\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Ice sheet variables with changes to dimensions from CMIP6",
@@ -482,10 +383,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Increase levels of EdayZ variables to 39 levels",
@@ -494,10 +392,7 @@
         "Author teams to alert":"",
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"definition of various albedo metrics to be discussed \/ potentially updated",
@@ -511,10 +406,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"This is likely a duplicate of the variable Omon.intpp",
@@ -526,10 +418,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"Global field (single level)",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Change in the name of the underlying physical parameter.",
@@ -540,10 +429,7 @@
         ],
         "Data Request Actions":"BD moved comment to Physical Parameters table\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Review of cloud simulator terms",
@@ -554,10 +440,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/33",
-        "Coordinates and Dimensions":"tau, plev7c",
-        "GitHub Issue number":"undefined",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":"undefined"
     },
     {
         "Title":"Adding RLUS, RLDS, RSDS, HFLS, and HFSS to baseline_daily group",
@@ -571,10 +454,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"Global field (single level)",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Poorly described variable",
@@ -585,10 +465,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Request for additional information when reporting variable",
@@ -599,10 +476,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Additional information required for variable C3H6",
@@ -613,10 +487,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Variables at 200m depth in ocean not clearly indicated as such",
@@ -628,10 +499,7 @@
         ],
         "Data Request Actions":"MK added Earth System for Teams to be alerted.\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"more precise definition for fx.mrsofc",
@@ -640,10 +508,7 @@
         "Author teams to alert":"",
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Wrong spatial shape associated to ocean bgc export fluxes",
@@ -655,10 +520,7 @@
         ],
         "Data Request Actions":"MK changed Spatial Shape according to the comment.\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"Global field (single level)",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Definition of temperature variables",
@@ -669,10 +531,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"definition of variables Emon.albl and Emon.albo",
@@ -686,10 +545,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"update of temporal shape necessary",
@@ -703,10 +559,7 @@
         ],
         "Data Request Actions":"Done\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":"time-intv"
+        "GitHub Issue number":""
     },
     {
         "Title":"Eday.albsrfc to be added to variable group paleo_land_atmosphere_surface",
@@ -720,10 +573,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Additional information requested for data variable C3H8",
@@ -734,10 +584,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"co2mass cell methods",
@@ -748,10 +595,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/31",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"31",
-        "Spatial Shape":"Global mean or constant",
-        "Temporal Shape":""
+        "GitHub Issue number":"31"
     },
     {
         "Title":"Confirmation of entries for o3ref variable",
@@ -762,10 +606,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Wrong variable Emon.tauuogw",
@@ -776,10 +617,7 @@
         ],
         "Data Request Actions":"MJ 6 Sep 9:58: delete version which is defined as \"non-orgraphic\", leaving the correct version (\"orographic\").\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Correct MIP table for o3inst?",
@@ -790,10 +628,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Poor table choice for ocean variable",
@@ -804,10 +639,7 @@
         ],
         "Data Request Actions":"MK changed Table.\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Change vegtype coordinate ",
@@ -818,10 +650,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"https:\/\/github.com\/CMIP-Data-Request\/Harmonised-Consultation-Phase-1\/issues\/21",
-        "Coordinates and Dimensions":"vegtype",
-        "GitHub Issue number":"21",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":"21"
     },
     {
         "Title":"Missing pressure coordinate for some single level variables",
@@ -832,10 +661,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"p100, p500, p850, p700",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"prhmax should be a single level (surface) field only",
@@ -846,10 +672,7 @@
         ],
         "Data Request Actions":"Spatial shape, temporal shape and cell methods adjusted,\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Issues with Ofx variables",
@@ -860,10 +683,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Emon.albsrfc to be added to variable group paleo_land_atmosphere_surface",
@@ -877,10 +697,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Rate of change variables with units that don't include time",
@@ -891,10 +708,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"3hrPt.bldep dimensions garbled",
@@ -905,10 +719,7 @@
         ],
         "Data Request Actions":"[@Data Request co-leads](https:\/\/airtable.com\/appBWxP0SS7K1hweJ\/menhGTxtCIl5WDnO8\/usrBDjCiqPQO9Hhgi?recordId=recvr4Ew96La0XLUW&fieldId=fld7aMKDm85T2sING) Martin this might be an issue with the formula for Dimensions. Can you check?\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Adding flag_values and flag_meanings",
@@ -919,10 +730,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Mask name error",
@@ -931,10 +739,7 @@
         "Author teams to alert":"",
         "Data Request Actions":"Title changed to be consistent with mask: \"Fixed Area Mean over Ice Sheets\"  [MJ, 17th July)\n",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Omon.sltbasin to be added to variable group paleo_ocean_transport",
@@ -945,10 +750,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Verify that is is still relevant to have only practical salinity (so) as a variable",
@@ -959,10 +761,7 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     },
     {
         "Title":"Sea water 18O should be on the ocean grid",
@@ -973,9 +772,6 @@
         ],
         "Data Request Actions":"",
         "GitHub Issue URL":"",
-        "Coordinates and Dimensions":"",
-        "GitHub Issue number":"",
-        "Spatial Shape":"",
-        "Temporal Shape":""
+        "GitHub Issue number":""
     }
 ]

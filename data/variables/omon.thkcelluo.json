@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_grid",
     "compound-name": "Omon.thkcelluo",
     "description": "The time varying thickness of the gridboxes computed on the u-points\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

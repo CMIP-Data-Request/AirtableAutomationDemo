@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr, clouds_basic_instantaneous",
     "compound-name": "CF3hr.reffclic",
     "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

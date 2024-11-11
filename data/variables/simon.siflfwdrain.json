@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_freshwater_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.siflfwdrain",
     "description": "Total flux of fresh water from sea-ice surface into underlying ocean. This combines both surface melt water that drains directly into the ocean and the drainage of surface melt pond. By definition, this flux is always positive.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

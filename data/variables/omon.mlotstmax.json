@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_scalar_fields, tipmip_extended, omip_scalars_high_priority",
     "compound-name": "Omon.mlotstmax",
     "description": "Sigma T is potential density referenced to ocean surface.\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocean"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

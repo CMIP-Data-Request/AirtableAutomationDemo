@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_cosp_extra",
     "compound-name": "Emon.climodis",
     "description": "MODIS Ice Cloud Fraction\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

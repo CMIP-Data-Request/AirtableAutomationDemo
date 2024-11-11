@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "snow_allfreq",
     "compound-name": "Eday.prsnsn",
     "description": "mass\\_fraction\\_of\\_snowfall\\_onto\\_snow\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted",
         "Under review"

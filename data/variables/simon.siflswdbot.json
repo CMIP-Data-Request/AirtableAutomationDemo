@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_monthly, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.siflswdbot",
     "description": "The downwelling shortwave flux underneath sea ice (always positive)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/seaice"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

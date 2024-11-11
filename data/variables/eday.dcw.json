@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_freshwater_daily",
     "compound-name": "Eday.dcw",
     "description": "change\\_over\\_time\\_in\\_canopy\\_water\\_amount\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/land"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review"
     ],

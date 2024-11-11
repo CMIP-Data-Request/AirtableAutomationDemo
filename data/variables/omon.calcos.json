@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly, Ocean_acidification_oxygen_extremes",
     "compound-name": "Omon.calcos",
     "description": "sum of particulate calcite component concentrations (e.g. Phytoplankton, Detrital, etc.)\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Under review",
         "Accepted"

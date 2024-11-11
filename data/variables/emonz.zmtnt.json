@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "EmonZ.zmtnt",
     "description": "The diabatic heating rates due to all the processes that may change potential temperature\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",

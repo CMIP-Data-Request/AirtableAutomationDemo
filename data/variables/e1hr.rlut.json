@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E1hr.rlut",
     "description": "outgoing LW radiation at TOA\n",
-    "modeling-realm": [
-        {
-            "@id": "mip-cmor-tables:auxillary/realm/atmos"
-        }
-    ],
     "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "up",
     "processing-note": "",
