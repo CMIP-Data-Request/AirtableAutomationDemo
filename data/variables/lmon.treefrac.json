@@ -21,8 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Under review"
     ],
     "positive-direction": "",
     "processing-note": "add scalar coordinate typetree and add \"tree\" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",

@@ -21,7 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted"
+        "Under review"
     ],
     "positive-direction": "",
     "processing-note": "Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  \"Tracer\"  concentations should be reported even if they are diagnosed rather than prognostically calculated.\n",

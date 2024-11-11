@@ -21,8 +21,8 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "a 3-d field: For oceans with more than 1 mesh, report on grid that applies to temperature\n",

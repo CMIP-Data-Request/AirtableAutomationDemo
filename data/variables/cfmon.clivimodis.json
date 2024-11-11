@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_mass_content_of_cloud_ice"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra",
+    "cmip7-variable-groups": "SO_BGC-cloud_cloudvars_monthly, CFMIP_cosp_extra, cosp_output",
     "compound-name": "CFmon.clivimodis",
     "description": "Mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column) as seen by the MODIS instrument simulator.\n",
     "frequency": [

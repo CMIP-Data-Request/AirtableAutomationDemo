@@ -21,8 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Under review"
     ],
     "positive-direction": "down",
     "processing-note": "Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",

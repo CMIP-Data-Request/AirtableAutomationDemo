@@ -21,8 +21,7 @@
         }
     ],
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Under review"
     ],
     "positive-direction": "",
     "processing-note": "This field and some of the following may sum to yield some of the more generic carbon pool totals given above.\n",
