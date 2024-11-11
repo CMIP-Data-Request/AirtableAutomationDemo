@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_CFsites",
     "compound-name": "E3hrPt.mmrdust",
     "description": "This variable represents the instantaneous surface Dust Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "E3hrPt"
-    ],
     "theme": [
         "Atmosphere"
     ],

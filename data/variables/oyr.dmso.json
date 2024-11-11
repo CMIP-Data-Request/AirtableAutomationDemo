@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oyr.dmso",
     "description": "Mole concentration of dimethyl sulphide in water\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Mole Concentration of Dimethyl Sulphide in Sea Water",
     "type": "real",

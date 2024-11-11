@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_2d_monthly",
     "compound-name": "AERmon.emidms",
     "description": "Integrate 3D emission field vertically to 2d field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Total Emission Rate of DMS",
     "type": "real",

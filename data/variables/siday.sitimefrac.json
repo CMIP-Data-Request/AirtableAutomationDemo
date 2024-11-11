@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_basic",
     "compound-name": "SIday.sitimefrac",
     "description": "Fraction of time steps of the averaging period during which sea ice is present (siconc >0 ) in a grid cell\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaiceday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SIday"
-    ],
     "theme": "",
     "title": "Fraction of Time Steps with Sea Ice",
     "type": "real",

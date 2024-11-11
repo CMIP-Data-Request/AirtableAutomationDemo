@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.rsdcsafbnd",
     "description": "Calculated in the absence of aerosols and clouds (following Ghan). This requires a double-call in the radiation code with precisely the same meteorology.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "RFMIP [aero_irf]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E3hrPt"
-    ],
     "theme": "",
     "title": "Downwelling Clear-Sky, Aerosol-Free, Shortwave Radiation in Bands",
     "type": "real",

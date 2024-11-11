@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr",
     "compound-name": "3hr.ficeberg",
     "description": "computed as the iceberg melt water flux into the ocean divided by the area of the ocean portion of the grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "3hr"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

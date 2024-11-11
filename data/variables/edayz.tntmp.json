@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.tntmp",
     "description": "Zonal mean tendency of air temperature due to model physics with the extended number of vertical levels.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "We ask the modeling centers to provide all the simulation specific settings of the underlying parameterizations (e.g. in the metadata).\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "EdayZ"
-    ],
     "theme": [
         "Atmosphere"
     ],

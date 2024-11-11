@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_marine_daily",
     "compound-name": "Oday.phycalc",
     "description": "carbon concentration from calcareous (calcite-producing) phytoplankton component alone\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "\"Tracer\" concentrations should be reported even if they are diagnosed rather than prognostically calculated.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Earth System"
     ],

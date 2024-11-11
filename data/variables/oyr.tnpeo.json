@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_parameterizations",
     "compound-name": "Oyr.tnpeo",
     "description": "Rate that work is done against vertical stratification, as measured by the vertical heat and salt diffusivity. Report here as depth integrated two-dimensional field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid.\n",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Tendency of Ocean Potential Energy Content",
     "type": "real",

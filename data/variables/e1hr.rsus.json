@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "urban_impacts_additional",
     "compound-name": "E1hr.rsus",
     "description": "Surface upwelling shortwave radiation\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "E1hr"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

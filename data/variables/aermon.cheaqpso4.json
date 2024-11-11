@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.cheaqpso4",
     "description": "proposed name: tendency\\_of\\_atmosphere\\_mass\\_content\\_of\\_sulfate\\_dry\\_aerosol\\_due\\_to\\_aqueous\\_phase\\_net\\_chemical\\_production\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Aqueous-Phase Production Rate of SO4",
     "type": "real",

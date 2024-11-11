@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly",
     "compound-name": "AERmon.nh50",
     "description": "Fixed surface layer mixing ratio over 30o-50oN (100ppbv), uniform fixed 50-day exponential decay.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Artificial Tracer with 50 Day Lifetime",
     "type": "real",

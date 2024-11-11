@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, Bjerknes_Index_ENSO, aerchemmip_3d_monthly, marine_bgc_baseline, paleo_ocean_3D, DCPP_Wider, SO_BGC-cloud_ocean_monthly, fish_model_expand_mon, omip_vectors_high_priority",
     "compound-name": "Omon.wo",
     "description": "Prognostic z-ward velocity component resolved by the model.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Sea Water Vertical Velocity",
     "type": "real",

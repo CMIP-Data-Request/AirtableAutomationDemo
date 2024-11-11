@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_grid",
     "compound-name": "Ofx.dxvo",
     "description": "The width of the ocean model gridbox in at the v-point (dx)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Ofx"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

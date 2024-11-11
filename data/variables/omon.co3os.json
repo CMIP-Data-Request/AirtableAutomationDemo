@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.co3os",
     "description": "Near surface mole concentration (number of moles per unit volume: molarity) of the carbonate anion (CO3).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Surface Carbonate Ion Concentration",
     "type": "real",

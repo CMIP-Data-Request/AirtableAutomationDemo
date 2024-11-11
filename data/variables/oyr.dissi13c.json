@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oyr.dissi13c",
     "description": "Dissolved inorganic 14carbon (CO3+HCO3+H2CO3) concentration\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Dissolved Inorganic Carbon-13 Concentration",
     "type": "real",

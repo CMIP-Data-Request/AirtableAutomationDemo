@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_basic, landice_global_allfreq",
     "compound-name": "SIday.siconca",
     "description": "Percentage of grid cell covered by sea ice\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaiceday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SIday"
-    ],
     "theme": "",
     "title": "Sea-Ice Area Percentage (Atmospheric Grid)",
     "type": "real",

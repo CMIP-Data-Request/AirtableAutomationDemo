@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "HealthPollutionhourly",
     "compound-name": "AERhr.sfpm10",
     "description": "Hourly PM10 Mass Mixing Ratio in Lowest Model Layer\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "AERhr"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, biodiv_marine_daily",
     "compound-name": "Oday.phyc",
     "description": "sum of phytoplankton carbon component concentrations. In most (all?) cases this is the sum of phycdiat and phycmisc (i.e., \"Diatom Carbon Concentration\" and \"Non-Diatom Phytoplankton Carbon Concentration\"\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "The variable at the depth of 200 meters is requested\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

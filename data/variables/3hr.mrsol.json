@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landatm_coupling_3hA",
     "compound-name": "3hr.mrsol",
     "description": "In response to the opportunity \"Accurate assessment of land-atmosphere coupling\", I'm proposing a soil moisture for multiple layers in a frequency of 3hr.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "3hr"
-    ],
     "theme": [
         "Land & land-ice"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landuse",
     "compound-name": "Eyr.fracOutLut",
     "description": "Cumulative percentage transitions over the year; note that percentage should be reported as percentage of atmospheric grid cell\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "LUMIP [Lyr_Lut]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eyr"
-    ],
     "theme": "",
     "title": "Annual Gross Percentage of Land-Use Tile That Was Transferred into Other Land-Use Tiles",
     "type": "real",

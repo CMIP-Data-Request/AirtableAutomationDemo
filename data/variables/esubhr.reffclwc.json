@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_cfSites",
     "compound-name": "Esubhr.reffclwc",
     "description": "alevel site time1\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFMIP [CFsubhr_new]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Esubhr"
-    ],
     "theme": "",
     "title": "Convective Cloud Liquid Droplet Effective Radius",
     "type": "real",

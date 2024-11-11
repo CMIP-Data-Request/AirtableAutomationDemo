@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline",
     "compound-name": "CFmon.tnhusscpbl",
     "description": "To be specified only in  models which do not separate budget terms for stratiform cloud, precipitation and boundary layer schemes.  Includes all bounday layer terms including and diffusive terms.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "CFmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFmon"
-    ],
     "theme": "",
     "title": "Tendency of Specific Humidity Due to Stratiform Cloud and Precipitation and Boundary Layer Mixing",
     "type": "real",

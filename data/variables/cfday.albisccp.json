@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline",
     "compound-name": "CFday.albisccp",
     "description": "time-means are weighted by the ISCCP Total Cloud Fraction - see  <http://cfmip.metoffice.com/COSP.html>\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "CFday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFday"
-    ],
     "theme": "",
     "title": "ISCCP Mean Cloud Albedo",
     "type": "real",

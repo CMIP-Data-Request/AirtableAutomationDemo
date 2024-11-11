@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.pod0",
     "description": "Accumulated stomatal ozone flux over the threshold of 0 mol m-2 s-1; Computation: Time Integral of (hourly above canopy ozone concentration \\* stomatal conductance \\* Rc/(Rb+Rc) )\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Phytotoxic Ozone Dose",
     "type": "real",

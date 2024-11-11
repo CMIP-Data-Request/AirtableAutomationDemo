@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.nwdFracLut",
     "description": "Percentage of land use tile tile that is non-woody vegetation ( e.g. herbaceous crops)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "LUMIP [Lmon_Lut]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Non-Woody Vegetation Percentage Cover",
     "type": "real",

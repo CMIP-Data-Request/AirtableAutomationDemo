@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IyrAnt.strbasemag",
     "description": "Magnitude of basal drag at land ice base\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IyrAnt]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IyrAnt"
-    ],
     "theme": "",
     "title": "Land Ice Basal Drag",
     "type": "real",

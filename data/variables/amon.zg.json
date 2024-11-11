@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, dynvar_basic, Hadley_Walker_Circulations, paleodata_assimilation, DCPP_Essential, paleo_atmosphere, SO_BGC-cloud_met_monthly, FireMIP_monthly, CFMIP_baseline, ref_impacts_and_adaptation",
     "compound-name": "Amon.zg",
     "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Geopotential Height",
     "type": "real",

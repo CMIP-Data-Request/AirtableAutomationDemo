@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.wetoa",
     "description": "Deposition rate of organic matter in aerosols (measured by the dry mass) due to wet processes\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Wet Deposition Rate of Dry Aerosol Total Organic Matter",
     "type": "real",

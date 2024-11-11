@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.vboluso",
     "description": "The bolus (also referred to as parameterised) ocean velocity in the northward direction.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

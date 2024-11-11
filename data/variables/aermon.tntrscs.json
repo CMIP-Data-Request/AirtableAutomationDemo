@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "AERmon.tntrscs",
     "description": "clear-sky shortwave heating rates\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "Identical to AERmon.tntrs but for clear-sky.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "AERmon"
-    ],
     "theme": [
         "Atmosphere"
     ],

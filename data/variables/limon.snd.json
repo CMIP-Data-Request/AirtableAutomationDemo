@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CVDP_input, DCPP_Essential, paleo_land_atmosphere_surface, FireMIP_monthly, CFMIP_baseline, paleo_permafrost, tipmip_extended, snow_allfreq",
     "compound-name": "LImon.snd",
     "description": "where land over land, this is computed as the mean thickness of snow in the land portion of the grid cell (averaging over the entire land portion, including the snow-free fraction).  Reported as missing where the land fraction is 0.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "LImon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Snow Depth",
     "type": "real",

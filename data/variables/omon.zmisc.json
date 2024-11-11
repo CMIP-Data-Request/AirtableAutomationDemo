@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier2, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.zmisc",
     "description": "carbon from additional zooplankton component concentrations alone (e.g. Micro, meso).  Since the models all have different numbers of components, this variable has been included to provide a check for intercomparison between models since some phytoplankton groups are supersets.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Mole Concentration of Other Zooplankton Expressed as Carbon in Sea Water",
     "type": "real",

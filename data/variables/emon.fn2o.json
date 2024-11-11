@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, c4mip_land_nitrogen_cycle_tier1",
     "compound-name": "Emon.fN2O",
     "description": "Surface upward flux of nitrous oxide (N2O) from vegetation (any living plants e.g. trees, shrubs, grass), litter (dead plant material in or above the soil), soil.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_LandT2]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Total Land N2O Flux",
     "type": "real",

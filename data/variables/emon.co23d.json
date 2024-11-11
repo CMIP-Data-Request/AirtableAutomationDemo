@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1",
     "compound-name": "Emon.co23D",
     "description": "requested for all Emissions-driven runs\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_Atm]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "3D-Field of Transported CO2",
     "type": "real",

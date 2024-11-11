@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.mrlso",
     "description": "The mass (summed over all all layers) of liquid water.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_LandT1]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Soil Liquid Water Content",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "Omon.hfgeou",
     "description": "Upward geothermal heat flux per unit area on the sea floor\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "If this field is time-invariant, then save it instead as one of your \"fixed\" fields (see the fx table). Report on native horizontal grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Upward Geothermal Heat Flux at Sea Floor",
     "type": "real",

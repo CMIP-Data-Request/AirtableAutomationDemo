@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, FireMIP_monthly",
     "compound-name": "Lmon.rh",
     "description": "Carbon mass flux per unit area into atmosphere due to heterotrophic respiration on land (respiration by consumers)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Total Heterotrophic Respiration on Land as Carbon Mass Flux [kgC m-2 s-1]",
     "type": "real",

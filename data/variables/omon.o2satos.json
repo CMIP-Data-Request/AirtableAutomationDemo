@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.o2satos",
     "description": "\"Mole concentration at saturation\" means the mole concentration in a saturated solution. Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole\\_concentration\\_of\\_X\\_in\\_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox\\_expressed\\_as\\_nitrogen\".\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Surface Dissolved Oxygen Concentration at Saturation",
     "type": "real",

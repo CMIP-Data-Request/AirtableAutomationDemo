@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline, ref_earth_system",
     "compound-name": "Amon.co2",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If spatially uniform, omit this field, but report Total Atmospheric Mass of CO2 (see the table entry after the next one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Mole Fraction of CO2",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "Efx.sftflf",
     "description": "This is needed to distinguish between grounded glaciated ice (grounded = ice sheet and glacier) and ice shelves (floating over sea water), since land\\_ice is by definition ice sheet, glacier and ice shelves\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [new_fx]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Efx"
-    ],
     "theme": "",
     "title": "Floating Ice Shelf Area Percentage",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Ocean Temperature Extremes",
     "compound-name": "Oday.bigthetao",
     "description": "Diagnostic should be contributed even for models using conservative temperature as prognostic field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "The variable at the depth of 200 meters is requested. \n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.hfcorr",
     "description": "Flux correction is also called \"flux adjustment\". A positive flux correction is downward i.e. added to the ocean. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "If this does not vary from one year to the next, report only a single year.  Positive indicates correction adds heat to ocean. Report on native horizontal grid as well as remapped onto a latitude/longitude grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Heat Flux Correction",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.simpconc",
     "description": "Percentage of sea ice, by area, which is covered by melt ponds, giving equal weight to every square metre of sea ice .\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Percentage Cover of Sea Ice by Meltpond",
     "type": "real",

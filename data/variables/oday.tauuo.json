@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oday.tauuo",
     "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "Report on native horizontal grid.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

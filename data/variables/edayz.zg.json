@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.zg",
     "description": "zonal mean; hence YZT\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DAMIP [DAMIP_day_zm]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "EdayZ"
-    ],
     "theme": "",
     "title": "Geopotential Height",
     "type": "real",

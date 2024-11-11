@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "snow_allfreq",
     "compound-name": "Eday.esn",
     "description": "liquid\\_water\\_evaporation\\_flux\\_from\\_surface\\_snow\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Snow Evaporation",
     "type": "real",

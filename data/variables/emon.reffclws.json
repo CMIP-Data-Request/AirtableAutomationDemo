@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "clouds_basic_average, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",
     "compound-name": "Emon.reffclws",
     "description": "Droplets are liquid.  The effective radius is defined as the ratio of the third moment over the second moment of the particle size distribution and the time-mean should be calculated, weighting the individual samples by the cloudy fraction of the grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFMIP [CFmon_3dstd_new]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Stratiform Cloud Liquid Droplet Effective Radius",
     "type": "real",

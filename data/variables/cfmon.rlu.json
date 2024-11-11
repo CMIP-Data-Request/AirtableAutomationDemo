@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_monthly, radiativeforcing_monthly, CFMIP_baseline",
     "compound-name": "CFmon.rlu",
     "description": "Includes also the fluxes at the surface and TOA.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "CFmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFmon"
-    ],
     "theme": "",
     "title": "Upwelling Longwave Radiation",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_land_atmosphere_surface, HealthFloodingDaily",
     "compound-name": "Eday.mrro",
     "description": "This follows Emon.mrro, but at daily resolution where this variable does not yet exist\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "Not sure whether Lday may be an alternative place for this.\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Eday"
-    ],
     "theme": [
         "Land & land-ice",
         "Atmosphere",

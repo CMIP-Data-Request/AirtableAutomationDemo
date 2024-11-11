@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, Bjerknes_Index_ENSO, poleward_heat_transports, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_radiation_fluxes, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, seaice_budget_energy_monthly, CFMIP_baseline, paleo_permafrost, landice_glaciers_allfreq, clouds_basic_average",
     "compound-name": "Amon.rsds",
     "description": "Surface solar irradiance for UV calculations.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Surface Downwelling Shortwave Radiation",
     "type": "real",

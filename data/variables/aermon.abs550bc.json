@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_2d_monthly",
     "compound-name": "AERmon.abs550bc",
     "description": "This is the black carbon aerosol optical depth at 550nm due to absorption\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "AERmon"
-    ],
     "theme": [
         "Atmosphere"
     ],

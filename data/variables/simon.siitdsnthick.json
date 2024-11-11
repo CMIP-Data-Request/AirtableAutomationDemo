@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, snow_allfreq, paleo_cryosphere_high_priority",
     "compound-name": "SImon.siitdsnthick",
     "description": "K=ice depth bands\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Snow Thickness in Ice Thickness Categories",
     "type": "real",

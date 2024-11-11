@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_BGC_monthly",
     "compound-name": "Omon.phydiatos",
     "description": "carbon from the diatom phytoplankton component concentration alone\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Surface Mole Concentration of Diatoms Expressed as Carbon in Sea Water",
     "type": "real",

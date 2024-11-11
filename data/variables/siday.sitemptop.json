@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_basic, seaice_state_daily_advanced, REJECTED_seaice_budget_energy_daily, DCPP_Wider, seaice_gcos_ecv",
     "compound-name": "SIday.sitemptop",
     "description": "Report surface temperature of snow where snow covers the sea ice.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaiceday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SIday"
-    ],
     "theme": "",
     "title": "Surface Temperature of Sea Ice",
     "type": "real",

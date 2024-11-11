@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oday.intppmisc",
     "description": "Vertically integrated total primary (organic carbon) production by other phytoplankton components alone\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

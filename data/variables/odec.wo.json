@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_vectors_high_priority",
     "compound-name": "Odec.wo",
     "description": "Prognostic z-ward velocity component resolved by the model.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "Odec ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Sea Water Vertical Velocity",
     "type": "real",

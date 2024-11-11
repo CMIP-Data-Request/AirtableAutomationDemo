@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_global_monthly_basic",
     "compound-name": "SImon.sisnmassn",
     "description": "Total mass of snow on sea ice of all Northern-Hemisphere grid cells\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "SImon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

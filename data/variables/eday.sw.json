@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology",
     "compound-name": "Eday.sw",
     "description": "Total liquid water storage, other than soil, snow or interception storage (i.e. lakes, river channel or depression storage).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Surface Water Storage",
     "type": "real",

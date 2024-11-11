@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, AgWaterExt, HealthFloodingDaily, biodiv_freshwater_daily, biodiv_land_daily, impact_energy_building_demand, WaterResources_daily, CFMIP_baseline",
     "compound-name": "day.mrso",
     "description": "the mass per unit area  (summed over all soil layers) of water in all phases.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "day ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "day"
-    ],
     "theme": "",
     "title": "Total Soil Moisture Content",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oclim.diftrblo",
     "description": "Ocean tracer diffusivity associated with parameterized eddy-induced advective transport. Sometimes this diffusivity is called the 'thickness' diffusivity. For CMIP5, this diagnostic was called 'ocean tracer bolus laplacian diffusivity'.  The CMIP6 name is physically more relevant.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monc"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "\n",
     "provenance": "Oclim ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oclim"
-    ],
     "theme": "",
     "title": "Ocean Tracer Diffusivity Due to Parameterized Mesoscale Advection",
     "type": "real",

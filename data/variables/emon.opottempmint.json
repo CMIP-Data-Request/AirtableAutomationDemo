@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.opottempmint",
     "description": "Integral over the full ocean depth of the product of sea water density and potential temperature.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "FAFMIP [fafOmon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Integral with Respect to Depth of Product of Sea Water Density and Potential Temperature",
     "type": "real",

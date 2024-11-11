@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "FireMIP_monthly, snow_allfreq",
     "compound-name": "LImon.sootsn",
     "description": "the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "LImon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Snow Soot Content",
     "type": "real",

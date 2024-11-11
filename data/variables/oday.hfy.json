@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_mesoscale",
     "compound-name": "Oday.hfy",
     "description": "Contains all contributions to \"y-ward\" heat transport from resolved and parameterized processes. Use Celsius for temperature scale.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "2d field for CMIP6. Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

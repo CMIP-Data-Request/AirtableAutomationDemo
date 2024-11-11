@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "AgTile, landuse",
     "compound-name": "Emon.irrLut",
     "description": "Mass flux of water due to irrigation.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "LUMIP [Lmon_Lut]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Irrigation Flux Including any Irrigation for Crops, Trees, Pasture, or Urban Lawns",
     "type": "real",

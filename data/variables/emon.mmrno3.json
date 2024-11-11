@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.mmrno3",
     "description": "NO3 Aerosol Mass Mixing Ratio\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-aero-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "NO3 Aerosol Mass Mixing Ratio",
     "type": "real",

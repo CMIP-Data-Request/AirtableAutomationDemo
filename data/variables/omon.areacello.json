@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_grid",
     "compound-name": "Omon.areacello",
     "description": "Dissolved oxygen loss to sediments\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

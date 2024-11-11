@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_mesoscale",
     "compound-name": "Oday.hfx",
     "description": "Contains all contributions to \"x-ward\" heat transport from resolved and parameterized processes.  Use Celsius for temperature scale.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_cosp_extra",
     "compound-name": "Emon.cfadLidarsr532",
     "description": "CALIPSO Scattering Ratio\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFMIP [CFmonExtra]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "CALIPSO Scattering Ratio CFAD",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic",
     "compound-name": "EdayZ.ta",
     "description": "Zonal mean temperature of air with the extended number of vertical levels.\n\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DAMIP [DAMIP_day_zm]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "EdayZ"
-    ],
     "theme": [
         "Atmosphere"
     ],

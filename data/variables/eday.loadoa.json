@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline, FireMIP_daily",
     "compound-name": "Eday.loadoa",
     "description": "atmosphere dry organic content: This is the vertically integrated sum of atmosphere\\_primary\\_organic\\_content and atmosphere\\_secondary\\_organic\\_content (see next two table entries).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFMIP [aeroDay_2d]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Load of Dry Aerosol Organic Matter",
     "type": "real",

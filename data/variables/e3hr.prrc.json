@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hr.prrc",
     "description": "Convective Rainfall rate\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [L3hr]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E3hr"
-    ],
     "theme": "",
     "title": "Convective Rainfall Rate",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "IyrGre.sftflf",
     "description": "This is needed in case the floating ice sheet area changes in time (NO grounded ice sheet)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IyrGre]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IyrGre"
-    ],
     "theme": "",
     "title": "Floating Ice Shelf Area Percentage",
     "type": "real",

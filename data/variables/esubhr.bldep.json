@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Esubhr.bldep",
     "description": "Boundary layer depth\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [1ts]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Esubhr"
-    ],
     "theme": "",
     "title": "Boundary Layer Depth",
     "type": "real",

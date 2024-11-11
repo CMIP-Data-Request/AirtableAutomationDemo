@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.sfriver",
     "description": "This field is physical, and it arises when rivers carry a nonzero salt content.  Often this is zero, with rivers assumed to be fresh.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid as well as mapped onto sphere.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Salt Flux into Sea Water from Rivers",
     "type": "real",

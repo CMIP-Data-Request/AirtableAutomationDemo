@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, paleo_cryosphere, DCPP_Wider, SO_BGC-cloud_ocean_monthly, CFMIP_baseline, snow_allfreq, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sisnthick",
     "description": "(in OImon, snd was volume per entire cell area)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Snow Thickness",
     "type": "real",

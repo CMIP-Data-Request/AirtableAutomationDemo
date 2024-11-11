@@ -1,0 +1,102 @@
+[
+    {
+        "Name":"monC",
+        "Description":"monthly climatology computed from monthly mean samples",
+        "Sampling Rate":12
+    },
+    {
+        "Name":"1hr",
+        "Description":"sampled hourly",
+        "Sampling Rate":87600
+    },
+    {
+        "Name":"1hrClimMon",
+        "Description":"",
+        "Sampling Rate":2880
+    },
+    {
+        "Name":"mon",
+        "Description":"monthly mean samples",
+        "Sampling Rate":120
+    },
+    {
+        "Name":"3hrPt",
+        "Description":"sampled 3 hourly, at specified time point within the time period",
+        "Sampling Rate":29200
+    },
+    {
+        "Name":"fx",
+        "Description":"fixed (time invariant) field",
+        "Sampling Rate":1
+    },
+    {
+        "Name":"yr",
+        "Description":"annual mean samples",
+        "Sampling Rate":10
+    },
+    {
+        "Name":"subhrPt",
+        "Description":"sampled sub-hourly, at specified time point within an hour",
+        "Sampling Rate":262800
+    },
+    {
+        "Name":"3hr",
+        "Description":"3 hourly mean samples",
+        "Sampling Rate":29200
+    },
+    {
+        "Name":"subhr",
+        "Description":"",
+        "Sampling Rate":262800
+    },
+    {
+        "Name":"monClim",
+        "Description":"",
+        "Sampling Rate":12
+    },
+    {
+        "Name":"day",
+        "Description":"daily mean samples",
+        "Sampling Rate":3650
+    },
+    {
+        "Name":"1hrCM",
+        "Description":"monthly-mean diurnal cycle resolving each day into 1-hour means",
+        "Sampling Rate":2880
+    },
+    {
+        "Name":"decadal",
+        "Description":"",
+        "Sampling Rate":1
+    },
+    {
+        "Name":"yrPt",
+        "Description":"sampled yearly, at specified time point within the time period",
+        "Sampling Rate":10
+    },
+    {
+        "Name":"monPt",
+        "Description":"sampled monthly, at specified time point within the time period",
+        "Sampling Rate":120
+    },
+    {
+        "Name":"6hrPt",
+        "Description":"sampled 6 hourly, at specified time point within the time period",
+        "Sampling Rate":14600
+    },
+    {
+        "Name":"dec",
+        "Description":"decadal mean samples",
+        "Sampling Rate":1
+    },
+    {
+        "Name":"6hr",
+        "Description":"6 hourly mean samples",
+        "Sampling Rate":14600
+    },
+    {
+        "Name":"1hrPt",
+        "Description":"sampled hourly, at specified time point within an hour",
+        "Sampling Rate":87600
+    }
+]

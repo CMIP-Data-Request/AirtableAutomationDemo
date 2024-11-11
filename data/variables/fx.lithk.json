@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_fx",
     "compound-name": "fx.lithk",
     "description": "This variable (named fx.ice?) shall identify the thickness of a prescribed ice sheet. This information is relevant to better understand how different models treat ice. For models where an ice sheet is just orography + an ice sheet mask, I believe the value should be set to zero. For models that explicitly resolve an ice sheet thickness, the thickness of the ice sheet should be provided.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -30,9 +25,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "fx"
-    ],
     "theme": [
         "Land & land-ice",
         "Earth System"

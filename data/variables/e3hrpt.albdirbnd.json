@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.albdirbnd",
     "description": "The fraction of the surface direct downwelling shortwave radiation flux which is reflected. It is equivalent to the surface bidirectional reflectance at the incident angle of the incoming solar radiation and integrated over all outgoing angles in the hemisphere above the surface.  Reported in spectral frequency bands.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "RFMIP [aero_irf]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E3hrPt"
-    ],
     "theme": "",
     "title": "Direct Surface Albedo for Each Band",
     "type": "real",

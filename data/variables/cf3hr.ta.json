@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr, clouds_basic_instantaneous",
     "compound-name": "CF3hr.ta",
     "description": "Air Temperature\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CF3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CF3hr"
-    ],
     "theme": "",
     "title": "Air Temperature",
     "type": "real",

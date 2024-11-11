@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_vectors_high_priority",
     "compound-name": "Odec.uo",
     "description": "Prognostic x-ward velocity component resolved by the model.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "Odec ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Sea Water X Velocity",
     "type": "real",

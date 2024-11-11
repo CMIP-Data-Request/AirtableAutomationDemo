@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Ocean Temperature Extremes, CFMIP_baseline, omip_scalar_fields, omip_scalars_low_priority",
     "compound-name": "Oday.tossq",
     "description": "Square of temperature of liquid ocean, averaged over the day.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on the ocean horizontal native grid.\n",
     "provenance": "Oday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oday"
-    ],
     "theme": "",
     "title": "Square of Sea Surface Temperature",
     "type": "real",

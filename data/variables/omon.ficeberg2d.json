@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_ocean, omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.ficeberg2d",
     "description": "computed as the iceberg melt water flux into the ocean divided by the area of the ocean portion of the grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "If only the vertically integrated melt water flux is available, report as this 2-d field; otherwise ficeberg should be used.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Water Flux into Sea Water from Icebergs",
     "type": "real",

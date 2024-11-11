@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_seaice",
     "compound-name": "SImon.sigpp",
     "description": "Total GPP of ice algae in sea ice\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -30,9 +25,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "SImon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

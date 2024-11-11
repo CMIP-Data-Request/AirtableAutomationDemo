@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Emon.osaltpsmadvect",
     "description": "Tendency of salt content for a grid cell from parameterized submesoscale eddy advection.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "FAFMIP [fafOmonB]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Tendency of Sea Water Salinity Expressed as Salt Content Due to Parameterized Submesoscale Advection",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider",
     "compound-name": "Eday.mlotst",
     "description": "Sigma T is potential density referenced to ocean surface.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DCPP [DCPP-day]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Ocean Mixed Layer Thickness Defined by Sigma T",
     "type": "real",

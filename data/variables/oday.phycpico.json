@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_marine_daily",
     "compound-name": "Oday.phycpico",
     "description": "Carbon concentration of picophytoplankton\n\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "Analogous to Oday.phyc\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

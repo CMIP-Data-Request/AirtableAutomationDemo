@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_mesoscale, biodiv_marine_daily",
     "compound-name": "Oday.mlotst",
     "description": "Thickness of the layer bounded by the depth at which potential density Sigma0 exceeds density at 10m by 0.03 kg.m-3\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "The density to be used is sigma0, referenced at the surface. The mixed layer thickness is approximated by interpolating between the model level where the density exceeds density at 10m by 0.03 kg.m-3 and the level just above.  \n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

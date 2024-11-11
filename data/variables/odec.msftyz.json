@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_transports_high_priority",
     "compound-name": "Odec.msftyz",
     "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Function of Y, Z, basin. For a model with a cartesian latxlon grid, this is the same as the \"Ocean Meridional Overturning Mass Streamfunction\" (msftmz) and should in this case be omitted. \n",
     "provenance": "Odec",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Ocean Y Overturning Mass Streamfunction",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_daily, biodiv_land_daily, CFMIP_daily_3D",
     "compound-name": "CFday.pfull",
     "description": "Air pressure on model levels\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "This field is needed only for models in which the pressure cannot be calculated from the vertical coordinate information stored already for each variable.  Thus, the pressures are needed for height or theta-coordinate models, for example, but not sigma- or eta-coordinate models.\n",
     "provenance": "CFday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFday"
-    ],
     "theme": "",
     "title": "Pressure at Model Full-Levels",
     "type": "real",

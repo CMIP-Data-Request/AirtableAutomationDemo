@@ -1,0 +1,47 @@
+[
+    {
+        "Name":"yr",
+        "UID":"63215c18-8ca5-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"3hr",
+        "UID":"63215c11-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"3 hourly mean samples"
+    },
+    {
+        "Name":"6hr",
+        "UID":"63215c12-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"6 hourly mean samples"
+    },
+    {
+        "Name":"dec",
+        "UID":"63215c14-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"decadal mean samples"
+    },
+    {
+        "Name":"fx",
+        "UID":"63215c15-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"fixed (time invariant) field"
+    },
+    {
+        "Name":"subhr",
+        "UID":"63215c17-8ca5-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"1hr",
+        "UID":"63215c10-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"sampled hourly"
+    },
+    {
+        "Name":"day",
+        "UID":"63215c13-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"daily mean samples"
+    },
+    {
+        "Name":"mon",
+        "UID":"63215c16-8ca5-11ef-944e-41a8eb05f654",
+        "Description":"monthly mean samples"
+    }
+]

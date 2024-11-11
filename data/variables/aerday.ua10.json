@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_daily",
     "compound-name": "AERday.ua10",
     "description": "Zonal wind on the 10 hPa surface\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERday"
-    ],
     "theme": "",
     "title": "Eastward Wind at 10hPa",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "synoptic_systems_high_priority, ISIMIP3hourlyAtmos, snow_allfreq, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "3hr.prsn",
     "description": "at surface.  Includes precipitation of all forms water in the solid phase.  This is the 3-hour mean snowfall flux.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "3hr"
-    ],
     "theme": "",
     "title": "Snowfall Flux",
     "type": "real",

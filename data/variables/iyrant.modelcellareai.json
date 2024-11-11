@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IyrAnt.modelCellAreai",
     "description": "When interpolated to a regular grid, it should be interpolated (not summed) with a conservative scheme to preserve total area\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IyrAnt]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IyrAnt"
-    ],
     "theme": "",
     "title": "The Cell Area of the Ice Sheet Model",
     "type": "real",

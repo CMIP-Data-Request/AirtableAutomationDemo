@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2dZ_monthly",
     "compound-name": "AERmonZ.ho2",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.  The chemical formula of hydroperoxyl radical is HO2.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmonZ ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmonZ"
-    ],
     "theme": "",
     "title": "HO2 Volume Mixing Ratio",
     "type": "real",

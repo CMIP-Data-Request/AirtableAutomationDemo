@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost, tipmip_baseline",
     "compound-name": "LImon.sftgif",
     "description": "Percentage of grid cell covered by land ice (ice sheet, ice shelf, ice cap, glacier)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [new_LImon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Land Ice Area Percentage",
     "type": "real",

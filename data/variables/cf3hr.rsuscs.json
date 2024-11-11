@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.rsuscs",
     "description": "Surface Upwelling Clear-Sky Shortwave Radiation\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "RFMIP [aero_irf]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CF3hr"
-    ],
     "theme": "",
     "title": "Surface Upwelling Clear-Sky Shortwave Radiation",
     "type": "real",

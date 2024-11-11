@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "temperature_variability_daily_highpriority, HealthFloodingDaily, hydrology, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline",
     "compound-name": "day.mrsos",
     "description": "the mass of water in all phases in a thin surface soil layer.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "integrate over uppermost 10 cm\n",
     "provenance": "day ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "day"
-    ],
     "theme": "",
     "title": "Moisture in Upper Portion of Soil Column",
     "type": "real",

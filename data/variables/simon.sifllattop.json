@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_monthly, DCPP_Wider, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sifllattop",
     "description": "the net latent heat flux over sea ice\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Net Latent Heat Flux over Sea Ice",
     "type": "real",

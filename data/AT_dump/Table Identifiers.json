@@ -1,0 +1,577 @@
+[
+    {
+        "Name":"E3hrPt",
+        "New Names":[
+            "3hrPt"
+        ],
+        "Status":"Deprecated",
+        "Title":"3-hourly (instantaneous, extension)",
+        "Alternative Label":"em3hrpt",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf0-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Amon",
+        "New Names":[
+            "Amon"
+        ],
+        "Status":"",
+        "Title":"Monthly atmospheric data",
+        "Alternative Label":"Amon",
+        "Comment":"Monthly data is split between Amon, Omon, AERmon, CFmon, Lmon, LImon, SImon, EMmon, LImonAnt and LImonGre. Amon includes some monhly climatologies (frequency monClim) which should be provided as 12 monthly values averaged over the years requested.",
+        "UID":"527f5ce7-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Oyr",
+        "New Names":[
+            "Oyr"
+        ],
+        "Status":"",
+        "Title":"Annual ocean variables",
+        "Alternative Label":"Oyr",
+        "Comment":"ocean\" as in \"ocean grid",
+        "UID":"527f5d07-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Annual mean variables on the ocean grid."
+    },
+    {
+        "Name":"6hrLev",
+        "New Names":[
+            "6hrLev"
+        ],
+        "Status":"",
+        "Title":"6-hourly data on atmospheric model levels",
+        "Alternative Label":"6hrLev",
+        "Comment":"",
+        "UID":"527f5cdc-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Esubhr",
+        "New Names":[
+            "subhr"
+        ],
+        "Status":"",
+        "Title":"Sub-hourly (extension)",
+        "Alternative Label":"emSubhr",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf7-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"AERmon",
+        "New Names":[
+            "AERmon"
+        ],
+        "Status":"",
+        "Title":"Monthly atmospheric chemistry and aerosol data",
+        "Alternative Label":"aermonthly",
+        "Comment":"",
+        "UID":"527f5ce3-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Odec",
+        "New Names":[
+            "Odec"
+        ],
+        "Status":"",
+        "Title":"Decadal ocean data",
+        "Alternative Label":"Odec",
+        "Comment":"",
+        "UID":"527f5d04-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Omon",
+        "New Names":[
+            "Omon"
+        ],
+        "Status":"",
+        "Title":"Monthly ocean data",
+        "Alternative Label":"Omon",
+        "Comment":"",
+        "UID":"527f5d06-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"AERmonZ",
+        "New Names":[
+            "AERmonZ"
+        ],
+        "Status":"",
+        "Title":"Monthly atmospheric chemistry and aerosol data",
+        "Alternative Label":"aermonthlyz",
+        "Comment":"",
+        "UID":"527f5ce4-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"IyrGre",
+        "New Names":[
+            "LIyr"
+        ],
+        "Status":"",
+        "Title":"Annual fields on the Greenland ice sheet",
+        "Alternative Label":"LIyrgre",
+        "Comment":"",
+        "UID":"527f5cff-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"3hr",
+        "New Names":[
+            "3hr"
+        ],
+        "Status":"TODO",
+        "Title":"3-hourly data",
+        "Alternative Label":"3hr",
+        "Comment":"",
+        "UID":"527f5cda-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Ahr",
+        "New Names":[
+            "Ahr"
+        ],
+        "Status":"New",
+        "Title":"Hourly atmospheric data",
+        "Alternative Label":"Ahr",
+        "Comment":"",
+        "UID":"527f5ce5-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"AERday",
+        "New Names":[
+            "AERday"
+        ],
+        "Status":"",
+        "Title":"Daily atmospheric chemistry and aerosol data",
+        "Alternative Label":"aerdaily",
+        "Comment":"",
+        "UID":"527f5ce0-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"fx",
+        "New Names":[
+            "fx"
+        ],
+        "Status":"",
+        "Title":"Fixed variables",
+        "Alternative Label":"fx",
+        "Comment":"",
+        "UID":"527f5cf9-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Variables with no time dependency"
+    },
+    {
+        "Name":"CFday",
+        "New Names":[
+            "CFday"
+        ],
+        "Status":"",
+        "Title":"Daily data associated with cloud forcing",
+        "Alternative Label":"cfDay",
+        "Comment":"Includes model level fields (ua, va, etc)",
+        "UID":"527f5ce9-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Ofx",
+        "New Names":[
+            "fx"
+        ],
+        "Status":"",
+        "Title":"Fixed ocean data",
+        "Alternative Label":"Ofx",
+        "Comment":"",
+        "UID":"527f5d05-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"AhrMon",
+        "New Names":[
+            "AhrMon"
+        ],
+        "Status":"",
+        "Title":"Monthly Mean Diurnal Cycle",
+        "Alternative Label":"em1hrclimmon",
+        "Comment":"Average daily cycle, in 1 hour steps, monthly averages.",
+        "UID":"527f5ce6-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Hourly data, averaged over days"
+    },
+    {
+        "Name":"Oday",
+        "New Names":[
+            "Oday"
+        ],
+        "Status":"",
+        "Title":"Daily ocean data",
+        "Alternative Label":"Oday",
+        "Comment":"",
+        "UID":"527f5d03-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Daily Mean Atmosphere, Ocean and Surface Fields"
+    },
+    {
+        "Name":"6hrZ",
+        "New Names":[
+            "6hrZ"
+        ],
+        "Status":"New",
+        "Title":"6-hourly Zonal Mean",
+        "Alternative Label":"",
+        "Comment":"",
+        "UID":"527f5cdf-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"CFmon",
+        "New Names":[
+            "CFmon"
+        ],
+        "Status":"",
+        "Title":"Monthly data associated with cloud forcing",
+        "Alternative Label":"cfMon",
+        "Comment":"",
+        "UID":"527f5cea-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"3hrPt",
+        "New Names":[
+            "3hrPt"
+        ],
+        "Status":"",
+        "Title":"3-hourly (instantaneous)",
+        "Alternative Label":"3hrPt",
+        "Comment":"",
+        "UID":"527f5cdb-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"ImonAnt",
+        "New Names":[
+            "LImon"
+        ],
+        "Status":"",
+        "Title":"Monthly fields on the Antarctic ice sheet",
+        "Alternative Label":"LImonant",
+        "Comment":"",
+        "UID":"527f5cfc-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"EmonZ",
+        "New Names":[
+            "AmonZ"
+        ],
+        "Status":"",
+        "Title":"Monthly zonal means (time mean, extension)",
+        "Alternative Label":"emMonZ",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf6-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"6hrPlevPt",
+        "New Names":[
+            "6hrLevPt"
+        ],
+        "Status":"",
+        "Title":"6-hourly atmospheric data on pressure levels (instantaneous)",
+        "Alternative Label":"6hrPlevpt",
+        "Comment":"Some 6-hourly variables are requested in both time mean and instantaneous forms to support different scientific analyses.",
+        "UID":"527f5cde-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"E1hrClimMon",
+        "New Names":[
+            "A1hrClimMon"
+        ],
+        "Status":"Deprecated",
+        "Title":"Diurnal Cycle",
+        "Alternative Label":"em1hrclimmon",
+        "Comment":"Average daily cycle, in 1 hour steps, monthly averages.",
+        "UID":"527f5cee-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Hourly data, averaged over days"
+    },
+    {
+        "Name":"E3hr",
+        "New Names":[
+            "3hr"
+        ],
+        "Status":"Deprecated",
+        "Title":"3-hourly (time mean, extension)",
+        "Alternative Label":"em3hr",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cef-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"LImon",
+        "New Names":[
+            "LImon"
+        ],
+        "Status":"",
+        "Title":"Monthly fields for the terrestrial cryosphere",
+        "Alternative Label":"LImon",
+        "Comment":"Includes both fields over all land and fields restricted to ice sheets.",
+        "UID":"527f5d00-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"IyrAnt",
+        "New Names":[
+            "LIyr"
+        ],
+        "Status":"",
+        "Title":"Annual fields on the Antarctic ice sheet",
+        "Alternative Label":"LIyrant",
+        "Comment":"",
+        "UID":"527f5cfe-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"day",
+        "New Names":[
+            "day"
+        ],
+        "Status":"",
+        "Title":"Daily Data (extension - contains both atmospheric and oceanographic data)",
+        "Alternative Label":"day",
+        "Comment":"Includes presure level fields (ua, va, etc)",
+        "UID":"527f5cec-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"E1hr",
+        "New Names":[
+            "Ahr"
+        ],
+        "Status":"Deprecated",
+        "Title":"Hourly Atmospheric Data (extension)",
+        "Alternative Label":"em1hr",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5ced-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"AERhr",
+        "New Names":[
+            "AERhr"
+        ],
+        "Status":"",
+        "Title":"Hourly atmospheric chemistry and aerosol data",
+        "Alternative Label":"aerhourly",
+        "Comment":"",
+        "UID":"527f5ce2-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"CF3hr",
+        "New Names":[
+            "3hr"
+        ],
+        "Status":"",
+        "Title":"3-hourly associated with cloud forcing",
+        "Alternative Label":"cf3hr",
+        "Comment":"",
+        "UID":"527f5ce8-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Lmon",
+        "New Names":[
+            "Lmon"
+        ],
+        "Status":"",
+        "Title":"Monthly land surface and soil model fields",
+        "Alternative Label":"Lmon",
+        "Comment":"",
+        "UID":"527f5d01-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"E6hrZ",
+        "New Names":[
+            "6hrZ"
+        ],
+        "Status":"Deprecated",
+        "Title":"6-hourly Zonal Mean (extension)",
+        "Alternative Label":"em6hrZ",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf1-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"ImonGre",
+        "New Names":[
+            "LImon"
+        ],
+        "Status":"",
+        "Title":"Monthly fields on the Greenland ice sheet",
+        "Alternative Label":"LImongre",
+        "Comment":"",
+        "UID":"527f5cfd-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"AERfx",
+        "New Names":[
+            "fx"
+        ],
+        "Status":"",
+        "Title":"Fixed atmospheric chemistry and aerosol data",
+        "Alternative Label":"aerfixed",
+        "Comment":"",
+        "UID":"527f5ce1-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"EdayZ",
+        "New Names":[
+            "dayZ"
+        ],
+        "Status":"",
+        "Title":"Daily Zonal Mean (extension)",
+        "Alternative Label":"emDayZ",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf3-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"SIday",
+        "New Names":[
+            "Siday"
+        ],
+        "Status":"",
+        "Title":"Daily sea-ice data",
+        "Alternative Label":"SIday",
+        "Comment":"",
+        "UID":"527f5d08-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Efx",
+        "New Names":[
+            "fx"
+        ],
+        "Status":"",
+        "Title":"Fixed (extension)",
+        "Alternative Label":"emFx",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf4-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"IfxAnt",
+        "New Names":[
+            "fx"
+        ],
+        "Status":"",
+        "Title":"Fixed fields on the Antarctic ice sheet",
+        "Alternative Label":"LIfxant",
+        "Comment":"",
+        "UID":"527f5cfa-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Oclim",
+        "New Names":[
+            "Oclim"
+        ],
+        "Status":"",
+        "Title":"Monthly climatologies of ocean data",
+        "Alternative Label":"Oclim",
+        "Comment":"Ocean climatologies,  12 monthly values, averaged over the time period requested.",
+        "UID":"527f5d02-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Monthly Mean Climatology"
+    },
+    {
+        "Name":"6hrPlev",
+        "New Names":[
+            "6hrPlev"
+        ],
+        "Status":"",
+        "Title":"6-hourly atmospheric data on pressure levels (time mean)",
+        "Alternative Label":"6hrPlev",
+        "Comment":"",
+        "UID":"527f5cdd-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Eday",
+        "New Names":[
+            "day",
+            "Lday"
+        ],
+        "Status":"",
+        "Title":"Daily (time mean, extension)",
+        "Alternative Label":"emDay",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf2-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Emon",
+        "New Names":"",
+        "Status":"",
+        "Title":"Monthly (time mean, extension)",
+        "Alternative Label":"emMon",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf5-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"Eyr",
+        "New Names":[
+            "Lyr"
+        ],
+        "Status":"",
+        "Title":"Daily (time mean, extension)",
+        "Alternative Label":"emYr",
+        "Comment":"Data in the 'E...' tables is requested by specific endorsed MIPs, and is generally more specialised than other tables.",
+        "UID":"527f5cf8-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"IfxGre",
+        "New Names":[
+            "fx"
+        ],
+        "Status":"",
+        "Title":"Fixed fields on the Greenland ice sheet",
+        "Alternative Label":"LIfxgre",
+        "Comment":"",
+        "UID":"527f5cfb-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    },
+    {
+        "Name":"SImon",
+        "New Names":[
+            "SImon"
+        ],
+        "Status":"",
+        "Title":"Monthly sea-ice data",
+        "Alternative Label":"SImon",
+        "Comment":"",
+        "UID":"527f5d09-8c97-11ef-944e-41a8eb05f654",
+        "Description":"Monthly Mean Ocean Cryosphere Fields"
+    },
+    {
+        "Name":"CFsubhr",
+        "New Names":[
+            "CFsubhr"
+        ],
+        "Status":"",
+        "Title":"Diagnostics for cloud forcing analysis at specific sites",
+        "Alternative Label":"cfSites",
+        "Comment":"",
+        "UID":"527f5ceb-8c97-11ef-944e-41a8eb05f654",
+        "Description":""
+    }
+]

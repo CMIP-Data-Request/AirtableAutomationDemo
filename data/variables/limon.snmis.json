@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost",
     "compound-name": "LImon.snmIs",
     "description": "Loss of snow mass resulting from surface melting. Computed as the surface melt water from snow on the ice sheet portion of the grid cell divided by the ice\\_sheet area in the grid cell; report as 0.0 for snow-free land\\_ice regions; report as missing where the land fraction is 0.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [new_LImon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Ice Sheet Surface Snow Melt",
     "type": "real",

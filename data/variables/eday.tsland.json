@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Eday.tsland",
     "description": "Surface temperature on land\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "LS3MIP  ",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Land Surface Temperature",
     "type": "real",

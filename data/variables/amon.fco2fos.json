@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1",
     "compound-name": "Amon.fco2fos",
     "description": "This is the prescribed anthropogenic CO2 flux from fossil fuel use, including cement production, and flaring (but not from land-use changes, agricultural burning, forest regrowth, etc.)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "This is requested only for the emission-driven coupled carbon climate model runs.\n",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Carbon Mass Flux into Atmosphere Due to Fossil Fuel Emissions of CO2 [kgC m-2 s-1]",
     "type": "real",

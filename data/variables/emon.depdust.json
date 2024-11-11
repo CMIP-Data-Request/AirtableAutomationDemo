@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_permafrost",
     "compound-name": "Emon.depdust",
     "description": "Fdry mass deposition rate of dust\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-aero-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Total Deposition Rate of Dust",
     "type": "real",

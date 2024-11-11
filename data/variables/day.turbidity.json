@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "fish_model_day",
     "compound-name": "day.turbidity",
     "description": "turbidity of coastal runoff\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "day"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

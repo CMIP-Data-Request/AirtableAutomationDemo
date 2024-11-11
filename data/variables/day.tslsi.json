@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline, cordex [test], global_emulators",
     "compound-name": "day.tslsi",
     "description": "Surface temperature of all surfaces except open ocean.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "day ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "day"
-    ],
     "theme": "",
     "title": "Surface Temperature Where Land or Sea Ice",
     "type": "real",

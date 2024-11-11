@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_mass_monthly, seaice_budget_freshwater_monthly, CFMIP_baseline, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sipr",
     "description": "mass of liquid precipitation falling onto sea ice divided by grid-cell area\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Rainfall Rate over Sea Ice",
     "type": "real",

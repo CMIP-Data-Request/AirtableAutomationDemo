@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Vegetation_type , urban_impacts_essential, plant_phenology",
     "compound-name": "Lmon.landCoverFrac",
     "description": "The categories may differ from model to model, depending on their  PFT definitions.   This may include natural PFTs, anthropogenic PFTs, bare soil, lakes, urban areas, etc.   Sum of all should equal the fraction of the grid-cell that is land.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "need to explain how to define vegtype.  To facilitate model comparison, it is also requested that the aggregated land cover types called for in lines 28 to 35 be archived (but not in this variable).  Note that if this variable is independent of time, it should be stored only for a single time (user choice).   Note that the \"types\" will be model dependent and for each type there should be a full description of the PFT (plant functional type).\n",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Percentage of Area by Vegetation or Land-Cover Category",
     "type": "real",

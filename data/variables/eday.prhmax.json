@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential, HealthFloodingDaily, biodiv_freshwater_daily",
     "compound-name": "Eday.prhmax",
     "description": "Daily Maximum Hourly Precipitation Rate\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-day-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Maximum Hourly Precipitation Rate",
     "type": "real",

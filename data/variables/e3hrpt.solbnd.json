@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.solbnd",
     "description": "Solar irradiance at a horizontal surface at top of atmosphere.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "RFMIP [aero_irf]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E3hrPt"
-    ],
     "theme": "",
     "title": "TOA Solar Irradiance for Each Band",
     "type": "real",

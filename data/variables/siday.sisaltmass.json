@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_advanced",
     "compound-name": "SIday.sisaltmass",
     "description": "Total mass of all salt in sea ice divided by grid-cell area\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "Total mass of all salt in sea ice divided by grid-cell area\n",
     "provenance": "",
     "status": "Accepted",
-    "table": [
-        "SIday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

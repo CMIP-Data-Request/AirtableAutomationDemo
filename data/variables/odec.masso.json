@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_scalars_high_priority",
     "compound-name": "Odec.masso",
     "description": "Total mass of liquid sea water. For Boussinesq models, report this diagnostic as Boussinesq reference density times total volume.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Odec ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Sea Water Mass",
     "type": "real",

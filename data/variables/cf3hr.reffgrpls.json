@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.reffgrpls",
     "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "CF3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CF3hr"
-    ],
     "theme": "",
     "title": "Hydrometeor Effective Radius of Stratiform Graupel",
     "type": "real",

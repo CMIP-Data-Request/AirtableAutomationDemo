@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oyr.chldiat",
     "description": "chlorophyll from diatom phytoplankton component concentration alone\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Mass Concentration of Diatoms Expressed as Chlorophyll in Sea Water",
     "type": "real",

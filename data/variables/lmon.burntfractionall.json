@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline, paleo_permafrost, tipmip_extended",
     "compound-name": "Lmon.burntFractionAll",
     "description": "Percentage of grid cell burned due to all fires including natural and anthropogenic fires and those associated with anthropogenic land use change\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Percentage of Entire Grid Cell That Is Covered by Burnt Vegetation (All Classes)",
     "type": "real",

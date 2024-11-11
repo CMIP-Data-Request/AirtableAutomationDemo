@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline",
     "compound-name": "Lmon.prveg",
     "description": "the precipitation flux that is intercepted by the vegetation canopy (if present in model) before reaching the ground.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Precipitation onto Canopy",
     "type": "real",

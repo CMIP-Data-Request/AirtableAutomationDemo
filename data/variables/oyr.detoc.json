@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oyr.detoc",
     "description": "sum of detrital organic carbon component concentrations\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Detrital Organic Carbon Concentration",
     "type": "real",

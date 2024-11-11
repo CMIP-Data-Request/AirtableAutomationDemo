@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1, ref_earth_system",
     "compound-name": "Amon.fco2antt",
     "description": "This is requested only for the emission-driven coupled carbon climate model runs.  Does not include natural fire sources but, includes all anthropogenic sources, including fossil fuel use, cement production, agricultural burning, and sources associated with anthropogenic land use change excluding forest regrowth.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Carbon Mass Flux into Atmosphere Due to All Anthropogenic Emissions of CO2 [kgC m-2 s-1]",
     "type": "real",

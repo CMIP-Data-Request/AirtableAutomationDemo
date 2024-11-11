@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, aerchemmip_3d_monthly, DCPP_Wider, SO_BGC-cloud_ocean_monthly, omip_transports_high_priority",
     "compound-name": "Omon.wmo",
     "description": "Upward mass transport from residual mean (resolved plus parameterized) advective transport.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native. Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Upward Ocean Mass Transport",
     "type": "real",

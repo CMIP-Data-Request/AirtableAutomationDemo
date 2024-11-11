@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly, FireMIP_monthly, dynamical_downscaling_core",
     "compound-name": "AERmon.od550bb",
     "description": "total organic aerosol AOD due to biomass burning (excluding so4, nitrate BB components)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Aerosol Optical Depth at 550nm Due to Biomass Burning",
     "type": "real",

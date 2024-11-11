@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere",
     "compound-name": "SImon.siforceintstry",
     "description": "Y-component of force on sea ice caused by internal stress (divergence of sigma)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Internal Stress Term in Force Balance (Y-Component)",
     "type": "real",

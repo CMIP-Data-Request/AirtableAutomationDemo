@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr, dynamical_downscaling_ocean_air_sea_forcing",
     "compound-name": "3hr.tauvo",
     "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "\u00a0Report on native horizontal grid.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "3hr"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

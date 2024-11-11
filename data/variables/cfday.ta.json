@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_daily, CFMIP_daily_3D",
     "compound-name": "CFday.ta",
     "description": "Air Temperature\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "CFday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFday"
-    ],
     "theme": "",
     "title": "Air Temperature",
     "type": "real",

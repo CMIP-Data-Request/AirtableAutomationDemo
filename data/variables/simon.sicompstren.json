@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_advanced, paleo_cryosphere, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sicompstren",
     "description": "Computed strength of the ice pack, defined as the energy (J m-2) dissipated per unit area removed from the ice pack under compression, and assumed proportional to the change in potential energy caused by ridging. For Hibler-type models, this is P (= P\\*h exp(-C(1-A)) where P\\* is compressive strength, h ice thickness, A compactness and C strength reduction constant).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Compressive Sea Ice Strength",
     "type": "real",

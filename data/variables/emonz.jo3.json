@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "EmonZ.jo3",
     "description": "zonal mean; hence YZT\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "DAMIP [DAMIP_Amon_new]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "EmonZ"
-    ],
     "theme": "",
     "title": "Photolysis Rate of Ozone (O3)",
     "type": "real",

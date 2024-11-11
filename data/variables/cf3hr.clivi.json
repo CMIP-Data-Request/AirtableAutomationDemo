@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr, clouds_basic_instantaneous",
     "compound-name": "CF3hr.clivi",
     "description": "mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating frozen hydrometeors ONLY if the precipitating hydrometeor affects the calculation of radiative transfer in model.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFMIP (CMIP5)",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CF3hr"
-    ],
     "theme": "",
     "title": "Ice Water Path",
     "type": "real",

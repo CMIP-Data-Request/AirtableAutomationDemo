@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landatm_coupling_3hA, WaterResources_subdaily",
     "compound-name": "3hr.mrsos",
     "description": "the mass of water in all phases in a thin surface soil layer.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "integrate over uppermost 10 cm\n",
     "provenance": "3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "3hr"
-    ],
     "theme": "",
     "title": "Moisture in Upper Portion of Soil Column",
     "type": "real",

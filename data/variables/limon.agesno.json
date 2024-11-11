@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "snow_allfreq",
     "compound-name": "LImon.agesno",
     "description": "When computing the time-mean here, the time samples, weighted by the mass of snow on the land portion of the grid cell, are accumulated and then divided by the sum of the weights.  Reported as \"missing in regions free of snow on land.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "LImon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Mean Age of Snow",
     "type": "real",

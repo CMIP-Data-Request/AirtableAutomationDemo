@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_daily, seaice_state_daily_advanced",
     "compound-name": "SIday.sihc",
     "description": "Sea-Ice Heat Content per Unit Area at daily mean\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "Time and Area Mean on Single Level, Masked (Sea), daily\n",
     "provenance": "",
     "status": "Accepted",
-    "table": [
-        "SIday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline",
     "compound-name": "CFmon.smc",
     "description": "The net mass flux represents the difference between the updraft and downdraft components.  For models with a distinct shallow convection scheme, this is calculated as convective mass flux divided by the area of the whole grid cell (not just the area of the cloud).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",
     "provenance": "CFmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFmon"
-    ],
     "theme": "",
     "title": "Shallow Convective Mass Flux",
     "type": "real",

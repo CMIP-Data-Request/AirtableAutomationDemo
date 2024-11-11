@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_ocean_salt_and_heat_transport_variables_monthly, paleo_ocean_transports, tipmip_extended, omip_transports_medium_priority",
     "compound-name": "Omon.sltovgyre",
     "description": "From all advective mass transport processes, resolved and parameterized.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "For models which do not have a Cartesian lat-long grid, this transport can be approximated as thetransport across zig-zag paths corresponding to latitudes with spacing between latitudes appropriate tothe model's resolution, as is done for the ocean meridional overturning mass streamfunction.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Northward Ocean Salt Transport Due to Gyre",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_advanced",
     "compound-name": "Emon.vtendnogw",
     "description": "Tendency of the northward wind by parameterized nonorographic gravity waves.  (Note that CF name tables only have a general northward tendency for all gravity waves, and we need it separated by type.)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DynVarMIP [DYVR_monthly_d]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Northward Acceleration Due to Non-Orographic Gravity Wave Drag",
     "type": "real",

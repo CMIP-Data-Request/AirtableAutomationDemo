@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.hfy_dup",
     "description": "Contains all contributions to \"y-ward\" heat transport from resolved and parameterized processes. Use Celsius for temperature scale.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

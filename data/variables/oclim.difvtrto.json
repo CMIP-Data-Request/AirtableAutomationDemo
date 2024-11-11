@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oclim.difvtrto",
     "description": "Vertical/dianeutral diffusivity applied to tracers due to tides (i.e. caused by astronomical gravity changes which manifest as tides).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monc"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oclim ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oclim"
-    ],
     "theme": "",
     "title": "Ocean Vertical Tracer Diffusivity Due to Tides",
     "type": "real",

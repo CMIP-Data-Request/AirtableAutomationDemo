@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_advanced",
     "compound-name": "SIday.sitempbot",
     "description": "Report temperature at interface, NOT temperature within lowermost model layer\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "Report temperature at interface, NOT temperature within lowermost model layer\n",
     "provenance": "",
     "status": "Accepted",
-    "table": [
-        "SIday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E1hr.sfcWind_dup",
     "description": "Hourly 100m wind speed\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "E1hr"
-    ],
     "theme": [
         "Atmosphere",
         "Impacts & adaptation"

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hrPt.rsdscsaf",
     "description": "Calculated in the absence of aerosols and clouds.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "RFMIP [aero_irf]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E3hrPt"
-    ],
     "theme": "",
     "title": "Surface Downwelling Clear-Sky, Aerosol-Free Shortwave Radiation",
     "type": "real",

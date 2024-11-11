@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, FireMIP_monthly, paleo_permafrost, snow_allfreq",
     "compound-name": "LImon.snm",
     "description": "Computed as the total surface melt water on the land portion of the grid cell divided by the land area in the grid cell; report as 0.0 for snow-free land regions; report as missing where the land fraction is 0.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "LImon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Surface Snow Melt",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, snow_allfreq",
     "compound-name": "Eday.snm",
     "description": "surface\\_snow\\_and\\_ice\\_melt\\_flux\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Surface Snow Melt",
     "type": "real",

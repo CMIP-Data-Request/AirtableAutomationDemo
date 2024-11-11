@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlevPt.mrsol",
     "description": "in each soil layer, the mass of water in all phases, including ice.  Reported as \"missing\" for grid cells occupied entirely by \"sea\"\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [6hrPlev_intense]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrPlevPt"
-    ],
     "theme": "",
     "title": "Total Water Content of Soil Layer",
     "type": "real",

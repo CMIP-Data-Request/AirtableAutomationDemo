@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.osaltpadvect",
     "description": "Tendency of salt content for a grid cell from parameterized eddy advection (any form of eddy advection).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "FAFMIP [fafOmonB]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Tendency of Sea Water Salinity Expressed as Salt Content Due to Parameterized Eddy Advection",
     "type": "real",

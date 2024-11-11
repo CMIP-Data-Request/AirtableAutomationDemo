@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Esubhr.ta",
     "description": "Air Temperature\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [1ts]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Esubhr"
-    ],
     "theme": "",
     "title": "Air Temperature",
     "type": "real",

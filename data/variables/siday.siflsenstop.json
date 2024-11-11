@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_daily",
     "compound-name": "SIday.siflsenstop",
     "description": "the net sensible heat flux over sea ice\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "the net sensible heat flux over sea ice\n",
     "provenance": "",
     "status": "Accepted",
-    "table": [
-        "SIday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

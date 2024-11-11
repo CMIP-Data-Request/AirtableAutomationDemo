@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology",
     "compound-name": "Eday.snmsl",
     "description": "surface\\_snow\\_melt\\_flux\\_into\\_soil\\_layer\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Water Flowing out of Snowpack",
     "type": "real",

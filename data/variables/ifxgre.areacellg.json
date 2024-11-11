@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "IfxGre.areacellg",
     "description": "Cell areas any grid used to report ice sheet variables. These cell areas should be defined to enable exact calculation of area integrals (e.g., of vertical fluxes of energy at the surface and top of the atmosphere)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IfxGre]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IfxGre"
-    ],
     "theme": "",
     "title": "Grid-Cell Area for Ice Sheet Variables",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_momentum_fluxes_high_priority",
     "compound-name": "Odec.tauuo",
     "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid.\n",
     "provenance": "Odec ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Sea Water Surface Downward X Stress",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "3hrPt.sfcWind",
     "description": "This is the mean of the speed, not the speed computed from the mean u and v components of wind\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "normally, the the wind  should be reported at the 10 meter height\n",
     "provenance": "CFMIP (CMIP5)",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "3hrPt"
-    ],
     "theme": "",
     "title": "Near-Surface Wind Speed",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Eday.eow",
     "description": "liquid\\_water\\_evaporation\\_flux\\_from\\_open\\_water\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Open Water Evaporation",
     "type": "real",

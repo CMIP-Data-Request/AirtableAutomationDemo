@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic, aerchemmip_2dZ_monthly, DCPP_Wider",
     "compound-name": "AERmonZ.ua",
     "description": "Zonal wind (positive in a eastward direction).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "AERmonZ ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmonZ"
-    ],
     "theme": "",
     "title": "Eastward Wind",
     "type": "real",

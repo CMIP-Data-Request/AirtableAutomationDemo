@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, seaice_state_daily_advanced",
     "compound-name": "SIday.siitdsnconc",
     "description": "K=ice depth bands\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Accepted",
-    "table": [
-        "SIday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

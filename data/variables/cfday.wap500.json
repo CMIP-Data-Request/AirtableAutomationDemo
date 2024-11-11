@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, CFMIP_baseline",
     "compound-name": "CFday.wap500",
     "description": "at 500 hPa level; commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "CFday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFday"
-    ],
     "theme": "",
     "title": "Pressure Tendency",
     "type": "real",

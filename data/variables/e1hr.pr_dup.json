@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E1hr.pr_dup",
     "description": "Hourly precipitation rate at the surface.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "E1hr"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

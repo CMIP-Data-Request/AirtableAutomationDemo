@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, snow_allfreq, ref_land_and_landice",
     "compound-name": "Lmon.snw",
     "description": "As snw but defined as Lmon (Not sure about this though - it seems already available as LImon but I'm guessing that's only over land ice?)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Lmon"
-    ],
     "theme": [
         "Land & land-ice"
     ],

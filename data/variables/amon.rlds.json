@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, Bjerknes_Index_ENSO, poleward_heat_transports, aerchemmip_2d_monthly, paleodata_assimilation, paleo_radiation_fluxes, DCPP_Wider, SO_BGC-cloud_met_monthly, FireMIP_monthly, biodiv_land_monthly, seaice_budget_energy_monthly, CFMIP_baseline, paleo_permafrost, landice_glaciers_allfreq, clouds_basic_average",
     "compound-name": "Amon.rlds",
     "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"longwave\" means longwave radiation. Downwelling radiation is radiation from above. It does not mean \"net downward\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Surface Downwelling Longwave Radiation",
     "type": "real",

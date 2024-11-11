@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly, Ocean_acidification_oxygen_extremes, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.dissic",
     "description": "Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -28,9 +23,6 @@
     "processing-note": "Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  \"Tracer\"  concentations should be reported even if they are diagnosed rather than prognostically calculated.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Dissolved Inorganic Carbon Concentration",
     "type": "real",

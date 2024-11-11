@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, c4mip_land_carbon_cycle_tier1, carbon_conservation_check_variables",
     "compound-name": "Emon.fCLandToOcean",
     "description": "leached carbon etc that goes into run off or river routing and finds its way into ocean should be reported here.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_LandT1]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Lateral Transfer of Carbon out of Grid Cell That Eventually Goes into Ocean",
     "type": "real",

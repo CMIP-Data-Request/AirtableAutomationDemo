@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.tntscpbl",
     "description": "To be specified only in  models which do not separate cloud, precipitation and boundary layer terms.  Includes all boundary layer terms including diffusive ones.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFsubhr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFsubhr"
-    ],
     "theme": "",
     "title": "Tendency of Air Temperature Due to Stratiform Cloud and Precipitation and Boundary Layer Mixing",
     "type": "real",

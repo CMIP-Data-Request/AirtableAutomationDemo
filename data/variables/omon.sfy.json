@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_mesoscale, omip_transports_medium_priority",
     "compound-name": "Omon.sfy",
     "description": "Contains all contributions to 'y-ward' salt transport from resolved and parameterized processes.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "time-mean on ocean grid\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

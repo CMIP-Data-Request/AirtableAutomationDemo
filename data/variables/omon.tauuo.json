@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, paleo_ocean, DCPP_Wider",
     "compound-name": "Omon.tauuo",
     "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Sea Water Surface Downward X Stress",
     "type": "real",

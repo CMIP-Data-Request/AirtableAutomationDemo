@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oclim.diftrebo2d",
     "description": "Epineutral diffusivity means a lateral diffusivity along a either a neutral or isopycnal density surface due to motion which is not resolved on the grid scale of an ocean model. The type of density surface is dependent on the model formulation. \n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monc"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "\n",
     "provenance": "Oclim ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oclim"
-    ],
     "theme": "",
     "title": "Ocean Tracer Epineutral Biharmonic Diffusivity",
     "type": "real",

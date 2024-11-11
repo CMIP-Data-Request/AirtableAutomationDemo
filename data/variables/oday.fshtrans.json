@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oday.fshtrans",
     "description": "The heat transport through the Florida Straits, from the coast of Florida to the Bahamas at 26.7N.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "Integrated depth and longitude section of temperature multiplied by velocity at 25.7N from the Florida coast (~80.5W) to the Bahamas (~77.4W), If the east coast isn't resolved go up to ~77.4W.\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

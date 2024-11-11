@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IfxAnt.topg",
     "description": "The bedrock topography beneath the land ice\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IfxAnt]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IfxAnt"
-    ],
     "theme": "",
     "title": "Bedrock Altitude",
     "type": "real",

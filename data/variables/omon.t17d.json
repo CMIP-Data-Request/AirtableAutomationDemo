@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_fisheries",
     "compound-name": "Omon.t17d",
     "description": "**depth\\_of\\_isosurface\\_of\\_sea\\_water\\_potential\\_temperature at 17C**\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

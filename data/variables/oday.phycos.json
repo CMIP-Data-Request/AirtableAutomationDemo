@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider",
     "compound-name": "Oday.phycos",
     "description": "sum of phytoplankton organic carbon component concentrations at the sea surface\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Oday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oday"
-    ],
     "theme": "",
     "title": "Sea Surface Phytoplankton Carbon Concentration",
     "type": "real",

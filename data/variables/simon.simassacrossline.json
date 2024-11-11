@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_global_monthly_advanced, paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "SImon.simassacrossline",
     "description": "Flux across 4 straits\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Sea Mass Area Flux Through Straits",
     "type": "real",

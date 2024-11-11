@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_global_allfreq, paleo_permafrost, tipmip_baseline",
     "compound-name": "LImon.sftflf",
     "description": "Percentage of grid cell covered by floating ice shelf, the component of the ice sheet that is flowing over sea water\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [new_LImon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Floating Ice Shelf Area Percentage",
     "type": "real",

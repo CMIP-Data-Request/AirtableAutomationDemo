@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, Ocean_acidification_oxygen_extremes",
     "compound-name": "Oday.chl",
     "description": "Sum of chlorophyll from all phytoplankton group concentrations. In most models this is equal to chldiat+chlmisc, that is the sum of Diatom Chlorophyll Mass Concentration and Other Phytoplankton Chlorophyll Mass Concentration\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -28,9 +23,6 @@
     "processing-note": "The variable at the depth of 200 meters is requested.\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

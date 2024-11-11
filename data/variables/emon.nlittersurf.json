@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_nitrogen_cycle_tier2",
     "compound-name": "Emon.nLitterSurf",
     "description": "\"Content\" indicates a quantity per unit area. \"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Surface litter\" means the part of the litter resting above the soil surface. The sum of the quantities with standard names wood\\_debris\\_mass\\_content\\_of\\_nitrogen, surface\\_litter\\_mass\\_content\\_of\\_nitrogen and subsurface\\_litter\\_mass\\_content\\_of\\_nitrogen is the total nitrogen mass content of dead plant material.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_LandT2]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Nitrogen Mass in Above-Ground Litter (non CWD)",
     "type": "real",

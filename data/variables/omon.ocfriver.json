@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.ocfriver",
     "description": "Organic Carbon supply to ocean through runoff (separate from gas exchange)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Flux of Organic Carbon into Ocean Surface by Runoff",
     "type": "real",

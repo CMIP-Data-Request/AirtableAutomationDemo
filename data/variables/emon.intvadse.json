@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Emon.intvadse",
     "description": "Vertically integrated northward dry static energy transport (cp.T +zg).v (Mass\\_weighted\\_vertical integral of the product of northward wind by dry static\\_energy per mass unit)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-Amon-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Vertically Integrated Northward Dry Static Energy Transport",
     "type": "real",

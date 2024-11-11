@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_cn_cycle_monthly, DCPP_Wider, c4mip_land_carbon_cycle_tier1, FireMIP_monthly",
     "compound-name": "Lmon.cLitter",
     "description": "\"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Content\" indicates a quantity per unit area. The sum of the quantities with standard names surface\\_litter\\_mass\\_content\\_of\\_carbon and subsurface\\_litter\\_mass\\_content\\_of\\_carbon has the standard name litter\\_mass\\_content\\_of\\_carbon.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Carbon Mass in Litter Pool",
     "type": "real",

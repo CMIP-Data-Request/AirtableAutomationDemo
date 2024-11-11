@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E1hr.va",
     "description": "Pressure levels (3)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [1hr_energy]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E1hr"
-    ],
     "theme": "",
     "title": "Northward Wind",
     "type": "real",

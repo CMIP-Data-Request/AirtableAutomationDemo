@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Lmon.treeFracPrimDec",
     "description": "This is the fraction of the entire grid cell  that is covered by \"total primary deciduous trees.\"\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -25,9 +20,6 @@
     "processing-note": "Agregation of model PFTs as defined in 1st priority to aid model intercomparison.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Percentage Cover by Primary Deciduous Tree",
     "type": "real",

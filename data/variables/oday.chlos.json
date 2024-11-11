@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, DCPP_Wider",
     "compound-name": "Oday.chlos",
     "description": "sum of chlorophyll from all phytoplankton group concentrations at the sea surface.  In most models this is equal to chldiat+chlmisc, that is the sum of \"Diatom Chlorophyll Mass Concentration\" plus \"Other Phytoplankton Chlorophyll Mass Concentration\"\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Oday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oday"
-    ],
     "theme": "",
     "title": "Surface Mass Concentration of Total Phytoplankton Expressed as Chlorophyll in Sea Water",
     "type": "real",

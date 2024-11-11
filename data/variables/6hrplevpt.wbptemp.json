@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlevPt.wbptemp",
     "description": "plev\\_7\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [6hrPlev_extr_dr]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrPlevPt"
-    ],
     "theme": "",
     "title": "Wet Bulb Potential Temperature",
     "type": "real",

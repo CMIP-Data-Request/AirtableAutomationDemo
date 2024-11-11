@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily",
     "compound-name": "6hrLev.ec550aer",
     "description": "Aerosol Extinction @550nm\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "6hrLev [aer] ((isd.002))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrLev"
-    ],
     "theme": "",
     "title": "Aerosol Extinction Coefficient",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology, biodiv_freshwater_daily",
     "compound-name": "Eday.rivo",
     "description": "water\\_flux\\_from\\_upstream\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "River Discharge",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "FireMIP_monthly",
     "compound-name": "LImon.pflw",
     "description": "\"where land over land\", i.e., this is the total mass of liquid water contained within the permafrost layer within the land portion of a grid cell divided by the area of the land portion of the cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -30,9 +25,6 @@
     "processing-note": "",
     "provenance": "LImon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "LImon"
-    ],
     "theme": "",
     "title": "Liquid Water Content of Permafrost Layer",
     "type": "real",

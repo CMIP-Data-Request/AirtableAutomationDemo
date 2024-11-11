@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Vegetation_type , plant_phenology",
     "compound-name": "Eday.laiVgt",
     "description": "A ratio obtained by dividing the total upper leaf surface area of vegetation by the (horizontal) surface area of the land on which it grows.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Eday"
-    ],
     "theme": [
         "Land & land-ice"
     ],

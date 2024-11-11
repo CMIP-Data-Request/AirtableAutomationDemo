@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "carbon_conservation_check_variables",
     "compound-name": "Oyr.fgco2",
     "description": "Gas exchange flux of CO2 (positive into ocean)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Surface Downward Mass Flux of Carbon as CO2 [kgC m-2 s-1]",
     "type": "real",

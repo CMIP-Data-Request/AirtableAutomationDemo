@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, biodiv_marine_daily, Ocean_acidification_oxygen_extremes",
     "compound-name": "Oday.ph",
     "description": "negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -28,9 +23,6 @@
     "processing-note": "The variable at the depth of 200 meters is requested. \n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

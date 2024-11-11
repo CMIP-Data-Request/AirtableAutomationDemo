@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider, landuse",
     "compound-name": "Eyr.shrubFrac",
     "description": "Percentage of entire grid cell  that is covered by shrub.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DCPP [DCPP-year]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eyr"
-    ],
     "theme": "",
     "title": "Percentage Cover by Shrub",
     "type": "real",

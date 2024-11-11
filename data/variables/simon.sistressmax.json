@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_advanced",
     "compound-name": "SImon.sistressmax",
     "description": "Maximum shear stress in sea ice (second stress invariant)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Maximum Shear Stress in Sea Ice",
     "type": "real",

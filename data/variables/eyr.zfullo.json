@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential",
     "compound-name": "Eyr.zfullo",
     "description": "Depth below geoid\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_Basic]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eyr"
-    ],
     "theme": "",
     "title": "Depth Below Geoid of Ocean Layer",
     "type": "real",

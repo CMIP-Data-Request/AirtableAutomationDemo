@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_ocean_carbon_cycle_tier1, marine_bgc_carbon_sink",
     "compound-name": "Emon.expcalc",
     "description": "Downward flux of Calcite\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "Those who wish to record vertical velocities and vertical fluxes on ocean half-levels may do so. If using CMOR3 you will be required to specify artificial bounds (e.g. located at full model levels) to avoid an error exit.\n",
     "provenance": "C4MIP [C_Ocean_T2]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Downward Flux of Calcite",
     "type": "real",

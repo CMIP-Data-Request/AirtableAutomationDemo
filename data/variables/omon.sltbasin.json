@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_ocean_transports",
     "compound-name": "Omon.sltbasin",
     "description": "This refers to the already available definitions of Omon.sltovgyre and Omon.sltovovrt, but should provide the total northward salt transport including all contributions (similar to heat transport, were a measure of the total transport exists via hfbasin); I believe that no cell measure apply and selected --Mod only since I was forced to select one of the options.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

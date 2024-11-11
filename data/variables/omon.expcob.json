@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_sediments",
     "compound-name": "Omon.expcob",
     "description": "Downward sinking flux of particulate organic carbon at seafloor\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "Variable value should be reported as the flux exiting the bottom of the deepest ocean layer\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Earth System"
     ],

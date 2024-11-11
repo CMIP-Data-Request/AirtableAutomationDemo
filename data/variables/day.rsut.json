@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_radiation_fluxes",
     "compound-name": "day.rsut",
     "description": "As Amon.rsut, but at daily resolution.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "day"
-    ],
     "theme": [
         "Earth System",
         "Ocean & sea-ice",

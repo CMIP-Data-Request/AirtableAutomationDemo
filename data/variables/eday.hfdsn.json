@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "snow_allfreq",
     "compound-name": "Eday.hfdsn",
     "description": "Downward heat flux at snow top\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LEday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Downward Heat Flux into Snow Where Land over Land",
     "type": "real",

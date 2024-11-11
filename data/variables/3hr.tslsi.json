@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landatm_coupling_3hA",
     "compound-name": "3hr.tslsi",
     "description": "Surface temperature of all surfaces except open ocean, sampled synoptically.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "3hr"
-    ],
     "theme": "",
     "title": "Surface Temperature Where Land or Sea Ice",
     "type": "real",

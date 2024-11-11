@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_daily",
     "compound-name": "SIday.sifllwdtop",
     "description": "the downwelling longwave flux over sea ice (always positive)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Accepted",
-    "table": [
-        "SIday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

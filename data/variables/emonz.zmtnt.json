@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "EmonZ.zmtnt",
     "description": "The diabatic heating rates due to all the processes that may change potential temperature\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "DAMIP [DAMIP-EmonZ]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "EmonZ"
-    ],
     "theme": "",
     "title": "Zonal Mean Diabatic Heating Rates",
     "type": "real",

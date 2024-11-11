@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential, fish_model_core_mon, marine_bgc_fisheries",
     "compound-name": "Emon.t20d",
     "description": "20C isotherm depth\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-Omon-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Depth of 20 degree Celsius Isotherm",
     "type": "real",

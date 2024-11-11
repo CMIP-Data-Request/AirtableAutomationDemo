@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider",
     "compound-name": "Oday.phos",
     "description": "negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "On behalf of the DCPP Team, I would like to propose a few variables that the colleagues will need in order to study extreme events in the decadal climate prediction experiments. \n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

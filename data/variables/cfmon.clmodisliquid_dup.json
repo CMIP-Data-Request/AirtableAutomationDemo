@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_cosp_extra, radiativeforcing_monthly",
     "compound-name": "CFmon.clmodisliquid_dup",
     "description": "Percentage liquid-cloud cover as seen by the MODIS instrument simulator. Dimensions of LWP (cloud liquid water path) and r\\_eff (droplet effective radius).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "7 LWP levels x 6 effective radius levels. NOTE: \"p1000\" is chosen as a coordinate to enable form submission and should be ignored.  An extra dimension of LWP should also be added to this request (although it is not an option in the form).\n\n[BD removed the p1000 coordinate on 4/9/24]\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "CFmon"
-    ],
     "theme": [
         "Atmosphere"
     ],

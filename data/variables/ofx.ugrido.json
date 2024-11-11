@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Ofx.ugrido",
     "description": "Provide for models with unstructured grids only\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "scanDreq.py",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Ofx"
-    ],
     "theme": "",
     "title": "UGRID Grid Specification",
     "type": "real",

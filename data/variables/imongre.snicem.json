@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq, tipmip_baseline",
     "compound-name": "ImonGre.snicem",
     "description": "Loss of snow and ice mass resulting from surface melting. Computed as the total surface melt on the land ice portion of the grid cell divided by land ice area in the grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [ImonGre]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "ImonGre"
-    ],
     "theme": "",
     "title": "Surface Snow and Ice Melt Flux",
     "type": "real",

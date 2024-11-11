@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_advanced, CFMIP_baseline, paleo_cryosphere",
     "compound-name": "SImon.sisali",
     "description": "Mean sea-ice salinity of all sea ice in grid cell\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Sea Ice Salinity",
     "type": "real",

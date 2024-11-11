@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_budget_energy_monthly, seaice_state_monthly_advanced, paleo_cryosphere, snow_allfreq, paleo_cryosphere_medium_priority",
     "compound-name": "SImon.sisnhc",
     "description": "Heat-content of all snow in grid cell divided by total grid-cell area. Snow-water equivalent at 0 Celsius is assumed to have a heat content of 0 J.  Does not include heat content of sea ice.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Snow Heat Content per Unit Area",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "clouds_basic_average",
     "compound-name": "3hr.clt",
     "description": "for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Include both large-scale and convective cloud.  This is a 3-hour mean.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "3hr"
-    ],
     "theme": "",
     "title": "Total Cloud Cover Percentage",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_basic, paleo_cryosphere, CFMIP_baseline, snow_allfreq, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sisnconc",
     "description": "Percentage of sea ice, by area, which is covered by snow, giving equal weight to every square metre of sea ice . Exclude snow that lies on land or land ice.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Snow Area Percentage",
     "type": "real",

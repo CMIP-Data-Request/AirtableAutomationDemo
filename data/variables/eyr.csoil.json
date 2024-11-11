@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Eyr.cSoil",
     "description": "Carbon mass in the full depth of the soil model.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "LUMIP [Lyr_Lut]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eyr"
-    ],
     "theme": "",
     "title": "Carbon Mass in Model Soil Pool",
     "type": "real",

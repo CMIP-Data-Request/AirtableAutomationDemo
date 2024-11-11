@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline",
     "compound-name": "Amon.o3Clim",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monc"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -30,9 +25,6 @@
     "processing-note": "If O3 does not vary from one year to the next, report 12 months, starting with January.   (Note: include all 12 months even if the values do not vary seasonally.)  When calling CMOR, identify this variable as tro3Clim, not tro3. If the O3 varies from one year to the next,  then report instead the field described in the previous table entry.  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Mole Fraction of O3",
     "type": "real",

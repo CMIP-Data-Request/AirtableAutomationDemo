@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_cryosphere, paleo_cryosphere_high_priority",
     "compound-name": "Emon.albl",
     "description": "albedo of the portion of land that is not covered by ice, potentially considering sub-gridscale inhomogeneity of ice cover\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Emon"
-    ],
     "theme": [
         "Earth System",
         "Land & land-ice"

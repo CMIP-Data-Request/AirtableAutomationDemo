@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Deposition variables requested by ISIMIP",
     "compound-name": "3hr.drynh3",
     "description": "3-hourly Dry Deposition Rate of NH3\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "3hr"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

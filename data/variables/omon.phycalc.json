@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier2, dynamical_downscaling_ocean_biogeochemistry_forcing",
     "compound-name": "Omon.phycalc",
     "description": "carbon concentration from calcareous (calcite-producing) phytoplankton component alone\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "Concentrations of all 3D tracers in the uppermost ocean layer. See first table in Oyr for a complete list of these tracers.  \"Tracer\"  concentations should be reported even if they are diagnosed rather than prognostically calculated.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water",
     "type": "real",

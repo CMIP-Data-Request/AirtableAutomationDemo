@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_subdaily",
     "compound-name": "6hrPlev.hurs",
     "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "VIACSAB [viacsabExtra]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrPlev"
-    ],
     "theme": "",
     "title": "Near-Surface Relative Humidity",
     "type": "real",

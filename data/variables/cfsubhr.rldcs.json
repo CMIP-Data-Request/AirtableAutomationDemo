@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.rldcs",
     "description": "Downwelling clear-sky longwave radiation (includes the fluxes at the surface and TOA)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "Report on model half-levels (i.e., interfaces between model layers).\n",
     "provenance": "CFsubhr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFsubhr"
-    ],
     "theme": "",
     "title": "Downwelling Clear-Sky Longwave Radiation",
     "type": "real",

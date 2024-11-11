@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Esubhr.hus",
     "description": "Specific humidity is the mass fraction of water vapor in (moist) air.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [1ts]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Esubhr"
-    ],
     "theme": "",
     "title": "Specific Humidity",
     "type": "real",

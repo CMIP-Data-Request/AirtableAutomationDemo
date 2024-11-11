@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Efx.rsu",
     "description": "Fluxes are requested at all levels\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "RFMIP [OfflineRad]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Efx"
-    ],
     "theme": "",
     "title": "Upwelling Shortwave Radiation",
     "type": "real",

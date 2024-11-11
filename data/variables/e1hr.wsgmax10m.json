@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "impacts_climserv_hourly_core",
     "compound-name": "E1hr.wsgmax10m",
     "description": "Wind speed gust maximum at 10m above surface\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "Time maximum required\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "E1hr"
-    ],
     "theme": [
         "Atmosphere",
         "Impacts & adaptation"

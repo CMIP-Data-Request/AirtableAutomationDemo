@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, marine_bgc_baseline, omip_geometry_physics",
     "compound-name": "Ofx.masscello",
     "description": "Tracer grid-cell mass per unit area used for computing tracer budgets. For Boussinesq models with static ocean grid cell thickness, masscello = rhozero\\*thickcello, where thickcello is static cell thickness and rhozero is constant Boussinesq reference density. More generally, masscello is time dependent and reported as part of Omon.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "3-d field: report on grid that applies to temperature\n",
     "provenance": "Ofx ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Ofx"
-    ],
     "theme": "",
     "title": "Ocean Grid-Cell Mass per Area",
     "type": "real",

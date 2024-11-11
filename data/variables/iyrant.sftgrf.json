@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IyrAnt.sftgrf",
     "description": "This is needed in case the grounded ice sheet area changes in time (NO floating ice shelf)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IyrAnt]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IyrAnt"
-    ],
     "theme": "",
     "title": "Grounded Ice Sheet Area Percentage",
     "type": "real",

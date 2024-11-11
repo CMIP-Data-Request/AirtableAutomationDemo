@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "E3hr.prcsh",
     "description": "Shallow convection precipitation flux\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [3hr_extr]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E3hr"
-    ],
     "theme": "",
     "title": "Precipitation Flux from Shallow Convection",
     "type": "real",

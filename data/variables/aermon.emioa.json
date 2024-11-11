@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_monthly",
     "compound-name": "AERmon.emioa",
     "description": "This is the sum of total emission of POA and total production of SOA (emipoa+chepsoa). \"Mass\" refers to the mass of organic matter, not mass of organic carbon alone. We recommend a scale factor of POM=1.4\\*OC, unless your model has more detailed info available.  Integrate 3D chemical production and emission field vertically to 2d field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Primary Emission and Chemical Production of Dry Aerosol Organic Matter",
     "type": "real",

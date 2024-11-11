@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_freshwater_daily",
     "compound-name": "Eday.dslw",
     "description": "",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Change in Soil Moisture",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Synoptic_systems_low_priority",
     "compound-name": "6hrPlevPt.hur100",
     "description": "Relative humidity at 100 hPa\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "6hrPlevPt"
-    ],
     "theme": [
         "Atmosphere"
     ],

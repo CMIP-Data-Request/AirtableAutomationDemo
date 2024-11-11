@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "hydrology",
     "compound-name": "Eday.qgwr",
     "description": "water\\_flux\\_from\\_soil\\_layer\\_to\\_groundwater\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "LS3MIP [LWday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Groundwater Recharge from Soil Layer",
     "type": "real",

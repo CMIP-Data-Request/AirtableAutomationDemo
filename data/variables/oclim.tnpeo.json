@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oclim.tnpeo",
     "description": "Rate that work is done against vertical stratification, as measured by the vertical heat and salt diffusivity. Report here as depth integrated two-dimensional field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monc"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Oclim ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oclim"
-    ],
     "theme": "",
     "title": "Tendency of Ocean Potential Energy Content",
     "type": "real",

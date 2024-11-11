@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleo_radiation_fluxes, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
     "compound-name": "Amon.rlutcs",
     "description": "Upwelling clear-sky longwave radiation at top of atmosphere\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "TOA Outgoing Clear-Sky Longwave Radiation",
     "type": "real",

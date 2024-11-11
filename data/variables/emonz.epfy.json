@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic, DCPP_Wider",
     "compound-name": "EmonZ.epfy",
     "description": "Transformed Eulerian Mean Diagnostics Meridional component Fy of Eliassen-Palm (EP) flux (Fy, Fz) derived from 6hr or higher frequency fields (use daily fields or 12 hr fields if the 6 hr are not available). Please use the definitions given by equation 3.5.3a of Andrews, Holton and Leovy text book, but scaled by density to have units m3 s-2.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [Amon_sparc]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "EmonZ"
-    ],
     "theme": "",
     "title": "Northward Component of the Eliassen-Palm Flux",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_basic, DCPP_Wider",
     "compound-name": "Eday.tauv",
     "description": "surface, now requesting daily output.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "DynVarMIP [DYVR_daily_c]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Eday"
-    ],
     "theme": "",
     "title": "Surface Downward Northward Wind Stress",
     "type": "real",

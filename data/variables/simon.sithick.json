@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, DAMIP_monthly, DCPP_Essential, paleo_cryosphere, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, paleo_cryosphere_high_priority",
     "compound-name": "SImon.sithick",
     "description": "(in OImon, sit was volume per entire cell area)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Sea Ice Thickness",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq",
     "compound-name": "ImonGre.hfss",
     "description": "The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -30,9 +25,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [ImonGre]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "ImonGre"
-    ],
     "theme": "",
     "title": "Surface Upward Sensible Heat Flux",
     "type": "real",

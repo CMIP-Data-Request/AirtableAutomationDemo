@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_2d_subdaily, HealthPollutionhourly",
     "compound-name": "AERhr.sfpm25",
     "description": "Mass fraction of atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 2.5 micrometers. To specify the relative humidity and temperature at which the particle size applies, provide scalar coordinate variables with the standard names of \"relative\\_humidity\" and \"air\\_temperature\".\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERhr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERhr"
-    ],
     "theme": "",
     "title": "PM2.5 Mass Mixing Ratio in Lowest Model Layer",
     "type": "real",

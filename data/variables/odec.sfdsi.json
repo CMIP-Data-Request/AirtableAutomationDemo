@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_surface_fluxes_high_priority",
     "compound-name": "Odec.sfdsi",
     "description": "This field is physical, and it arises since sea ice has a nonzero salt content, so it exchanges salt with the liquid ocean upon melting and freezing.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -30,9 +25,6 @@
     "processing-note": "Report on native horizontal grid as well as mapped onto sphere.\n",
     "provenance": "Odec ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Downward Sea Ice Basal Salt Flux",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "temperature_variability_daily_highpriority",
     "compound-name": "Eday.evspsblsoi",
     "description": "Water evaporation flux from soil but for daily averages i.e., the evspsblsoi variable, which is only currently defined for monthly averages\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Eday"
-    ],
     "theme": [
         "Land & land-ice"
     ],

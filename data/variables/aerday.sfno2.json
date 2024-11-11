@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "AERday.sfno2",
     "description": "NO2 volume mixing ratio at the model level corresponding to the surface.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmoschem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "AERday"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

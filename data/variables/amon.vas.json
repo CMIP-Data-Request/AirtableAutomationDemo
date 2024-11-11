@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline, paleo_permafrost",
     "compound-name": "Amon.vas",
     "description": "Northward component of the near surface wind\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "normally, the the wind component should be reported at the 10 meter height\n",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Northward Near-Surface Wind",
     "type": "real",

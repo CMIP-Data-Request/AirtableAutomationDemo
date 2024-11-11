@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "surgemip_variables, Ocean Temperature Extremes",
     "compound-name": "3hr.tos",
     "description": "temperature of surface of open ocean, sampled synoptically.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "3hr"
-    ],
     "theme": "",
     "title": "Sea Surface Temperature",
     "type": "real",

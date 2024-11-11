@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_grid",
     "compound-name": "Omon.thkcellvo",
     "description": "The time varying thickness of the gridboxes computed on the v-points\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

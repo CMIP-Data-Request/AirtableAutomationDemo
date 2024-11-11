@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landuse",
     "compound-name": "Emon.fracLut",
     "description": "End of year values (not annual mean); note that percentage should be reported as percentage of land grid cell (example: frac\\_lnd = 0.5, frac\\_ocn = 0.5, frac\\_crop\\_lnd = 0.2 (of land portion of grid cell), then frac\\_lut(crop) = 0.5\\*0.2 = 0.1)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "LUMIP [Lmon_Lut]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Percentage of Grid Cell for Each Land-Use Tile",
     "type": "real",

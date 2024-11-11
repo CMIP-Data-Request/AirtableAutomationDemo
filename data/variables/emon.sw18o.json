@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleodata_assimilation, paleo_stable_isotopes",
     "compound-name": "Emon.sw18O",
     "description": "Ratio of abundance of oxygen-18 (18O) atoms to oxygen-16 (16O) atoms in sea water\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-Omon-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Isotopic Ratio of Oxygen-18 in Sea Water",
     "type": "real",

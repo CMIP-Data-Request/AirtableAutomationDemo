@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Oday.fstrans",
     "description": "The net volume transport through the Florida Strait at 26.5N.    The volume transport between Florida Coast (~) and Grand Bahama (~)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "Integrate meridional velocity across longitude and depth, ideally from coast to coast, if there is no coast on the East integrate to ().  Make sure to output in Sv (10^6 m^3/s).  Include the bolus (parameterized) transport in computation if available.\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Oday"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

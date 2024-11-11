@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, c4mip_ocean_carbon_cycle_tier2",
     "compound-name": "Omon.froc",
     "description": "Organic Carbon loss to sediments\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Downward Organic Carbon Flux at Ocean Bottom",
     "type": "real",

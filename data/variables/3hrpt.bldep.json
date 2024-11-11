@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "urban_impacts_essential, landatm_coupling_3hA",
     "compound-name": "3hrPt.bldep",
     "description": "Boundary Layer Depth every 3 hours\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "3hrPt"
-    ],
     "theme": [
         "Atmosphere",
         "Land & land-ice"

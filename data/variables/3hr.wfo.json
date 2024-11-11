@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ISIMIP_oceanforcing_3hr",
     "compound-name": "3hr.wfo",
     "description": "Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum \\*wfonocorr\\* and \\*wfcorr\\*.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "net flux of water into sea water, including any flux correction. Report on native horizontal grid as well as mapped onto sphere.\n",
     "provenance": "",
     "status": "New",
-    "table": [
-        "3hr"
-    ],
     "theme": [
         "Ocean & sea-ice"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_ocean_monthly, tipmip_baseline, omip_transports_high_priority",
     "compound-name": "Omon.vmo",
     "description": "Y-ward mass transport from residual mean (resolved plus parameterized) advective transport.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Ocean Mass Y Transport",
     "type": "real",

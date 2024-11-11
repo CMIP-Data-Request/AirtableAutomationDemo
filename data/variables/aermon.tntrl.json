@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "aerchemmip_3d_monthly, cfmip_monthly",
     "compound-name": "AERmon.tntrl",
     "description": "longwave heating rates\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Tendency of Air Temperature Due to Longwave Radiative Heating",
     "type": "real",

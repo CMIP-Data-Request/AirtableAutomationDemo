@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_3hr",
     "compound-name": "CF3hr.zfull",
     "description": "This is actual height above mean sea level, not geopotential height\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/3hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "CF3hr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CF3hr"
-    ],
     "theme": "",
     "title": "Altitude of Model Full-Levels",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "ocean_mesoscale, poleward_heat_transports, paleo_ocean_transports, tipmip_extended, omip_transports_medium_priority",
     "compound-name": "Omon.hfy",
     "description": "Contains all contributions to \"y-ward\" heat transport from resolved and parameterized processes. Use Celsius for temperature scale.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "2d field for CMIP6. Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Ocean Heat Y Transport",
     "type": "real",

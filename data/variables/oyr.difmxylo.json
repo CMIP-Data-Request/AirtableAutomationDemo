@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_parameterizations",
     "compound-name": "Oyr.difmxylo",
     "description": "Lateral Laplacian viscosity applied to the momentum equations.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Ocean Momentum XY Laplacian Diffusivity",
     "type": "real",

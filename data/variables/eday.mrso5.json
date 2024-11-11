@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "HealthFloodingDaily",
     "compound-name": "Eday.mrso5",
     "description": "Soil moisture in the top 5 cm of the soil column\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "only provided for land locations\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Eday"
-    ],
     "theme": [
         "Impacts & adaptation"
     ],

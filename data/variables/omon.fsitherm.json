@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_surface_fluxes_medium_priority",
     "compound-name": "Omon.fsitherm",
     "description": "computed as the sea ice thermodynamic water flux into the ocean divided by the area of the ocean portion of the grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -30,9 +25,6 @@
     "processing-note": "OMDP has this as priority=2. The sea-ice folks requested that the priority be raised to 1. Report on native horizontal grid as well as mapped onto sphere.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Water Flux into Sea Water Due to Sea Ice Thermodynamics",
     "type": "real",

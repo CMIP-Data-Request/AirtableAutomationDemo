@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "Ocean_acidification_oxygen_extremes",
     "compound-name": "Omon.aragos",
     "description": "sum of particulate aragonite components (e.g. Phytoplankton, Detrital, etc.)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Surface Aragonite Concentration",
     "type": "real",

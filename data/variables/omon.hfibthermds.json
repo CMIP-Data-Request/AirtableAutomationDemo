@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_boundary_fluxes_medium_priority",
     "compound-name": "Omon.hfibthermds",
     "description": "",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "In general this should be reported as a function of depth, (i.e.,  it will be a function of the generic \"XYZ\" dimensions).  Include enough depth levels to represent  the non-zero values of this field everywhere on the globe. Report on native horizontal grid. If a function of depth, perform online remapping to depth or pressure, if not native vertical grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Heat Flux into Sea Water Due to Iceberg Thermodynamics",
     "type": "real",

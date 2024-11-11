@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "ImonAnt.mrroLi",
     "description": "Runoff flux over land ice is the difference between any available liquid water in the snowpack less any refreezing. Computed as the sum of rainfall and melt of snow or ice less any refreezing or water retained in the snowpack\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -30,9 +25,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [ImonAnt]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "ImonAnt"
-    ],
     "theme": "",
     "title": "Land Ice Runoff Flux",
     "type": "real",

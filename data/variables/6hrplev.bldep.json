@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlev.bldep",
     "description": "Boundary layer depth\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "VIACSAB [viacsabExtra]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrPlev"
-    ],
     "theme": "",
     "title": "Boundary Layer Depth",
     "type": "real",

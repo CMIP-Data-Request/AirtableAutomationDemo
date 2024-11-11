@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_dynamics_basic, seaice_gcos_ecv",
     "compound-name": "SIday.sispeed",
     "description": "Speed of ice (i.e. mean absolute velocity) to account for back-and-forth movement of the ice\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaiceday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SIday"
-    ],
     "theme": "",
     "title": "Sea-Ice Speed",
     "type": "real",

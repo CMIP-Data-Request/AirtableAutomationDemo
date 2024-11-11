@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "6hrPlevPt.snw",
     "description": "The mass of surface snow on the land portion of the grid cell divided by the land area in the grid cell; reported as missing where the land fraction is 0; excludes snow on vegetation canopy or on sea ice.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "HighResMIP [6hrPlev_intense]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrPlevPt"
-    ],
     "theme": "",
     "title": "Surface Snow Amount",
     "type": "real",

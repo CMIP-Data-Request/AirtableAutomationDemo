@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Wider",
     "compound-name": "6hrPlev.rv850",
     "description": "Relative vorticity is the upward component of the vorticity vector i.e. the component which arises from horizontal velocity.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/6hr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DCPP [DCPP-6hr]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "6hrPlev"
-    ],
     "theme": "",
     "title": "Relative Vorticity at 850hPa",
     "type": "real",

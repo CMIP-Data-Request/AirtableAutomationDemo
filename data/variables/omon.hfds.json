@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, aerchemmip_2d_monthly, DCPP_Essential, paleo_cryosphere, SO_BGC-cloud_ocean_monthly, DAMIP_monthly, tipmip_baseline, landice_glaciers_allfreq, paleo_cryosphere_high_priority",
     "compound-name": "Omon.hfds",
     "description": "This is the net flux of heat entering the liquid water column through its upper surface (excluding any \"flux adjustment\") .\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid as well as remapped onto a latitude/longitude grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Downward Heat Flux at Sea Water Surface",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline, paleo_permafrost, snow_allfreq",
     "compound-name": "Amon.sbl",
     "description": "The snow and ice sublimation flux is the loss of snow and ice mass from the surface resulting from their conversion to water vapor that enters the atmosphere.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -28,9 +23,6 @@
     "processing-note": "This differs from sbl appearing in table Limon in that the flux is averaged over the entire grid cell, not just the land portion.\n",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Surface Snow and Ice Sublimation Flux",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DCPP_Essential, CFMIP_baseline",
     "compound-name": "Lmon.mrfso",
     "description": "the mass (summed over all all layers) of frozen water.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Soil Frozen Water Content",
     "type": "real",

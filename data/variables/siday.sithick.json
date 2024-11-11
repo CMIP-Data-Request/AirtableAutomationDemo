@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_daily_basic, surgemip_variables, DCPP_Wider, CFMIP_baseline, seaice_gcos_ecv",
     "compound-name": "SIday.sithick",
     "description": "Actual (floe) thickness of sea ice (NOT volume divided by grid area as was done in CMIP5)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaiceday]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SIday"
-    ],
     "theme": "",
     "title": "Sea Ice Thickness",
     "type": "real",

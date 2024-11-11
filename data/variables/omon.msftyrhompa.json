@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_transports_low_priority",
     "compound-name": "Omon.msftyrhompa",
     "description": "CMIP5 called this \"due to Bolus Advection\".  Name change respects the more general physics of the mesoscale parameterizations.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Function of Y, rho, basin. For a model with a cartesian latxlon grid, this is the same as the \"Ocean Meridional Overturning Mass Streamfunction\" (msftmrhompa) and should in this case be omitted. \n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Ocean Y Overturning Mass Streamfunction Due to Parameterized Mesoscale Advection",
     "type": "real",

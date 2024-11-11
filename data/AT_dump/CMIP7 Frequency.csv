@@ -1,0 +1,10 @@
+,Name,UID,Description
+recA1qN7icAyT6MZz,yr,63215c18-8ca5-11ef-944e-41a8eb05f654,
+recIicYqFg0Bl5Opc,3hr,63215c11-8ca5-11ef-944e-41a8eb05f654,3 hourly mean samples
+recJTz0dZgh0rV4Qf,6hr,63215c12-8ca5-11ef-944e-41a8eb05f654,6 hourly mean samples
+recL1Cc1KX7qeYwxD,dec,63215c14-8ca5-11ef-944e-41a8eb05f654,decadal mean samples
+recUFLshlImy2iWmL,fx,63215c15-8ca5-11ef-944e-41a8eb05f654,fixed (time invariant) field
+recbz2ZCDbDopspbN,subhr,63215c17-8ca5-11ef-944e-41a8eb05f654,
+reciPhcxeakNVntJ9,1hr,63215c10-8ca5-11ef-944e-41a8eb05f654,sampled hourly
+recjrJCVpIi2Lkcar,day,63215c13-8ca5-11ef-944e-41a8eb05f654,daily mean samples
+recvYBsXyo4ucD3Dv,mon,63215c16-8ca5-11ef-944e-41a8eb05f654,monthly mean samples

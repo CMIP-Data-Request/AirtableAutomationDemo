@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_fx, hydrology",
     "compound-name": "fx.depthl",
     "description": "depth of a lake; this relates to variable fx.sftlkf and shall provide additional information of the vertical extent of a lake which will influence the heat capacity among other things. This variable shall identify differences in details of the treatment of lakes in climate models.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "fx"
-    ],
     "theme": [
         "Land & land-ice",
         "Earth System",

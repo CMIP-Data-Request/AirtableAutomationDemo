@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_boundary_fluxes_medium_priority",
     "compound-name": "Omon.hfrunoffds2d",
     "description": "Heat flux associated with liquid water which drains from land. It is calculated relative to the heat that would be transported by runoff water entering the sea at zero degrees Celsius. \n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "If only the vertically integrated runoff flux is available, report as this 2-d field; otherwise hfrunoffds should be used.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Temperature Flux Due to Runoff Expressed as Heat Flux into Sea Water",
     "type": "real",

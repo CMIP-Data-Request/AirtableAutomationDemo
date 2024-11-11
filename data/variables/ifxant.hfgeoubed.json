@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_antarctica_allfreq",
     "compound-name": "IfxAnt.hfgeoubed",
     "description": "",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IfxAnt]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IfxAnt"
-    ],
     "theme": "",
     "title": "Geothermal Heat Flux Beneath Land Ice",
     "type": "real",

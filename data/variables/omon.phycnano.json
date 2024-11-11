@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.phycnano",
     "description": "Mole Concentration of Nanophytoplankton only Expressed as Carbon in Sea Water\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "Omon"
-    ],
     "theme": [
         "Earth System",
         "Ocean & sea-ice"

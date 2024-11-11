@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential, FireMIP_monthly",
     "compound-name": "Emon.rls",
     "description": "Net longwave surface radiation\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "PMIP [PMIP-Amon-02]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Net Longwave Surface Radiation",
     "type": "real",

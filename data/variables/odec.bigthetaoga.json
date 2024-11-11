@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Odec.bigthetaoga",
     "description": "Diagnostic should be contributed only for models using conservative temperature as prognostic field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/dec"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "Odec ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Odec"
-    ],
     "theme": "",
     "title": "Global Average Sea Water Conservative Temperature",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_budgets",
     "compound-name": "Oyr.ocontemptend",
     "description": "Tendency of heat content for a grid cell from all processes. Reported only for models that use conservative temperature as prognostic field.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/yr"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "Report on native horizontal grid. Online mapping to depth/pressure vertical grid if depth or pressure are not native.\n",
     "provenance": "Oyr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Oyr"
-    ],
     "theme": "",
     "title": "Tendency of Sea Water Conservative Temperature Expressed as Heat Content",
     "type": "real",

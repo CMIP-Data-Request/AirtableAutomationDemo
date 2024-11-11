@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_scalar_fields, tipmip_extended, omip_scalars_high_priority",
     "compound-name": "Omon.mlotstmin",
     "description": "Sigma T is potential density referenced to ocean surface.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Minimum Ocean Mixed Layer Thickness Defined by Sigma T",
     "type": "real",

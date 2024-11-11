@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "HealthFloodingDaily, hydrology, CFMIP_baseline, snow_allfreq",
     "compound-name": "day.snw",
     "description": "the mass of surface snow on the land portion of the grid cell divided by the land area in the grid cell; reported as missing where the land fraction is 0; excludes snow on vegetation canopy or on sea ice.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -31,9 +26,6 @@
     "processing-note": "",
     "provenance": "day ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "day"
-    ],
     "theme": "",
     "title": "Surface Snow Amount",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, REJECTED_ocean_coordinates, ocean_grid, marine_bgc_baseline, paleo_fx, omip_geometry_physics",
     "compound-name": "Ofx.thkcello",
     "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "If this field is time-dependent then save it instead as one of your Omon fields (see the Omon table)\n",
     "provenance": "fx ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Ofx"
-    ],
     "theme": "",
     "title": "Ocean Model Cell Thickness",
     "type": "real",

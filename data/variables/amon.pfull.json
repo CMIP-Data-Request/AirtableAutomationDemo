@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "SO_BGC-cloud_met_monthly, CFMIP_baseline",
     "compound-name": "Amon.pfull",
     "description": "Air pressure on model levels\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/monc"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Pressure at Model Full-Levels",
     "type": "real",

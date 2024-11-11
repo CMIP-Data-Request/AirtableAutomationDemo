@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, Bjerknes_Index_ENSO, paleo_land_atmosphere_surface, DCPP_Wider, FireMIP_monthly, CFMIP_baseline",
     "compound-name": "Amon.tauu",
     "description": "Downward eastward wind stress at the surface\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Amon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Amon"
-    ],
     "theme": "",
     "title": "Surface Downward Eastward Wind Stress",
     "type": "real",

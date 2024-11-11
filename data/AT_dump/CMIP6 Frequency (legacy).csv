@@ -1,0 +1,21 @@
+,Name,Description,Sampling Rate
+rec3ufFr1BKCMhQP4,monC,monthly climatology computed from monthly mean samples,12
+rec69t92SVfwHuF4X,1hr,sampled hourly,87600
+recCCPc00gN9Q9NyQ,1hrClimMon,,2880
+recGp9oKeOMHqgxqG,mon,monthly mean samples,120
+recHEwdwp7riGa4B5,3hrPt,"sampled 3 hourly, at specified time point within the time period",29200
+recI0zNLshg0PYm41,fx,fixed (time invariant) field,1
+recLkCHAP4sz4DjdD,yr,annual mean samples,10
+recNk1shTc8o7WtPq,subhrPt,"sampled sub-hourly, at specified time point within an hour",262800
+recNkVbuX1rp308tb,3hr,3 hourly mean samples,29200
+recTVSkniYhO0wfld,subhr,,262800
+recV2DJvWHpqLiwIk,monClim,,12
+recWpQtQIpPLIAtCr,day,daily mean samples,3650
+recZNtlnf5rrc4sFs,1hrCM,monthly-mean diurnal cycle resolving each day into 1-hour means,2880
+recbVd4aLZ65K36yD,decadal,,1
+recctMYFPKJT1cwmA,yrPt,"sampled yearly, at specified time point within the time period",10
+receKsKRFBkP5uaKD,monPt,"sampled monthly, at specified time point within the time period",120
+rechKRUz4jAswJ6Vd,6hrPt,"sampled 6 hourly, at specified time point within the time period",14600
+rectHjXyV1w1WxoU0,dec,decadal mean samples,1
+rectxxiQQwBXUszgx,6hr,6 hourly mean samples,14600
+recubFAMTAWyFMsVB,1hrPt,"sampled hourly, at specified time point within an hour",87600

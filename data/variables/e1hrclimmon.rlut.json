@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_monthly_diurnal",
     "compound-name": "E1hrClimMon.rlut",
     "description": "at the top of the atmosphere (to be compared with satellite measurements)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/1hrcm"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "CFMIP [cf1hrClimMon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "E1hrClimMon"
-    ],
     "theme": "",
     "title": "TOA Outgoing Longwave Radiation",
     "type": "real",

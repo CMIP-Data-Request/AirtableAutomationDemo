@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_daily",
     "compound-name": "day.wbgt2m",
     "description": "**mean 2m daily wet bulb globe temperature**\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "",
     "status": "New",
-    "table": [
-        "day"
-    ],
     "theme": [
         "Atmosphere",
         "Impacts & adaptation"

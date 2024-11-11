@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "seaice_state_monthly_advanced",
     "compound-name": "SImon.sirdgconc",
     "description": "Fraction of sea ice, by area, which is covered by sea ice ridges, giving equal weight to every square metre of sea ice .\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/seaice"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "SIMIP [seaicemon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "SImon"
-    ],
     "theme": "",
     "title": "Percentage Cover of Sea Ice by Ridging",
     "type": "real",

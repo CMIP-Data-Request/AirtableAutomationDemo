@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "dynvar_advanced",
     "compound-name": "Eday.utendogw",
     "description": "Tendency of eastward wind induced by the parameterized orographic gravity wave drag\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "We ask the modelling centers to report the induced tendencies separately for each component of the parameterization (where applicable) and to provide specific values of the tunable parameters used for the simulation in the metadata together with a specification of the part of the gravity wave spectrum that is targeted by the parameterization (e.g., minimally, the effective resolution of the model).\n\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Eday"
-    ],
     "theme": [
         "Atmosphere"
     ],

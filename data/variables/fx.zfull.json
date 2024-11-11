@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "CFMIP_baseline",
     "compound-name": "fx.zfull",
     "description": "Provide only if altitude of full model levels is fixed\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "scanDreq.py",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "fx"
-    ],
     "theme": "",
     "title": "Altitude of Model Full-Levels",
     "type": "real",

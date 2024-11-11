@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "temperature_variability_daily_lowpriority, aerchemmip_2d_daily",
     "compound-name": "AERday.maxpblz",
     "description": "maximum boundary layer height during the day (add cell\\_methods attribute: \"time: maximum\")\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "AERday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERday"
-    ],
     "theme": "",
     "title": "Maximum PBL Height",
     "type": "real",

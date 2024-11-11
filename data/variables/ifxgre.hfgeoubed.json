@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "landice_greenland_allfreq, tipmip_baseline",
     "compound-name": "IfxGre.hfgeoubed",
     "description": "",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/landice"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "ISMIP6 [IfxGre]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "IfxGre"
-    ],
     "theme": "",
     "title": "Geothermal Heat Flux Beneath Land Ice",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "AERday.zg100",
     "description": "Geopotential height on the 100 hPa surface\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -25,9 +20,6 @@
     "processing-note": "",
     "provenance": "AERday ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERday"
-    ],
     "theme": "",
     "title": "Geopotential Height at 100hPa",
     "type": "real",

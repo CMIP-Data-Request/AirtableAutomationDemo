@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_3d_monthly",
     "compound-name": "AERmon.o3ste",
     "description": "Ozone tracer intended to map out strat-trop exchange (STE) of ozone.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/aerosol"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "AERmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "AERmon"
-    ],
     "theme": "",
     "title": "Stratospheric Ozone Tracer Volume Mixing Ratio",
     "type": "real",

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Omon.msftyzsmpa",
     "description": "Report only if there is a submesoscale eddy parameterization.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -25,9 +20,6 @@
     "processing-note": "Function of Y, Z, basin. For a model with a cartesian latxlon grid, this is the same as the \"Ocean Meridional Overturning Mass Streamfunction\" (msftmzsmpa) and should in this case be omitted. \n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Ocean Y Overturning Mass Streamfunction Due to Parameterized Submesoscale Advection",
     "type": "real",

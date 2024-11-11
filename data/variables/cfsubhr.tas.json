@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "cfmip_subhr, CFMIP_cfSites",
     "compound-name": "CFsubhr.tas",
     "description": "near-surface (usually, 2 meter) air temperature\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/subhrpt"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
     "provenance": "CFsubhr ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "CFsubhr"
-    ],
     "theme": "",
     "title": "Near-Surface Air Temperature",
     "type": "real",

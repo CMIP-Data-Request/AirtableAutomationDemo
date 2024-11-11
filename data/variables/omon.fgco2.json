@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DAMIP_monthly, DCPP_Essential, marine_bgc_baseline, DCPP_Wider, c4mip_ocean_carbon_cycle_tier1, FireMIP_monthly, ref_earth_system, co2_emissions_concentration_mapping",
     "compound-name": "Omon.fgco2",
     "description": "Gas exchange flux of CO2 (positive into ocean)\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocnbgchem"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Surface Downward Mass Flux of Carbon as CO2 [kgC m-2 s-1]",
     "type": "real",

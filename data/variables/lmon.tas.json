@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "",
     "compound-name": "Lmon.tas",
     "description": "For models with fractional land areas (SFTLF) we are not currently able to diagnose near-surface air temperatures over just the land part of coastal gridboxes, with the current CMIP diagnostic set. The TAS diagnostic will be a weighted mean of the air temperatures over land and sea. If the diagnostic (lets call it LTAS) is available, we can then diagnose the air temperatures just over land, and in conjunction with TAS and SFTLF diagnose the air temperatures just over sea/sea-ice in coastal gridboxes. This will enable consistent comparisons with observational datasets (e.g. CRUTEM5 which is just air temperature over land) over regional areas with large coastal areas. \nReference: Jones, GS, 2020,  \"Apples and oranges\": on comparing near surface temperatures from climate models with observations, QJRMS, 146, Issue 733, 3747-3771, https://doi.org/10.1002/qj.3871.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -25,9 +20,6 @@
     "processing-note": "The diagnostic is used within models that have fractional land areas to calculate coastal gridbox mean TAS, i.e., the mean of air temperatures over sea and air temperatures over land (weighted by the land/ocean areas) in models with fractional land areas. So it shouldn't be too difficult to produce the diagnostic for CMIP.\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Lmon"
-    ],
     "theme": [
         "Atmosphere"
     ],

@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "biodiv_land_daily, CFMIP_baseline, tipmip_extended",
     "compound-name": "day.prc",
     "description": "at surface; includes both liquid and solid phases.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "day ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "day"
-    ],
     "theme": "",
     "title": "Convective Precipitation",
     "type": "real",

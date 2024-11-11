@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Essential, FireMIP_monthly, WaterResources_monthly, CFMIP_baseline, ref_land_and_landice, tipmip_baseline",
     "compound-name": "Lmon.mrro",
     "description": "the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -28,9 +23,6 @@
     "processing-note": "",
     "provenance": "Lmon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Lmon"
-    ],
     "theme": "",
     "title": "Total Runoff",
     "type": "real",

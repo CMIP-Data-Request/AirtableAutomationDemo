@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "paleo_land_atmosphere_surface",
     "compound-name": "Eday.albsrfc",
     "description": "This follows the requested definition of Emon.alb, but we request data at daily resolution\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/day"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/atmos"
@@ -39,9 +34,6 @@
     "processing-note": "This follows the requested definition of Emon.alb, but we request data at daily resolution\n",
     "provenance": "",
     "status": "Under review",
-    "table": [
-        "Eday"
-    ],
     "theme": [
         "Atmosphere",
         "Earth System",

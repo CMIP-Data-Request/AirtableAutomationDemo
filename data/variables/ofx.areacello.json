@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "baseline_fixed, REJECTED_ocean_coordinates, ocean_grid, Bjerknes_Index_ENSO, marine_bgc_baseline, paleo_fx, seaice_budget_mass_monthly, seaice_budget_area_monthly, seaice_budget_energy_monthly, seaice_state_monthly_basic, seaice_dynamics_basic, seaice_dynamics_advanced, seaice_budget_freshwater_monthly, seaice_state_monthly_advanced, seaice_state_daily_basic, marine_bgc_seaice, seaice_bgc_daily, seaice_budget_energy_daily, seaice_state_daily_advanced, omip_geometry_physics",
     "compound-name": "Ofx.areacello",
     "description": "Cell areas for any grid used to report ocean variables and variables which are requested as used on the model ocean grid (e.g. hfsso, which is a downward heat flux from the atmosphere interpolated onto the ocean grid). These cell areas should be defined to enable exact calculation of global integrals (e.g., of vertical fluxes of energy at the surface and top of the atmosphere).\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/fx"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "For oceans with more than 1 mesh (e.g., staggered grids), report areas that apply to surface vertical fluxes of energy.\n",
     "provenance": "Ofx ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Ofx"
-    ],
     "theme": "",
     "title": "Grid-Cell Area for Ocean Variables",
     "type": "real",

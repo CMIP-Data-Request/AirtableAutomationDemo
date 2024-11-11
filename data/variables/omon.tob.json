@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "marine_bgc_baseline, omip_scalar_fields, omip_scalars_high_priority",
     "compound-name": "Omon.tob",
     "description": "Potential temperature at the ocean bottom-most grid cell.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -28,9 +23,6 @@
     "processing-note": "Report on native horizontal grid as well as on a spherical latitude/longitude grid.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Sea Water Potential Temperature at Sea Floor",
     "type": "real",

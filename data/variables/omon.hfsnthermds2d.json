@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "omip_boundary_fluxes_medium_priority",
     "compound-name": "Omon.hfsnthermds2d",
     "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  The specification of a physical process by the phrase due\\_to\\_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \"Snow thermodynamics\" refers to the addition or subtraction of mass due to surface and basal fluxes, i.e., due to melting, sublimation and fusion.\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "If only the vertically integrated heat flux is available, report as this 2-d field; otherwise hfsnthermds should be used.\n",
     "provenance": "Omon ((isd.003))",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Omon"
-    ],
     "theme": "",
     "title": "Heat Flux into Sea Water Due to Snow Thermodynamics",
     "type": "real",

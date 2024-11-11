@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "c4mip_land_nitrogen_cycle_tier2",
     "compound-name": "Emon.nMineralNH4",
     "description": "SUM of ammonium over all soil layers\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/land"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "C4MIP [C_LandT2]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Mineral Ammonium in the Soil",
     "type": "real",

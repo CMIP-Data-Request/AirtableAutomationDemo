@@ -10,11 +10,6 @@
     "cmip7-variable-groups": "DCPP_Essential",
     "compound-name": "Emon.thetaot2000",
     "description": "Upper 2000m, 2D field\n",
-    "frequency": [
-        {
-            "@id": "mip-cmor-tables:auxillary/frequency/mon"
-        }
-    ],
     "modeling-realm": [
         {
             "@id": "mip-cmor-tables:auxillary/realm/ocean"
@@ -27,9 +22,6 @@
     "processing-note": "",
     "provenance": "DCPP [DCPP-mon]",
     "status": "CMIP6 CMOR variable",
-    "table": [
-        "Emon"
-    ],
     "theme": "",
     "title": "Depth Average Potential Temperature of Upper 2000m",
     "type": "real",
