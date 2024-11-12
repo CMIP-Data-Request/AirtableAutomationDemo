@@ -11,8 +11,7 @@
     "compound-name": "CFday.albisccp",
     "description": "time-means are weighted by the ISCCP Total Cloud Fraction - see  <http://cfmip.metoffice.com/COSP.html>\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

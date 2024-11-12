@@ -11,7 +11,8 @@
     "compound-name": "AERmon.mmrdust",
     "description": "Dry mass fraction of dust aerosol particles in air.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

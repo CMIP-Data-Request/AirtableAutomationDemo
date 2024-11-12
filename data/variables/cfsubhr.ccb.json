@@ -11,7 +11,7 @@
     "compound-name": "CFsubhr.ccb",
     "description": "Where convective cloud is present in the grid cell, the instantaneous cloud base altitude should be that of the bottom of the lowest level containing convective cloud. Missing data should be reported in the absence of convective cloud. The time mean should be calculated from these quantities averaging over occasions when convective cloud is present only, and should contain missing data for occasions when no convective cloud is present during the meaning period.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",

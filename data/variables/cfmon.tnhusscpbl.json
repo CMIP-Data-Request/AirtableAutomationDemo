@@ -11,8 +11,7 @@
     "compound-name": "CFmon.tnhusscpbl",
     "description": "To be specified only in  models which do not separate budget terms for stratiform cloud, precipitation and boundary layer schemes.  Includes all bounday layer terms including and diffusive terms.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

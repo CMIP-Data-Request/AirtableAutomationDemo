@@ -11,7 +11,7 @@
     "compound-name": "E1hrClimMon.rsdt",
     "description": "Shortwave radiation incident at the top of the atmosphere\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "down",
     "processing-note": "",

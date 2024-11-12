@@ -11,7 +11,7 @@
     "compound-name": "CFsubhr.sbl",
     "description": "The snow and ice sublimation flux is the loss of snow and ice mass from the surface resulting from their conversion to water vapor that enters the atmosphere.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",

@@ -11,7 +11,8 @@
     "compound-name": "SImon.sisali",
     "description": "Mean sea-ice salinity of all sea ice in grid cell\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

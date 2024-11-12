@@ -11,7 +11,8 @@
     "compound-name": "Eday.loadpoa",
     "description": "The total dry mass of primary particulate organic aerosol particles per unit area.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

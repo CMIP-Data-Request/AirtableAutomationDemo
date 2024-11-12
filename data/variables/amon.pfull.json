@@ -11,7 +11,8 @@
     "compound-name": "Amon.pfull",
     "description": "Air pressure on model levels\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

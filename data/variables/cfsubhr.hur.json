@@ -11,7 +11,7 @@
     "compound-name": "CFsubhr.hur",
     "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

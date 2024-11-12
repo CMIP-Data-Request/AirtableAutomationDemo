@@ -11,8 +11,8 @@
     "compound-name": "Amon.sbl",
     "description": "The snow and ice sublimation flux is the loss of snow and ice mass from the surface resulting from their conversion to water vapor that enters the atmosphere.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Accepted",
+        "Under review"
     ],
     "positive-direction": "",
     "processing-note": "This differs from sbl appearing in table Limon in that the flux is averaged over the entire grid cell, not just the land portion.\n",

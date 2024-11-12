@@ -10,9 +10,7 @@
     "cmip7-variable-groups": "CFMIP_baseline",
     "compound-name": "Oday.omldamax",
     "description": "The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by the mixing scheme is a diagnostic of ocean models. \"Thickness\" means the vertical extent of a layer.\n",
-    "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
-    ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "Report on the ocean grid.  This variable appears in WGOMD Table 2.2\n",
     "provenance": "day ((isd.003))",

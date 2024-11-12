@@ -11,7 +11,7 @@
     "compound-name": "Eday.evspsblsoi",
     "description": "Water evaporation flux from soil but for daily averages i.e., the evspsblsoi variable, which is only currently defined for monthly averages\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

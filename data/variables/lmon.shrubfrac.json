@@ -11,7 +11,8 @@
     "compound-name": "Lmon.shrubFrac",
     "description": "fraction of entire grid cell  that is covered by shrub.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "add scalar coordinate typeshrub and add \"shrub\" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",

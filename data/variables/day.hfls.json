@@ -11,8 +11,8 @@
     "compound-name": "day.hfls",
     "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The surface latent heat flux is the exchange of heat between the surface and the air on account of evaporation (including sublimation). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Accepted",
+        "Under review"
     ],
     "positive-direction": "up",
     "processing-note": "",

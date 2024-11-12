@@ -2592,7 +2592,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -2679,7 +2679,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"278",
         "Processing Note":"",
@@ -2799,7 +2800,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"326",
         "Processing Note":"",
@@ -3138,8 +3139,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"54",
         "Processing Note":"",
@@ -3239,7 +3240,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"119",
         "Processing Note":"add scalar coordinate typetree and add \"tree\" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
@@ -4612,7 +4614,7 @@
         "Brand (WIP) [link]":"tclimdc-z0-hxy-x",
         "Brand (DR) [link]":"tdnl-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1599",
         "Processing Note":"",
@@ -5022,7 +5024,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -5809,7 +5811,7 @@
         "Brand (WIP) [link]":"tclim-l-hxy-x",
         "Brand (DR) [link]":"clim-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"461",
         "Processing Note":"",
@@ -6130,7 +6132,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -6330,7 +6332,7 @@
         "Brand (WIP) [link]":"tstat-p19-hxy-x",
         "Brand (DR) [link]":"clim-p19-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"If O3 does not vary from one year to the next, report 12 months, starting with January.   (Note: include all 12 months even if the values do not vary seasonally.)  When calling CMOR, identify this variable as tro3Clim, not tro3. If the O3 varies from one year to the next,  then report instead the field described in the previous table entry.  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -6735,7 +6737,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"997",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -7056,7 +7058,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"183",
         "Processing Note":"add scalar coordinate typepasture and add \"pasture\" to the CF area type table. Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
@@ -7269,7 +7272,7 @@
         "Brand (WIP) [link]":"tavg-h16-hxy-x",
         "Brand (DR) [link]":"twm-h16-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"839",
         "Processing Note":"",
@@ -8278,7 +8281,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"483",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -9134,7 +9137,7 @@
         "Brand (WIP) [link]":"tavg-h40-hxy-x",
         "Brand (DR) [link]":"twm-h40-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1159",
         "Processing Note":"",
@@ -9531,8 +9534,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"192",
         "Processing Note":"",
@@ -9738,8 +9740,7 @@
         "Brand (WIP) [link]":"tavg-p7c-hxy-x",
         "Brand (DR) [link]":"twm-p7c-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"273",
         "Processing Note":"7 levels x 7 tau\n",
@@ -9817,8 +9818,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"41",
         "Processing Note":"",
@@ -10097,7 +10097,7 @@
         "Brand (WIP) [link]":"tpt-h02-hxys-x",
         "Brand (DR) [link]":"tpt-h02-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -10772,7 +10772,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"196",
         "Processing Note":"Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
@@ -10899,9 +10900,7 @@
         "UID":"d2278996-4a9f-11e6-b84e-ac72891c3257",
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
-        "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
-        ],
+        "Opportunity Status (from CMIP7 Variable Groups)":"",
         "Min Rank":"736",
         "Processing Note":"",
         "Provenance":"LS3MIP [LEday]",
@@ -11510,7 +11509,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"991",
         "Processing Note":"",
@@ -11838,7 +11837,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-si",
         "Brand (DR) [link]":"twm-z0-hxy-amnsi",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"334",
         "Processing Note":"",
@@ -12742,7 +12742,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"565",
         "Processing Note":"",
@@ -12832,7 +12832,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1230",
         "Processing Note":"",
@@ -12912,7 +12912,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"405",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -13501,8 +13501,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"58",
         "Processing Note":"",
@@ -13726,7 +13726,6 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
             "Accepted"
         ],
         "Min Rank":"",
@@ -13805,8 +13804,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"180",
         "Processing Note":"",
@@ -14704,7 +14702,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"338",
         "Processing Note":"",
@@ -15589,7 +15587,7 @@
         "Brand (WIP) [link]":"tavg-p19-hxy-x",
         "Brand (DR) [link]":"tm-p19-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"150",
         "Processing Note":"If this does not change over time (except possibly to vary identically over each annual cycle), report instead the variable described in the next table entry.  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -15831,7 +15829,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -15911,7 +15909,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"390",
         "Processing Note":"",
@@ -16375,7 +16373,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"161",
         "Processing Note":"",
@@ -16702,8 +16700,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"220",
         "Processing Note":"",
@@ -16787,7 +16785,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1159",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -17856,7 +17854,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"382",
         "Processing Note":"",
@@ -18650,7 +18649,8 @@
         "Brand (WIP) [link]":"tstat-p19-hxy-x",
         "Brand (DR) [link]":"clim-p19-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"Report only for simulations (e.g., prescribed concentration pi-control run), in which the CO2 does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as co2Clim, not co2.   If  CO2 is spatially uniform, omit this field, but report Total Atmospheric Mass of CO2 (see the table entry after the next).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -19777,9 +19777,7 @@
         "UID":"8bafd07a-4a5b-11e6-9cd2-ac72891c3257",
         "Brand (WIP) [link]":"tavg-p27-hxy-x",
         "Brand (DR) [link]":"tm-p27-hxy-ax",
-        "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
-        ],
+        "Opportunity Status (from CMIP7 Variable Groups)":"",
         "Min Rank":"9999",
         "Processing Note":"",
         "Provenance":"HighResMIP [Amon_diag]",
@@ -20305,7 +20303,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"925",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -20345,8 +20343,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"237",
         "Processing Note":"",
@@ -21010,9 +21007,7 @@
         "UID":"bab2ce3c-e5dd-11e5-8482-ac72891c3257",
         "Brand (WIP) [link]":"tstat-z0-hxy-x",
         "Brand (DR) [link]":"tmax-z0-hxy-amn",
-        "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
-        ],
+        "Opportunity Status (from CMIP7 Variable Groups)":"",
         "Min Rank":"203",
         "Processing Note":"Report on the ocean grid.  This variable appears in WGOMD Table 2.2\n",
         "Provenance":"day ((isd.003))",
@@ -21127,7 +21122,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"664",
         "Processing Note":"",
@@ -21205,7 +21200,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"492",
         "Processing Note":"",
@@ -21976,7 +21971,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"88",
         "Processing Note":"",
@@ -22234,7 +22230,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1765",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -22274,7 +22270,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"416",
         "Processing Note":"",
@@ -22354,7 +22350,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1553",
         "Processing Note":"",
@@ -22592,7 +22588,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"788",
         "Processing Note":"",
@@ -22674,8 +22670,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"209",
         "Processing Note":"",
@@ -22920,7 +22915,7 @@
         "Brand (WIP) [link]":"tavg-p19-hxy-x",
         "Brand (DR) [link]":"tm-p19-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"479",
         "Processing Note":"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If N2O is spatially uniform, omit this field, but report Global Mean Mole Fraction of N2O (see the table entry after the next one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -24100,7 +24095,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"626",
         "Processing Note":"",
@@ -24302,7 +24298,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -25041,7 +25037,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"843",
         "Processing Note":"",
@@ -25204,7 +25200,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"610",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -25485,7 +25481,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"242",
         "Processing Note":"add scalar coordinate typeshrub and add \"shrub\" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
@@ -25936,7 +25933,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"518",
         "Processing Note":"",
@@ -25976,8 +25973,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"58",
         "Processing Note":"",
@@ -26838,7 +26835,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1463",
         "Processing Note":"",
@@ -27165,7 +27162,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1733",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -27283,7 +27280,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1295",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -27570,8 +27567,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"184",
         "Processing Note":"",
@@ -30233,7 +30229,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"261",
         "Processing Note":"",
@@ -30751,7 +30748,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"722",
         "Processing Note":"",
@@ -31083,7 +31080,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"433",
         "Processing Note":"",
@@ -31255,8 +31253,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"220",
         "Processing Note":"",
@@ -31334,7 +31331,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"136",
         "Processing Note":"",
@@ -31420,7 +31418,6 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
             "Accepted"
         ],
         "Min Rank":"",
@@ -31459,7 +31456,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"364",
         "Processing Note":"",
@@ -31978,7 +31975,7 @@
         "Brand (WIP) [link]":"tstat-p19-hxy-x",
         "Brand (DR) [link]":"clim-p19-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"Report only for simulations (e.g., prescribed concentration pi-control run), in which the CH4 does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as ch4global, not ch4.   If  CH4 is spatially uniform, omit this field, but report Global Mean Mole Fraction of CH4 (see the table entry after the next).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -32198,7 +32195,7 @@
         "Brand (WIP) [link]":"tpt-l-hxy-x",
         "Brand (DR) [link]":"tpt-sd-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"751",
         "Processing Note":"",
@@ -32239,8 +32236,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"27",
         "Processing Note":"",
@@ -32806,7 +32802,7 @@
         "Brand (WIP) [link]":"tclimdc-z0-hxy-x",
         "Brand (DR) [link]":"tdnl-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1599",
         "Processing Note":"",
@@ -32886,8 +32882,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-cl",
         "Brand (DR) [link]":"twm-z0-hxy-amncl",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"564",
         "Processing Note":"",
@@ -33211,7 +33206,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -33823,8 +33818,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"277",
         "Processing Note":"",
@@ -34310,8 +34304,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"36",
         "Processing Note":"",
@@ -34694,7 +34687,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1354",
         "Processing Note":"",
@@ -34812,7 +34805,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"486",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -34932,7 +34925,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -35010,7 +35003,7 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"692",
         "Processing Note":"",
@@ -35790,7 +35783,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"601",
         "Processing Note":"",
@@ -36621,7 +36614,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"141",
         "Processing Note":"",
@@ -36905,7 +36899,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"570",
         "Processing Note":"",
@@ -36985,8 +36979,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"218",
         "Processing Note":"",
@@ -37029,7 +37022,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"553",
         "Processing Note":"",
@@ -37346,7 +37339,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"196",
         "Processing Note":"",
@@ -37721,7 +37715,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"534",
         "Processing Note":"",
@@ -38085,7 +38079,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"",
         "Processing Note":"",
@@ -38458,7 +38452,7 @@
         "Brand (WIP) [link]":"tavg-p19-hxy-x",
         "Brand (DR) [link]":"tm-p19-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"403",
         "Processing Note":"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If CH4 is spatially uniform, omit this field, but report Global Mean Mole Fraction of CH4 (see the table entry after the next one).   Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -38541,7 +38535,7 @@
         "Brand (WIP) [link]":"tstat-p19-hxy-x",
         "Brand (DR) [link]":"clim-p19-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"Report only for simulations (e.g., prescribed concentration pi-control run), in which the N2O does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as n2oglobal, not n2o.   If  N2O is spatially uniform, omit this field, but report Global Mean Mole Fraction of N2O (see the table entry after the next).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -38669,7 +38663,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"368",
         "Processing Note":"",
@@ -38720,6 +38714,46 @@
         "Rank by Volume":"1249",
         "Rank by Submissions":"593",
         "Positive Direction":"",
+        "Impacts & adaptation author team review":"",
+        "Priority 3 (CMIP6 - OLD)":"",
+        "Variable is included in ESM-BCV v1.3":"",
+        "Ocean & sea-ice author team review":"",
+        "Cross-thematic team review":"",
+        "Cross-thematic group review comment":"",
+        "Land & land-ice author team review":"",
+        "Priority 2 (CMIP6)":"",
+        "Priority 1 (CMIP6)":"",
+        "Atmosphere review comment":"",
+        "Priority 3 (CMIP6)":"",
+        "Earth system author team review":""
+    },
+    {
+        "Compound Name":"day.rluscs",
+        "CF Standard Name (from MIP Variables)":"surface_upwelling_longwave_flux_assuming_clear_sky",
+        "Title":"Surface Upwelling Clear-Sky Longwave Radiation",
+        "Description":"Surface Upwelling Clear-sky Longwave Radiation\n",
+        "Type":"real",
+        "Status":"Under review",
+        "Theme":[
+            "Atmosphere"
+        ],
+        "Atmosphere author team review":"",
+        "CMIP7 Variable Groups":"CFMIP-daily",
+        "UID":"",
+        "Brand (WIP) [link]":"tavg-z0-hxy-x",
+        "Brand (DR) [link]":"twm-z0-hxy-amn",
+        "Opportunity Status (from CMIP7 Variable Groups)":[
+            "Accepted"
+        ],
+        "Min Rank":"",
+        "Processing Note":"",
+        "Provenance":"Amon ((isd.003))",
+        "Priority 2 (CMIP6 - OLD":"",
+        "Priority 1 (CMIP6) -- OLD":"",
+        "Rank by File Count":"",
+        "Rank by Volume":"",
+        "Rank by Submissions":"",
+        "Positive Direction":"up",
         "Impacts & adaptation author team review":"",
         "Priority 3 (CMIP6 - OLD)":"",
         "Variable is included in ESM-BCV v1.3":"",
@@ -39275,8 +39309,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"30",
         "Processing Note":"",
@@ -39517,8 +39550,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"189",
         "Processing Note":"",
@@ -39641,8 +39673,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"210",
         "Processing Note":"",
@@ -39723,7 +39754,7 @@
         "Brand (WIP) [link]":"tpt-h02-hxys-x",
         "Brand (DR) [link]":"tpt-h02-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -39887,7 +39918,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"504",
         "Processing Note":"",
@@ -40012,7 +40043,7 @@
         "Brand (WIP) [link]":"tavg-p27-hxy-x",
         "Brand (DR) [link]":"tm-p27-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"",
@@ -40052,7 +40083,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"519",
         "Processing Note":"This field is needed only for models in which the pressure cannot be calculated from the vertical coordinate information stored already for each variable.  Thus, the pressures are needed for height or theta-coordinate models, for example, but not sigma- or eta-coordinate models.\n",
@@ -40294,7 +40325,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"290",
         "Processing Note":"",
@@ -40338,7 +40370,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -40509,7 +40541,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"275",
         "Processing Note":"",
@@ -40916,8 +40948,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-sea",
         "Brand (DR) [link]":"tmn-z0-hxy-amns",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"175",
         "Processing Note":"Report on the ocean horizontal native grid.\n",
@@ -41081,7 +41112,7 @@
         "Brand (WIP) [link]":"tpt-h010-hxys-x",
         "Brand (DR) [link]":"tpt-h010-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -41242,7 +41273,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"475",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -41664,7 +41695,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"",
         "Processing Note":"Latitude x longitude x time. NOTE: Both of the entries in _Coordinates_ and _Extra Dimensions_ should be ignored as they were only included for form submission.\n",
@@ -41983,8 +42015,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"168",
         "Processing Note":"This differs from sbl appearing in table Limon in that the flux is averaged over the entire grid cell, not just the land portion.\n",
@@ -42106,7 +42138,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -42146,7 +42178,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"976",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -42433,7 +42465,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"421",
         "Processing Note":"",
@@ -42473,7 +42505,7 @@
         "Brand (WIP) [link]":"tclimdc-z0-hxy-x",
         "Brand (DR) [link]":"tdnl-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1599",
         "Processing Note":"",
@@ -42513,7 +42545,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"497",
         "Processing Note":"",
@@ -42915,8 +42947,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"393",
         "Processing Note":"",
@@ -43149,7 +43180,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"480",
         "Processing Note":"",
@@ -43227,7 +43258,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1563",
         "Processing Note":"",
@@ -43551,7 +43582,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"580",
         "Processing Note":"",
@@ -44196,7 +44227,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"688",
         "Processing Note":"",
@@ -44236,7 +44267,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"",
@@ -44400,7 +44431,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"241",
         "Processing Note":"",
@@ -45051,8 +45082,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"69",
         "Processing Note":"",
@@ -45139,7 +45170,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -45588,7 +45619,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"595",
         "Processing Note":"",
@@ -46419,7 +46450,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"",
         "Processing Note":"",
@@ -46874,8 +46905,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"62",
         "Processing Note":"",
@@ -47248,7 +47279,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1040",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -47740,7 +47771,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -48145,7 +48176,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"710",
         "Processing Note":"",
@@ -49063,7 +49094,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"312",
         "Processing Note":"",
@@ -49271,7 +49302,8 @@
         "Brand (WIP) [link]":"tclim-l-hxy-x",
         "Brand (DR) [link]":"clim-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"461",
         "Processing Note":"",
@@ -49853,8 +49885,7 @@
         "Brand (WIP) [link]":"tavg-p0220-hxy-x",
         "Brand (DR) [link]":"twm-p0220-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"622",
         "Processing Note":"",
@@ -50340,8 +50371,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"198",
         "Processing Note":"",
@@ -51041,7 +51071,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -51563,7 +51593,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"302",
         "Processing Note":"",
@@ -51681,8 +51711,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"424",
         "Processing Note":"",
@@ -51804,7 +51833,7 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"440",
         "Processing Note":"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If CH4 is spatially nonuniform, omit this field, but report Mole Fraction of CH4 (see the table entry before the previous one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -52007,8 +52036,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"178",
         "Processing Note":"Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",
@@ -52439,7 +52467,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-ccl",
         "Brand (DR) [link]":"twm-z0-hxy-amcc",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"154",
         "Processing Note":"",
@@ -53000,7 +53028,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"683",
         "Processing Note":"",
@@ -53293,7 +53321,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"314",
         "Processing Note":"",
@@ -53494,8 +53522,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"281",
         "Processing Note":"",
@@ -53618,7 +53645,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"589",
         "Processing Note":"",
@@ -54024,8 +54051,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"221",
         "Processing Note":"",
@@ -54395,7 +54421,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"417",
         "Processing Note":"",
@@ -54516,7 +54543,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"131",
         "Processing Note":"",
@@ -55408,7 +55436,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"495",
         "Processing Note":"",
@@ -55533,6 +55561,7 @@
         "Brand (WIP) [link]":"tstat-z0-hxy-x",
         "Brand (DR) [link]":"tmin-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
+            "Accepted",
             "Under review"
         ],
         "Min Rank":"934",
@@ -55907,8 +55936,7 @@
         "Brand (WIP) [link]":"tavg-p0560-hxy-x",
         "Brand (DR) [link]":"twm-p0560-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"622",
         "Processing Note":"",
@@ -56029,7 +56057,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1681",
         "Processing Note":"",
@@ -56410,7 +56438,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"230",
         "Processing Note":"add scalar coordinate type???and add \"???\" to the CF area type table.\n",
@@ -56626,8 +56655,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"172",
         "Processing Note":"",
@@ -57189,8 +57217,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-ccl",
         "Brand (DR) [link]":"twm-z0-hxy-amcc",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"402",
         "Processing Note":"",
@@ -57516,7 +57543,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"161",
         "Processing Note":"Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
@@ -57761,7 +57789,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1196",
         "Processing Note":"",
@@ -58742,7 +58770,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"512",
         "Processing Note":"",
@@ -59307,13 +59336,13 @@
         "Status":"CMIP6 CMOR variable",
         "Theme":"",
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"temperature_variability_daily_lowpriority, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline",
+        "CMIP7 Variable Groups":"temperature_variability_daily_lowpriority, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline, CFMIP-daily",
         "UID":"bab17cb2-e5dd-11e5-8482-ac72891c3257",
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"119",
         "Processing Note":"",
@@ -59355,7 +59384,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amnlsi",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"209",
         "Processing Note":"",
@@ -59399,7 +59428,7 @@
         "Brand (WIP) [link]":"ti-z0-hxys-x",
         "Brand (DR) [link]":"fx-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"Note that the CF convention and CMOR2 require that this field will be included in each file that contains a variable that is a function of the \"site\" dimension, so there is no need to save this field by itself.  It is included here simply to indicate that longitudes should be stored for the site grid in each file written.\n",
@@ -59677,7 +59706,8 @@
         "Brand (WIP) [link]":"tavg-p19-hxy-x",
         "Brand (DR) [link]":"tm-p19-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"259",
         "Processing Note":"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If spatially uniform, omit this field, but report Total Atmospheric Mass of CO2 (see the table entry after the next one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -59758,7 +59788,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -60037,7 +60067,7 @@
         "Brand (WIP) [link]":"tpt-h010-hxys-x",
         "Brand (DR) [link]":"tpt-h010-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1037",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -60365,7 +60395,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1166",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -60405,7 +60435,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"410",
         "Processing Note":"",
@@ -60445,7 +60475,7 @@
         "Brand (WIP) [link]":"tclimdc-z0-hxy-x",
         "Brand (DR) [link]":"tdnl-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1599",
         "Processing Note":"",
@@ -61069,7 +61099,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"379",
         "Processing Note":"",
@@ -61275,7 +61305,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"329",
         "Processing Note":"",
@@ -61353,7 +61383,7 @@
         "Brand (WIP) [link]":"tavg-h40-hxy-x",
         "Brand (DR) [link]":"tm-h40-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"",
@@ -61837,7 +61867,7 @@
         "Brand (WIP) [link]":"tclim-z0-hm-x",
         "Brand (DR) [link]":"clim-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"Report only for simulations (e.g., prescribed concentration pi-control run), in which the CH4 does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as ch4globalClim, not ch4global.  If CH4 is spatially nonuniform, omit this field, but report Global Mean Mole Fraction of CH4 (see the table entry before the previous one).   Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -61880,7 +61910,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"677",
         "Processing Note":"",
@@ -62289,7 +62319,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"149",
         "Processing Note":"",
@@ -62553,7 +62584,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -62753,7 +62784,8 @@
         "Brand (DR) [link]":"tmax-h02-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
             "Under review",
-            "Rejected"
+            "Rejected",
+            "Accepted"
         ],
         "Min Rank":"144",
         "Processing Note":"normally report this at 2 meters above the surface\n",
@@ -63808,7 +63840,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1159",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -63926,7 +63958,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -64376,7 +64408,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"191",
         "Processing Note":"Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",
@@ -65154,7 +65187,7 @@
         "Brand (WIP) [link]":"tpt-h02-hxys-x",
         "Brand (DR) [link]":"tpt-h02-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -65641,7 +65674,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"228",
         "Processing Note":"For models with a distinct shallow convection scheme only.\n",
@@ -66310,7 +66343,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1392",
         "Processing Note":"",
@@ -66350,8 +66383,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"29",
         "Processing Note":"",
@@ -66386,7 +66418,7 @@
         "Status":"CMIP6 CMOR variable",
         "Theme":"",
         "Atmosphere author team review":"",
-        "CMIP7 Variable Groups":"CVDP_input, DCPP_Essential, paleo_land_atmosphere_surface, FireMIP_monthly, CFMIP_baseline, paleo_permafrost, tipmip_extended, snow_allfreq",
+        "CMIP7 Variable Groups":"CVDP_input, DCPP_Essential, paleo_land_atmosphere_surface, FireMIP_monthly, CFMIP_baseline, paleo_permafrost, tipmip_extended, snow_allfreq, CFMIP-aux",
         "UID":"bab7e05c-e5dd-11e5-8482-ac72891c3257",
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
@@ -66565,7 +66597,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -66645,7 +66677,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"398",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -66725,6 +66757,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
+            "Accepted",
             "Under review"
         ],
         "Min Rank":"800",
@@ -67088,7 +67121,8 @@
         "Brand (WIP) [link]":"tstat-h02-hxy-x",
         "Brand (DR) [link]":"tmin-h02-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"139",
         "Processing Note":"normally report this at 2 meters above the surface\n",
@@ -67341,8 +67375,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"727",
         "Processing Note":"",
@@ -67625,7 +67659,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"1294",
         "Processing Note":"",
@@ -68071,8 +68106,7 @@
         "Brand (WIP) [link]":"tavg-p0840-hxy-x",
         "Brand (DR) [link]":"twm-p0840-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"622",
         "Processing Note":"",
@@ -68317,7 +68351,7 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"461",
         "Processing Note":"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If N2O is spatially nonuniform, omit this field, but report Mole Fraction of N2O (see the table entry before the previous one).   Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -68897,7 +68931,7 @@
         "Brand (WIP) [link]":"tclim-z0-hm-x",
         "Brand (DR) [link]":"clim-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"Report only for simulations (e.g., prescribed concentration pi-control run), in which the N2O does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as ch4globalClim, not ch4global.  If N2O is spatially nonuniform, omit this field, but report Global Mean Mole Fraction of N2O (see the table entry before the previous one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",
@@ -69271,7 +69305,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"",
         "Processing Note":"",
@@ -69349,8 +69384,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"206",
         "Processing Note":"",
@@ -69471,7 +69505,7 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"692",
         "Processing Note":"",
@@ -69563,7 +69597,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"",
@@ -69603,8 +69637,8 @@
         "Brand (WIP) [link]":"tavg-z0p1-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0p1-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"123",
         "Processing Note":"integrate over uppermost 10 cm\n",
@@ -69774,7 +69808,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"357",
         "Processing Note":"",
@@ -70446,9 +70480,7 @@
         "UID":"8bafcad0-4a5b-11e6-9cd2-ac72891c3257",
         "Brand (WIP) [link]":"tavg-p27-hxy-x",
         "Brand (DR) [link]":"tm-p27-hxy-ax",
-        "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
-        ],
+        "Opportunity Status (from CMIP7 Variable Groups)":"",
         "Min Rank":"9999",
         "Processing Note":"",
         "Provenance":"HighResMIP [Amon_diag]",
@@ -70777,7 +70809,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"188",
         "Processing Note":"",
@@ -71149,9 +71182,7 @@
         "UID":"d227850e-4a9f-11e6-b84e-ac72891c3257",
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
-        "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
-        ],
+        "Opportunity Status (from CMIP7 Variable Groups)":"",
         "Min Rank":"700",
         "Processing Note":"",
         "Provenance":"LS3MIP [LEday]",
@@ -71563,7 +71594,7 @@
         "Brand (WIP) [link]":"ti-z0-hxys-x",
         "Brand (DR) [link]":"fx-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"the above comment also applies to latitude.\n",
@@ -72518,7 +72549,8 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"256",
         "Processing Note":"For some simulations (e.g., prescribed concentration pi-control run), this will not vary from one year to the next, and so report instead the variable described in the next table entry.  If CO2 is spatially nonuniform, omit this field, but report Mole Fraction of CO2 (see the table entry before the previous one).\n",
@@ -72889,8 +72921,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"38",
         "Processing Note":"",
@@ -73250,7 +73281,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"711",
         "Processing Note":"",
@@ -73333,8 +73365,7 @@
         "Brand (WIP) [link]":"tavg-h40-hxy-x",
         "Brand (DR) [link]":"tm-h40-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"307",
         "Processing Note":"40 levels\n",
@@ -73817,7 +73848,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"396",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -73937,7 +73968,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-sea",
         "Brand (DR) [link]":"tmn-z0-hxy-amns",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"",
@@ -74445,7 +74476,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"692",
         "Processing Note":"",
@@ -74767,7 +74798,7 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1587",
         "Processing Note":"",
@@ -74970,7 +75001,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"446",
         "Processing Note":"This field is needed only for models in which the pressure cannot be calculated from the vertical coordinate information stored already for each variable.  Thus, the pressures are needed for height or theta-coordinate models, for example, but not sigma- or eta-coordinate models.\n",
@@ -75494,7 +75525,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -75770,7 +75801,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1230",
         "Processing Note":"",
@@ -75851,7 +75882,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"389",
         "Processing Note":"",
@@ -76024,7 +76056,7 @@
         "Brand (WIP) [link]":"tavg-h40-hxy-x",
         "Brand (DR) [link]":"twm-h40-hxy-amna",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"882",
         "Processing Note":"",
@@ -76595,8 +76627,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"23",
         "Processing Note":"",
@@ -76794,7 +76825,7 @@
         "Brand (WIP) [link]":"tavg-z0-hm-x",
         "Brand (DR) [link]":"twm-z0-hm-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1605",
         "Processing Note":"",
@@ -77040,7 +77071,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"478",
         "Processing Note":"",
@@ -77236,7 +77267,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-ccl",
         "Brand (DR) [link]":"twm-z0-hxy-amcc",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"184",
         "Processing Note":"",
@@ -78007,7 +78038,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"",
@@ -78093,8 +78124,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"160",
         "Processing Note":"",
@@ -78297,7 +78327,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnlax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"163",
         "Processing Note":"add scalar coordinate typegrass and add \"natural\\_grass\" to the CF area type table.  Note that if this variable is independent of time, it should be stored only for a single time (user choice).\n",
@@ -79122,7 +79153,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"524",
         "Processing Note":"",
@@ -80979,7 +81011,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1136",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -81139,7 +81171,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"1287",
         "Processing Note":"",
@@ -81384,7 +81417,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -82094,7 +82127,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"361",
         "Processing Note":"",
@@ -82674,7 +82707,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"521",
         "Processing Note":"",
@@ -83408,7 +83442,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"316",
         "Processing Note":"",
@@ -84945,8 +84979,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"448",
         "Processing Note":"",
@@ -85111,8 +85144,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"215",
         "Processing Note":"",
@@ -85153,7 +85185,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"816",
         "Processing Note":"",
@@ -85570,7 +85602,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"114",
         "Processing Note":"",
@@ -85991,8 +86024,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"251",
         "Processing Note":"",
@@ -86033,7 +86065,7 @@
         "Brand (WIP) [link]":"tclimdc-z0-hxy-x",
         "Brand (DR) [link]":"tdnl-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1599",
         "Processing Note":"",
@@ -86237,8 +86269,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"117",
         "Processing Note":"This field is needed only for models in which the pressure cannot be calculated from the vertical coordinate information stored already for each variable.  Thus, the pressures are needed for height or theta-coordinate models, for example, but not sigma- or eta-coordinate models.\n",
@@ -86677,7 +86708,7 @@
         "Brand (WIP) [link]":"tpt-h010-hxys-x",
         "Brand (DR) [link]":"tpt-h010-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -86762,7 +86793,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -87866,7 +87897,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -88145,7 +88176,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"470",
         "Processing Note":"",
@@ -88185,6 +88216,7 @@
         "Brand (WIP) [link]":"tstat-z0-hxy-x",
         "Brand (DR) [link]":"tmax-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
+            "Accepted",
             "Under review"
         ],
         "Min Rank":"749",
@@ -88423,8 +88455,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"208",
         "Processing Note":"",
@@ -88547,7 +88578,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1681",
         "Processing Note":"",
@@ -88960,7 +88991,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"426",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -89432,7 +89463,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"411",
         "Processing Note":"",
@@ -89472,7 +89503,8 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-al-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"183",
         "Processing Note":"",
@@ -90213,7 +90245,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1463",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -90934,8 +90966,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"243",
         "Processing Note":"",
@@ -91542,7 +91573,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1599",
         "Processing Note":"",
@@ -91620,8 +91651,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-ccl",
         "Brand (DR) [link]":"twm-z0-hxy-amcc",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"461",
         "Processing Note":"",
@@ -91922,7 +91952,7 @@
         "Brand (WIP) [link]":"tavg-h40-hxy-x",
         "Brand (DR) [link]":"tm-h40-hxy-ax",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"",
@@ -92174,7 +92204,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"806",
         "Processing Note":"",
@@ -92256,7 +92286,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-ah-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"474",
         "Processing Note":"Report on model half-levels (i.e., interfaces between model layers).\n",
@@ -92504,7 +92534,7 @@
         "Brand (WIP) [link]":"tpt-l-hxys-x",
         "Brand (DR) [link]":"tpt-al-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"9999",
         "Processing Note":"",
@@ -92544,7 +92574,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1069",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -92781,8 +92811,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"207",
         "Processing Note":"",
@@ -92945,7 +92974,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"468",
         "Processing Note":"",
@@ -93231,7 +93261,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"1741",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -93957,7 +93987,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -93997,8 +94027,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-lnd",
         "Brand (DR) [link]":"tmn-z0-hxy-amnla",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review",
-            "Accepted"
+            "Accepted",
+            "Under review"
         ],
         "Min Rank":"1062",
         "Processing Note":"",
@@ -94923,7 +94953,7 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-sea",
         "Brand (DR) [link]":"tmn-z0-hxy-amns",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"564",
         "Processing Note":"",
@@ -96437,7 +96467,7 @@
         "Brand (WIP) [link]":"tpt-z0-hxys-x",
         "Brand (DR) [link]":"tpt-z0-hxys-apt",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"956",
         "Processing Note":"This table includes the 2-D variables listed in the \"Amon\" spreadsheet, omitting, however, the daily maximum and minimum temperatures.  All variables should be reported as synoptic fields, not daily means.\n",
@@ -96863,8 +96893,7 @@
         "Brand (WIP) [link]":"tavg-l-hxy-x",
         "Brand (DR) [link]":"twm-ah-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Accepted",
-            "Under review"
+            "Accepted"
         ],
         "Min Rank":"674",
         "Processing Note":"Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",
@@ -98076,7 +98105,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"332",
         "Processing Note":"",
@@ -98572,7 +98602,8 @@
         "Brand (WIP) [link]":"tavg-z0-hxy-x",
         "Brand (DR) [link]":"twm-z0-hxy-amn",
         "Opportunity Status (from CMIP7 Variable Groups)":[
-            "Under review"
+            "Under review",
+            "Accepted"
         ],
         "Min Rank":"",
         "Processing Note":"",

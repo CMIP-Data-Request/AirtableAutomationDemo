@@ -1,26 +1,28 @@
 {
-    "@id": "dr:data/variables/esubhr.tntpbl",
+    "@id": "dr:data/variables/day.rluscs",
     "@type": "dr:variable",
-    "brand-(dr)-[link]": "tpt-al-hxys-apt",
-    "brand-(wip)-[link]": "tpt-l-hxys-x",
+    "brand-(dr)-[link]": "twm-z0-hxy-amn",
+    "brand-(wip)-[link]": "tavg-z0-hxy-x",
     "cf-standard-name": {
-        "@id": "cf:standard-name/tendency_of_air_temperature_due_to_boundary_layer_mixing"
+        "@id": "cf:standard-name/surface_upwelling_longwave_flux_assuming_clear_sky"
     },
-    "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_cfSites",
-    "compound-name": "Esubhr.tntpbl",
-    "description": "alevel site time1\n",
+    "cf-standard-name-exists": false,
+    "cmip7-variable-groups": "CFMIP-daily",
+    "compound-name": "day.rluscs",
+    "description": "Surface Upwelling Clear-sky Longwave Radiation\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
         "Accepted"
     ],
-    "positive-direction": "",
+    "positive-direction": "up",
     "processing-note": "",
-    "provenance": "CFMIP [CFsubhr_new]",
-    "status": "CMIP6 CMOR variable",
-    "theme": "",
-    "title": "Tendency of Air Temperature Due to Boundary Layer Mixing",
+    "provenance": "Amon ((isd.003))",
+    "status": "Under review",
+    "theme": [
+        "Atmosphere"
+    ],
+    "title": "Surface Upwelling Clear-Sky Longwave Radiation",
     "type": "real",
-    "uid": "8b8a089a-4a5b-11e6-9cd2-ac72891c3257",
+    "uid": "",
     "variable-is-included-in-esm-bcv-v1.3": "",
     "review": {
         "atmosphere-author-team-review": "",
@@ -34,18 +36,16 @@
     },
     "priority": {
         "priority-1-(cmip6)": "",
-        "priority-1-(cmip6)----old": [
-            "CFMIP"
-        ],
+        "priority-1-(cmip6)----old": "",
         "priority-2-(cmip6---old": "",
         "priority-2-(cmip6)": "",
         "priority-3-(cmip6---old)": "",
         "priority-3-(cmip6)": ""
     },
     "rank": {
-        "min-rank": 664,
-        "rank-by-file-count": 1632,
-        "rank-by-submissions": 1295,
-        "rank-by-volume": 664
+        "min-rank": null,
+        "rank-by-file-count": null,
+        "rank-by-submissions": null,
+        "rank-by-volume": null
     }
 }

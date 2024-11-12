@@ -11,7 +11,6 @@
     "compound-name": "CFmon.clmodisice_dup",
     "description": "Percentage ice-cloud cover as seen by the MODIS instrument simulator. Dimensions of cloud IWP (cloud ice water path) and r\\_eff (effective droplet size).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
         "Accepted"
     ],
     "positive-direction": "",

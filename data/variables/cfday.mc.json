@@ -11,8 +11,7 @@
     "compound-name": "CFday.mc",
     "description": "The net mass flux should represent the difference between the updraft and downdraft components.  This is calculated as the convective mass flux divided by the area of the whole grid cell (not just the area of the cloud).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "up",
     "processing-note": "Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",

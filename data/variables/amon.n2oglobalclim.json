@@ -11,7 +11,7 @@
     "compound-name": "Amon.n2oglobalClim",
     "description": "Global mean Nitrous Oxide (N2O)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "Report only for simulations (e.g., prescribed concentration pi-control run), in which the N2O does not vary from one year to the next. Report 12 monthly values, starting with January, even if the values do not vary seasonally.  When calling CMOR, identify this variable as ch4globalClim, not ch4global.  If N2O is spatially nonuniform, omit this field, but report Global Mean Mole Fraction of N2O (see the table entry before the previous one).  Are these the preferred units or should it be a unitless fraction?  Should this field be reported instead on model levels?  Or should we also require either the vertically integrated mole fraction (or mass?) of this species or the vertically integrated globally averaged mole fraction (or mass?)?\n",

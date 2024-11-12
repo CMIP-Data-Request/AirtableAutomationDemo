@@ -11,8 +11,7 @@
     "compound-name": "CFmon.tntc",
     "description": "Tendencies from cumulus convection scheme.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

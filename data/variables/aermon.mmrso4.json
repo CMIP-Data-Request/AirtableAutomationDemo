@@ -11,7 +11,8 @@
     "compound-name": "AERmon.mmrso4",
     "description": "Dry mass of sulfate (SO4) in aerosol particles as a fraction of air mass.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

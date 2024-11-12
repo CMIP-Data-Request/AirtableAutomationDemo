@@ -11,7 +11,8 @@
     "compound-name": "AERmon.mmrss",
     "description": "Mass fraction in the atmosphere of sea salt aerosol (dry mass).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

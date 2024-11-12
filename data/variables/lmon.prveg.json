@@ -11,7 +11,8 @@
     "compound-name": "Lmon.prveg",
     "description": "the precipitation flux that is intercepted by the vegetation canopy (if present in model) before reaching the ground.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

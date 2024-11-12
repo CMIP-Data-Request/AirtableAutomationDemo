@@ -11,7 +11,8 @@
     "compound-name": "AERmon.mmrnh4",
     "description": "Dry mass fraction of ammonium aerosol particles in air.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

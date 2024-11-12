@@ -11,8 +11,7 @@
     "compound-name": "CFmon.rlucs",
     "description": "Includes also the fluxes at the surface and TOA.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "up",
     "processing-note": "",

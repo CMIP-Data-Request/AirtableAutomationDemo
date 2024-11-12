@@ -11,7 +11,8 @@
     "compound-name": "Eday.rsdsdiff",
     "description": "Surface downwelling solar irradiance from diffuse radiation for UV calculations.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "down",
     "processing-note": "",

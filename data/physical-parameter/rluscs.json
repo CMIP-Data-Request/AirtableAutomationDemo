@@ -8,6 +8,9 @@
     "cmor-variables": [
         {
             "@id": "dr:variables/amon.rluscs"
+        },
+        {
+            "@id": "dr:variables/day.rluscs"
         }
     ],
     "comments": "",

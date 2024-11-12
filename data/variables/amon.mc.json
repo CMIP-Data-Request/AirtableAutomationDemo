@@ -11,7 +11,8 @@
     "compound-name": "Amon.mc",
     "description": "The net mass flux should represent the difference between the updraft and downdraft components.  The flux is computed as the mass divided by the area of the grid cell.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Under review",
+        "Accepted"
     ],
     "positive-direction": "up",
     "processing-note": "Report on model half-levels (i.e., model layer bounds and not standard pressures).\n",

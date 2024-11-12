@@ -7,12 +7,12 @@
         "@id": "cf:standard-name/runoff_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "temperature_variability_daily_lowpriority, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline",
+    "cmip7-variable-groups": "temperature_variability_daily_lowpriority, biodiv_freshwater_daily, biodiv_land_daily, WaterResources_daily, CFMIP_baseline, CFMIP-daily",
     "compound-name": "day.mrro",
     "description": "computed as the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell divided by the land area in the grid cell.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Accepted",
+        "Under review"
     ],
     "positive-direction": "",
     "processing-note": "",

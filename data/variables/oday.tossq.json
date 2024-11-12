@@ -11,8 +11,7 @@
     "compound-name": "Oday.tossq",
     "description": "Square of temperature of liquid ocean, averaged over the day.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "Report on the ocean horizontal native grid.\n",

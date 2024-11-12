@@ -11,7 +11,7 @@
     "compound-name": "CFsubhr.rlucs",
     "description": "Upwelling clear-sky longwave radiation  (includes the fluxes at the surface and TOA)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "up",
     "processing-note": "Report on model half-levels (i.e., interfaces between model layers).\n",

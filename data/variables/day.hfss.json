@@ -11,8 +11,8 @@
     "compound-name": "day.hfss",
     "description": "The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review",
-        "Accepted"
+        "Accepted",
+        "Under review"
     ],
     "positive-direction": "up",
     "processing-note": "",

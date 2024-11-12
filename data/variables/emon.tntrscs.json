@@ -11,8 +11,7 @@
     "compound-name": "Emon.tntrscs",
     "description": "Tendency of Air Temperature due to Clear Sky Shortwave Radiative Heating\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

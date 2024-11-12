@@ -11,7 +11,7 @@
     "compound-name": "CFsubhr.rsd",
     "description": "Downwelling shortwave radiation (includes the fluxes at the surface and top-of-atmosphere)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "down",
     "processing-note": "Report on model half-levels (i.e., interfaces between model layers).\n",

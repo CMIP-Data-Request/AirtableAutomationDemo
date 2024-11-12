@@ -11,8 +11,7 @@
     "compound-name": "CFday.clmcalipso",
     "description": "Percentage cloud cover in layer centred on 560hPa\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

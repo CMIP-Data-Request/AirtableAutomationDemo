@@ -11,7 +11,7 @@
     "compound-name": "Amon.sci",
     "description": "Fraction of time that shallow convection occurs in the grid cell.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "For models with a distinct shallow convection scheme only.\n",

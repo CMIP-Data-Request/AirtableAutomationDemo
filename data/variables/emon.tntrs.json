@@ -10,9 +10,7 @@
     "cmip7-variable-groups": "CFMIP_baseline",
     "compound-name": "Emon.tntrs",
     "description": "Heating rate due to shortwave radiative flux\n",
-    "opportunity-status-(from-cmip7-variable-groups)": [
-        "Under review"
-    ],
+    "opportunity-status-(from-cmip7-variable-groups)": "",
     "positive-direction": "",
     "processing-note": "",
     "provenance": "HighResMIP [Amon_diag]",

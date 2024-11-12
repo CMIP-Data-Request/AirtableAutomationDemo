@@ -11,8 +11,7 @@
     "compound-name": "CFmon.tnhus",
     "description": "Tendency of Specific Humidity\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "",
     "processing-note": "",

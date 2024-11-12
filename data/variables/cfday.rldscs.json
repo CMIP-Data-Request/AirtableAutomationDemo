@@ -11,8 +11,7 @@
     "compound-name": "CFday.rldscs",
     "description": "Surface downwelling clear-sky longwave radiation\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
-        "Accepted",
-        "Under review"
+        "Accepted"
     ],
     "positive-direction": "down",
     "processing-note": "",
