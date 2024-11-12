@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tendency_of_air_temperature_due_to_convection"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.tntc",
     "description": "Tendencies from cumulus convection scheme.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_upwelling_shortwave_flux_in_air_assuming_clear_sky"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, paleo_radiation_fluxes, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, paleo_radiation_fluxes, SO_BGC-cloud_met_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.rsuscs",
     "description": "Surface Upwelling Clear-sky Shortwave Radiation\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

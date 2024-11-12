@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tendency_of_air_temperature_due_to_boundary_layer_mixing"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-convective",
     "compound-name": "Emon.tntpbl",
     "description": "Includes all boundary layer terms including diffusive terms.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

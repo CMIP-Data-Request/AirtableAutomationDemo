@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tropopause_air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "AERmon.ptp",
     "description": "2D monthly mean thermal tropopause calculated using WMO tropopause definition on 3d temperature\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

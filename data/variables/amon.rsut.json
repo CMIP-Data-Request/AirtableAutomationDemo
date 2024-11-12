@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/toa_outgoing_shortwave_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, DAMIP_monthly, poleward_heat_transports, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere, ref_earth_system",
+    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, DAMIP_monthly, poleward_heat_transports, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere, ref_earth_system, CFMIP-monthly",
     "compound-name": "Amon.rsut",
     "description": "at the top of the atmosphere\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

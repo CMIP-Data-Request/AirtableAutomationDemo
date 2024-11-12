@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/upwelling_longwave_flux_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, radiativeforcing_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, radiativeforcing_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.rlu",
     "description": "Includes also the fluxes at the surface and TOA.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

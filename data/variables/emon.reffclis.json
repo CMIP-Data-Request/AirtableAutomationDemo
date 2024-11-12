@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/effective_radius_of_stratiform_cloud_ice_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "clouds_basic_average, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "clouds_basic_average, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, CFMIP-convective",
     "compound-name": "Emon.reffclis",
     "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

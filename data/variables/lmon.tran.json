@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/transpiration_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline, CFMIP-aux",
     "compound-name": "Lmon.tran",
     "description": "Transpiration (may include dew formation as a negative flux).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

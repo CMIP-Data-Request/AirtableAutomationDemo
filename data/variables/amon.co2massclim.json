@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_fraction_of_carbon_dioxide_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DAMIP_monthly, DCPP_Essential, marine_bgc_baseline, CFMIP_baseline",
+    "cmip7-variable-groups": "DAMIP_monthly, DCPP_Essential, marine_bgc_baseline, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.co2massCLim",
     "description": "Total atmospheric mass of Carbon Dioxide\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

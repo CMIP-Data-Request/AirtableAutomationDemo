@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_updraft_convective_mass_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.mcu",
     "description": "Calculated as the convective mass flux divided by the area of the whole grid cell (not just the area of the cloud).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

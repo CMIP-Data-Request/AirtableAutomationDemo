@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/toa_outgoing_longwave_flux_assuming_clear_sky"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleo_radiation_fluxes, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
+    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleo_radiation_fluxes, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere, CFMIP-monthly",
     "compound-name": "Amon.rlutcs",
     "description": "Upwelling clear-sky longwave radiation at top of atmosphere\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

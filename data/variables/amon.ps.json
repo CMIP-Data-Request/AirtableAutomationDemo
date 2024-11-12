@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, paleodata_assimilation, paleo_land_atmosphere_surface, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, paleo_permafrost, dynvar_basic, ref_impacts_and_adaptation",
+    "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, paleodata_assimilation, paleo_land_atmosphere_surface, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, paleo_permafrost, dynvar_basic, ref_impacts_and_adaptation, CFMIP-monthly",
     "compound-name": "Amon.ps",
     "description": "not, in general, the same as mean sea-level pressure\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

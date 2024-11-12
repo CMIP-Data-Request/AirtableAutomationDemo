@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_upwelling_longwave_flux_assuming_clear_sky"
     },
     "cf-standard-name-exists": false,
-    "cmip7-variable-groups": "radiativeforcing_monthly",
+    "cmip7-variable-groups": "radiativeforcing_monthly, CFMIP-monthly",
     "compound-name": "Amon.rluscs",
     "description": "Surface Upwelling Clear-sky Longwave Radiation\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

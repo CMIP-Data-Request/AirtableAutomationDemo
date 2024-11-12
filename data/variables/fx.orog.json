@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_altitude"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, CHELSA_land_daily, biodiv_microclim_hourly, CFMIP_baseline, dynamical_downscaling_core, landice_glaciers_allfreq",
+    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, CHELSA_land_daily, biodiv_microclim_hourly, CFMIP_baseline, dynamical_downscaling_core, landice_glaciers_allfreq, CFMIP-aux",
     "compound-name": "fx.orog",
     "description": "height above the geoid; as defined here, \"the geoid\" is a surface of constant geopotential that, if the ocean were at rest, would coincide with mean sea level. Under this definition, the geoid changes as the mean volume of the ocean changes (e.g., due to glacial melt, or global warming of the ocean).  Reported here is the height above the present-day geoid (0.0 over ocean).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

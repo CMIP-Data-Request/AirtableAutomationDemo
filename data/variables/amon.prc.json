@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/convective_precipitation_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, paleo_land_atmosphere_surface, SO_BGC-cloud_met_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.prc",
     "description": "at surface; includes both liquid and solid phases.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

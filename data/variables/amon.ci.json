@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/convection_time_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.ci",
     "description": "Fraction of time that convection occurs in the grid cell .\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

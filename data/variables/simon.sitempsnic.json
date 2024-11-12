@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/sea_ice_surface_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, CFMIP_baseline, snow_allfreq, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority",
+    "cmip7-variable-groups": "seaice_state_monthly_advanced, paleo_cryosphere, CFMIP_baseline, snow_allfreq, paleo_cryosphere_high_priority, paleo_cryosphere_medium_priority, CFMIP-aux",
     "compound-name": "SImon.sitempsnic",
     "description": "Report surface temperature of ice where snow thickness is zero\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

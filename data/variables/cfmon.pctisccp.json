@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/air_pressure_at_cloud_top"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, cosp_output, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, cosp_output, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.pctisccp",
     "description": "time-means weighted by the ISCCP Total Cloud Fraction - see <http://cfmip.metoffice.com/COSP.html>\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

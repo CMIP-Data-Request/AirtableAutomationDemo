@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/sea_ice_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, seaice_state_daily_basic, cowclip_wind_wave_variables, DCPP_Wider, biodiv_marine_daily, CFMIP_baseline, cordex [test], seaice_gcos_ecv, dynamical_downscaling_core, global_emulators",
+    "cmip7-variable-groups": "baseline_daily, seaice_state_daily_basic, cowclip_wind_wave_variables, DCPP_Wider, biodiv_marine_daily, CFMIP_baseline, cordex [test], seaice_gcos_ecv, dynamical_downscaling_core, global_emulators, CFMIP-daily",
     "compound-name": "SIday.siconc",
     "description": "Percentage of grid cell covered by sea ice\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

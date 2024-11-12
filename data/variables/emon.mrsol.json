@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mass_content_of_water_in_soil_layer"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline, paleo_permafrost, tipmip_extended",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline, paleo_permafrost, tipmip_extended, CFMIP-aux",
     "compound-name": "Emon.mrsol",
     "description": "in each soil layer, the mass of water in all phases, including ice.  Reported as \"missing\" for grid cells occupied entirely by \"sea\"\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

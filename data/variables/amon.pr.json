@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/precipitation_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, dynvar_basic, DAMIP_monthly, CVDP_input, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_land_atmosphere_surface, ref_atmosphere, ref_impacts_and_adaptation, SO_BGC-cloud_met_monthly, fish_model_expand_mon, FireMIP_monthly, biodiv_land_monthly, WaterResources_monthly, CFMIP_baseline, ref_earth_system, paleo_permafrost, tipmip_baseline",
+    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, dynvar_basic, DAMIP_monthly, CVDP_input, Hadley_Walker_Circulations, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_land_atmosphere_surface, ref_atmosphere, ref_impacts_and_adaptation, SO_BGC-cloud_met_monthly, fish_model_expand_mon, FireMIP_monthly, biodiv_land_monthly, WaterResources_monthly, CFMIP_baseline, ref_earth_system, paleo_permafrost, tipmip_baseline, CFMIP-monthly",
     "compound-name": "Amon.pr",
     "description": "at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

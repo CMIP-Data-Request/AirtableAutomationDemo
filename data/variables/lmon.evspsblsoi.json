@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/water_evaporation_flux_from_soil"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline, CFMIP-aux",
     "compound-name": "Lmon.evspsblsoi",
     "description": "includes sublimation.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

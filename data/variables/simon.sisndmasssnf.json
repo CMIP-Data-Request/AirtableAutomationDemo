@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/snowfall_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_budget_mass_monthly, CFMIP_baseline, paleo_cryosphere, snow_allfreq, paleo_cryosphere_medium_priority",
+    "cmip7-variable-groups": "seaice_budget_mass_monthly, CFMIP_baseline, paleo_cryosphere, snow_allfreq, paleo_cryosphere_medium_priority, CFMIP-aux",
     "compound-name": "SImon.sisndmasssnf",
     "description": "mass of solid precipitation falling onto sea ice divided by sea-ice area\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tendency_of_specific_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.tnhus",
     "description": "Tendency of Specific Humidity\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

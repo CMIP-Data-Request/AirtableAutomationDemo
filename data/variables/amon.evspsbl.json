@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/water_evapotranspiration_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_land_atmosphere_surface, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, ref_atmosphere, paleo_permafrost, tipmip_baseline, ref_land_and_landice",
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, aerchemmip_2d_monthly, paleodata_assimilation, DCPP_Essential, paleo_land_atmosphere_surface, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, ref_atmosphere, paleo_permafrost, tipmip_baseline, ref_land_and_landice, CFMIP-monthly",
     "compound-name": "Amon.evspsbl",
     "description": "at surface; flux of water into the atmosphere due to conversion of both liquid and solid phases to vapor (from underlying surface and vegetation)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

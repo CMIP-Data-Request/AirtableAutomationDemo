@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cloud_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, DAMIP_monthly, aerchemmip_2d_monthly, DCPP_Essential, paleo_land_atmosphere_surface, SO_BGC-cloud_cloudvars_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, clouds_basic_average, radiativeforcing_monthly, DAMIP_monthly, aerchemmip_2d_monthly, DCPP_Essential, paleo_land_atmosphere_surface, SO_BGC-cloud_cloudvars_monthly, FireMIP_monthly, biodiv_land_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.clt",
     "description": "for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Include both large-scale and convective cloud.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

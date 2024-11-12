@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline, CFMIP-aux",
     "compound-name": "Lmon.residualFrac",
     "description": "fraction of entire grid cell  that is land and is covered by \"non-vegetation\" and \"non-bare-soil\" (e.g., urban, ice, lakes, etc.)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

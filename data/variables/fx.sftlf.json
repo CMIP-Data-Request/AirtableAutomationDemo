@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/land_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, hydrology, CFMIP_baseline, dynamical_downscaling_core",
+    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, paleo_fx, hydrology, CFMIP_baseline, dynamical_downscaling_core, CFMIP-aux",
     "compound-name": "fx.sftlf",
     "description": "Percentage of horizontal area occupied by land.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

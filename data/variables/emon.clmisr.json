@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cloud_area_fraction_in_atmosphere_layer"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Emon.clmisr",
     "description": "MISR cloud area fraction\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

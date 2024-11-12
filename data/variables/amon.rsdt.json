@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/toa_incoming_shortwave_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, poleward_heat_transports, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, ref_earth_system, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, radiativeforcing_monthly, DAMIP_monthly, poleward_heat_transports, Hadley_Walker_Circulations, aerchemmip_2d_monthly, DCPP_Essential, ref_earth_system, SO_BGC-cloud_met_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.rsdt",
     "description": "at the top of the atmosphere\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

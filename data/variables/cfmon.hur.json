@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/relative_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, aerchemmip_3d_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.hur",
     "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

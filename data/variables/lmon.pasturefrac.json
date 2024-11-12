@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, AgLandUse, CFMIP_baseline",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, AgLandUse, CFMIP_baseline, CFMIP-aux",
     "compound-name": "Lmon.pastureFrac",
     "description": "fraction of entire grid cell  that is covered by anthropogenic pasture.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

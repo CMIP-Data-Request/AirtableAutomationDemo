@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/sea_ice_y_velocity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "seaice_dynamics_basic, surgemip_variables, CFMIP_baseline, seaice_gcos_ecv",
+    "cmip7-variable-groups": "seaice_dynamics_basic, surgemip_variables, CFMIP_baseline, seaice_gcos_ecv, CFMIP-daily",
     "compound-name": "SIday.siv",
     "description": "The y-velocity of ice on native model grid\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

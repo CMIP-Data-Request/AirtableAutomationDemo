@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/height_above_reference_ellipsoid"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-aux",
     "compound-name": "fx.zfull",
     "description": "Provide only if altitude of full model levels is fixed\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

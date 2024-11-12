@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/eastward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, DCPP_Essential, paleo_atmosphere, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
+    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, DCPP_Essential, paleo_atmosphere, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere, CFMIP-monthly",
     "compound-name": "Amon.ua",
     "description": "Zonal wind (positive in a eastward direction).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

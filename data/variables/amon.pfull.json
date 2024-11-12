@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "SO_BGC-cloud_met_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.pfull",
     "description": "Air pressure on model levels\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

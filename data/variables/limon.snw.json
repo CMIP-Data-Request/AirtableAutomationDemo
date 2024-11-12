@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_snow_amount"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, CFMIP_baseline, paleo_permafrost, tipmip_extended, snow_allfreq",
+    "cmip7-variable-groups": "baseline_monthly, CFMIP_baseline, paleo_permafrost, tipmip_extended, snow_allfreq, CFMIP-aux",
     "compound-name": "LImon.snw",
     "description": "Computed as the mass of surface snow on the land portion of the grid cell divided by the land area in the grid cell; reported as missing where the land fraction is 0; excluded is snow on vegetation canopy or on sea ice.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

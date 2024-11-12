@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, DAMIP_daily, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_daily, DAMIP_daily, CFMIP_baseline, CFMIP-daily",
     "compound-name": "day.wap",
     "description": "commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

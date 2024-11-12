@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/wind_speed"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DAMIP_daily, DCPP_Essential, AgImpactsMisc, transport_impacts_essential, biodiv_land_daily_advanced, CFMIP_baseline",
+    "cmip7-variable-groups": "DAMIP_daily, DCPP_Essential, AgImpactsMisc, transport_impacts_essential, biodiv_land_daily_advanced, CFMIP_baseline, CFMIP-daily",
     "compound-name": "day.sfcWindmax",
     "description": "Daily maximum near-surface (usually, 10 meters) wind speed.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

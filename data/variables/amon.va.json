@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/northward_wind"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, DCPP_Essential, paleo_atmosphere, ref_atmosphere, SO_BGC-cloud_met_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, DCPP_Essential, paleo_atmosphere, ref_atmosphere, SO_BGC-cloud_met_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.va",
     "description": "Meridional wind (positive in a northward direction).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

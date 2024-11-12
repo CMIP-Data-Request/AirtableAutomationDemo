@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_net_upward_convective_mass_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_3d_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "aerchemmip_3d_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.mc",
     "description": "The net mass flux should represent the difference between the updraft and downdraft components.  The flux is computed as the mass divided by the area of the grid cell.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

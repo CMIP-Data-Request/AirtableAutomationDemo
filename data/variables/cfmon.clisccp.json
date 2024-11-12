@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cloud_area_fraction_in_atmosphere_layer"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, cosp_output",
+    "cmip7-variable-groups": "cfmip_monthly, radiativeforcing_monthly, SO_BGC-cloud_cloudvars_monthly, CFMIP_baseline, cosp_output, CFMIP-monthly",
     "compound-name": "CFmon.clisccp",
     "description": "Percentage cloud cover in optical depth categories.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

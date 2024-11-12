@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tendency_of_air_temperature_due_to_model_physics"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-convective",
     "compound-name": "Emon.tntmp",
     "description": "Heating rate due to diabatic processes\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

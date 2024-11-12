@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, paleodata_assimilation, paleo_atmosphere, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere",
+    "cmip7-variable-groups": "baseline_monthly, dynvar_basic, DAMIP_monthly, Hadley_Walker_Circulations, aerchemmip_3d_monthly, paleodata_assimilation, paleo_atmosphere, DCPP_Wider, SO_BGC-cloud_met_monthly, CFMIP_baseline, ref_atmosphere, CFMIP-monthly",
     "compound-name": "Amon.wap",
     "description": "commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

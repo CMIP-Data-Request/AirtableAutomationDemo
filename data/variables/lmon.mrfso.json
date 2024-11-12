@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/soil_frozen_water_content"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DCPP_Essential, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_monthly, DCPP_Essential, CFMIP_baseline, CFMIP-aux",
     "compound-name": "Lmon.mrfso",
     "description": "the mass (summed over all all layers) of frozen water.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

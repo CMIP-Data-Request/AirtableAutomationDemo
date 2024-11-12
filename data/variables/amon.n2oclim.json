@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_fraction_of_nitrous_oxide_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-monthly",
     "compound-name": "Amon.n2oClim",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.   The chemical formula of  nitrous oxide is N2O.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

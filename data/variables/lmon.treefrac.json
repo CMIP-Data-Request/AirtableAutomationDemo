@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline, ref_impacts_and_adaptation",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, c4mip_land_benchmarking_and_landcover_variables_tier1, FireMIP_monthly, CFMIP_baseline, ref_impacts_and_adaptation, CFMIP-aux",
     "compound-name": "Lmon.treeFrac",
     "description": "fraction of entire grid cell  that is covered by trees.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

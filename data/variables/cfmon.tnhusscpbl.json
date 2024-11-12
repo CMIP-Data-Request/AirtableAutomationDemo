@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/tendency_of_specific_humidity_due_to_stratiform_cloud_and_precipitation_and_boundary_layer_mixing"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_monthly, CFMIP_baseline, CFMIP-monthly",
     "compound-name": "CFmon.tnhusscpbl",
     "description": "To be specified only in  models which do not separate budget terms for stratiform cloud, precipitation and boundary layer schemes.  Includes all bounday layer terms including and diffusive terms.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

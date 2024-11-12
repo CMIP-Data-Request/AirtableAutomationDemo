@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/runoff_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Essential, FireMIP_monthly, WaterResources_monthly, CFMIP_baseline, ref_land_and_landice, tipmip_baseline",
+    "cmip7-variable-groups": "baseline_monthly, DAMIP_monthly, DCPP_Essential, FireMIP_monthly, WaterResources_monthly, CFMIP_baseline, ref_land_and_landice, tipmip_baseline, CFMIP-aux",
     "compound-name": "Lmon.mrro",
     "description": "the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

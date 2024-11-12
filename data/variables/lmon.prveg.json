@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/precipitation_flux_onto_canopy"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline",
+    "cmip7-variable-groups": "c4mip_land_benchmarking_and_landcover_variables_tier1, CFMIP_baseline, CFMIP-aux",
     "compound-name": "Lmon.prveg",
     "description": "the precipitation flux that is intercepted by the vegetation canopy (if present in model) before reaching the ground.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

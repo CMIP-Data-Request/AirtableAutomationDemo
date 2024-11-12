@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cell_area"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, Bjerknes_Index_ENSO, paleo_fx, CFMIP_baseline",
+    "cmip7-variable-groups": "baseline_fixed, aerchemmip_fixed, Bjerknes_Index_ENSO, paleo_fx, CFMIP_baseline, CFMIP-aux",
     "compound-name": "fx.areacella",
     "description": "Cell areas for any grid used to report atmospheric variables and any other variable using that grid (e.g., soil moisture content). These cell areas should be defined to enable exact calculation of global integrals (e.g., of vertical fluxes of energy at the surface and top of the atmosphere).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

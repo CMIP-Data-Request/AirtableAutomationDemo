@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/net_downward_radiative_flux_at_top_of_atmosphere_model"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DAMIP_monthly, CFMIP_baseline, ref_earth_system, FireMIP_monthly",
+    "cmip7-variable-groups": "DAMIP_monthly, CFMIP_baseline, ref_earth_system, FireMIP_monthly, CFMIP-monthly",
     "compound-name": "Amon.rtmt",
     "description": "i.e., at the top of that portion of the atmosphere where dynamics are explicitly treated by the model. This is reported only if it differs from the net downward radiative flux at the top of the atmosphere.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

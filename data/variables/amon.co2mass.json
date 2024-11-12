@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_mass_of_carbon_dioxide"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1, biodiv_land_monthly, CFMIP_baseline, ref_earth_system, co2_emissions_concentration_mapping, carbon_conservation_check_variables",
+    "cmip7-variable-groups": "c4mip_atmosphere_carbon_cycle_tier1, biodiv_land_monthly, CFMIP_baseline, ref_earth_system, co2_emissions_concentration_mapping, carbon_conservation_check_variables, CFMIP-monthly",
     "compound-name": "Amon.co2mass",
     "description": "Total atmospheric mass of Carbon Dioxide\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

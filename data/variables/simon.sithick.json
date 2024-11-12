@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/sea_ice_thickness"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, DAMIP_monthly, DCPP_Essential, paleo_cryosphere, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, paleo_cryosphere_high_priority",
+    "cmip7-variable-groups": "baseline_monthly, seaice_state_monthly_basic, DAMIP_monthly, DCPP_Essential, paleo_cryosphere, SO_BGC-cloud_ocean_monthly, FireMIP_monthly, CFMIP_baseline, paleo_cryosphere_high_priority, CFMIP-aux",
     "compound-name": "SImon.sithick",
     "description": "(in OImon, sit was volume per entire cell area)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
