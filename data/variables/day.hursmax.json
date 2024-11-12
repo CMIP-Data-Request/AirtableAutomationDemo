@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/relative_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "AgModelExpandedDaily, AgWaterCore, AgWaterExt, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CFMIP_baseline",
+    "cmip7-variable-groups": "AgModelExpandedDaily, AgWaterCore, AgWaterExt, HealthHeatCoreDaily, HeatHealthExpandedDaily, HealthPollutionDaily, CFMIP_baseline, CFMIP-daily",
     "compound-name": "day.hursmax",
     "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

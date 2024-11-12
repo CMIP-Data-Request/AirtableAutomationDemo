@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/toa_outgoing_longwave_flux_assuming_clear_sky"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.rlutcs",
     "description": "Upwelling clear-sky longwave radiation at top of atmosphere\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

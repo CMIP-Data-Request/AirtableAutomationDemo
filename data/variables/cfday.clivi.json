@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_mass_content_of_cloud_ice"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, clouds_basic_average, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, clouds_basic_average, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.clivi",
     "description": "calculate mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column). This includes precipitating frozen hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

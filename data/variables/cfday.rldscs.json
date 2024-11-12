@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_downwelling_longwave_flux_in_air_assuming_clear_sky"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, temperature_variability_daily_lowpriority, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, temperature_variability_daily_lowpriority, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.rldscs",
     "description": "Surface downwelling clear-sky longwave radiation\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

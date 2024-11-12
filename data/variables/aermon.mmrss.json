@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mass_fraction_of_sea_salt_dry_aerosol_particles_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, dynamical_downscaling_aerosols_chemistry",
+    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, dynamical_downscaling_aerosols_chemistry, CFMIP-aero",
     "compound-name": "AERmon.mmrss",
     "description": "Mass fraction in the atmosphere of sea salt aerosol (dry mass).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cloud_area_fraction_in_atmosphere_layer"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.clhcalipso",
     "description": "Percentage cloud cover in layer centred on 220hPa\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

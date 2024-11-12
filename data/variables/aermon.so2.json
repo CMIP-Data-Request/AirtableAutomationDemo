@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_fraction_of_sulfur_dioxide_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, dynamical_downscaling_aerosols_chemistry",
+    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, dynamical_downscaling_aerosols_chemistry, CFMIP-aero",
     "compound-name": "AERmon.so2",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

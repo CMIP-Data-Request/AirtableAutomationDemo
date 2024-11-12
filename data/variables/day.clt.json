@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cloud_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, clouds_basic_average, paleo_land_atmosphere_surface, DCPP_Wider, transport_impacts_essential, CFMIP_baseline, cordex [test], global_emulators",
+    "cmip7-variable-groups": "baseline_daily, clouds_basic_average, paleo_land_atmosphere_surface, DCPP_Wider, transport_impacts_essential, CFMIP_baseline, cordex [test], global_emulators, CFMIP-daily",
     "compound-name": "day.clt",
     "description": "for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Includes both large-scale and convective cloud.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

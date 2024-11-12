@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/relative_humidity"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "baseline_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, statistical_downscaling_extended",
+    "cmip7-variable-groups": "baseline_daily, DCPP_Wider, CHELSA_land_daily, CFMIP_baseline, statistical_downscaling_extended, CFMIP-daily",
     "compound-name": "day.hur",
     "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

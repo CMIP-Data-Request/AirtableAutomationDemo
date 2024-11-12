@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_upwelling_shortwave_flux_in_air_assuming_clear_sky"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.rsuscs",
     "description": "Surface Upwelling Clear-sky Shortwave Radiation\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_optical_thickness_due_to_pm1_ambient_aerosol_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "aerchemmip_2d_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "aerchemmip_2d_monthly, CFMIP_baseline, CFMIP-aero",
     "compound-name": "AERmon.od550lt1aer",
     "description": "od550 due to particles with wet diameter less than 1 um  (\"ambient\" means \"wetted\"). When models do not include explicit size information, it can be assumed that all anthropogenic aerosols and natural secondary aerosols have diameter less than 1 um.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

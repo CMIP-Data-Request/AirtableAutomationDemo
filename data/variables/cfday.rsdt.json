@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/toa_incoming_shortwave_flux"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, DCPP_Wider, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, DCPP_Wider, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.rsdt",
     "description": "Shortwave radiation incident at the top of the atmosphere\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

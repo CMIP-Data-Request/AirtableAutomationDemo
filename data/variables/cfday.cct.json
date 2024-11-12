@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/air_pressure_at_convective_cloud_top"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.cct",
     "description": "Where convective cloud is present in the grid cell, the instantaneous cloud top altitude should be that of the top of the highest level containing convective cloud. Missing data should be reported in the absence of convective cloud. The time mean should be calculated from these quantities averaging over occasions when convective cloud is present only, and should contain missing data for occasions when no convective cloud is present during the meaning period.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

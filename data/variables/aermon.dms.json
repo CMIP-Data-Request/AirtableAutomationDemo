@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/mole_fraction_of_dimethyl_sulfide_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline",
+    "cmip7-variable-groups": "SO_BGC-cloud_atmos_composition_monthly, aerchemmip_3d_monthly, CFMIP_baseline, CFMIP-aero",
     "compound-name": "AERmon.dms",
     "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

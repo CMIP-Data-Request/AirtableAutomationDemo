@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/square_of_sea_surface_temperature"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "Ocean Temperature Extremes, CFMIP_baseline, omip_scalar_fields, omip_scalars_low_priority",
+    "cmip7-variable-groups": "Ocean Temperature Extremes, CFMIP_baseline, omip_scalar_fields, omip_scalars_low_priority, CFMIP-daily",
     "compound-name": "Oday.tossq",
     "description": "Square of temperature of liquid ocean, averaged over the day.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

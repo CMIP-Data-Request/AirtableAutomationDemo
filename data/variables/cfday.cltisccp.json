@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/cloud_area_fraction"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, cosp_output, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, cosp_output, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.cltisccp",
     "description": "Total cloud area fraction (reported as a percentage) for the whole atmospheric column, as seen by the International Satellite Cloud Climatology Project (ISCCP) analysis. Includes both large-scale and convective cloud.  (MODIS). Includes both large-scale and convective cloud.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

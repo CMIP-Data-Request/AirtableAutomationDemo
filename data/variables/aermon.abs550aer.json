@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_absorption_optical_thickness_due_to_ambient_aerosol_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_2d_monthly, FireMIP_monthly, impact_energy_damaging_other, CFMIP_baseline",
+    "cmip7-variable-groups": "DAMIP_monthly, aerchemmip_2d_monthly, FireMIP_monthly, impact_energy_damaging_other, CFMIP_baseline, CFMIP-aero",
     "compound-name": "AERmon.abs550aer",
     "description": "Optical thickness of atmospheric aerosols at wavelength 550 nanometers.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

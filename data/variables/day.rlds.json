@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/surface_downwelling_longwave_flux_in_air"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "REJECTED_seaice_budget_energy_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Wider, AgModelExpandedDaily, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, seaice_budget_energy_daily, ISIMIPMinimalAtmos, CFMIP_baseline, paleo_permafrost, tipmip_baseline, landice_glaciers_allfreq",
+    "cmip7-variable-groups": "REJECTED_seaice_budget_energy_daily, temperature_variability_daily_highpriority, DAMIP_daily, aerchemmip_2d_daily, DCPP_Wider, AgModelExpandedDaily, HeatHealthExpandedDaily, CHELSA_land_daily, biodiv_land_daily, seaice_budget_energy_daily, ISIMIPMinimalAtmos, CFMIP_baseline, paleo_permafrost, tipmip_baseline, landice_glaciers_allfreq, CFMIP-daily",
     "compound-name": "day.rlds",
     "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"longwave\" means longwave radiation. Downwelling radiation is radiation from above. It does not mean \"net downward\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

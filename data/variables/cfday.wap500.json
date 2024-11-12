@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/lagrangian_tendency_of_air_pressure"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, CFMIP_baseline",
+    "cmip7-variable-groups": "cfmip_daily, synoptic_systems_high_priority, CFMIP_baseline, CFMIP-daily",
     "compound-name": "CFday.wap500",
     "description": "at 500 hPa level; commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

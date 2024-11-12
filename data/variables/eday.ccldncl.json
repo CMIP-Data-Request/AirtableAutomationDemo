@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/number_concentration_of_convective_cloud_liquid_water_particles_at_convective_liquid_water_cloud_top"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline",
+    "cmip7-variable-groups": "CFMIP_baseline, CFMIP-aero",
     "compound-name": "Eday.ccldncl",
     "description": "Droplets are liquid only.  Report concentration 'as seen from space' over convective liquid cloudy portion of grid cell.  This is the value from uppermost model layer with liquid cloud or, if available, it is better to sum over all liquid cloud tops, no matter where they occur, as long as they are seen from the top of the atmosphere. Weight by total liquid cloud top fraction of  (as seen from TOA) each time sample when computing monthly mean.\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

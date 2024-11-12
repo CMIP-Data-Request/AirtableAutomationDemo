@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_mass_content_of_particulate_organic_matter_dry_aerosol_particles"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline, FireMIP_daily",
+    "cmip7-variable-groups": "CFMIP_baseline, FireMIP_daily, CFMIP-aero",
     "compound-name": "Eday.loadoa",
     "description": "atmosphere dry organic content: This is the vertically integrated sum of atmosphere\\_primary\\_organic\\_content and atmosphere\\_secondary\\_organic\\_content (see next two table entries).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [

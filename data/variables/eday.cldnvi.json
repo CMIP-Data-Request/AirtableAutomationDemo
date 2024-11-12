@@ -7,7 +7,7 @@
         "@id": "cf:standard-name/atmosphere_number_content_of_cloud_droplets"
     },
     "cf-standard-name-exists": true,
-    "cmip7-variable-groups": "CFMIP_baseline, FireMIP_daily",
+    "cmip7-variable-groups": "CFMIP_baseline, FireMIP_daily, CFMIP-aero",
     "compound-name": "Eday.cldnvi",
     "description": "Droplets are liquid only.  Values are weighted by liquid cloud fraction in each layer when vertically integrating, and for monthly means the samples are weighted by total liquid cloud fraction (as seen from TOA).\n",
     "opportunity-status-(from-cmip7-variable-groups)": [
